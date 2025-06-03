@@ -150,39 +150,17 @@
         "overlay_opacity": 0
       }
     },
-    "before_after_image_rKehPb": {
-      "type": "before-after-image",
-      "name": "Before/after image",
-      "settings": {
-        "full_width": true,
-        "subheading": "",
-        "title": "Résultats Avant / Après",
-        "content": "",
-        "expand_image": false,
-        "text_position": "center",
-        "before_after_text_position": "top",
-        "before_text": "Avant",
-        "after_text": "Après",
-        "drag_initial_position": 50,
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "before_text_color": "#ffffff",
-        "after_text_color": "#ffffff",
-        "drag_cursor_background": "#ffffff",
-        "drag_cursor_color": "#000000"
-      }
-    },
     "multi_column_t4KV3H": {
       "type": "multi-column",
       "blocks": {
         "item_dnTTiT": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/INNER_THIGHS_3.jpg",
             "column_size": "3",
-            "title": "Column title",
+            "title": "Intérieur des cuisses foncé",
             "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "content": "<p>« Regardez mes résultats après seulement 1 semaine d'utilisation ! L'intérieur de mes cuisses est tellement plus clair et mes poils incarnés ont presque disparu. »</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -191,10 +169,11 @@
         "item_BbaGkp": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/UNDERARMS_2.jpg",
             "column_size": "3",
-            "title": "Column title",
+            "title": "Aisselles foncées",
             "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "content": "<p>« Je n'arrivais pas à croire que j'avais pu obtenir des aisselles aussi claires en 2 semaines environ.</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -203,10 +182,11 @@
         "item_eYTq7E": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/KNEES_2_4ef091b4-c28f-4d27-bf61-1ec84f0022ad.jpg",
             "column_size": "3",
-            "title": "Column title",
+            "title": "Genoux et coudes foncés",
             "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "content": "<p>« J'ai eu un coup de cœur pour votre savon. voici mon avant et mon après et j'y travaille encore ... je reviendrai vers vous quand j'aurai atteint mes objectifs en matière de peau lol 😉\"</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -215,34 +195,11 @@
         "item_E4mUEg": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/HYPERPIGMENTATION_2.jpg",
             "column_size": "3",
-            "title": "Column title",
+            "title": "Hyperpigmentation et Acné",
             "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_4Bxedh": {
-          "type": "item",
-          "settings": {
-            "column_size": "3",
-            "title": "Column title",
-            "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_CA8Q3F": {
-          "type": "item",
-          "settings": {
-            "column_size": "3",
-            "title": "Column title",
-            "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "content": "<p>« Ma peau était horrible avant que je commence à utiliser ce savon, après deux semaines elle s'est éclaircie\"</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -253,9 +210,7 @@
         "item_dnTTiT",
         "item_BbaGkp",
         "item_eYTq7E",
-        "item_E4mUEg",
-        "item_4Bxedh",
-        "item_CA8Q3F"
+        "item_E4mUEg"
       ],
       "name": "Multi-column",
       "settings": {
@@ -265,6 +220,104 @@
         "text_alignment": "start",
         "subheading": "",
         "title": "Elles ont osé... et elles rayonnent !",
+        "content": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "multi_column_B6jNBP": {
+      "type": "multi-column",
+      "blocks": {
+        "item_cgtazf": {
+          "type": "item",
+          "settings": {
+            "column_size": "3",
+            "title": "Emma, 29 ans, Paris",
+            "heading_tag": "h4",
+            "content": "<p>\"J'utilise ce savon matin et soir depuis 2 semaines. Mes taches sur les joues s'estompent vraiment et mes boutons du menton ont disparu. Je peux enfin sortir sans fond de teint le weekend.\"</p><p></p><p>⭐⭐⭐⭐⭐</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_qgpVTz": {
+          "type": "item",
+          "settings": {
+            "column_size": "3",
+            "title": "Léa, 35 ans, Lyon",
+            "heading_tag": "h4",
+            "content": "<p>\"Après 2 grossesses, j'avais des taches horribles + de l'acné tardive. En 10 jours avec ce savon, ma peau est plus nette. Je l'emporte même en voyage, il rentre dans ma trousse de toilette.\"</p><p></p><p>⭐⭐⭐⭐⭐</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_3G7RUG": {
+          "type": "item",
+          "settings": {
+            "column_size": "3",
+            "title": "Chloé, 30 ans, Marseille",
+            "heading_tag": "h4",
+            "content": "<p>\"Mes boutons sur la mâchoire me gâchaient la vie. Depuis que j'utilise ce savon le soir après le sport, ma peau est apaisée. Même mes collègues me demandent ce que j'ai changé.\"</p><p></p><p>⭐⭐⭐⭐⭐</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_gcyLdN": {
+          "type": "item",
+          "settings": {
+            "column_size": "3",
+            "title": "Marine, 33 ans, Toulouse",
+            "heading_tag": "h4",
+            "content": "<p>\"Je l'utilise depuis 3 semaines. Mes taches post-acné s'estompent progressivement et ma peau est plus douce. Le savon dure longtemps, très économique par rapport aux crèmes chères.\"</p><p></p><p>⭐⭐⭐⭐⭐</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_7WRy67": {
+          "type": "item",
+          "settings": {
+            "column_size": "3",
+            "title": "Amélie, 28 ans, Nantes",
+            "heading_tag": "h4",
+            "content": "<p>\"Mon acné hormonale me complexait énormément. Ce savon a calmé l'inflammation en quelques jours. Je l'utilise maintenant dans ma routine quotidienne, résultats visibles garantis.\"</p><p></p><p>⭐⭐⭐⭐⭐</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_KRhjFB": {
+          "type": "item",
+          "settings": {
+            "column_size": "3",
+            "title": "Camille, 31 ans, Bordeaux",
+            "heading_tag": "h4",
+            "content": "<p>\"Facile d'utilisation et efficace. Je l'ai recommandé à ma sœur qui avait les mêmes problèmes. Elle a commandé le sien après avoir vu mes résultats en 2 semaines.\"</p><p></p><p>⭐⭐⭐⭐⭐</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        }
+      },
+      "block_order": [
+        "item_cgtazf",
+        "item_qgpVTz",
+        "item_3G7RUG",
+        "item_gcyLdN",
+        "item_7WRy67",
+        "item_KRhjFB"
+      ],
+      "name": "Multi-column",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "gap": "medium",
+        "text_alignment": "start",
+        "subheading": "",
+        "title": "Nos clientes en parlent le mieux",
         "content": "",
         "background": "",
         "background_gradient": "",
@@ -499,8 +552,8 @@
     "logo_list_HpL7Cp",
     "rich_text_bGkKLw",
     "image_with_text_overlay_FtfCx3",
-    "before_after_image_rKehPb",
     "multi_column_t4KV3H",
+    "multi_column_B6jNBP",
     "featured_product_n934yq",
     "tabs_cieLCk",
     "faq_6DDTgy",
