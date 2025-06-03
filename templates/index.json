@@ -226,102 +226,100 @@
         "text_color": ""
       }
     },
-    "multi_column_B6jNBP": {
-      "type": "multi-column",
+    "testimonials_D9FABF": {
+      "type": "testimonials",
       "blocks": {
-        "item_cgtazf": {
-          "type": "item",
+        "testimonial_HNKCRD": {
+          "type": "testimonial",
           "settings": {
-            "column_size": "3",
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 5,
+            "author": "",
             "title": "Emma, 29 ans, Paris",
-            "heading_tag": "h4",
-            "content": "<p>\"J'utilise ce savon matin et soir depuis 2 semaines. Mes taches sur les joues s'estompent vraiment et mes boutons du menton ont disparu. Je peux enfin sortir sans fond de teint le weekend.\"</p><p></p><p>⭐⭐⭐⭐⭐</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
+            "content": "<p>\"J'utilise ce savon matin et soir depuis 2 semaines. Mes taches sur les joues s'estompent vraiment et mes boutons du menton ont disparu. Je peux enfin sortir sans fond de teint le weekend.\"</p>"
           }
         },
-        "item_qgpVTz": {
-          "type": "item",
+        "testimonial_iiCcVF": {
+          "type": "testimonial",
           "settings": {
-            "column_size": "3",
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 5,
+            "author": "",
             "title": "Léa, 35 ans, Lyon",
-            "heading_tag": "h4",
-            "content": "<p>\"Après 2 grossesses, j'avais des taches horribles + de l'acné tardive. En 10 jours avec ce savon, ma peau est plus nette. Je l'emporte même en voyage, il rentre dans ma trousse de toilette.\"</p><p></p><p>⭐⭐⭐⭐⭐</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
+            "content": "<p>\"Après 2 grossesses, j'avais des taches horribles + de l'acné tardive. En 10 jours avec ce savon, ma peau est plus nette. Je l'emporte même en voyage, il rentre dans ma trousse de toilette.\"</p>"
           }
         },
-        "item_3G7RUG": {
-          "type": "item",
+        "testimonial_i3DDXH": {
+          "type": "testimonial",
           "settings": {
-            "column_size": "3",
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 5,
+            "author": "",
             "title": "Chloé, 30 ans, Marseille",
-            "heading_tag": "h4",
-            "content": "<p>\"Mes boutons sur la mâchoire me gâchaient la vie. Depuis que j'utilise ce savon le soir après le sport, ma peau est apaisée. Même mes collègues me demandent ce que j'ai changé.\"</p><p></p><p>⭐⭐⭐⭐⭐</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
+            "content": "<p>\"Mes boutons sur la mâchoire me gâchaient la vie. Depuis que j'utilise ce savon le soir après le sport, ma peau est apaisée. Même mes collègues me demandent ce que j'ai changé.\"</p>"
           }
         },
-        "item_gcyLdN": {
-          "type": "item",
+        "testimonial_TgjJKy": {
+          "type": "testimonial",
           "settings": {
-            "column_size": "3",
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 5,
+            "author": "",
             "title": "Marine, 33 ans, Toulouse",
-            "heading_tag": "h4",
-            "content": "<p>\"Je l'utilise depuis 3 semaines. Mes taches post-acné s'estompent progressivement et ma peau est plus douce. Le savon dure longtemps, très économique par rapport aux crèmes chères.\"</p><p></p><p>⭐⭐⭐⭐⭐</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
+            "content": "<p>\"Je l'utilise depuis 3 semaines. Mes taches post-acné s'estompent progressivement et ma peau est plus douce. Le savon dure longtemps, très économique par rapport aux crèmes chères.\"</p>"
           }
         },
-        "item_7WRy67": {
-          "type": "item",
+        "testimonial_zawmYH": {
+          "type": "testimonial",
           "settings": {
-            "column_size": "3",
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 5,
+            "author": "",
             "title": "Amélie, 28 ans, Nantes",
-            "heading_tag": "h4",
-            "content": "<p>\"Mon acné hormonale me complexait énormément. Ce savon a calmé l'inflammation en quelques jours. Je l'utilise maintenant dans ma routine quotidienne, résultats visibles garantis.\"</p><p></p><p>⭐⭐⭐⭐⭐</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
+            "content": "<p>\"Mon acné hormonale me complexait énormément. Ce savon a calmé l'inflammation en quelques jours. Je l'utilise maintenant dans ma routine quotidienne, résultats visibles garantis.\"</p>"
           }
         },
-        "item_KRhjFB": {
-          "type": "item",
+        "testimonial_nwV7j4": {
+          "type": "testimonial",
           "settings": {
-            "column_size": "3",
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 5,
+            "author": "",
             "title": "Camille, 31 ans, Bordeaux",
-            "heading_tag": "h4",
-            "content": "<p>\"Facile d'utilisation et efficace. Je l'ai recommandé à ma sœur qui avait les mêmes problèmes. Elle a commandé le sien après avoir vu mes résultats en 2 semaines.\"</p><p></p><p>⭐⭐⭐⭐⭐</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
+            "content": "<p>\"Facile d'utilisation et efficace. Je l'ai recommandé à ma sœur qui avait les mêmes problèmes. Elle a commandé le sien après avoir vu mes résultats en 2 semaines.\"</p>"
           }
         }
       },
       "block_order": [
-        "item_cgtazf",
-        "item_qgpVTz",
-        "item_3G7RUG",
-        "item_gcyLdN",
-        "item_7WRy67",
-        "item_KRhjFB"
+        "testimonial_HNKCRD",
+        "testimonial_iiCcVF",
+        "testimonial_i3DDXH",
+        "testimonial_TgjJKy",
+        "testimonial_zawmYH",
+        "testimonial_nwV7j4"
       ],
-      "name": "Multi-column",
+      "name": "Testimonials",
       "settings": {
         "full_width": true,
-        "stack_on_mobile": false,
-        "gap": "medium",
-        "text_alignment": "start",
+        "stack_testimonials": false,
         "subheading": "",
-        "title": "Nos clientes en parlent le mieux",
+        "title": "Nos clientes en parlent le mieux",
         "content": "",
+        "link_url": "",
+        "link_text": "",
         "background": "",
         "background_gradient": "",
-        "text_color": ""
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "testimonial_card_background": "",
+        "testimonial_card_text_color": ""
       }
     },
     "featured_product_n934yq": {
@@ -553,7 +551,7 @@
     "rich_text_bGkKLw",
     "image_with_text_overlay_FtfCx3",
     "multi_column_t4KV3H",
-    "multi_column_B6jNBP",
+    "testimonials_D9FABF",
     "featured_product_n934yq",
     "tabs_cieLCk",
     "faq_6DDTgy",
