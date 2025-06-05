@@ -178,6 +178,7 @@
         "item_88PP9d": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/bdb6c104-68ce-4567-ae77-9ee0acc14290.png",
             "icon": "none",
             "icon_width": 48,
             "title": "Concrètement, voici ce qui change",
