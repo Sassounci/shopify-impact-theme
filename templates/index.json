@@ -232,7 +232,7 @@
         "testimonial_HNKCRD": {
           "type": "testimonial",
           "settings": {
-            "round_avatar": true,
+            "round_avatar": false,
             "show_rating": true,
             "rating": 5,
             "author": "",
