@@ -483,32 +483,50 @@
         "tab_jqhVyb": {
           "type": "tab",
           "settings": {
-            "title": "Tab 1",
-            "content": "<p>Use this text to share information about your brand with your customers.</p>",
+            "title": "Caractéristiques",
+            "content": "<p><strong>Poids net :</strong> 100g par savon (45 jours d'utilisation)</p><p><strong>Format :</strong> Pain de savon solide premium</p><p><strong>Durée de vie :</strong> 24 mois après ouverture</p><p><strong>pH équilibré :</strong> 5.5 (respect du pH naturel de la peau)</p><p><strong>Temps d'action :</strong> 1 minute pour activation optimale</p>",
+            "page": ""
+          }
+        },
+        "tab_NDrjnP": {
+          "type": "tab",
+          "settings": {
+            "title": "Composition active",
+            "content": "<p><strong>Curcuma médical 15%</strong> - concentration thérapeutique optimale</p><p><strong>Acide kojique naturel 8%</strong> - dosage cliniquement efficace</p><p><strong>Glycérine végétale</strong> - hydratation sans dessèchement</p><p><strong>Huile d'argan bio</strong> - nourrissant et réparateur</p><p><strong>Sans sulfates, parabènes</strong> - formule douce et respectueuse</p>",
             "page": ""
           }
         },
         "tab_XUAtCC": {
           "type": "tab",
           "settings": {
-            "title": "Tab 2",
-            "content": "<p>Describe a product, share announcements, or welcome customers to your store.</p>",
+            "title": "Essayez-le 30 jours gratuitement",
+            "content": "<p>Essayez le savon Lumina Glow sans risque <strong>pendant 30 jours</strong>. Si vous n'êtes pas complètement satisfaite de votre savon vous avez la possibilité de le retourner et <strong>vous recevrez un remboursement intégral</strong>.</p>",
             "page": ""
           }
         },
         "tab_jitWPe": {
           "type": "tab",
           "settings": {
-            "title": "Tab 3",
-            "content": "<p>Share information about your shipping rates, return policy or contact information.</p>",
+            "title": "Livraison gratuite à domicile",
+            "content": "<p>La livraison gratuite à domicile est gratuite. Selon le volume de commandes à traiter, le délai de livraison est estimé entre 5 et 8 jours ouvrés.</p>",
+            "page": ""
+          }
+        },
+        "tab_kPWDk7": {
+          "type": "tab",
+          "settings": {
+            "title": "Service client 7J/7",
+            "content": "<p>Votre équipe est à votre disposition pour répondre à vos questions sept jours sur sept.</p><p>Vous pouvez nous contacter par email aux horaires suivants : du lundi au vendredi de 9h à 12h et de 14h à 18h, et le samedi et dimanche de 10h à 12h. N'hésitez pas à nous joindre.</p>",
             "page": ""
           }
         }
       },
       "block_order": [
         "tab_jqhVyb",
+        "tab_NDrjnP",
         "tab_XUAtCC",
-        "tab_jitWPe"
+        "tab_jitWPe",
+        "tab_kPWDk7"
       ],
       "name": "Tabs",
       "settings": {
