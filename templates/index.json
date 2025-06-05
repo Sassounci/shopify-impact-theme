@@ -341,7 +341,7 @@
           "type": "image",
           "settings": {
             "image": "shopify://shop_images/Promo_de_Printemps.png",
-            "alignment": "center",
+            "alignment": "start",
             "max_width": 500
           }
         },
