@@ -548,10 +548,11 @@
         "item_RJAR3X": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/12.png",
             "column_size": "3",
             "title": "Curcuma Médical",
             "heading_tag": "h4",
-            "content": "<p><br/>Curcuma 15% : Anti-inflammatoire puissant qui réduit visiblement les rougeurs, calme l'acné et unifie le teint pour un éclat naturel.<br/><br/></p>",
+            "content": "<p>Curcuma 15% : Anti-inflammatoire puissant qui réduit visiblement les rougeurs, calme l'acné et unifie le teint pour un éclat naturel.</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -560,6 +561,7 @@
         "item_aHxcMC": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/13.png",
             "column_size": "3",
             "title": "Glycérine Végétale",
             "heading_tag": "h4",
@@ -572,6 +574,7 @@
         "item_Rr4PQA": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/14.png",
             "column_size": "3",
             "title": "Acide Kojique",
             "heading_tag": "h4",
@@ -584,6 +587,7 @@
         "item_G64PaL": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/15.png",
             "column_size": "3",
             "title": "Vitamine C",
             "heading_tag": "h4",
