@@ -168,6 +168,7 @@
         "item_dCmkte": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/ChatGPT_Image_5_juin_2025_13_52_11.png",
             "icon": "none",
             "icon_width": 48,
             "title": "Et si tout changeait en 7 jours seulement ?",
