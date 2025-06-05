@@ -156,7 +156,7 @@
         "item_dnTTiT": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/INNER_THIGHS_3.jpg",
+            "image": "shopify://shop_images/1.png",
             "column_size": "3",
             "title": "Intérieur des cuisses foncé",
             "heading_tag": "h4",
@@ -169,7 +169,7 @@
         "item_BbaGkp": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/UNDERARMS_2.jpg",
+            "image": "shopify://shop_images/2.png",
             "column_size": "3",
             "title": "Aisselles foncées",
             "heading_tag": "h4",
@@ -182,7 +182,7 @@
         "item_eYTq7E": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/KNEES_2_4ef091b4-c28f-4d27-bf61-1ec84f0022ad.jpg",
+            "image": "shopify://shop_images/3.png",
             "column_size": "3",
             "title": "Genoux et coudes foncés",
             "heading_tag": "h4",
@@ -195,7 +195,7 @@
         "item_E4mUEg": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/HYPERPIGMENTATION_2.jpg",
+            "image": "shopify://shop_images/4.png",
             "column_size": "3",
             "title": "Hyperpigmentation et Acné",
             "heading_tag": "h4",
