@@ -159,16 +159,17 @@
         "item_yjkJQK": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/intro_prob.png",
             "icon": "none",
             "icon_width": 48,
-            "title": "",
+            "title": "Même combat chaque matin",
             "content": "<p>Chaque matin, c'est la même histoire. 20 minutes devant le miroir à camoufler vos taches avec du fond de teint. Vous évitez les photos. Vous refusez la piscine.</p><p><strong>Le pire ?</strong> Vous avez déjà dépensé 300€ en crèmes \"miracles\" qui ne marchent pas.</p><p><strong>94% des femmes de 25-40 ans vivent exactement ça.</strong> Taches d'acné, hyperpigmentation, boutons adultes qui gâchent la confiance.</p><p>Résultat : vous vous cachez constamment derrière le maquillage.</p>"
           }
         },
         "item_dCmkte": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/ChatGPT_Image_5_juin_2025_13_52_11.png",
+            "image": "shopify://shop_images/solut..png",
             "icon": "none",
             "icon_width": 48,
             "title": "Et si tout changeait en 7 jours seulement ?",
@@ -178,7 +179,7 @@
         "item_88PP9d": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/bdb6c104-68ce-4567-ae77-9ee0acc14290.png",
+            "image": "shopify://shop_images/benef.png",
             "icon": "none",
             "icon_width": 48,
             "title": "Concrètement, voici ce qui change",
@@ -188,6 +189,7 @@
         "item_GryFYH": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/derma.png",
             "icon": "none",
             "icon_width": 48,
             "title": "Pourquoi les dermatologues le recommandent",
