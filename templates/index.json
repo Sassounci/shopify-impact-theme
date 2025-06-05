@@ -15,13 +15,14 @@
         "slide-2": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/3_3df25675-1e2b-4a2f-9b48-f7b4e371b2f2.png",
             "mobile_image": "shopify://shop_images/3_3df25675-1e2b-4a2f-9b48-f7b4e371b2f2.png",
             "content_max_width": 780,
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
-            "subheading": "🏆 #1 SAVON ANTI-TACHES EN FRANCE",
-            "title": "Teint Unifié En 7 Jours Seulement",
-            "heading_tag": "h0",
+            "subheading": "",
+            "title": "Adieu l'acné et les tâches tenaces",
+            "heading_tag": "h1",
             "button_text": "",
             "button_link": "",
             "text_color": "#ffffff",
