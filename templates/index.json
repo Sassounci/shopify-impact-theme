@@ -618,6 +618,41 @@
         "text_color": ""
       }
     },
+    "media_with_text_7YftaR": {
+      "type": "media-with-text",
+      "blocks": {
+        "image_YNWNPj": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/30.png",
+            "media_width": 50,
+            "media_position": "start",
+            "text_position": "place-self-center text-center",
+            "icon": "none",
+            "icon_width": 48,
+            "subheading": "",
+            "title": "Essayez Le Lumina Glow™  en toute confiance avec notre garantie sérénité.",
+            "content": "<p>Les spécialistes en dermo-cosmétique et nos clientes régulières le confirment :<br/><br/><strong>SORA Lumina Glow™ offre un effet visible inratable.</strong><br/><br/>Mais si vous ne constatez <strong>aucune amélioration</strong> ou si le produit <strong>ne vous convient pas</strong>,<br/><br/>vous bénéficiez d’une <strong>garantie satisfait ou remboursé pendant 30 jours</strong>.</p>",
+            "link_text": "",
+            "link_url": "",
+            "background": "#000000",
+            "background_gradient": "",
+            "text_color": "#ffffff",
+            "text_gradient": "",
+            "button_background": "",
+            "button_text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_YNWNPj"
+      ],
+      "name": "Media with text",
+      "settings": {
+        "full_width": false,
+        "spacing": "small"
+      }
+    },
     "faq_6DDTgy": {
       "type": "faq",
       "blocks": {
@@ -792,6 +827,7 @@
     "featured_product_n934yq",
     "tabs_cieLCk",
     "multi_column_PktJHn",
+    "media_with_text_7YftaR",
     "faq_6DDTgy",
     "contact_YaQhAK"
   ]
