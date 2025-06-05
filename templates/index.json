@@ -542,6 +542,65 @@
         "heading_gradient": ""
       }
     },
+    "multi_column_PktJHn": {
+      "type": "multi-column",
+      "blocks": {
+        "item_RJAR3X": {
+          "type": "item",
+          "settings": {
+            "column_size": "3",
+            "title": "Curcuma Médical",
+            "heading_tag": "h4",
+            "content": "<p><br/>Curcuma 15% : Anti-inflammatoire puissant qui réduit visiblement les rougeurs, calme l'acné et unifie le teint pour un éclat naturel.<br/><br/></p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_aHxcMC": {
+          "type": "item",
+          "settings": {
+            "column_size": "3",
+            "title": "Glycérine Végétale",
+            "heading_tag": "h4",
+            "content": "<p>Glycérine Végétale : Hydratant naturel qui maintient l'équilibre de la peau, évite le dessèchement et préserve la barrière cutanée.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_Rr4PQA": {
+          "type": "item",
+          "settings": {
+            "column_size": "3",
+            "title": "Column title",
+            "heading_tag": "h4",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        }
+      },
+      "block_order": [
+        "item_RJAR3X",
+        "item_aHxcMC",
+        "item_Rr4PQA"
+      ],
+      "name": "Multi-column",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "gap": "medium",
+        "text_alignment": "start",
+        "subheading": "",
+        "title": "Éliminez Les Taches & Purifiez Votre Peau En Profondeur",
+        "content": "<p>La puissance de Lumina Glow réside dans sa combinaison unique d'ingrédients ciblés et hautement performants :</p>",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "faq_6DDTgy": {
       "type": "faq",
       "blocks": {
@@ -715,6 +774,7 @@
     "testimonials_D9FABF",
     "featured_product_n934yq",
     "tabs_cieLCk",
+    "multi_column_PktJHn",
     "faq_6DDTgy",
     "contact_YaQhAK"
   ]
