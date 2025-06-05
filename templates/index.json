@@ -573,9 +573,21 @@
           "type": "item",
           "settings": {
             "column_size": "3",
-            "title": "Column title",
+            "title": "Acide Kojique",
             "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "content": "<p>Acide Kojique 8% : Inhibiteur naturel de mélanine qui estompe efficacement les taches brunes et l'hyperpigmentation pour un teint uniforme.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_G64PaL": {
+          "type": "item",
+          "settings": {
+            "column_size": "3",
+            "title": "Vitamine C",
+            "heading_tag": "h4",
+            "content": "<p>Vitamine C : Antioxydant puissant qui booste l'éclat, stimule le collagène et accélère l'élimination des taches pigmentaires</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -585,7 +597,8 @@
       "block_order": [
         "item_RJAR3X",
         "item_aHxcMC",
-        "item_Rr4PQA"
+        "item_Rr4PQA",
+        "item_G64PaL"
       ],
       "name": "Multi-column",
       "settings": {
