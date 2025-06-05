@@ -325,10 +325,6 @@
     "featured_product_n934yq": {
       "type": "featured-product",
       "blocks": {
-        "vendor_PRV34V": {
-          "type": "vendor",
-          "settings": {}
-        },
         "title_rwQPk4": {
           "type": "title",
           "settings": {
@@ -392,7 +388,6 @@
         }
       },
       "block_order": [
-        "vendor_PRV34V",
         "title_rwQPk4",
         "badges_84JjTj",
         "price_MQNRGg",
