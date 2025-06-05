@@ -530,29 +530,117 @@
         "item_nRmkVU": {
           "type": "item",
           "settings": {
-            "title": "Do you ship overseas?",
-            "content": "<p>Yes, we ship all over the world. Shipping costs will apply, and will be added at checkout. We run discounts and promotions all year, so stay tuned for exclusive deals.</p>"
+            "title": "Combien de temps pour voir les premiers résultats ?",
+            "content": "<p>Peau plus douce dès 3 jours. Réduction des boutons en 1 semaine. Atténuation visible des taches après 10-14 jours d'utilisation quotidienne.</p>"
           }
         },
         "item_bk7UbM": {
           "type": "item",
           "settings": {
-            "title": "How long will it take to get my orders?",
-            "content": "<p>It depends on where you are. Orders processed here will take 5-7 business days to arrive. Overseas deliveries can take anywhere from 7-16 days. Delivery details will be provided in your confirmation email.</p>"
+            "title": "Ça marche vraiment en 7 jours comme annoncé ?",
+            "content": "<p>94% de nos clientes voient une amélioration dès la première semaine. Les résultats varient selon le type de peau, mais la majorité observe des changements rapides.</p>"
           }
         },
         "item_taMrx3": {
           "type": "item",
           "settings": {
-            "title": "Any question?",
-            "content": "<p>You can contact us through our contact page! We will be happy to assist you.</p>"
+            "title": "Combien de temps dois-je l'utiliser pour des résultats durables ?",
+            "content": "<p>28 jours pour une transformation complète. Ensuite, 3-4 fois par semaine pour maintenir les résultats.</p>"
+          }
+        },
+        "item_gUKjBY": {
+          "type": "item",
+          "settings": {
+            "title": "C'est cher comparé aux autres savons...",
+            "content": "<p>Vous avez probablement déjà dépensé plus en crèmes inefficaces. Nos clientes ont économisé en moyenne 200€ en arrêtant d'acheter des produits qui ne marchent pas.</p>"
+          }
+        },
+        "item_WWcpqn": {
+          "type": "item",
+          "settings": {
+            "title": "Que se passe-t-il si ça ne marche pas pour moi ?",
+            "content": "<p>Garantie 60 jours satisfait ou remboursé. Renvoyez le produit (même entamé) et nous vous remboursons intégralement. </p>"
+          }
+        },
+        "item_qqBjPh": {
+          "type": "item",
+          "settings": {
+            "title": "Est-ce testé dermatologiquement ?",
+            "content": "<p>Oui absolument, de plus la formule est faite à base d'ingrédients reconnus par la dermatologie. Le curcuma et l'acide kojique sont scientifiquement documentés pour leurs propriétés anti-taches. Testé pour la sécurité cutanée.</p>"
+          }
+        },
+        "item_dbtTXp": {
+          "type": "item",
+          "settings": {
+            "title": "Ça marche sur toutes les couleurs de peau ?",
+            "content": "<p>Absolument. Formulé et testé sur tous types de peau, du clair au foncé.</p>"
+          }
+        },
+        "item_HtMtej": {
+          "type": "item",
+          "settings": {
+            "title": "Puis-je continuer à me maquiller ?",
+            "content": "<p>Bien sûr ! Beaucoup de nos clientes remarquent qu'elles ont besoin de moins de fond de teint au fil des semaines.</p>"
+          }
+        },
+        "item_KdPJkR": {
+          "type": "item",
+          "settings": {
+            "title": "Mon entourage va-t-il remarquer le changement ?",
+            "content": "<p>Nos clientes reçoivent souvent des compliments type \"tu as bonne mine !\" après 2 semaines d'utilisation.</p>"
+          }
+        },
+        "item_eWaWnW": {
+          "type": "item",
+          "settings": {
+            "title": "Puis-je l'utiliser pendant ma grossesse ?",
+            "content": "<p>Consultez votre médecin. Ingrédients naturels mais prudence recommandée pendant la grossesse.</p>"
+          }
+        },
+        "item_fUQCh3": {
+          "type": "item",
+          "settings": {
+            "title": "Quel est le délai de livraison ?",
+            "content": "<p>Livraison gratuite entre 5 et 8 jours en France métropolitaine. Email de suivi automatique dès expédition.</p>"
+          }
+        },
+        "item_YN4cWW": {
+          "type": "item",
+          "settings": {
+            "title": "Comment je sais que c'est authentique ?",
+            "content": "<p>Seul notre site garantit l'authenticité. Toute vente sur Amazon/autres plateformes = contrefaçons dangereuses.</p>"
+          }
+        },
+        "item_hkEXw3": {
+          "type": "item",
+          "settings": {
+            "title": "Pourquoi ces ingrédients précisément ?",
+            "content": "<p>Curcuma = anti-inflammatoire + anti-taches. Acide kojique = inhibiteur de mélanine. Combinaison scientifiquement prouvée.</p>"
+          }
+        },
+        "item_N48qNr": {
+          "type": "item",
+          "settings": {
+            "title": "Y a-t-il des conservateurs ?",
+            "content": "<p>Conservateurs naturels uniquement (vitamine E). Sans parabènes, sulfates, ou produits chimiques agressifs.</p>"
           }
         }
       },
       "block_order": [
         "item_nRmkVU",
         "item_bk7UbM",
-        "item_taMrx3"
+        "item_taMrx3",
+        "item_gUKjBY",
+        "item_WWcpqn",
+        "item_qqBjPh",
+        "item_dbtTXp",
+        "item_HtMtej",
+        "item_KdPJkR",
+        "item_eWaWnW",
+        "item_fUQCh3",
+        "item_YN4cWW",
+        "item_hkEXw3",
+        "item_N48qNr"
       ],
       "name": "FAQ",
       "settings": {
@@ -565,7 +653,7 @@
         "answer_time": "",
         "button_text": "",
         "button_url": "",
-        "text_position": "center",
+        "text_position": "start",
         "background": "",
         "background_gradient": "",
         "text_color": "",
@@ -585,7 +673,7 @@
         "subheading": "Notre service clientèle est disponible 7 jours sur 7. Temps de réponse moyen : 24h",
         "title": "Une question ?",
         "content": "<p>Écrivez-nous via le formulaire ci-dessous et nous vous répondrons dans les plus brefs délais.<br/><br/></p>",
-        "text_position": "center",
+        "text_position": "start",
         "contact_form_size": "large",
         "background": "",
         "background_gradient": "",
