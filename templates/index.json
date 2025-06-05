@@ -337,6 +337,14 @@
             "heading_tag": "h3"
           }
         },
+        "image_HbA4dM": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Promo_de_Printemps.png",
+            "alignment": "center",
+            "max_width": 500
+          }
+        },
         "liquid_FXTyqK": {
           "type": "liquid",
           "settings": {
@@ -377,6 +385,7 @@
       "block_order": [
         "liquid_M8G7rx",
         "title_rwQPk4",
+        "image_HbA4dM",
         "liquid_FXTyqK",
         "price_MQNRGg",
         "buy_buttons_RAhpTR",
