@@ -618,6 +618,140 @@
         "text_color": ""
       }
     },
+    "image_link_blocks_Cb4g3X": {
+      "type": "image-link-blocks",
+      "blocks": {
+        "item_aDCz3m": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/PHOTO_14.webp",
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "item_4EpAKF": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/PHOTO_15.webp",
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "item_Tk6DXd": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/PHOTO_17.webp",
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "item_7YWXt7": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/PHOTO_3.webp",
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "item_GJPPMQ": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/PHOTO_16.webp",
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "item_7QYjeV": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/PHOTO_8.webp",
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "item_87cwPx": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/PHOTO_11.webp",
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "item_f7x8cN": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/PHOTO_10.webp",
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "item_aDCz3m",
+        "item_4EpAKF",
+        "item_Tk6DXd",
+        "item_7YWXt7",
+        "item_GJPPMQ",
+        "item_7QYjeV",
+        "item_87cwPx",
+        "item_f7x8cN"
+      ],
+      "name": "Image link blocks",
+      "settings": {
+        "full_width": false,
+        "block_size": "medium",
+        "subheading": "",
+        "title": "Plus de 10 000 personnes ont fait confiance à SORA !",
+        "content": "",
+        "link_url": "",
+        "link_text": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": ""
+      }
+    },
     "media_with_text_7YftaR": {
       "type": "media-with-text",
       "blocks": {
@@ -827,6 +961,7 @@
     "featured_product_n934yq",
     "tabs_cieLCk",
     "multi_column_PktJHn",
+    "image_link_blocks_Cb4g3X",
     "media_with_text_7YftaR",
     "faq_6DDTgy",
     "contact_YaQhAK"
