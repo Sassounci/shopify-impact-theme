@@ -157,6 +157,7 @@
       "blocks": {
         "item_yjkJQK": {
           "type": "item",
+          "disabled": true,
           "settings": {
             "image": "shopify://shop_images/intro_prob.png",
             "icon": "none",
@@ -167,6 +168,7 @@
         },
         "item_dCmkte": {
           "type": "item",
+          "disabled": true,
           "settings": {
             "image": "shopify://shop_images/solut..png",
             "icon": "none",
@@ -177,6 +179,7 @@
         },
         "item_88PP9d": {
           "type": "item",
+          "disabled": true,
           "settings": {
             "image": "shopify://shop_images/benef.png",
             "icon": "none",
@@ -954,11 +957,11 @@
     "logo_list_HpL7Cp",
     "rich_text_bGkKLw",
     "image_with_text_overlay_FtfCx3",
-    "images_with_text_scrolling_8xxzWq",
     "multi_column_t4KV3H",
     "testimonials_D9FABF",
     "featured_product_n934yq",
     "tabs_cieLCk",
+    "images_with_text_scrolling_8xxzWq",
     "multi_column_PktJHn",
     "image_link_blocks_Cb4g3X",
     "media_with_text_7YftaR",
