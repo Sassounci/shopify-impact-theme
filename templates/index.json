@@ -115,8 +115,8 @@
         "heading_7TaE69": {
           "type": "heading",
           "settings": {
-            "text": "Ce que le Lumina-Glow change chez vous ?",
-            "heading_tag": "h2",
+            "text": "Pourquoi les dermatologues nous conseillent ?",
+            "heading_tag": "h4",
             "text_color": "",
             "gradient": ""
           }
@@ -144,79 +144,12 @@
         "enable_parallax": false,
         "image_size": "auto",
         "image": "shopify://shop_images/Copie_de_Template_section_benefice_2.png",
-        "mobile_image": "shopify://shop_images/Copie_de_Template_section_benefice_2.png",
+        "mobile_image": "shopify://shop_images/Benefices.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
         "overlay_color": "#000000",
         "overlay_opacity": 0
-      }
-    },
-    "images_with_text_scrolling_8xxzWq": {
-      "type": "images-with-text-scrolling",
-      "blocks": {
-        "item_yjkJQK": {
-          "type": "item",
-          "disabled": true,
-          "settings": {
-            "image": "shopify://shop_images/intro_prob.png",
-            "icon": "none",
-            "icon_width": 48,
-            "title": "Même combat chaque matin",
-            "content": "<p>Chaque matin, c'est la même histoire. 20 minutes devant le miroir à camoufler vos taches avec du fond de teint. Vous évitez les photos. Vous refusez la piscine.</p><p><strong>Le pire ?</strong> Vous avez déjà dépensé 300€ en crèmes \"miracles\" qui ne marchent pas.</p><p><strong>94% des femmes de 25-40 ans vivent exactement ça.</strong> Taches d'acné, hyperpigmentation, boutons adultes qui gâchent la confiance.</p><p>Résultat : vous vous cachez constamment derrière le maquillage.</p>"
-          }
-        },
-        "item_dCmkte": {
-          "type": "item",
-          "disabled": true,
-          "settings": {
-            "image": "shopify://shop_images/solut..png",
-            "icon": "none",
-            "icon_width": 48,
-            "title": "Et si tout changeait en 7 jours seulement ?",
-            "content": "<p>Lumina Glow agit différemment. Pas une crème de surface, mais un savon qui traite le problème à la racine.</p><p><strong>En 1 semaine :</strong> vos taches s'estompent visiblement.<br/><strong>En 2 semaines :</strong> votre teint s'unifie naturellement.</p><p><strong>Imaginez dans 14 jours :</strong></p><p>Vous sortez sans fond de teint et vous vous sentez belle</p><p>Vous osez les photos spontanées avec vos amies</p><p>On vous complimente sur votre \"bonne mine naturelle\"</p><p>Vous retrouvez cette confiance que vous aviez perdue</p><p><strong>2,847 françaises</strong> l'ont déjà adopté. Elles ont retrouvé cette liberté de se sentir belles, naturellement.</p>"
-          }
-        },
-        "item_88PP9d": {
-          "type": "item",
-          "disabled": true,
-          "settings": {
-            "image": "shopify://shop_images/benef.png",
-            "icon": "none",
-            "icon_width": 48,
-            "title": "Concrètement, voici ce qui change",
-            "content": "<p><strong>🌅 Matin :</strong> 5 minutes pour être prête (vs 20 minutes de camouflage)</p><p><strong>👥 Travail :</strong> \"Vous avez bonne mine !\" devient votre compliment quotidien</p><p><strong>📱 Photos :</strong> Vous postez enfin sans filtre, les likes pleuvent</p><p><strong>🏊‍♀️ Piscine :</strong> Vous enlevez votre t-shirt sans stress</p><p><strong>💕 Couple :</strong> Votre partenaire vous trouve encore plus belle au naturel</p><p><strong>🎉 Soirées :</strong> Vous arrivez en dernière minute, votre peau nue est votre atout</p><p><strong>Emma, 28 ans :</strong> <em>\"Mon acné du menton me complexait. Maintenant mes collègues me demandent mon secret beauté.\"</em></p><p><strong>Lucie, 35 ans :</strong> <em>\"Je peux enfin porter des décolletés. Mes taches de cou ont complètement disparu.\"</em></p>"
-          }
-        },
-        "item_GryFYH": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/derma.png",
-            "icon": "none",
-            "icon_width": 48,
-            "title": "Pourquoi les dermatologues le recommandent",
-            "content": "<p><strong>Curcuma médical (15%)</strong> : réduit l'hyperpigmentation de 73% en 14 jours (étude clinique)</p><p><strong>Acide kojique naturel (8%)</strong> : inhibe la production de mélanine responsable des taches</p><p><strong>Dr. Sophie Martin, dermatologue spécialiste acné :</strong> <em>\"Cette combinaison offre une efficacité comparable aux traitements dermatologiques, sans effets secondaires.\"</em></p><p>Solution douce mais redoutablement efficace, validée par les professionnels.</p>"
-          }
-        }
-      },
-      "block_order": [
-        "item_yjkJQK",
-        "item_dCmkte",
-        "item_88PP9d",
-        "item_GryFYH"
-      ],
-      "name": "Images and text scrolling",
-      "settings": {
-        "full_width": true,
-        "stack_on_mobile": true,
-        "show_counter": true,
-        "desktop_image_effect": "reveal",
-        "image_position": "end",
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "heading_color": "",
-        "heading_gradient": ""
       }
     },
     "multi_column_t4KV3H": {
@@ -537,6 +470,73 @@
         "subheading": "",
         "title": "",
         "first_tab_open": false,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": ""
+      }
+    },
+    "images_with_text_scrolling_8xxzWq": {
+      "type": "images-with-text-scrolling",
+      "blocks": {
+        "item_yjkJQK": {
+          "type": "item",
+          "disabled": true,
+          "settings": {
+            "image": "shopify://shop_images/intro_prob.png",
+            "icon": "none",
+            "icon_width": 48,
+            "title": "Même combat chaque matin",
+            "content": "<p>Chaque matin, c'est la même histoire. 20 minutes devant le miroir à camoufler vos taches avec du fond de teint. Vous évitez les photos. Vous refusez la piscine.</p><p><strong>Le pire ?</strong> Vous avez déjà dépensé 300€ en crèmes \"miracles\" qui ne marchent pas.</p><p><strong>94% des femmes de 25-40 ans vivent exactement ça.</strong> Taches d'acné, hyperpigmentation, boutons adultes qui gâchent la confiance.</p><p>Résultat : vous vous cachez constamment derrière le maquillage.</p>"
+          }
+        },
+        "item_dCmkte": {
+          "type": "item",
+          "disabled": true,
+          "settings": {
+            "image": "shopify://shop_images/solut..png",
+            "icon": "none",
+            "icon_width": 48,
+            "title": "Et si tout changeait en 7 jours seulement ?",
+            "content": "<p>Lumina Glow agit différemment. Pas une crème de surface, mais un savon qui traite le problème à la racine.</p><p><strong>En 1 semaine :</strong> vos taches s'estompent visiblement.<br/><strong>En 2 semaines :</strong> votre teint s'unifie naturellement.</p><p><strong>Imaginez dans 14 jours :</strong></p><p>Vous sortez sans fond de teint et vous vous sentez belle</p><p>Vous osez les photos spontanées avec vos amies</p><p>On vous complimente sur votre \"bonne mine naturelle\"</p><p>Vous retrouvez cette confiance que vous aviez perdue</p><p><strong>2,847 françaises</strong> l'ont déjà adopté. Elles ont retrouvé cette liberté de se sentir belles, naturellement.</p>"
+          }
+        },
+        "item_88PP9d": {
+          "type": "item",
+          "disabled": true,
+          "settings": {
+            "image": "shopify://shop_images/benef.png",
+            "icon": "none",
+            "icon_width": 48,
+            "title": "Concrètement, voici ce qui change",
+            "content": "<p><strong>🌅 Matin :</strong> 5 minutes pour être prête (vs 20 minutes de camouflage)</p><p><strong>👥 Travail :</strong> \"Vous avez bonne mine !\" devient votre compliment quotidien</p><p><strong>📱 Photos :</strong> Vous postez enfin sans filtre, les likes pleuvent</p><p><strong>🏊‍♀️ Piscine :</strong> Vous enlevez votre t-shirt sans stress</p><p><strong>💕 Couple :</strong> Votre partenaire vous trouve encore plus belle au naturel</p><p><strong>🎉 Soirées :</strong> Vous arrivez en dernière minute, votre peau nue est votre atout</p><p><strong>Emma, 28 ans :</strong> <em>\"Mon acné du menton me complexait. Maintenant mes collègues me demandent mon secret beauté.\"</em></p><p><strong>Lucie, 35 ans :</strong> <em>\"Je peux enfin porter des décolletés. Mes taches de cou ont complètement disparu.\"</em></p>"
+          }
+        },
+        "item_GryFYH": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/derma.png",
+            "icon": "none",
+            "icon_width": 48,
+            "title": "Pourquoi les dermatologues le recommandent",
+            "content": "<p><strong>Curcuma médical (15%)</strong> : réduit l'hyperpigmentation de 73% en 14 jours (étude clinique)</p><p><strong>Acide kojique naturel (8%)</strong> : inhibe la production de mélanine responsable des taches</p><p><strong>Dr. Sophie Martin, dermatologue spécialiste acné :</strong> <em>\"Cette combinaison offre une efficacité comparable aux traitements dermatologiques, sans effets secondaires.\"</em></p><p>Solution douce mais redoutablement efficace, validée par les professionnels.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "item_yjkJQK",
+        "item_dCmkte",
+        "item_88PP9d",
+        "item_GryFYH"
+      ],
+      "name": "Images and text scrolling",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": true,
+        "show_counter": true,
+        "desktop_image_effect": "reveal",
+        "image_position": "end",
         "background": "",
         "background_gradient": "",
         "text_color": "",
