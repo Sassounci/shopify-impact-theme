@@ -482,7 +482,6 @@
       "blocks": {
         "item_yjkJQK": {
           "type": "item",
-          "disabled": true,
           "settings": {
             "image": "shopify://shop_images/intro_prob.png",
             "icon": "none",
@@ -493,7 +492,6 @@
         },
         "item_dCmkte": {
           "type": "item",
-          "disabled": true,
           "settings": {
             "image": "shopify://shop_images/solut..png",
             "icon": "none",
@@ -504,7 +502,6 @@
         },
         "item_88PP9d": {
           "type": "item",
-          "disabled": true,
           "settings": {
             "image": "shopify://shop_images/benef.png",
             "icon": "none",
