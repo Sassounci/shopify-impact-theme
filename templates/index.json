@@ -158,11 +158,10 @@
         "item_dnTTiT": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/1.png",
             "column_size": "3",
-            "title": "Intérieur des cuisses foncé",
+            "title": "Fesses parfaitement lisses",
             "heading_tag": "h4",
-            "content": "<p>« Regardez mes résultats après seulement 1 semaine d'utilisation ! L'intérieur de mes cuisses est tellement plus clair et mes poils incarnés ont presque disparu. »</p>",
+            "content": "<p>\"Je n'osais plus porter de <strong>maillot de bain </strong>depuis 3 ans... Aujourd'hui je profite enfin de mes vacances ! Plus jamais je ne cacherai mes fesses🏖️\"</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -171,11 +170,10 @@
         "item_BbaGkp": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/2.png",
             "column_size": "3",
-            "title": "Aisselles foncées",
+            "title": "Dos libéré des boutons",
             "heading_tag": "h4",
-            "content": "<p>« Je n'arrivais pas à croire que j'avais pu obtenir des aisselles aussi claires en 2 semaines environ.</p>",
+            "content": "<p>\"Fini de me cacher au <strong>vestiaire du sport </strong>! Je porte enfin mes robes dos nu préférées. Mon copain n'en revient pas💃\"</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -184,11 +182,10 @@
         "item_eYTq7E": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/3.png",
             "column_size": "3",
-            "title": "Genoux et coudes foncés",
+            "title": "Décolleté sublimé",
             "heading_tag": "h4",
-            "content": "<p>« J'ai eu un coup de cœur pour votre savon. voici mon avant et mon après et j'y travaille encore ... je reviendrai vers vous quand j'aurai atteint mes objectifs en matière de peau lol 😉\"</p>",
+            "content": "<p>\"Plus de <strong>cols roulés en été </strong>pour cacher ! Je rayonne enfin dans mes plus belles tenues décolletées✨\"</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -197,11 +194,37 @@
         "item_E4mUEg": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/4.png",
+            "image": "shopify://shop_images/1.png",
             "column_size": "3",
-            "title": "Hyperpigmentation et Acné",
+            "title": "Cuisses enfin apaisées",
             "heading_tag": "h4",
-            "content": "<p>« Ma peau était horrible avant que je commence à utiliser ce savon, après deux semaines elle s'est éclaircie\"</p>",
+            "content": "<p>\"Je peux enfin porter des <strong>shorts et mini-jupes </strong>! Fini les pantalons longs même en plein été🌞\"</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_Bdpmrz": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/5.png",
+            "column_size": "3",
+            "title": "Visage retrouvé",
+            "heading_tag": "h4",
+            "content": "<p>\"Mon <strong>menton était un cauchemar </strong>depuis des années... Aujourd'hui je poste mes selfies sans filtre !📸\"</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_WBFhER": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/2.png",
+            "column_size": "3",
+            "title": "Aisselles libérées",
+            "heading_tag": "h4",
+            "content": "<p>\"Je levais jamais les bras en public... Maintenant je danse sans complexe et porte tous mes <strong>débardeurs préférés </strong>!🕺\"</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -212,7 +235,9 @@
         "item_dnTTiT",
         "item_BbaGkp",
         "item_eYTq7E",
-        "item_E4mUEg"
+        "item_E4mUEg",
+        "item_Bdpmrz",
+        "item_WBFhER"
       ],
       "name": "Multi-column",
       "settings": {
