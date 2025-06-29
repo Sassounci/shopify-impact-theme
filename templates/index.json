@@ -171,6 +171,7 @@
         "item_BbaGkp": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/Image_produit_3.png",
             "column_size": "3",
             "title": "Dos libéré des boutons",
             "heading_tag": "h4",
