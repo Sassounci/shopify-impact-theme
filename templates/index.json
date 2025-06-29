@@ -158,6 +158,7 @@
         "item_dnTTiT": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/Image_produit_2.png",
             "column_size": "3",
             "title": "Fesses parfaitement lisses",
             "heading_tag": "h4",
