@@ -24,7 +24,7 @@
         "message_E6kgcy": {
           "type": "message",
           "settings": {
-            "text": "Promotion Spéciale Printemps : -50%",
+            "text": "Promotion Spéciale Été : -50%",
             "url": ""
           }
         },
@@ -64,7 +64,6 @@
       "settings": {
         "enable_sticky": true,
         "hide_on_scroll": false,
-        "logo": "shopify://shop_images/LOGO_4.png",
         "logo_max_width": 120,
         "logo_mobile_max_width": 100,
         "menu": "main-menu",
