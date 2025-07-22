@@ -155,9 +155,9 @@
           "type": "item",
           "settings": {
             "column_size": "3",
-            "title": "Titre",
+            "title": "Marie-Claire D.",
             "heading_tag": "h4",
-            "content": "<p>Commentaire</p>",
+            "content": "<p><em>\"Après 3 ans de souffrance, j'ai enfin retrouvé le plaisir de marcher ! Je fais mes 12h d'hôpital sans une seule douleur. C'est magique !\"</em></p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -167,9 +167,9 @@
           "type": "item",
           "settings": {
             "column_size": "3",
-            "title": "Titre",
+            "title": "Philippe M.",
             "heading_tag": "h4",
-            "content": "<p>Commentaire</p>",
+            "content": "<p><em>\"Je travaille debout toute la journée. Depuis que j'ai ces semelles, je rentre chez moi avec encore de l'énergie pour mes enfants. Ma femme a remarqué que je ne râle plus !\"</em></p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -179,9 +179,9 @@
           "type": "item",
           "settings": {
             "column_size": "3",
-            "title": "Titre",
+            "title": "Sylvie R.",
             "heading_tag": "h4",
-            "content": "<p>Commentaire</p>",
+            "content": "<p><em>\"J'avais dépensé plus de 2000€ en semelles sur mesure qui ne marchaient pas. Celles-ci m'ont coûté moins cher et ont changé ma vie en 1 jour !\"</em></p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -191,9 +191,9 @@
           "type": "item",
           "settings": {
             "column_size": "3",
-            "title": "Titre",
+            "title": "Robert L.",
             "heading_tag": "h4",
-            "content": "<p>Commentaire</p>",
+            "content": "<p><em>\"Ma fasciite plantaire me gâchait la vie depuis 5 ans. Plus aucune douleur depuis que je porte ces semelles ! Je peux enfin jouer avec mes petits-enfants.\"</em></p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -203,9 +203,9 @@
           "type": "item",
           "settings": {
             "column_size": "3",
-            "title": "Titre",
+            "title": "Ahmed K.",
             "heading_tag": "h4",
-            "content": "<p>Commentaire</p>",
+            "content": "<p><em>\"En tant qu'agent de sécurité, je dois marcher 15km par jour. Ces semelles m'ont littéralement sauvé la carrière. Aucune fatigue même après 10h de service !\"</em></p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -215,9 +215,9 @@
           "type": "item",
           "settings": {
             "column_size": "3",
-            "title": "Titre",
+            "title": "Catherine B.",
             "heading_tag": "h4",
-            "content": "<p>Commentaire</p>",
+            "content": "<p><em>\"Je suis professeure et je reste debout 7h par jour. Avant, je pleurais de douleur en rentrant. Maintenant, je vais danser le soir avec mon mari !\"</em></p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -492,78 +492,6 @@
         "text_color": "",
         "heading_color": "",
         "heading_gradient": ""
-      }
-    },
-    "multi_column_PktJHn": {
-      "type": "multi-column",
-      "blocks": {
-        "item_RJAR3X": {
-          "type": "item",
-          "settings": {
-            "column_size": "3",
-            "title": "Curcuma Médical",
-            "heading_tag": "h4",
-            "content": "<p>Curcuma 15% : Anti-inflammatoire puissant qui réduit visiblement les rougeurs, calme l'acné et unifie le teint pour un éclat naturel.</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_aHxcMC": {
-          "type": "item",
-          "settings": {
-            "column_size": "3",
-            "title": "Glycérine Végétale",
-            "heading_tag": "h4",
-            "content": "<p>Glycérine Végétale : Hydratant naturel qui maintient l'équilibre de la peau, évite le dessèchement et préserve la barrière cutanée.</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_Rr4PQA": {
-          "type": "item",
-          "settings": {
-            "column_size": "3",
-            "title": "Acide Kojique",
-            "heading_tag": "h4",
-            "content": "<p>Acide Kojique 8% : Inhibiteur naturel de mélanine qui estompe efficacement les taches brunes et l'hyperpigmentation pour un teint uniforme.</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_G64PaL": {
-          "type": "item",
-          "settings": {
-            "column_size": "3",
-            "title": "Vitamine C",
-            "heading_tag": "h4",
-            "content": "<p>Vitamine C : Antioxydant puissant qui booste l'éclat, stimule le collagène et accélère l'élimination des taches pigmentaires</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        }
-      },
-      "block_order": [
-        "item_RJAR3X",
-        "item_aHxcMC",
-        "item_Rr4PQA",
-        "item_G64PaL"
-      ],
-      "name": "Multi-column",
-      "settings": {
-        "full_width": true,
-        "stack_on_mobile": false,
-        "gap": "medium",
-        "text_alignment": "start",
-        "subheading": "",
-        "title": "Éliminez Les Taches & Purifiez Votre Peau En Profondeur",
-        "content": "<p>La puissance de Lumina Glow™ réside dans sa combinaison unique d'ingrédients ciblés et hautement performants :</p>",
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
       }
     },
     "image_link_blocks_Cb4g3X": {
@@ -898,7 +826,6 @@
     "testimonials_D9FABF",
     "featured_product_n934yq",
     "tabs_cieLCk",
-    "multi_column_PktJHn",
     "image_link_blocks_Cb4g3X",
     "media_with_text_7YftaR",
     "faq_6DDTgy",
