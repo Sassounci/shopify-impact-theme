@@ -19,7 +19,7 @@
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
             "subheading": "",
-            "title": "Acnée et tâche tenace en 7 jours seulement",
+            "title": "Marchez sur un nuage et oubliez vos douleurs plantaires",
             "heading_tag": "h1",
             "button_text": "",
             "button_link": "",
@@ -54,6 +54,7 @@
         "logo_zWAg3Q": {
           "type": "logo",
           "settings": {
+            "logo": "shopify://shop_images/doctissimo.webp",
             "logo_width": 120,
             "link": ""
           }
@@ -61,6 +62,7 @@
         "logo_7tbyhK": {
           "type": "logo",
           "settings": {
+            "logo": "shopify://shop_images/Vogue.png",
             "logo_width": 120,
             "link": ""
           }
@@ -68,6 +70,7 @@
         "logo_cLr9zR": {
           "type": "logo",
           "settings": {
+            "logo": "shopify://shop_images/topsante.webp",
             "logo_width": 120,
             "link": ""
           }
@@ -75,6 +78,7 @@
         "logo_XHCd9y": {
           "type": "logo",
           "settings": {
+            "logo": "shopify://shop_images/leparisien.png",
             "logo_width": 120,
             "link": ""
           }
