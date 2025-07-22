@@ -155,69 +155,69 @@
           "type": "item",
           "settings": {
             "column_size": "3",
-            "title": "Fesses parfaitement lisses",
+            "title": "Titre",
             "heading_tag": "h4",
-            "content": "<p>\"Je n'osais plus porter de <strong>maillot de bain </strong>depuis 3 ans... Aujourd'hui je profite enfin de mes vacances ! Plus jamais je ne cacherai mes fesses🏖️\"</p>",
+            "content": "<p>Commentaire</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
           }
         },
-        "item_BbaGkp": {
+        "item_LBzWXc": {
           "type": "item",
           "settings": {
             "column_size": "3",
-            "title": "Dos libéré des boutons",
+            "title": "Titre",
             "heading_tag": "h4",
-            "content": "<p>\"Fini de me cacher au <strong>vestiaire du sport </strong>! Je porte enfin mes robes dos nu préférées. Mon copain n'en revient pas💃\"</p>",
+            "content": "<p>Commentaire</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
           }
         },
-        "item_eYTq7E": {
+        "item_wV33Ji": {
           "type": "item",
           "settings": {
             "column_size": "3",
-            "title": "Décolleté sublimé",
+            "title": "Titre",
             "heading_tag": "h4",
-            "content": "<p>\"Plus de <strong>cols roulés en été </strong>pour cacher ! Je rayonne enfin dans mes plus belles tenues décolletées✨\"</p>",
+            "content": "<p>Commentaire</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
           }
         },
-        "item_E4mUEg": {
+        "item_ABxgiJ": {
           "type": "item",
           "settings": {
             "column_size": "3",
-            "title": "Cuisses enfin apaisées",
+            "title": "Titre",
             "heading_tag": "h4",
-            "content": "<p>\"Je peux enfin porter des <strong>shorts et mini-jupes </strong>! Fini les pantalons longs même en plein été🌞\"</p>",
+            "content": "<p>Commentaire</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
           }
         },
-        "item_Bdpmrz": {
+        "item_QrActm": {
           "type": "item",
           "settings": {
             "column_size": "3",
-            "title": "Visage retrouvé",
+            "title": "Titre",
             "heading_tag": "h4",
-            "content": "<p>\"Mon <strong>menton était un cauchemar </strong>depuis des années... Aujourd'hui je poste mes selfies sans filtre !📸\"</p>",
+            "content": "<p>Commentaire</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
           }
         },
-        "item_WBFhER": {
+        "item_mpfV3L": {
           "type": "item",
           "settings": {
             "column_size": "3",
-            "title": "Aisselles libérées",
+            "title": "Titre",
             "heading_tag": "h4",
-            "content": "<p>\"Je levais jamais les bras en public... Maintenant je danse sans complexe et porte tous mes <strong>débardeurs préférés </strong>!🕺\"</p>",
+            "content": "<p>Commentaire</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -226,20 +226,20 @@
       },
       "block_order": [
         "item_dnTTiT",
-        "item_BbaGkp",
-        "item_eYTq7E",
-        "item_E4mUEg",
-        "item_Bdpmrz",
-        "item_WBFhER"
+        "item_LBzWXc",
+        "item_wV33Ji",
+        "item_ABxgiJ",
+        "item_QrActm",
+        "item_mpfV3L"
       ],
       "name": "Multi-column",
       "settings": {
         "full_width": true,
         "stack_on_mobile": false,
         "gap": "medium",
-        "text_alignment": "start",
+        "text_alignment": "center",
         "subheading": "",
-        "title": "Elles ont osé... et elles rayonnent !",
+        "title": "Ils ont osé... et ils profitent !",
         "content": "",
         "background": "",
         "background_gradient": "",
