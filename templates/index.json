@@ -96,7 +96,7 @@
         "stack_mobile": true,
         "title": "Vu sur",
         "content": "",
-        "text_alignment": "start",
+        "text_alignment": "center",
         "items_per_row": 5,
         "background": "",
         "background_gradient": "",
@@ -127,7 +127,7 @@
       "settings": {
         "full_width": true,
         "content_width": "small",
-        "text_position": "start",
+        "text_position": "center",
         "background": "",
         "background_gradient": "",
         "text_color": ""
@@ -156,6 +156,7 @@
         "item_dnTTiT": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/Screenshot_2025-04-25_at_1.49.35_AM.png",
             "column_size": "3",
             "title": "Marie-Claire D.",
             "heading_tag": "h4",
@@ -168,6 +169,7 @@
         "item_LBzWXc": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/mathieu.jpg",
             "column_size": "3",
             "title": "Philippe M.",
             "heading_tag": "h4",
@@ -180,6 +182,7 @@
         "item_wV33Ji": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/Screenshot_2025-04-25_at_1.48.26_AM.png",
             "column_size": "3",
             "title": "Sylvie R.",
             "heading_tag": "h4",
@@ -192,6 +195,7 @@
         "item_ABxgiJ": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/1742204008__1742203988670-19b9022e-731c-421c-9450-58__original.jpg",
             "column_size": "3",
             "title": "Robert L.",
             "heading_tag": "h4",
@@ -216,6 +220,7 @@
         "item_mpfV3L": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/sophie.jpg",
             "column_size": "3",
             "title": "Catherine B.",
             "heading_tag": "h4",
