@@ -205,7 +205,7 @@
           "type": "item",
           "settings": {
             "column_size": "3",
-            "title": "Ahmed K.",
+            "title": "Nathalie B.",
             "heading_tag": "h4",
             "content": "<p>\"J'avais honte de mes bras lors des audiences en robe. Cette crème a transformé ma confiance professionnelle. En 2 mois, la texture 'froissée' a complètement disparu. Je me sens enfin à la hauteur de mes ambitions.\"</p>",
             "link_url": "",
@@ -216,11 +216,10 @@
         "item_mpfV3L": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/sophie.jpg",
             "column_size": "3",
-            "title": "Catherine B.",
+            "title": "Véronique T.",
             "heading_tag": "h4",
-            "content": "<p><em>\"Je suis professeure et je reste debout 7h par jour. Avant, je pleurais de douleur en rentrant. Maintenant, je vais danser le soir avec mon mari !\"</em></p>",
+            "content": "<p>\"Après avoir perdu 15kg, ma peau pendait horriblement. J'évitais même les réunions parents-profs. CelluRevive m'a redonné une peau ferme et lisse. Mes élèves me disent que j'ai l'air plus jeune que leurs mères !\"</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
