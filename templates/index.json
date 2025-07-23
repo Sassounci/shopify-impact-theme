@@ -141,8 +141,6 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
-        "image": "shopify://shop_images/Benefices_3.png",
-        "mobile_image": "shopify://shop_images/Benefices_3.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
@@ -400,12 +398,43 @@
         "heading_gradient": ""
       }
     },
+    "images_with_text_scrolling_9LkrK4": {
+      "type": "images-with-text-scrolling",
+      "blocks": {
+        "item_Q94EfF": {
+          "type": "item",
+          "settings": {
+            "icon": "none",
+            "icon_width": 48,
+            "title": "Recommandé par le Dr Emily Carter  Dermatologue certifiée",
+            "content": "<p>\"Avec l'âge, la peau du contour des yeux s'amincit et perd en tonicité, favorisant l'apparition des rides et des poches. CelluRevive offre une action ciblée pour retendre, lisser et défatiguer cette zone fragile. Sa formule avancée contribue à restaurer la fermeté et la souplesse cutanée, pour un regard visiblement plus éclatant et reposé.\"</p>"
+          }
+        }
+      },
+      "block_order": [
+        "item_Q94EfF"
+      ],
+      "name": "Images and text scrolling",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "show_counter": true,
+        "desktop_image_effect": "reveal",
+        "image_position": "end",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": ""
+      }
+    },
     "image_link_blocks_Cb4g3X": {
       "type": "image-link-blocks",
       "blocks": {
         "item_aDCz3m": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/1748040728__0__cqzShJfl__Cellu_review_1__original.jpg",
             "stretch_image": true,
             "link_text": "",
             "link_url": "",
@@ -418,6 +447,7 @@
         "item_4EpAKF": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/1748040739__0__3_42yVFT__niewewewre__original.jpg",
             "stretch_image": true,
             "link_text": "",
             "link_url": "",
@@ -430,6 +460,7 @@
         "item_Tk6DXd": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/1748040736__0__UOlWqr7h__31MDm3QhXWL__original.jpg",
             "stretch_image": true,
             "link_text": "",
             "link_url": "",
@@ -442,6 +473,7 @@
         "item_7YWXt7": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/1748040730__0__rlBZfBch__Smooth_out_crepey_skin_4__original.jpg",
             "stretch_image": true,
             "link_text": "",
             "link_url": "",
@@ -454,6 +486,7 @@
         "item_GJPPMQ": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/1748040740__0__CG8rO30E__Cellu_review_6__original.jpg",
             "stretch_image": true,
             "link_text": "",
             "link_url": "",
@@ -466,6 +499,7 @@
         "item_7QYjeV": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/1748040728__0__V0IlUqoh__71XB4541LbL__original.jpg",
             "stretch_image": true,
             "link_text": "",
             "link_url": "",
@@ -478,6 +512,7 @@
         "item_87cwPx": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/1748040741__0__tyLTnEYe__djiejdiedieidje__original.jpg",
             "stretch_image": true,
             "link_text": "",
             "link_url": "",
@@ -490,6 +525,7 @@
         "item_f7x8cN": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/1748040732__0__NQTnPRJQ__ChatGPT_Image_7_apr_2025_15_37_09__original.jpg",
             "stretch_image": true,
             "link_text": "",
             "link_url": "",
@@ -515,7 +551,7 @@
         "full_width": false,
         "block_size": "medium",
         "subheading": "",
-        "title": "Plus de 10 000 femmes ont fait confiance à SORA !",
+        "title": "Plus de 10 000 femmes ont transformé leur peau vieillissante !",
         "content": "",
         "link_url": "",
         "link_text": "",
@@ -731,6 +767,7 @@
     "multi_column_t4KV3H",
     "featured_product_n934yq",
     "tabs_cieLCk",
+    "images_with_text_scrolling_9LkrK4",
     "image_link_blocks_Cb4g3X",
     "media_with_text_7YftaR",
     "faq_6DDTgy",
