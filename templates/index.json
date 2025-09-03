@@ -154,6 +154,7 @@
         "item_dnTTiT": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/1.webp",
             "column_size": "3",
             "title": "Sophie M.",
             "heading_tag": "h4",
@@ -166,6 +167,7 @@
         "item_LBzWXc": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/2.webp",
             "column_size": "3",
             "title": "Marie-Claire L.",
             "heading_tag": "h4",
@@ -178,6 +180,7 @@
         "item_wV33Ji": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/3.webp",
             "column_size": "3",
             "title": "Catherine D.",
             "heading_tag": "h4",
@@ -190,6 +193,7 @@
         "item_ABxgiJ": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/4.webp",
             "column_size": "3",
             "title": "Isabelle R.",
             "heading_tag": "h4",
@@ -202,6 +206,7 @@
         "item_QrActm": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/5.jpg",
             "column_size": "3",
             "title": "Nathalie B.",
             "heading_tag": "h4",
@@ -214,6 +219,7 @@
         "item_mpfV3L": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/6.jpg",
             "column_size": "3",
             "title": "Véronique T.",
             "heading_tag": "h4",
@@ -226,8 +232,9 @@
         "item_HtACVY": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/7.jpg",
             "column_size": "3",
-            "title": "Column title",
+            "title": "Jeanne K.",
             "heading_tag": "h4",
             "content": "<p>Je lutte depuis des années contre une peau terne et fatiguée, mais ce sérum m'a vraiment sauvé la vie. Non seulement il a illuminé mon teint, mais il a aussi rendu ma peau incroyablement douce et souple. Mes pattes d'oie sont moins prononcées et j'ai reçu tellement de compliments sur l'éclat et la santé de ma peau. Je n'utiliserai plus jamais autre chose !</p>",
             "link_url": "",
@@ -238,8 +245,9 @@
         "item_XkcCAc": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/8.jpg",
             "column_size": "3",
-            "title": "Column title",
+            "title": "Marine L.",
             "heading_tag": "h4",
             "content": "<p>J'hésitais à investir dans un énième produit anti-âge, mais je suis ravie d'avoir tenté ma chance avec ce sérum. Il a véritablement transformé ma peau ! Après une utilisation régulière, elle est plus ferme, plus lisse et plus liftée. Les ridules de mon cou, qui me faisaient particulièrement mal, ont presque disparu. C'est comme un petit lifting en flacon, et je suis ravie du résultat !</p>",
             "link_url": "",
