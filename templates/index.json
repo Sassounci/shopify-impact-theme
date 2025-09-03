@@ -602,20 +602,6 @@
             "title": "Comment je sais que c'est authentique ?",
             "content": "<p>Seul notre site garantit l'authenticité. Toute vente sur Amazon/autres plateformes = contrefaçons dangereuses.</p>"
           }
-        },
-        "item_hkEXw3": {
-          "type": "item",
-          "settings": {
-            "title": "Pourquoi ces ingrédients précisément ?",
-            "content": "<p>Curcuma = anti-inflammatoire + anti-taches. Acide kojique = inhibiteur de mélanine. Combinaison scientifiquement prouvée.</p>"
-          }
-        },
-        "item_N48qNr": {
-          "type": "item",
-          "settings": {
-            "title": "Y a-t-il des conservateurs ?",
-            "content": "<p>Conservateurs naturels uniquement (vitamine E). Sans parabènes, sulfates, ou produits chimiques agressifs.</p>"
-          }
         }
       },
       "block_order": [
@@ -630,9 +616,7 @@
         "item_KdPJkR",
         "item_eWaWnW",
         "item_fUQCh3",
-        "item_YN4cWW",
-        "item_hkEXw3",
-        "item_N48qNr"
+        "item_YN4cWW"
       ],
       "name": "FAQ",
       "settings": {
