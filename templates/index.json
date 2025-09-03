@@ -475,7 +475,7 @@
         "show_counter": true,
         "desktop_image_effect": "reveal",
         "image_position": "end",
-        "background": "",
+        "background": "#fff8f5",
         "background_gradient": "",
         "text_color": "",
         "heading_color": "",
