@@ -443,10 +443,30 @@
             "title": "Recommandé par le Dr Emily Carter  Dermatologue certifiée",
             "content": "<p>Ce sérum anti-âge est reconnu par <strong>les dermatologues</strong> pour sa capacité à <strong>réduire les rides, raffermir la peau relâchée</strong> et <strong>éclaircir le teint terne</strong> . C'est le choix des experts pour tous ceux qui souhaitent rajeunir leur apparence.</p><p>Ce sérum allie le meilleur de la science et de la nature, offrant une <strong>solution sûre et efficace,</strong> sans <strong>traitements invasifs</strong> ni <strong>coûts élevés</strong> . C'est un soin de qualité professionnelle à utiliser chez soi.</p><p>Ayez confiance en <strong>LumiRose de SORA</strong> , <strong>soutenu par des experts</strong> qui comprennent les besoins de votre peau. Découvrez <strong>des résultats non seulement visibles, mais aussi transformateurs</strong> , à chaque application.</p>"
           }
+        },
+        "item_ggf3kL": {
+          "type": "item",
+          "settings": {
+            "icon": "none",
+            "icon_width": 48,
+            "title": "Retrouvez naturellement une peau jeune et votre confiance en vous !",
+            "content": "<p>Effacez jusqu'à 95 % de vos rides et ridules grâce à notre sérum LumiRose, la puissante solution anti-âge conçue pour des résultats spectaculaires. Profitez d'une peau plus lisse et d'apparence plus jeune à chaque application.<br/><br/>À mesure que vos rides s'estompent, votre confiance en vous grandit. Ce sérum vous donne le pouvoir de retrouver votre beauté naturelle et d'arborer une peau radieuse et sans imperfections. Il ne s'agit pas seulement de paraître plus jeune, mais aussi de se sentir plus forte.<br/><br/>Ce sérum agit en synergie avec les processus naturels de votre peau pour offrir une amélioration durable. Avec le sérum LumiRose, vous ne faites pas que masquer vos rides, vous retrouvez votre confiance en vous et votre éclat de jeunesse.</p>"
+          }
+        },
+        "item_8YMBLa": {
+          "type": "item",
+          "settings": {
+            "icon": "none",
+            "icon_width": 48,
+            "title": "Retrouvez dès maintenant la fermeté de votre jeunesse !",
+            "content": "<p>Le relâchement cutané ne doit plus définir votre apparence. Herbionyx LumiVelle stimule la production de collagène pour lifter et raffermir votre peau, vous aidant ainsi à obtenir un teint plus ferme et plus jeune.<br/><br/>Sentez la différence alors que votre peau devient visiblement plus lisse et plus ferme. Herbionyx LumiVelle s'attaque aux causes profondes du relâchement cutané, vous offrant des résultats durables et une confiance qui rayonne.<br/><br/>Ne laissez pas les doutes vous freiner. Avec Herbionyx LumiVelle, vous choisissez une solution de soin de la peau qui fonctionne, vous aidant à retrouver la fermeté et l'éclat que vous méritez.</p>"
+          }
         }
       },
       "block_order": [
-        "item_Q94EfF"
+        "item_Q94EfF",
+        "item_ggf3kL",
+        "item_8YMBLa"
       ],
       "name": "Images and text scrolling",
       "settings": {
