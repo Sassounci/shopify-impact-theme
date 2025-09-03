@@ -54,6 +54,7 @@
         "logo_zWAg3Q": {
           "type": "logo",
           "settings": {
+            "logo": "shopify://shop_images/Elle.png",
             "logo_width": 120,
             "link": ""
           }
@@ -61,6 +62,7 @@
         "logo_7tbyhK": {
           "type": "logo",
           "settings": {
+            "logo": "shopify://shop_images/Vogue.png",
             "logo_width": 120,
             "link": ""
           }
@@ -68,6 +70,7 @@
         "logo_cLr9zR": {
           "type": "logo",
           "settings": {
+            "logo": "shopify://shop_images/Comopolitan.png",
             "logo_width": 120,
             "link": ""
           }
@@ -75,6 +78,7 @@
         "logo_XHCd9y": {
           "type": "logo",
           "settings": {
+            "logo": "shopify://shop_images/Marie_Claire.png",
             "logo_width": 120,
             "link": ""
           }
@@ -109,7 +113,7 @@
         "heading_7TaE69": {
           "type": "heading",
           "settings": {
-            "text": "Pourquoi choisir la crème CelluRevive  ?",
+            "text": "Pourquoi choisir notre sérum rajeunissant  ?",
             "heading_tag": "h4",
             "text_color": "",
             "gradient": ""
