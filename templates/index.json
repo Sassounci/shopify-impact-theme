@@ -157,7 +157,7 @@
             "column_size": "3",
             "title": "Sophie M.",
             "heading_tag": "h4",
-            "content": "<p>\"Je n'osais plus mettre de robes… La peau de mes bras me complexait trop. En quelques semaines, cette crème a tout changé. Je me sens enfin libre de les montrer !\"</p>",
+            "content": "<p>Ce produit est incroyable ! En seulement une semaine, mes ridules ont presque disparu et ma peau est beaucoup plus ferme. Je pensais avoir perdu à jamais cet éclat !<br/><br/></p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -169,7 +169,7 @@
             "column_size": "3",
             "title": "Marie-Claire L.",
             "heading_tag": "h4",
-            "content": "<p>\"Au début, je pensais que ça ne marcherait pas... Mais en 3 semaines, ma peau s'est sentie incroyablement raffermie. Mes collègues me demandent mon secret !\"</p>",
+            "content": "<p>J'adore la sensation d'hydratation et de douceur que ce sérum procure à ma peau. Mes rides ont considérablement diminué et même mon teint terne a disparu. C'est comme si j'avais remonté le temps !</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -181,7 +181,7 @@
             "column_size": "3",
             "title": "Catherine D.",
             "heading_tag": "h4",
-            "content": "<p>\"Après ma perte de poids, ma peau était relâchée et me démoralisait. Cette crème l'a rendue ferme et lumineuse. Un vrai miracle devenu indispensable !\"</p>",
+            "content": "<p>Ce produit est vraiment efficace ! Ma peau est liftée et mes cernes sont atténués. On me complimente sur sa fraîcheur et sa jeunesse ; c'est une véritable bouée de sauvetage !</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -193,7 +193,7 @@
             "column_size": "3",
             "title": "Isabelle R.",
             "heading_tag": "h4",
-            "content": "<p>\"En une semaine, ma peau était plus lisse et ferme. On m'a même demandé si j'avais fait de la médecine esthétique… c'est juste ce tube magique !\"</p>",
+            "content": "<p>Jecherchais un sérum anti-âge vraiment efficace, et ce produit est une véritable révolution ! Après trois semaines d'utilisation, ma peau est incroyablement repulpée et hydratée. Les ridules autour de ma bouche se sont sensiblement estompées et j'ai constaté une nette réduction des irrégularités de texture. Je suis tellement impressionnée que j'ai déjà commandé mon deuxième flacon !</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -205,7 +205,7 @@
             "column_size": "3",
             "title": "Nathalie B.",
             "heading_tag": "h4",
-            "content": "<p>\"CelluRevive est la seule crème qui m'a vraiment convaincue : elle raffermit et illumine ma peau. Je l'utilise maintenant tous les jours sans exception !\"</p>",
+            "content": "<p> En tant que personne ayant une peau mature, je suis toujours sceptique face aux nouveaux produits de soin. Mais ce sérum a dépassé toutes mes attentes ! En un mois, ma peau est devenue plus lisse, plus ferme et plus éclatante. Les taches brunes sur mes joues se sont atténuées et je n'ai plus besoin d'autant d'anti-cernes. Je n'arrive pas à croire à quel point ma peau paraît jeune et fraîche !</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -217,7 +217,31 @@
             "column_size": "3",
             "title": "Véronique T.",
             "heading_tag": "h4",
-            "content": "<p>\"Après ma 2ᵉ grossesse, ma peau du ventre et mes bras me désespéraient… Cette crème les a retendus en un rien de temps. Je revis dans mes vêtements !\"</p>",
+            "content": "<p>J'étais à deux doigts d'abandonner l'idée de trouver une solution anti-âge efficace jusqu'à ce que j'essaie ce sérum. La différence est incroyable ! En quelques semaines seulement, ma peau a retrouvé son élasticité et les rides profondes de mon front se sont considérablement atténuées. De plus, il sent divinement bon et pénètre rapidement, sans laisser de résidus collants. C'est sans conteste le meilleur investissement que j'aie jamais fait en matière de soins de la peau !</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_HtACVY": {
+          "type": "item",
+          "settings": {
+            "column_size": "3",
+            "title": "Column title",
+            "heading_tag": "h4",
+            "content": "<p>Je lutte depuis des années contre une peau terne et fatiguée, mais ce sérum m'a vraiment sauvé la vie. Non seulement il a illuminé mon teint, mais il a aussi rendu ma peau incroyablement douce et souple. Mes pattes d'oie sont moins prononcées et j'ai reçu tellement de compliments sur l'éclat et la santé de ma peau. Je n'utiliserai plus jamais autre chose !</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_XkcCAc": {
+          "type": "item",
+          "settings": {
+            "column_size": "3",
+            "title": "Column title",
+            "heading_tag": "h4",
+            "content": "<p>J'hésitais à investir dans un énième produit anti-âge, mais je suis ravie d'avoir tenté ma chance avec ce sérum. Il a véritablement transformé ma peau ! Après une utilisation régulière, elle est plus ferme, plus lisse et plus liftée. Les ridules de mon cou, qui me faisaient particulièrement mal, ont presque disparu. C'est comme un petit lifting en flacon, et je suis ravie du résultat !</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -230,7 +254,9 @@
         "item_wV33Ji",
         "item_ABxgiJ",
         "item_QrActm",
-        "item_mpfV3L"
+        "item_mpfV3L",
+        "item_HtACVY",
+        "item_XkcCAc"
       ],
       "name": "Multi-column",
       "settings": {
