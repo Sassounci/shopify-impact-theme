@@ -449,6 +449,7 @@
         "item_ggf3kL": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/1745297282-img33.gif",
             "icon": "none",
             "icon_width": 48,
             "title": "Retrouvez naturellement une peau jeune et votre confiance en vous !",
