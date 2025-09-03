@@ -15,12 +15,11 @@
         "slide-2": {
           "type": "image",
           "settings": {
-            "mobile_image": "shopify://shop_images/Copie_de_Lumin_Beauty_Mobile_Banners_-_live_13.png",
             "content_max_width": 780,
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
             "subheading": "",
-            "title": "PEAU FLASQUE ? EFFACEZ 10 ANS EN 30 JOURS !",
+            "title": "Complexée par vos rides ? Effacez 10 ans en 5 jours !",
             "heading_tag": "h1",
             "button_text": "",
             "button_link": "",
@@ -55,7 +54,6 @@
         "logo_zWAg3Q": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/Elle.png",
             "logo_width": 120,
             "link": ""
           }
@@ -63,7 +61,6 @@
         "logo_7tbyhK": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/Vogue.png",
             "logo_width": 120,
             "link": ""
           }
@@ -71,7 +68,6 @@
         "logo_cLr9zR": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/Comopolitan.png",
             "logo_width": 120,
             "link": ""
           }
@@ -79,7 +75,6 @@
         "logo_XHCd9y": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/Marie_Claire.png",
             "logo_width": 120,
             "link": ""
           }
@@ -142,8 +137,6 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
-        "image": "shopify://shop_images/4_benefices.png",
-        "mobile_image": "shopify://shop_images/4_benefices.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
@@ -437,7 +430,6 @@
         "item_aDCz3m": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/1748040728__0__cqzShJfl__Cellu_review_1__original.jpg",
             "stretch_image": true,
             "link_text": "",
             "link_url": "",
@@ -450,7 +442,6 @@
         "item_4EpAKF": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/1748040739__0__3_42yVFT__niewewewre__original.jpg",
             "stretch_image": true,
             "link_text": "",
             "link_url": "",
@@ -463,7 +454,6 @@
         "item_Tk6DXd": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/1748040736__0__UOlWqr7h__31MDm3QhXWL__original.jpg",
             "stretch_image": true,
             "link_text": "",
             "link_url": "",
@@ -476,7 +466,6 @@
         "item_7YWXt7": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/1748040730__0__rlBZfBch__Smooth_out_crepey_skin_4__original.jpg",
             "stretch_image": true,
             "link_text": "",
             "link_url": "",
@@ -489,7 +478,6 @@
         "item_GJPPMQ": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/1748040740__0__CG8rO30E__Cellu_review_6__original.jpg",
             "stretch_image": true,
             "link_text": "",
             "link_url": "",
@@ -502,7 +490,6 @@
         "item_7QYjeV": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/1748040728__0__V0IlUqoh__71XB4541LbL__original.jpg",
             "stretch_image": true,
             "link_text": "",
             "link_url": "",
@@ -515,7 +502,6 @@
         "item_87cwPx": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/1748040741__0__tyLTnEYe__djiejdiedieidje__original.jpg",
             "stretch_image": true,
             "link_text": "",
             "link_url": "",
@@ -528,7 +514,6 @@
         "item_f7x8cN": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/1748040732__0__NQTnPRJQ__ChatGPT_Image_7_apr_2025_15_37_09__original.jpg",
             "stretch_image": true,
             "link_text": "",
             "link_url": "",
