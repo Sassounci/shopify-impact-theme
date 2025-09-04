@@ -151,45 +151,94 @@
         "overlay_opacity": 0
       }
     },
-    "rich_text_FDMRqD": {
-      "type": "rich-text",
+    "multi_column_PwJXgK": {
+      "type": "multi-column",
       "blocks": {
-        "heading_Ge9rUD": {
-          "type": "heading",
+        "item_88HGTn": {
+          "type": "item",
           "settings": {
-            "text": "Une thérapie douce et indolore",
+            "image": "shopify://shop_images/1_b78e1b75-ee6a-44a9-9215-f20f25ee2938.webp",
+            "column_size": "3",
+            "title": "",
             "heading_tag": "h4",
-            "text_color": "",
-            "gradient": ""
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_FNLYyw": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/5.webp",
+            "column_size": "3",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_U7P9x3": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/2_fbf0ff7f-c247-46bb-a1a3-64bccab0410c.webp",
+            "column_size": "3",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_gQB6Y7": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/4_a153af27-88ab-43fe-af2e-8efdce82151a.webp",
+            "column_size": "3",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_ktAb8d": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/3_525deb09-563d-47f7-8590-e7da3957c68c.webp",
+            "column_size": "3",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
           }
         }
       },
       "block_order": [
-        "heading_Ge9rUD"
+        "item_88HGTn",
+        "item_FNLYyw",
+        "item_U7P9x3",
+        "item_gQB6Y7",
+        "item_ktAb8d"
       ],
-      "name": "Rich text",
+      "name": "Multi-column",
       "settings": {
         "full_width": true,
-        "content_width": "small",
-        "text_position": "center",
+        "stack_on_mobile": false,
+        "gap": "medium",
+        "text_alignment": "start",
+        "subheading": "",
+        "title": "Des résultats concrèts",
+        "content": "",
         "background": "",
         "background_gradient": "",
         "text_color": ""
-      }
-    },
-    "image_with_text_overlay_XKFjLH": {
-      "type": "image-with-text-overlay",
-      "name": "Image with text overlay",
-      "settings": {
-        "full_width": true,
-        "allow_transparent_header": false,
-        "enable_parallax": false,
-        "image_size": "auto",
-        "mobile_text_position": "place-self-center text-center",
-        "desktop_text_position": "sm:place-self-center sm:text-center",
-        "text_color": "#ffffff",
-        "overlay_color": "#000000",
-        "overlay_opacity": 0
       }
     },
     "multi_column_t4KV3H": {
@@ -614,8 +663,7 @@
     "logo_list_HpL7Cp",
     "rich_text_bGkKLw",
     "image_with_text_overlay_FtfCx3",
-    "rich_text_FDMRqD",
-    "image_with_text_overlay_XKFjLH",
+    "multi_column_PwJXgK",
     "multi_column_t4KV3H",
     "featured_product_n934yq",
     "tabs_cieLCk",
