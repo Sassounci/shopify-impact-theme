@@ -141,8 +141,6 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
-        "image": "shopify://shop_images/Benefices_4.png",
-        "mobile_image": "shopify://shop_images/Benefices_4.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
@@ -180,7 +178,7 @@
         "content": "",
         "background": "#2c3e50",
         "background_gradient": "",
-        "text_color": ""
+        "text_color": "#ffffff"
       }
     },
     "featured_product_n934yq": {
