@@ -246,6 +246,98 @@
         "item_AVabeV": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/group31.webp",
+            "column_size": "3",
+            "title": "Françoise",
+            "heading_tag": "h4",
+            "content": "<p>À 58 ans, j'étais sceptique mais après 6 semaines, mes rides sont visiblement atténuées et mon teint beaucoup plus uniforme. Mes amies me demandent quel est mon secret ! Pour 199€, ce masque fait des miracles.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_ahMUBL": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/group32.webp",
+            "column_size": "3",
+            "title": "Sophie",
+            "heading_tag": "h4",
+            "content": "<p>Mes rides du coin de l'œil me complexaient énormément. Après 5 semaines avec mon masque, elles sont nettement moins marquées et ma peau est plus lisse. Je n'arrive pas à croire que ce soit si efficace ! Mon mari a même remarqué la différence. Les 200€ sont largement justifiés.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_k9Bfed": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/group33.webp",
+            "column_size": "3",
+            "title": "Column title",
+            "heading_tag": "h4",
+            "content": "<p>J'avais des rougeurs persistantes et des taches qui me gênaient énormément. En 3 semaines avec Lumiglo, ma peau est apaisée et mon teint beaucoup plus uniforme. Les rougeurs ont quasi disparu ! Je retrouve enfin confiance en moi sans maquillage.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_Jr44Wf": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/group34.webp",
+            "column_size": "3",
+            "title": "Column title",
+            "heading_tag": "h4",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_HQrFLT": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/group35.webp",
+            "column_size": "3",
+            "title": "Column title",
+            "heading_tag": "h4",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_AwHKyL": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/group36.webp",
+            "column_size": "3",
+            "title": "Column title",
+            "heading_tag": "h4",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_ErV6Wb": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/group37.webp",
+            "column_size": "3",
+            "title": "Column title",
+            "heading_tag": "h4",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_b8TkiT": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/group38.webp",
             "column_size": "3",
             "title": "Column title",
             "heading_tag": "h4",
@@ -257,7 +349,14 @@
         }
       },
       "block_order": [
-        "item_AVabeV"
+        "item_AVabeV",
+        "item_ahMUBL",
+        "item_k9Bfed",
+        "item_Jr44Wf",
+        "item_HQrFLT",
+        "item_AwHKyL",
+        "item_ErV6Wb",
+        "item_b8TkiT"
       ],
       "name": "Multi-column",
       "settings": {
