@@ -530,7 +530,7 @@
         "item_ggf3kL": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/1745297282-img33.gif",
+            "image": "shopify://shop_images/luminotherapie-science.jpg",
             "icon": "none",
             "icon_width": 48,
             "title": "POURQUOI VOS CRÈMES NE MARCHENT PLUS",
@@ -540,6 +540,7 @@
         "item_8YMBLa": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/doctorwoman.jpg",
             "icon": "none",
             "icon_width": 48,
             "title": "\"MES PATIENTES ME SUPPLIENT DE LEUR DONNER LE SECRET\"",
