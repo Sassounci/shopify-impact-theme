@@ -17,28 +17,28 @@
         "message": {
           "type": "message",
           "settings": {
-            "text": "🚚 Livraison gratuite à domicile",
+            "text": "Livraison gratuite à domicile",
             "url": ""
           }
         },
         "message_E6kgcy": {
           "type": "message",
           "settings": {
-            "text": "🔥 Promotion Spéciale Été : -50%",
+            "text": "Promotion Spéciale Été : -50%",
             "url": ""
           }
         },
         "message_ibWFgU": {
           "type": "message",
           "settings": {
-            "text": "🔒 Paiement Sécurisé",
+            "text": "Paiement Sécurisé",
             "url": ""
           }
         },
         "message_8QGVwR": {
           "type": "message",
           "settings": {
-            "text": "✅ 100% Satisfait ou Remboursé",
+            "text": "100% Satisfait ou Remboursé",
             "url": ""
           }
         }
