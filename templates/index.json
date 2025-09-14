@@ -521,6 +521,7 @@
         "item_Q94EfF": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/Design_sans_titre_36.png",
             "icon": "none",
             "icon_width": 48,
             "title": "ARRÊTEZ DE SUBIR LE TEMPS QUI PASSE",
