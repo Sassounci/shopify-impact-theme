@@ -274,7 +274,7 @@
           "settings": {
             "image": "shopify://shop_images/group33.webp",
             "column_size": "3",
-            "title": "Column title",
+            "title": "Amélie",
             "heading_tag": "h4",
             "content": "<p>J'avais des rougeurs persistantes et des taches qui me gênaient énormément. En 3 semaines avec Lumiglo, ma peau est apaisée et mon teint beaucoup plus uniforme. Les rougeurs ont quasi disparu ! Je retrouve enfin confiance en moi sans maquillage.</p>",
             "link_url": "",
@@ -287,9 +287,9 @@
           "settings": {
             "image": "shopify://shop_images/group34.webp",
             "column_size": "3",
-            "title": "Column title",
+            "title": "Christine",
             "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "content": "<p>Mes rides me vieillissaient énormément et mes cernes étaient très marqués. Après 2 mois d'utilisation du masque, la transformation est saisissante ! Ma peau est plus ferme, mes traits sont lissés et je parais 5 ans de moins. Investissement rentabilisé !</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -300,9 +300,9 @@
           "settings": {
             "image": "shopify://shop_images/group35.webp",
             "column_size": "3",
-            "title": "Column title",
+            "title": "Laura",
             "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "content": "<p>J'avais des taches pigmentaires et des cicatrices d'acné qui me complexaient depuis des années. En 4 semaines ma peau est transformée ! Le teint est unifié, les imperfections estompées et l'éclat naturel est revenu. Je ne pensais pas que ce serait si efficace !</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -313,9 +313,9 @@
           "settings": {
             "image": "shopify://shop_images/group36.webp",
             "column_size": "3",
-            "title": "Column title",
+            "title": "Valérie",
             "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "content": "<p>Mes rides et mes cernes creusés me donnaient un air fatigué en permanence. Après 7 semaines d'utilisation, mon visage est raffermit et mes traits sont lissés. Je retrouve un air reposé et plus jeune ! Mes collègues me font des compliments.</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -326,9 +326,9 @@
           "settings": {
             "image": "shopify://shop_images/group37.webp",
             "column_size": "3",
-            "title": "Column title",
+            "title": "Sandrine",
             "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "content": "<p>Les rides autour de mes yeux me complexaient vraiment, surtout quand je souriais. En 5 semaines, elles se sont nettement estompées et ma peau paraît plus jeune. C'est exactement ce que j'espérais ! Même mon esthéticienne m'a demandé ce que j'avais fait.</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -339,9 +339,9 @@
           "settings": {
             "image": "shopify://shop_images/group38.webp",
             "column_size": "3",
-            "title": "Column title",
+            "title": "Océane",
             "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "content": "<p>Mon acné inflammatoire me gâchait la vie depuis des années. J'ai tout essayé sans succès. En 6 semaines, les rougeurs ont diminué et les boutons se résorbent beaucoup mieux. Ma peau est apaisée et j'ose enfin sortir sans fond de teint ! Un vrai soulagement.</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
