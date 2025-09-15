@@ -550,6 +550,49 @@
         "heading_gradient": ""
       }
     },
+    "multiple_images_with_text_MmYAN6": {
+      "type": "multiple-images-with-text",
+      "blocks": {
+        "item_x6HV6D": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/GIF_-_Benefices.webp",
+            "image_rotation_degrees": -2,
+            "subheading": "",
+            "title": "LumiGlow™",
+            "content": "<p>RÉSULTATS RAPIDES <strong>ET VISIBLES</strong></p><p>CONFORT TOTAL <strong>CHEZ SOI</strong></p><p>UTILISATION <strong>ILLIMITÉE</strong></p><p>SEULEMENT <strong>10 MIN/J</strong></p>",
+            "button_url": "",
+            "button_text": ""
+          }
+        },
+        "item_A6aGNg": {
+          "type": "item",
+          "settings": {
+            "image_rotation_degrees": 1.5,
+            "subheading": "",
+            "title": "Heading 2",
+            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>",
+            "button_url": "",
+            "button_text": ""
+          }
+        }
+      },
+      "block_order": [
+        "item_x6HV6D",
+        "item_A6aGNg"
+      ],
+      "name": "Multiple images with text",
+      "settings": {
+        "full_width": true,
+        "images_layout": "stacked",
+        "collage_images_alignment": "middle",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "button_background": "",
+        "button_text_color": ""
+      }
+    },
     "images_with_text_scrolling_9LkrK4": {
       "type": "images-with-text-scrolling",
       "blocks": {
@@ -794,6 +837,7 @@
     "featured_product_n934yq",
     "scrolling_text_7zjtdx",
     "tabs_cieLCk",
+    "multiple_images_with_text_MmYAN6",
     "images_with_text_scrolling_9LkrK4",
     "media_with_text_7YftaR",
     "faq_6DDTgy",
