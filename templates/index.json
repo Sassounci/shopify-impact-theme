@@ -392,6 +392,7 @@
         "image_HbA4dM": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/Promo_de_Printemps_4.png",
             "alignment": "start",
             "max_width": 500
           }
