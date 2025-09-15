@@ -389,6 +389,12 @@
             "heading_tag": "h3"
           }
         },
+        "text_FV3Law": {
+          "type": "text",
+          "settings": {
+            "text": "<ul><li>Dites adieux aux rides</li><li>Elimine l'acné et points noirs </li><li>Résultats visibles et concrets </li><li>Améliore l'élasticité et la fermeté</li></ul>"
+          }
+        },
         "image_HbA4dM": {
           "type": "image",
           "settings": {
@@ -445,6 +451,7 @@
       "block_order": [
         "liquid_M8G7rx",
         "title_rwQPk4",
+        "text_FV3Law",
         "image_HbA4dM",
         "price_MQNRGg",
         "liquid_FXTyqK",
