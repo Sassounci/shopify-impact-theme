@@ -625,7 +625,7 @@
             "image_rotation_degrees": -2,
             "subheading": "",
             "title": "LumiGlow™",
-            "content": "<p>RÉSULTATS RAPIDES <strong>ET VISIBLES</strong></p><p>CONFORT TOTAL <strong>CHEZ SOI</strong></p><p>UTILISATION <strong>ILLIMITÉE</strong></p><p>SEULEMENT <strong>10 MIN/J</strong></p>",
+            "content": "<ol><li>Résultats rapides et visibles </li><li>Confort total chez soi</li><li>Utilisation illimitée</li><li>seulement 10min/j</li></ol>",
             "button_url": "",
             "button_text": ""
           }
