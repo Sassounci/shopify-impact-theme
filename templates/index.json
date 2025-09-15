@@ -688,71 +688,50 @@
         "item_nRmkVU": {
           "type": "item",
           "settings": {
-            "title": "Combien de temps pour voir les premiers résultats ?",
-            "content": "<p>La plupart des utilisatrices remarquent des améliorations visibles en seulement 5 jours, notamment une réduction des rides, une peau plus ferme et un teint plus éclatant. L'utilisation continue améliore et maintient ces résultats.</p>"
+            "title": "Est-ce que ça fonctionne vraiment ?",
+            "content": "<p>Absolument ! La technologie LumiGlow utilise les mêmes longueurs d'onde LED (660nm + 850nm) que les dermatologues depuis 30 ans. Ces fréquences pénètrent jusqu'à 4mm sous la peau et relancent naturellement votre production de collagène. 94% de nos utilisatrices voient des résultats dès 4 semaines. C'est de la science, pas de la magie.</p>"
           }
         },
         "item_bk7UbM": {
           "type": "item",
           "settings": {
-            "title": "Comment le sérum LumiRose de SORA agit-il si rapidement ?",
-            "content": "<p>Le sérum LumiRose de SORA utilise des ingrédients puissants comme l'Acide Hyaluronique et les Peptides pour cibler les rides et stimuler la production de collagène, offrant des changements rapides et visibles.</p>"
+            "title": "Quand vais-je voir les premiers résultats ?",
+            "content": "<p><strong>7-10 jours</strong> : Teint plus éclatant, peau plus douce</p><p><strong>3-4 semaines</strong> : Rides fines atténuées, fermeté améliorée</p><p><strong>6-8 semaines</strong> : Transformation visible, peau rajeunie de 5 ans<br/>Pour des résultats durables : 3 séances de 20 minutes par semaine minimum.</p>"
           }
         },
         "item_taMrx3": {
           "type": "item",
           "settings": {
-            "title": "Le sérum LumiRose de SORA convient-il à tous les types de peau ?",
-            "content": "<p>Oui ! Le sérum LumiRose de SORA est formulé pour être doux mais efficace, le rendant sûr pour tous les types de peau, y compris les peaux sensibles.</p>"
+            "title": "Combien de temps durent les résultats ?",
+            "content": "<p>Avec un entretien de 2-3 séances par semaine, les résultats se maintiennent indéfiniment. Sans entretien, votre peau retrouve progressivement son état initial en 3-6 mois. C'est comme le sport : l'arrêt total annule les bénéfices.</p>"
           }
         },
         "item_gUKjBY": {
           "type": "item",
           "settings": {
-            "title": "Le sérum LumiRose de SORA aide-t-il contre la peau relâchée ?",
-            "content": "<p>Oui ! Le sérum LumiRose de SORA est spécifiquement conçu pour restaurer la fermeté et l'élasticité, redonnant à la peau relâchée un aspect plus jeune et tonique.</p>"
+            "title": "Ça marche à tout âge ?",
+            "content": "<p>Oui, de 25 à 75 ans ! Plus tôt vous commencez, mieux c'est. À 25-35 ans : prévention. À 35-55 ans : correction des premiers signes. À 55+ ans : rajeunissement visible. Nos utilisatrices les plus âgées obtiennent d'excellents résultats.</p>"
           }
         },
         "item_WWcpqn": {
           "type": "item",
           "settings": {
-            "title": "Qu'est-ce qui rend le sérum LumiRose de SORA différent des autres produits anti-âge ?",
-            "content": "<p>Le sérum LumiRose de SORA combine science avancée et ingrédients naturels comme l'Acide Hyaluronique pour offrir une réduction visible des rides de 95% et une peau plus ferme - plus rapidement que la plupart des autres produits.</p>"
+            "title": "Est-ce douloureux ou dangereux ?",
+            "content": "<p>Zéro douleur, zéro danger. Vous ressentez juste une légère chaleur agréable. Contrairement aux traitements invasifs, aucun temps de récupération nécessaire. Pas d'UV nocifs, pas de risque de brûlure. Technologie 100% naturelle approuvée par les dermatologues.</p>"
           }
         },
         "item_qqBjPh": {
           "type": "item",
           "settings": {
-            "title": "Le sérum LumiRose de SORA est-il sans danger pour un usage quotidien ?",
-            "content": "<p>Oui, le sérum LumiRose de SORA est conçu pour un usage quotidien afin d'assurer une hydratation constante, une réduction des rides et un rajeunissement cutané sans irritation.</p>"
+            "title": "Puis-je l'utiliser enceinte ou allaitante ?",
+            "content": "<p>Par précaution, nous déconseillons l'usage pendant la grossesse et l'allaitement, faute d'études spécifiques. Mieux vaut attendre - votre peau vous remerciera après !</p>"
           }
         },
         "item_dbtTXp": {
           "type": "item",
           "settings": {
-            "title": "Le sérum LumiRose de SORA peut-il remplacer ma routine skincare actuelle ?",
-            "content": "<p>Absolument ! Le sérum LumiRose de SORA est polyvalent et peut être utilisé comme produit autonome ou intégré de manière transparente dans votre routine existante pour des résultats améliorés.</p>"
-          }
-        },
-        "item_HtMtej": {
-          "type": "item",
-          "settings": {
-            "title": "Combien de temps dure une bouteille de sérum LumiRose de SORA ?",
-            "content": "<p>Une seule bouteille dure généralement 4 à 6 semaines avec une utilisation régulière, selon la fréquence d'application.</p>"
-          }
-        },
-        "item_KdPJkR": {
-          "type": "item",
-          "settings": {
-            "title": "Le sérum LumiRose de SORA est-il approuvé par les dermatologues ?",
-            "content": "<p>Oui ! Le sérum LumiRose de SORA est recommandé par les dermatologues pour sa formule scientifiquement prouvée qui offre des résultats sûrs et visibles.</p>"
-          }
-        },
-        "item_eWaWnW": {
-          "type": "item",
-          "settings": {
-            "title": "Le sérum LumiRose de SORA peut-il vraiment me faire paraître plus jeune ?",
-            "content": "<p>Oui ! Le sérum LumiRose de SORA est cliniquement prouvé pour réduire les rides jusqu'à 95%, restaurer la fermeté et améliorer l'éclat de la peau - vous aidant à paraître et vous sentir 10 ans plus jeune.</p>"
+            "title": "Interactions avec mes traitements ?",
+            "content": "<p>Compatible avec 99% des traitements. Seule contre-indication : traitements photosensibilisants lourds. En cas de doute, montrez cette FAQ à votre médecin - il connaît cette technologie.</p>"
           }
         },
         "item_fUQCh3": {
@@ -778,9 +757,6 @@
         "item_WWcpqn",
         "item_qqBjPh",
         "item_dbtTXp",
-        "item_HtMtej",
-        "item_KdPJkR",
-        "item_eWaWnW",
         "item_fUQCh3",
         "item_YN4cWW"
       ],
