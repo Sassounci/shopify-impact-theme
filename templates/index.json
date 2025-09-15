@@ -603,40 +603,6 @@
         "heading_gradient": ""
       }
     },
-    "media_with_text_7YftaR": {
-      "type": "media-with-text",
-      "blocks": {
-        "image_YNWNPj": {
-          "type": "image",
-          "settings": {
-            "media_width": 50,
-            "media_position": "start",
-            "text_position": "place-self-center-start text-start",
-            "icon": "none",
-            "icon_width": 48,
-            "subheading": "",
-            "title": "Essayez Le sérum LumiGlow™  en toute confiance avec notre garantie sérénité.",
-            "content": "<p>Les spécialistes et nos clientes régulières le confirment :<br/><br/><strong>SORA LumiGlow™ offre un effet visible inratable.</strong><br/><br/>Mais si vous ne constatez <strong>aucune amélioration</strong> ou si le produit <strong>ne vous convient pas</strong>,<br/><br/>vous bénéficiez d’une <strong>garantie satisfait ou remboursé pendant 30 jours</strong>.</p>",
-            "link_text": "",
-            "link_url": "",
-            "background": "#121212",
-            "background_gradient": "",
-            "text_color": "#ffffff",
-            "text_gradient": "",
-            "button_background": "",
-            "button_text_color": ""
-          }
-        }
-      },
-      "block_order": [
-        "image_YNWNPj"
-      ],
-      "name": "Media with text",
-      "settings": {
-        "full_width": false,
-        "spacing": "small"
-      }
-    },
     "multiple_images_with_text_MmYAN6": {
       "type": "multiple-images-with-text",
       "blocks": {
@@ -679,6 +645,41 @@
         "text_color": "",
         "button_background": "",
         "button_text_color": ""
+      }
+    },
+    "media_with_text_7YftaR": {
+      "type": "media-with-text",
+      "blocks": {
+        "image_YNWNPj": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/2.png",
+            "media_width": 50,
+            "media_position": "start",
+            "text_position": "place-self-center-start text-start",
+            "icon": "none",
+            "icon_width": 48,
+            "subheading": "",
+            "title": "Essayez Le sérum LumiGlow™  en toute confiance avec notre garantie sérénité.",
+            "content": "<p>Les spécialistes et nos clientes régulières le confirment :<br/><br/><strong>SORA LumiGlow™ offre un effet visible inratable.</strong><br/><br/>Mais si vous ne constatez <strong>aucune amélioration</strong> ou si le produit <strong>ne vous convient pas</strong>,<br/><br/>vous bénéficiez d’une <strong>garantie satisfait ou remboursé pendant 30 jours</strong>.</p>",
+            "link_text": "",
+            "link_url": "",
+            "background": "#121212",
+            "background_gradient": "",
+            "text_color": "#ffffff",
+            "text_gradient": "",
+            "button_background": "",
+            "button_text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_YNWNPj"
+      ],
+      "name": "Media with text",
+      "settings": {
+        "full_width": false,
+        "spacing": "small"
       }
     },
     "faq_6DDTgy": {
