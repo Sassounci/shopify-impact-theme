@@ -553,6 +553,18 @@
     "multiple_images_with_text_MmYAN6": {
       "type": "multiple-images-with-text",
       "blocks": {
+        "item_A6aGNg": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Autres.webp",
+            "image_rotation_degrees": 1.5,
+            "subheading": "",
+            "title": "Les autres",
+            "content": "<p>PERTE DE TEMPS <strong>DÉPLACEMENT</strong></p><p>DISPONIBILITÉ LIMITÉE <strong>SUR RDV</strong></p><p>TRAITEMENT <strong>COUTEUX</strong></p><p>OBLIGATION DE <strong>SUIVI</strong></p>",
+            "button_url": "",
+            "button_text": ""
+          }
+        },
         "item_x6HV6D": {
           "type": "item",
           "settings": {
@@ -564,22 +576,11 @@
             "button_url": "",
             "button_text": ""
           }
-        },
-        "item_A6aGNg": {
-          "type": "item",
-          "settings": {
-            "image_rotation_degrees": 1.5,
-            "subheading": "",
-            "title": "Heading 2",
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>",
-            "button_url": "",
-            "button_text": ""
-          }
         }
       },
       "block_order": [
-        "item_x6HV6D",
-        "item_A6aGNg"
+        "item_A6aGNg",
+        "item_x6HV6D"
       ],
       "name": "Multiple images with text",
       "settings": {
