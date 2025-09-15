@@ -550,50 +550,6 @@
         "heading_gradient": ""
       }
     },
-    "multiple_images_with_text_MmYAN6": {
-      "type": "multiple-images-with-text",
-      "blocks": {
-        "item_A6aGNg": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/Autres.webp",
-            "image_rotation_degrees": 1.5,
-            "subheading": "",
-            "title": "Les autres",
-            "content": "<p>PERTE DE TEMPS <strong>DÉPLACEMENT</strong></p><p>DISPONIBILITÉ LIMITÉE <strong>SUR RDV</strong></p><p>TRAITEMENT <strong>COUTEUX</strong></p><p>OBLIGATION DE <strong>SUIVI</strong></p>",
-            "button_url": "",
-            "button_text": ""
-          }
-        },
-        "item_x6HV6D": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/GIF_-_Benefices.webp",
-            "image_rotation_degrees": -2,
-            "subheading": "",
-            "title": "LumiGlow™",
-            "content": "<p>RÉSULTATS RAPIDES <strong>ET VISIBLES</strong></p><p>CONFORT TOTAL <strong>CHEZ SOI</strong></p><p>UTILISATION <strong>ILLIMITÉE</strong></p><p>SEULEMENT <strong>10 MIN/J</strong></p>",
-            "button_url": "",
-            "button_text": ""
-          }
-        }
-      },
-      "block_order": [
-        "item_A6aGNg",
-        "item_x6HV6D"
-      ],
-      "name": "Multiple images with text",
-      "settings": {
-        "full_width": true,
-        "images_layout": "stacked",
-        "collage_images_alignment": "middle",
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "button_background": "",
-        "button_text_color": ""
-      }
-    },
     "images_with_text_scrolling_9LkrK4": {
       "type": "images-with-text-scrolling",
       "blocks": {
@@ -679,6 +635,50 @@
       "settings": {
         "full_width": false,
         "spacing": "small"
+      }
+    },
+    "multiple_images_with_text_MmYAN6": {
+      "type": "multiple-images-with-text",
+      "blocks": {
+        "item_A6aGNg": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Autres.webp",
+            "image_rotation_degrees": 1.5,
+            "subheading": "",
+            "title": "Les autres",
+            "content": "<p>PERTE DE TEMPS <strong>DÉPLACEMENT</strong></p><p>DISPONIBILITÉ LIMITÉE <strong>SUR RDV</strong></p><p>TRAITEMENT <strong>COUTEUX</strong></p><p>OBLIGATION DE <strong>SUIVI</strong></p>",
+            "button_url": "",
+            "button_text": ""
+          }
+        },
+        "item_x6HV6D": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/GIF_-_Benefices.webp",
+            "image_rotation_degrees": -2,
+            "subheading": "",
+            "title": "LumiGlow™",
+            "content": "<p>RÉSULTATS RAPIDES <strong>ET VISIBLES</strong></p><p>CONFORT TOTAL <strong>CHEZ SOI</strong></p><p>UTILISATION <strong>ILLIMITÉE</strong></p><p>SEULEMENT <strong>10 MIN/J</strong></p>",
+            "button_url": "",
+            "button_text": ""
+          }
+        }
+      },
+      "block_order": [
+        "item_A6aGNg",
+        "item_x6HV6D"
+      ],
+      "name": "Multiple images with text",
+      "settings": {
+        "full_width": true,
+        "images_layout": "stacked",
+        "collage_images_alignment": "middle",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "button_background": "",
+        "button_text_color": ""
       }
     },
     "faq_6DDTgy": {
@@ -838,8 +838,8 @@
     "featured_product_n934yq",
     "scrolling_text_7zjtdx",
     "tabs_cieLCk",
-    "multiple_images_with_text_MmYAN6",
     "images_with_text_scrolling_9LkrK4",
+    "multiple_images_with_text_MmYAN6",
     "media_with_text_7YftaR",
     "faq_6DDTgy",
     "contact_YaQhAK"
