@@ -612,8 +612,8 @@
             "image": "shopify://shop_images/Autres.webp",
             "image_rotation_degrees": 1.5,
             "subheading": "",
-            "title": "Les autres",
-            "content": "<p>PERTE DE TEMPS <strong>DÉPLACEMENTS</strong></p><p>DISPONIBILITÉ LIMITÉE <strong>SUR RDV</strong></p><p>TRAITEMENTS <strong>COUTEUX</strong></p><p>OBLIGATION DE <strong>SUIVI</strong></p>",
+            "title": "Les autres VS.",
+            "content": "<ol><li>Perte de temps du aux déplacements </li><li>Disponibilités limitées sur rdv</li><li>Traitement couteux </li><li>Obligation de suivi</li></ol>",
             "button_url": "",
             "button_text": ""
           }
