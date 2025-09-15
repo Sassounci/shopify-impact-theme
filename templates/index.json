@@ -587,6 +587,22 @@
         "heading_gradient": ""
       }
     },
+    "scrolling_text_7zjtdx": {
+      "type": "scrolling-text",
+      "name": "Scrolling text",
+      "settings": {
+        "full_width": true,
+        "text": "Promotion Ultra Spéciale",
+        "text_size": "medium",
+        "text_style": "fill",
+        "scrolling_mode": "auto",
+        "scrolling_speed": 18,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "text_gradient": ""
+      }
+    },
     "media_with_text_7YftaR": {
       "type": "media-with-text",
       "blocks": {
@@ -778,6 +794,7 @@
     "featured_product_n934yq",
     "tabs_cieLCk",
     "images_with_text_scrolling_9LkrK4",
+    "scrolling_text_7zjtdx",
     "media_with_text_7YftaR",
     "faq_6DDTgy",
     "contact_YaQhAK"
