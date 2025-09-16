@@ -8,803 +8,6 @@
  * ------------------------------------------------------------
  */
 {
-  "sections": {
-    "slideshow": {
-      "type": "slideshow",
-      "blocks": {
-        "slide-2": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/Banniere_Desktop.png",
-            "mobile_image": "shopify://shop_images/ChatGPT_Image_14_sept._2025_18_25_04.png",
-            "content_max_width": 780,
-            "mobile_text_position": "place-self-center text-center",
-            "desktop_text_position": "sm:place-self-center sm:text-center",
-            "subheading": "",
-            "title": "Complexée par vos rides ? Effacez 10 ans en 15 minutes !",
-            "heading_tag": "h1",
-            "button_text": "",
-            "button_link": "",
-            "text_color": "#ffffff",
-            "button_background": "#ffffff",
-            "button_text_color": "#000000",
-            "overlay_color": "#000000",
-            "overlay_opacity": 20,
-            "background": "",
-            "background_gradient": ""
-          }
-        }
-      },
-      "block_order": [
-        "slide-2"
-      ],
-      "settings": {
-        "full_width": true,
-        "allow_transparent_header": true,
-        "image_size": "auto",
-        "controls_type": "numbers",
-        "transition_type": "fade_with_text",
-        "autoplay": true,
-        "cycle_speed": 6,
-        "background": "#f2f2f2",
-        "background_gradient": "linear-gradient(60deg, rgba(60, 65, 68, 1), rgba(23, 29, 33, 1) 98%)"
-      }
-    },
-    "logo_list_HpL7Cp": {
-      "type": "logo-list",
-      "blocks": {
-        "logo_zWAg3Q": {
-          "type": "logo",
-          "settings": {
-            "logo": "shopify://shop_images/Elle.png",
-            "logo_width": 120,
-            "link": ""
-          }
-        },
-        "logo_7tbyhK": {
-          "type": "logo",
-          "settings": {
-            "logo": "shopify://shop_images/Vogue.png",
-            "logo_width": 120,
-            "link": ""
-          }
-        },
-        "logo_cLr9zR": {
-          "type": "logo",
-          "settings": {
-            "logo": "shopify://shop_images/Comopolitan.png",
-            "logo_width": 120,
-            "link": ""
-          }
-        },
-        "logo_XHCd9y": {
-          "type": "logo",
-          "settings": {
-            "logo": "shopify://shop_images/Marie_Claire.png",
-            "logo_width": 120,
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "logo_zWAg3Q",
-        "logo_7tbyhK",
-        "logo_cLr9zR",
-        "logo_XHCd9y"
-      ],
-      "name": "Logo list",
-      "settings": {
-        "full_width": true,
-        "stack_mobile": true,
-        "title": "Vu sur",
-        "content": "",
-        "text_alignment": "center",
-        "items_per_row": 5,
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "heading_color": "",
-        "heading_gradient": "",
-        "logo_item_background": "",
-        "logo_item_border": ""
-      }
-    },
-    "rich_text_bGkKLw": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_7TaE69": {
-          "type": "heading",
-          "settings": {
-            "text": "Pourquoi choisir notre thérapie par lumière ?",
-            "heading_tag": "h4",
-            "text_color": "",
-            "gradient": ""
-          }
-        }
-      },
-      "block_order": [
-        "heading_7TaE69"
-      ],
-      "name": "Rich text",
-      "settings": {
-        "full_width": true,
-        "content_width": "small",
-        "text_position": "center",
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
-      }
-    },
-    "image_with_text_overlay_FtfCx3": {
-      "type": "image-with-text-overlay",
-      "name": "Image with text overlay",
-      "settings": {
-        "full_width": true,
-        "allow_transparent_header": false,
-        "enable_parallax": false,
-        "image_size": "auto",
-        "image": "shopify://shop_images/Benefices_9.png",
-        "mobile_image": "shopify://shop_images/Benefices_9.png",
-        "mobile_text_position": "place-self-center text-center",
-        "desktop_text_position": "sm:place-self-center sm:text-center",
-        "text_color": "#ffffff",
-        "overlay_color": "#000000",
-        "overlay_opacity": 0
-      }
-    },
-    "multi_column_PwJXgK": {
-      "type": "multi-column",
-      "blocks": {
-        "item_88HGTn": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/1_b78e1b75-ee6a-44a9-9215-f20f25ee2938.webp",
-            "column_size": "3",
-            "title": "",
-            "heading_tag": "h4",
-            "content": "",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_FNLYyw": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/5.webp",
-            "column_size": "3",
-            "title": "",
-            "heading_tag": "h4",
-            "content": "",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_U7P9x3": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/2_fbf0ff7f-c247-46bb-a1a3-64bccab0410c.webp",
-            "column_size": "3",
-            "title": "",
-            "heading_tag": "h4",
-            "content": "",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_gQB6Y7": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/4_a153af27-88ab-43fe-af2e-8efdce82151a.webp",
-            "column_size": "3",
-            "title": "",
-            "heading_tag": "h4",
-            "content": "",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_ktAb8d": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/3_525deb09-563d-47f7-8590-e7da3957c68c.webp",
-            "column_size": "3",
-            "title": "",
-            "heading_tag": "h4",
-            "content": "",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        }
-      },
-      "block_order": [
-        "item_88HGTn",
-        "item_FNLYyw",
-        "item_U7P9x3",
-        "item_gQB6Y7",
-        "item_ktAb8d"
-      ],
-      "name": "Multi-column",
-      "settings": {
-        "full_width": true,
-        "stack_on_mobile": false,
-        "gap": "medium",
-        "text_alignment": "center",
-        "subheading": "",
-        "title": "Des résultats concrèts",
-        "content": "",
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
-      }
-    },
-    "multi_column_t4KV3H": {
-      "type": "multi-column",
-      "blocks": {
-        "item_AVabeV": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/group31.webp",
-            "column_size": "3",
-            "title": "Françoise",
-            "heading_tag": "h4",
-            "content": "<p>À 58 ans, j'étais sceptique mais après 6 semaines, mes rides sont visiblement atténuées et mon teint beaucoup plus uniforme. Mes amies me demandent quel est mon secret ! Pour 199€, ce masque fait des miracles.</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_ahMUBL": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/group32.webp",
-            "column_size": "3",
-            "title": "Sophie",
-            "heading_tag": "h4",
-            "content": "<p>Mes rides du coin de l'œil me complexaient énormément. Après 5 semaines avec mon masque, elles sont nettement moins marquées et ma peau est plus lisse. Je n'arrive pas à croire que ce soit si efficace ! Mon mari a même remarqué la différence. Les 200€ sont largement justifiés.</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_k9Bfed": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/group33.webp",
-            "column_size": "3",
-            "title": "Amélie",
-            "heading_tag": "h4",
-            "content": "<p>J'avais des rougeurs persistantes et des taches qui me gênaient énormément. En 3 semaines avec Lumiglo, ma peau est apaisée et mon teint beaucoup plus uniforme. Les rougeurs ont quasi disparu ! Je retrouve enfin confiance en moi sans maquillage.</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_Jr44Wf": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/group34.webp",
-            "column_size": "3",
-            "title": "Christine",
-            "heading_tag": "h4",
-            "content": "<p>Mes rides me vieillissaient énormément et mes cernes étaient très marqués. Après 2 mois d'utilisation du masque, la transformation est saisissante ! Ma peau est plus ferme, mes traits sont lissés et je parais 5 ans de moins. Investissement rentabilisé !</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_HQrFLT": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/group35.webp",
-            "column_size": "3",
-            "title": "Laura",
-            "heading_tag": "h4",
-            "content": "<p>J'avais des taches pigmentaires et des cicatrices d'acné qui me complexaient depuis des années. En 4 semaines ma peau est transformée ! Le teint est unifié, les imperfections estompées et l'éclat naturel est revenu. Je ne pensais pas que ce serait si efficace !</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_AwHKyL": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/group36.webp",
-            "column_size": "3",
-            "title": "Valérie",
-            "heading_tag": "h4",
-            "content": "<p>Mes rides et mes cernes creusés me donnaient un air fatigué en permanence. Après 7 semaines d'utilisation, mon visage est raffermit et mes traits sont lissés. Je retrouve un air reposé et plus jeune ! Mes collègues me font des compliments.</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_ErV6Wb": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/group37.webp",
-            "column_size": "3",
-            "title": "Sandrine",
-            "heading_tag": "h4",
-            "content": "<p>Les rides autour de mes yeux me complexaient vraiment, surtout quand je souriais. En 5 semaines, elles se sont nettement estompées et ma peau paraît plus jeune. C'est exactement ce que j'espérais ! Même mon esthéticienne m'a demandé ce que j'avais fait.</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_b8TkiT": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/group38.webp",
-            "column_size": "3",
-            "title": "Océane",
-            "heading_tag": "h4",
-            "content": "<p>Mon acné inflammatoire me gâchait la vie depuis des années. J'ai tout essayé sans succès. En 6 semaines, les rougeurs ont diminué et les boutons se résorbent beaucoup mieux. Ma peau est apaisée et j'ose enfin sortir sans fond de teint ! Un vrai soulagement.</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        }
-      },
-      "block_order": [
-        "item_AVabeV",
-        "item_ahMUBL",
-        "item_k9Bfed",
-        "item_Jr44Wf",
-        "item_HQrFLT",
-        "item_AwHKyL",
-        "item_ErV6Wb",
-        "item_b8TkiT"
-      ],
-      "name": "Multi-column",
-      "settings": {
-        "full_width": true,
-        "stack_on_mobile": false,
-        "gap": "small",
-        "text_alignment": "center",
-        "subheading": "",
-        "title": "Nos clientes en parlent le mieux",
-        "content": "",
-        "background": "#121212",
-        "background_gradient": "",
-        "text_color": "#ffffff"
-      }
-    },
-    "featured_product_n934yq": {
-      "type": "featured-product",
-      "blocks": {
-        "liquid_M8G7rx": {
-          "type": "liquid",
-          "settings": {
-            "liquid": "<!DOCTYPE html>\n<html>\n<head>\n<style>\n:root {\n  --social-proof-text-color: #000000;\n  --social-proof-star-color: #007f4e;\n}\n\n.social-proof-slide__block-rating {\n    display: flex;\n    align-items: center;\n    justify-content: flex-start;\nfont-size: 14px;\n}\n\n.social-proof-slide__block-stars {\n    display: flex;\n    margin-right: 8px;\n    color: var(--social-proof-star-color);\n}\n\n.social-proof-slide__block-rating-text {\n    display: inline;\n    color: var(--social-proof-text-color);\n    content: var(--social-proof-rating-text);\n}\n\n.social-proof-star {\n    margin: 0;\n    padding: 0;\n    display: flex;\n    justify-content: center;\n    align-items: center;\n    width: 16px;\n    height: 16px;\n}\n\n.social-proof-star svg {\n    width: 16px;\n    height: 16px;\n    fill: var(--social-proof-star-color);\n}\n</style>\n</head>\n<body>\n\n<div class=\"social-proof-slide__block-rating mt-2\">\n  <span class=\"social-proof-slide__block-stars\">\n    <span class=\"social-proof-star\">\n      <svg xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <svg class=\"w-[16px] h-[16px]\" fill=\"currentColor\" stroke=\"currentColor\" xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <path d=\"M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z\"></path>\n      </svg>\n    </span>\n<span class=\"social-proof-star\">\n      <svg xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <svg class=\"w-[16px] h-[16px]\" fill=\"currentColor\" stroke=\"currentColor\" xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <path d=\"M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z\"></path>\n      </svg>\n    </span>\n<span class=\"social-proof-star\">\n      <svg xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <svg class=\"w-[16px] h-[16px]\" fill=\"currentColor\" stroke=\"currentColor\" xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <path d=\"M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z\"></path>\n      </svg>\n    </span>\n<span class=\"social-proof-star\">\n      <svg xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <svg class=\"w-[16px] h-[16px]\" fill=\"currentColor\" stroke=\"currentColor\" xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <path d=\"M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z\"></path>\n      </svg>\n    </span>\n<span class=\"social-proof-star\">\n      <svg xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <svg class=\"w-[16px] h-[16px]\" fill=\"currentColor\" stroke=\"currentColor\" xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <path d=\"M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z\"></path>\n      </svg>\n    </span>\n  </span>\n  <span class=\"social-proof-slide__block-rating-text\">\n    Noté 4.8 par 1500+ femmes !\n  </span>\n</div>\n\n</body>\n</html>"
-          }
-        },
-        "title_rwQPk4": {
-          "type": "title",
-          "settings": {
-            "heading_tag": "h3"
-          }
-        },
-        "text_FV3Law": {
-          "type": "text",
-          "settings": {
-            "text": "<ul><li>Dites adieux aux rides</li><li>Elimine l'acné et points noirs </li><li>Résultats visibles et concrets </li><li>Améliore l'élasticité et la fermeté</li></ul>"
-          }
-        },
-        "image_HbA4dM": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/Promo_de_Printemps_4.png",
-            "alignment": "start",
-            "max_width": 500
-          }
-        },
-        "price_MQNRGg": {
-          "type": "price",
-          "settings": {
-            "show_taxes_notice": false
-          }
-        },
-        "liquid_FXTyqK": {
-          "type": "liquid",
-          "settings": {
-            "liquid": "<style>\n  .blink {\n    animation: blink-animation 1.5s steps(5, start) infinite;\n    color: red;\n    display: inline-block; /* Display as inline-block */\n    vertical-align: middle; /* Align vertically to middle */\n    font-size: 10px; /* Set font size */\n  }\n\n  @keyframes blink-animation {\n    to {\n      visibility: hidden;\n    }\n  }\n\n  .red-div {\n    background-color: #ffcccc;\n    padding: 2px 10px; /* 6px vertical, 10px horizontal */\n    border-radius: 8px; /* Rounded corners */\n    display: inline-block; /* Display as inline-block */\n    text-align: center; /* Center align the content */\n    margin: 0 auto; /* Horizontally center the red-div */\n  }\n\n  .text {\n    display: inline-block; /* Display as inline-block */\n    vertical-align: middle; /* Align vertically to middle */\n    margin-left: 10px; /* Add some space between the dot and the text */\n    color: #AD0000; /* Text color */\n    font-weight: 500; /* Medium font weight */\n    font-size: 12px; /* Set font size */\n    text-align: justify; /* Justify the text to the center */\n  }\n</style>\n\n<div class=\"red-div\">\n  <div class=\"blink\">&#9679;</div>\n  <div class=\"text\">3 masques en stock</div>\n</div>"
-          }
-        },
-        "image_4MYrtC": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/Ajouter_un_sous-titre_18.png",
-            "alignment": "start",
-            "max_width": 500
-          }
-        },
-        "buy_buttons_RAhpTR": {
-          "type": "buy_buttons",
-          "settings": {
-            "show_payment_button": false,
-            "show_gift_card_recipient": true,
-            "atc_button_background": "",
-            "atc_button_text_color": "",
-            "payment_button_background": "",
-            "payment_button_text_color": ""
-          }
-        },
-        "offer_8tMtUa": {
-          "type": "offer",
-          "settings": {
-            "text_alignment": "start",
-            "icon_position": "aligned",
-            "icon": "picto-return",
-            "icon_width": 24,
-            "title": "Garantie de remboursement de 30 jours !",
-            "content": "<p>C'est dire à quel point nous sommes confiants dans vos résultats. Nous vous couvrons. Si vous n'obtenez pas de résultats visibles dans les 30 jours, il vous suffit de nous contacter pour obtenir un remboursement complet, sans aucune question.</p>",
-            "background": "#eaf2ed",
-            "text_color": "#00a341"
-          }
-        }
-      },
-      "block_order": [
-        "liquid_M8G7rx",
-        "title_rwQPk4",
-        "text_FV3Law",
-        "image_HbA4dM",
-        "price_MQNRGg",
-        "liquid_FXTyqK",
-        "image_4MYrtC",
-        "buy_buttons_RAhpTR",
-        "offer_8tMtUa"
-      ],
-      "name": "Featured product",
-      "settings": {
-        "full_width": true,
-        "product": "masque-anti-age-lumiglow™",
-        "desktop_media_width": 55,
-        "desktop_media_layout": "carousel_thumbnails_left",
-        "mobile_media_size": "expanded",
-        "mobile_carousel_control": "thumbnails",
-        "enable_video_autoplay": true,
-        "enable_video_looping": false,
-        "enable_image_zoom": true,
-        "max_image_zoom_level": 3,
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "input_background": "rgba(0,0,0,0)",
-        "input_text_color": ""
-      }
-    },
-    "scrolling_text_7zjtdx": {
-      "type": "scrolling-text",
-      "name": "Scrolling text",
-      "settings": {
-        "full_width": true,
-        "text": "Promotion Ultra Spéciale",
-        "text_size": "medium",
-        "text_style": "fill",
-        "scrolling_mode": "auto",
-        "scrolling_speed": 18,
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "text_gradient": ""
-      }
-    },
-    "tabs_cieLCk": {
-      "type": "tabs",
-      "blocks": {
-        "tab_XUAtCC": {
-          "type": "tab",
-          "settings": {
-            "title": "Essayez-le 30 jours gratuitement",
-            "content": "<p>Essayez votre masque LumiGlow sans risque <strong>pendant 30 jours</strong>. Si vous n'êtes pas complètement satisfaite de votre sérum vous avez la possibilité de le retourner et <strong>vous recevrez un remboursement intégral</strong>.</p>",
-            "page": ""
-          }
-        },
-        "tab_NDrjnP": {
-          "type": "tab",
-          "settings": {
-            "title": "Comment l'utiliser",
-            "content": "<h3>COMMENT UTILISER VOTRE MASQUE LED</h3><h4><strong>ÉTAPE 1 : PRÉPARATION</strong> </h4><p>Nettoyez votre visage avec votre démaquillant habituel. Séchez délicatement votre peau avec une serviette propre. Une peau propre optimise la pénétration de la lumière LED.</p><h4><strong>ÉTAPE 2 : POSITIONNEMENT</strong> </h4><p>Placez le masque confortablement sur votre visage. Ajustez les sangles pour un maintien parfait sans pression excessive. Vos yeux doivent être bien protégés par les coques intégrées.</p><h4><strong>ÉTAPE 3 : ACTIVATION</strong> </h4><p>Appuyez sur le bouton d'alimentation. Sélectionnez votre programme (débutant : 10 min, expert : 20 min). Relaxez-vous pendant que les LED travaillent. Vous pouvez regarder la télé, lire ou méditer.</p><h4><strong>ÉTAPE 4 : FINALISATION</strong> </h4><p>Une fois la séance terminée, retirez le masque. Appliquez votre crème hydratante habituelle pour maximiser les bénéfices. Nettoyez le masque avec un chiffon doux.</p><h2><strong>FRÉQUENCE RECOMMANDÉE</strong></h2><p><strong>PHASE INTENSIVE (4 premières semaines) :</strong></p><ul><li>3 à 4 séances par semaine</li><li>15-20 minutes par séance</li><li>Résultats visibles dès 7 jours</li></ul><p><strong>PHASE D'ENTRETIEN (après 1 mois) :</strong></p><ul><li>2 à 3 séances par semaine</li><li>20 minutes par séance</li><li>Maintien des résultats à long terme</li></ul><h2><strong>QUAND L'UTILISER ?</strong></h2><p><strong>LE SOIR (RECOMMANDÉ) :</strong><br/>Idéal après votre routine de démaquillage. Moment de détente avant le coucher. Votre peau se régénère pendant la nuit.</p><p><strong>LE MATIN :</strong><br/>Parfait pour démarrer la journée avec un teint éclatant. Boost d'énergie naturel. Prépare votre peau au maquillage.</p>",
-            "page": ""
-          }
-        },
-        "tab_jitWPe": {
-          "type": "tab",
-          "settings": {
-            "title": "Livraison gratuite à domicile",
-            "content": "<p>La livraison gratuite à domicile est gratuite. Selon le volume de commandes à traiter, le délai de livraison est estimé entre 5 et 8 jours ouvrés.</p>",
-            "page": ""
-          }
-        },
-        "tab_kPWDk7": {
-          "type": "tab",
-          "settings": {
-            "title": "Service client 7J/7",
-            "content": "<p>Votre équipe est à votre disposition pour répondre à vos questions sept jours sur sept.</p><p>Vous pouvez nous contacter par email aux horaires suivants : du lundi au vendredi de 9h à 12h et de 14h à 18h, et le samedi et dimanche de 10h à 12h. N'hésitez pas à nous joindre.</p>",
-            "page": ""
-          }
-        }
-      },
-      "block_order": [
-        "tab_XUAtCC",
-        "tab_NDrjnP",
-        "tab_jitWPe",
-        "tab_kPWDk7"
-      ],
-      "name": "Tabs",
-      "settings": {
-        "full_width": true,
-        "content_size": "medium",
-        "subheading": "",
-        "title": "",
-        "first_tab_open": false,
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "heading_color": "",
-        "heading_gradient": ""
-      }
-    },
-    "images_with_text_scrolling_9LkrK4": {
-      "type": "images-with-text-scrolling",
-      "blocks": {
-        "item_Q94EfF": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/Design_sans_titre_36.png",
-            "icon": "none",
-            "icon_width": 48,
-            "title": "ARRÊTEZ DE SUBIR LE TEMPS QUI PASSE",
-            "content": "<p>Vous en avez assez de voir vos rides se creuser chaque matin dans le miroir ? De vous sentir vieillir plus vite que vos amies du même âge ?</p><p>Le masque LED LumiGlow agit là où vos crèmes ont échoué : <strong>en profondeur</strong>, directement sur vos cellules. Sa lumière rouge réveille votre production naturelle de collagène, comme si vous rembobiniez le temps.</p><p><strong>Résultat ?</strong> Votre peau retrouve la fermeté et l'éclat de vos 30 ans. Vos rides s'estompent visiblement. Votre entourage remarque que \"vous avez l'air reposée\" sans comprendre pourquoi.</p><p><em>Utilisé 20 minutes, 3 fois par semaine. Simple comme regarder un épisode de série.</em></p>"
-          }
-        },
-        "item_ggf3kL": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/luminotherapie-science.jpg",
-            "icon": "none",
-            "icon_width": 48,
-            "title": "POURQUOI VOS CRÈMES NE MARCHENT PLUS",
-            "content": "<p>À 35 ans, votre production de collagène chute de 1% par an. À 45 ans, vous en avez déjà perdu 15%. C'est mathématique : plus vous attendez, plus c'est difficile de rattraper.</p><p><strong>MAIS IL Y A UNE SOLUTION.</strong></p><p>La photobiomodulation (lumière rouge 660nm + infrarouge 850nm) pénètre jusqu'à 4mm sous votre peau. Elle redémarre littéralement vos \"usines à collagène\" endormies.</p><h3><strong>PREUVES SCIENTIFIQUES :</strong></h3><p><strong>+206% de production de collagène</strong> (Étude clinique 2023)<br/><br/><strong>-43% de profondeur des rides</strong> en 8 semaines<br/><br/><strong>+67% d'élasticité cutanée</strong> mesurée par dermatoscope<br/><br/><strong>+156% d'hydratation</strong> dès 4 semaines</p><p><em>Ces résultats ne sont pas des promesses, ce sont des faits mesurés scientifiquement.</em></p>"
-          }
-        },
-        "item_8YMBLa": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/doctorwoman.jpg",
-            "icon": "none",
-            "icon_width": 48,
-            "title": "\"MES PATIENTES ME SUPPLIENT DE LEUR DONNER LE SECRET\"",
-            "content": "<p><em>\"Depuis que je recommande LumiGlow, mes patientes de 40-50 ans obtiennent des résultats que je ne voyais qu'avec des traitements à 800€ la séance.\"</em></p><p><em>\"Les longueurs d'onde 660nm et 850nm sont exactement celles que j'utilise dans mon cabinet médical. La différence ? Elles peuvent désormais avoir ces résultats chez elles, quand elles veulent.\"</em></p><p><em>\"Franchement, si j'avais su que cette technologie serait accessible au grand public, j'aurais investi dedans pour ma propre mère. C'est révolutionnaire.\"</em></p><p><strong>Dr. Sophie MARTIN</strong></p>"
-          }
-        }
-      },
-      "block_order": [
-        "item_Q94EfF",
-        "item_ggf3kL",
-        "item_8YMBLa"
-      ],
-      "name": "Images and text scrolling",
-      "settings": {
-        "full_width": true,
-        "stack_on_mobile": true,
-        "show_counter": true,
-        "desktop_image_effect": "reveal",
-        "image_position": "end",
-        "background": "#121212",
-        "background_gradient": "",
-        "text_color": "#ffffff",
-        "heading_color": "",
-        "heading_gradient": ""
-      }
-    },
-    "multiple_images_with_text_MmYAN6": {
-      "type": "multiple-images-with-text",
-      "blocks": {
-        "item_A6aGNg": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/Autres.webp",
-            "image_rotation_degrees": 1.5,
-            "subheading": "",
-            "title": "Les autres VS.",
-            "content": "<ol><li>Perte de temps du aux déplacements </li><li>Disponibilités limitées sur rdv</li><li>Traitement couteux </li><li>Obligation de suivi</li></ol>",
-            "button_url": "",
-            "button_text": ""
-          }
-        },
-        "item_x6HV6D": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/GIF_-_Benefices.webp",
-            "image_rotation_degrees": -2,
-            "subheading": "",
-            "title": "LumiGlow™",
-            "content": "<ol><li>Résultats rapides et visibles </li><li>Confort total chez soi</li><li>Utilisation illimitée</li><li>seulement 10min/j</li></ol>",
-            "button_url": "",
-            "button_text": ""
-          }
-        }
-      },
-      "block_order": [
-        "item_A6aGNg",
-        "item_x6HV6D"
-      ],
-      "name": "Multiple images with text",
-      "settings": {
-        "full_width": true,
-        "images_layout": "stacked",
-        "collage_images_alignment": "middle",
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "button_background": "",
-        "button_text_color": ""
-      }
-    },
-    "media_with_text_7YftaR": {
-      "type": "media-with-text",
-      "blocks": {
-        "image_YNWNPj": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/2.png",
-            "media_width": 50,
-            "media_position": "start",
-            "text_position": "place-self-center-start text-start",
-            "icon": "none",
-            "icon_width": 48,
-            "subheading": "",
-            "title": "Essayez Le masque LumiGlow™  en toute confiance avec notre garantie sérénité.",
-            "content": "<p>Les spécialistes et nos clientes régulières le confirment :<br/><br/><strong>Le masque LumiGlow™ SORA offre un effet visible inratable.</strong><br/><br/>Mais si vous ne constatez <strong>aucune amélioration</strong> ou si le produit <strong>ne vous convient pas</strong>,<br/><br/>vous bénéficiez d’une <strong>garantie satisfait ou remboursé pendant 30 jours</strong>.</p>",
-            "link_text": "",
-            "link_url": "",
-            "background": "#121212",
-            "background_gradient": "",
-            "text_color": "#ffffff",
-            "text_gradient": "",
-            "button_background": "",
-            "button_text_color": ""
-          }
-        }
-      },
-      "block_order": [
-        "image_YNWNPj"
-      ],
-      "name": "Media with text",
-      "settings": {
-        "full_width": false,
-        "spacing": "small"
-      }
-    },
-    "faq_6DDTgy": {
-      "type": "faq",
-      "blocks": {
-        "item_nRmkVU": {
-          "type": "item",
-          "settings": {
-            "title": "Est-ce que ça fonctionne vraiment ?",
-            "content": "<p>Absolument ! La technologie LumiGlow utilise les mêmes longueurs d'onde LED (660nm + 850nm) que les dermatologues depuis 30 ans. Ces fréquences pénètrent jusqu'à 4mm sous la peau et relancent naturellement votre production de collagène. 94% de nos utilisatrices voient des résultats dès 4 semaines. C'est de la science, pas de la magie.</p>"
-          }
-        },
-        "item_bk7UbM": {
-          "type": "item",
-          "settings": {
-            "title": "Quand vais-je voir les premiers résultats ?",
-            "content": "<p><strong>7-10 jours</strong> : Teint plus éclatant, peau plus douce</p><p><strong>3-4 semaines</strong> : Rides fines atténuées, fermeté améliorée</p><p><strong>6-8 semaines</strong> : Transformation visible, peau rajeunie de 5 ans<br/>Pour des résultats durables : 3 séances de 20 minutes par semaine minimum.</p>"
-          }
-        },
-        "item_taMrx3": {
-          "type": "item",
-          "settings": {
-            "title": "Combien de temps durent les résultats ?",
-            "content": "<p>Avec un entretien de 2-3 séances par semaine, les résultats se maintiennent indéfiniment. Sans entretien, votre peau retrouve progressivement son état initial en 3-6 mois. C'est comme le sport : l'arrêt total annule les bénéfices.</p>"
-          }
-        },
-        "item_gUKjBY": {
-          "type": "item",
-          "settings": {
-            "title": "Ça marche à tout âge ?",
-            "content": "<p>Oui, de 25 à 75 ans ! Plus tôt vous commencez, mieux c'est. À 25-35 ans : prévention. À 35-55 ans : correction des premiers signes. À 55+ ans : rajeunissement visible. Nos utilisatrices les plus âgées obtiennent d'excellents résultats.</p>"
-          }
-        },
-        "item_WWcpqn": {
-          "type": "item",
-          "settings": {
-            "title": "Est-ce douloureux ou dangereux ?",
-            "content": "<p>Zéro douleur, zéro danger. Vous ressentez juste une légère chaleur agréable. Contrairement aux traitements invasifs, aucun temps de récupération nécessaire. Pas d'UV nocifs, pas de risque de brûlure. Technologie 100% naturelle approuvée par les dermatologues.</p>"
-          }
-        },
-        "item_qqBjPh": {
-          "type": "item",
-          "settings": {
-            "title": "Puis-je l'utiliser enceinte ou allaitante ?",
-            "content": "<p>Par précaution, nous déconseillons l'usage pendant la grossesse et l'allaitement, faute d'études spécifiques. Mieux vaut attendre - votre peau vous remerciera après !</p>"
-          }
-        },
-        "item_dbtTXp": {
-          "type": "item",
-          "settings": {
-            "title": "Interactions avec mes traitements ?",
-            "content": "<p>Compatible avec 99% des traitements. Seule contre-indication : traitements photosensibilisants lourds. En cas de doute, montrez cette FAQ à votre médecin - il connaît cette technologie.</p>"
-          }
-        },
-        "item_fUQCh3": {
-          "type": "item",
-          "settings": {
-            "title": "Quel est le délai de livraison ?",
-            "content": "<p>Livraison gratuite entre 5 et 8 jours en France métropolitaine. Email de suivi automatique dès expédition.</p>"
-          }
-        },
-        "item_YN4cWW": {
-          "type": "item",
-          "settings": {
-            "title": "Comment je sais que c'est authentique ?",
-            "content": "<p>Seul notre site garantit l'authenticité. Toute vente sur Amazon/autres plateformes = contrefaçons dangereuses.</p>"
-          }
-        }
-      },
-      "block_order": [
-        "item_nRmkVU",
-        "item_bk7UbM",
-        "item_taMrx3",
-        "item_gUKjBY",
-        "item_WWcpqn",
-        "item_qqBjPh",
-        "item_dbtTXp",
-        "item_fUQCh3",
-        "item_YN4cWW"
-      ],
-      "name": "FAQ",
-      "settings": {
-        "full_width": true,
-        "subheading": "",
-        "title": "QUESTIONS FRÉQUEMMENT POSÉES",
-        "content": "",
-        "team_avatar_width": 160,
-        "support_hours": "",
-        "answer_time": "",
-        "button_text": "",
-        "button_url": "",
-        "text_position": "start",
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "heading_color": "",
-        "heading_gradient": "",
-        "button_background": "",
-        "button_text_color": "",
-        "accordion_background": "",
-        "accordion_text_color": ""
-      }
-    },
-    "contact_YaQhAK": {
-      "type": "contact",
-      "name": "Contact form",
-      "settings": {
-        "full_width": true,
-        "subheading": "Notre service clientèle est disponible 7 jours sur 7. Temps de réponse moyen : 24h",
-        "title": "Une question ?",
-        "content": "<p>Du Lun au Ven de 9h à 12h et de 14h à 18h / Sam et Dim de 10h à 12h<br/></p>",
-        "text_position": "start",
-        "contact_form_size": "large",
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "heading_color": "",
-        "heading_gradient": "",
-        "contact_background": "",
-        "contact_text_color": "",
-        "button_background": "",
-        "button_text_color": ""
-      }
-    }
-  },
   "order": [
     "slideshow",
     "logo_list_HpL7Cp",
@@ -820,5 +23,802 @@
     "media_with_text_7YftaR",
     "faq_6DDTgy",
     "contact_YaQhAK"
-  ]
+  ],
+  "sections": {
+    "contact_YaQhAK": {
+      "name": "Contact form",
+      "settings": {
+        "background": "",
+        "background_gradient": "",
+        "button_background": "",
+        "button_text_color": "",
+        "contact_background": "",
+        "contact_form_size": "large",
+        "contact_text_color": "",
+        "content": "<p>Du Lun au Ven de 9h à 12h et de 14h à 18h / Sam et Dim de 10h à 12h<br/></p>",
+        "full_width": true,
+        "heading_color": "",
+        "heading_gradient": "",
+        "subheading": "Notre service clientèle est disponible 7 jours sur 7. Temps de réponse moyen : 24h",
+        "text_color": "",
+        "text_position": "start",
+        "title": "Une question ?"
+      },
+      "type": "contact"
+    },
+    "faq_6DDTgy": {
+      "block_order": [
+        "item_nRmkVU",
+        "item_bk7UbM",
+        "item_taMrx3",
+        "item_gUKjBY",
+        "item_WWcpqn",
+        "item_qqBjPh",
+        "item_dbtTXp",
+        "item_fUQCh3",
+        "item_YN4cWW"
+      ],
+      "blocks": {
+        "item_WWcpqn": {
+          "settings": {
+            "content": "<p>Zéro douleur, zéro danger. Vous ressentez juste une légère chaleur agréable. Contrairement aux traitements invasifs, aucun temps de récupération nécessaire. Pas d'UV nocifs, pas de risque de brûlure. Technologie 100% naturelle approuvée par les dermatologues.</p>",
+            "title": "Est-ce douloureux ou dangereux ?"
+          },
+          "type": "item"
+        },
+        "item_YN4cWW": {
+          "settings": {
+            "content": "<p>Seul notre site garantit l'authenticité. Toute vente sur Amazon/autres plateformes = contrefaçons dangereuses.</p>",
+            "title": "Comment je sais que c'est authentique ?"
+          },
+          "type": "item"
+        },
+        "item_bk7UbM": {
+          "settings": {
+            "content": "<p><strong>7-10 jours</strong> : Teint plus éclatant, peau plus douce</p><p><strong>3-4 semaines</strong> : Rides fines atténuées, fermeté améliorée</p><p><strong>6-8 semaines</strong> : Transformation visible, peau rajeunie de 5 ans<br/>Pour des résultats durables : 3 séances de 20 minutes par semaine minimum.</p>",
+            "title": "Quand vais-je voir les premiers résultats ?"
+          },
+          "type": "item"
+        },
+        "item_dbtTXp": {
+          "settings": {
+            "content": "<p>Compatible avec 99% des traitements. Seule contre-indication : traitements photosensibilisants lourds. En cas de doute, montrez cette FAQ à votre médecin - il connaît cette technologie.</p>",
+            "title": "Interactions avec mes traitements ?"
+          },
+          "type": "item"
+        },
+        "item_fUQCh3": {
+          "settings": {
+            "content": "<p>Livraison gratuite entre 5 et 8 jours en France métropolitaine. Email de suivi automatique dès expédition.</p>",
+            "title": "Quel est le délai de livraison ?"
+          },
+          "type": "item"
+        },
+        "item_gUKjBY": {
+          "settings": {
+            "content": "<p>Oui, de 25 à 75 ans ! Plus tôt vous commencez, mieux c'est. À 25-35 ans : prévention. À 35-55 ans : correction des premiers signes. À 55+ ans : rajeunissement visible. Nos utilisatrices les plus âgées obtiennent d'excellents résultats.</p>",
+            "title": "Ça marche à tout âge ?"
+          },
+          "type": "item"
+        },
+        "item_nRmkVU": {
+          "settings": {
+            "content": "<p>Absolument ! La technologie LumiGlow utilise les mêmes longueurs d'onde LED (660nm + 850nm) que les dermatologues depuis 30 ans. Ces fréquences pénètrent jusqu'à 4mm sous la peau et relancent naturellement votre production de collagène. 94% de nos utilisatrices voient des résultats dès 4 semaines. C'est de la science, pas de la magie.</p>",
+            "title": "Est-ce que ça fonctionne vraiment ?"
+          },
+          "type": "item"
+        },
+        "item_qqBjPh": {
+          "settings": {
+            "content": "<p>Par précaution, nous déconseillons l'usage pendant la grossesse et l'allaitement, faute d'études spécifiques. Mieux vaut attendre - votre peau vous remerciera après !</p>",
+            "title": "Puis-je l'utiliser enceinte ou allaitante ?"
+          },
+          "type": "item"
+        },
+        "item_taMrx3": {
+          "settings": {
+            "content": "<p>Avec un entretien de 2-3 séances par semaine, les résultats se maintiennent indéfiniment. Sans entretien, votre peau retrouve progressivement son état initial en 3-6 mois. C'est comme le sport : l'arrêt total annule les bénéfices.</p>",
+            "title": "Combien de temps durent les résultats ?"
+          },
+          "type": "item"
+        }
+      },
+      "name": "FAQ",
+      "settings": {
+        "accordion_background": "",
+        "accordion_text_color": "",
+        "answer_time": "",
+        "background": "",
+        "background_gradient": "",
+        "button_background": "",
+        "button_text": "",
+        "button_text_color": "",
+        "button_url": "",
+        "content": "",
+        "full_width": true,
+        "heading_color": "",
+        "heading_gradient": "",
+        "subheading": "",
+        "support_hours": "",
+        "team_avatar_width": 160,
+        "text_color": "",
+        "text_position": "start",
+        "title": "QUESTIONS FRÉQUEMMENT POSÉES"
+      },
+      "type": "faq"
+    },
+    "featured_product_n934yq": {
+      "block_order": [
+        "liquid_M8G7rx",
+        "title_rwQPk4",
+        "text_FV3Law",
+        "image_HbA4dM",
+        "price_MQNRGg",
+        "liquid_FXTyqK",
+        "image_4MYrtC",
+        "buy_buttons_RAhpTR",
+        "offer_8tMtUa"
+      ],
+      "blocks": {
+        "buy_buttons_RAhpTR": {
+          "settings": {
+            "atc_button_background": "",
+            "atc_button_text_color": "",
+            "payment_button_background": "",
+            "payment_button_text_color": "",
+            "show_gift_card_recipient": true,
+            "show_payment_button": false
+          },
+          "type": "buy_buttons"
+        },
+        "image_4MYrtC": {
+          "settings": {
+            "alignment": "start",
+            "image": "shopify://shop_images/Ajouter_un_sous-titre_18.png",
+            "max_width": 500
+          },
+          "type": "image"
+        },
+        "image_HbA4dM": {
+          "settings": {
+            "alignment": "start",
+            "image": "shopify://shop_images/Promo_de_Printemps_4.png",
+            "max_width": 500
+          },
+          "type": "image"
+        },
+        "liquid_FXTyqK": {
+          "settings": {
+            "liquid": "<style>\n  .blink {\n    animation: blink-animation 1.5s steps(5, start) infinite;\n    color: red;\n    display: inline-block; /* Display as inline-block */\n    vertical-align: middle; /* Align vertically to middle */\n    font-size: 10px; /* Set font size */\n  }\n\n  @keyframes blink-animation {\n    to {\n      visibility: hidden;\n    }\n  }\n\n  .red-div {\n    background-color: #ffcccc;\n    padding: 2px 10px; /* 6px vertical, 10px horizontal */\n    border-radius: 8px; /* Rounded corners */\n    display: inline-block; /* Display as inline-block */\n    text-align: center; /* Center align the content */\n    margin: 0 auto; /* Horizontally center the red-div */\n  }\n\n  .text {\n    display: inline-block; /* Display as inline-block */\n    vertical-align: middle; /* Align vertically to middle */\n    margin-left: 10px; /* Add some space between the dot and the text */\n    color: #AD0000; /* Text color */\n    font-weight: 500; /* Medium font weight */\n    font-size: 12px; /* Set font size */\n    text-align: justify; /* Justify the text to the center */\n  }\n</style>\n\n<div class=\"red-div\">\n  <div class=\"blink\">&#9679;</div>\n  <div class=\"text\">3 masques en stock</div>\n</div>"
+          },
+          "type": "liquid"
+        },
+        "liquid_M8G7rx": {
+          "settings": {
+            "liquid": "<!DOCTYPE html>\n<html>\n<head>\n<style>\n:root {\n  --social-proof-text-color: #000000;\n  --social-proof-star-color: #007f4e;\n}\n\n.social-proof-slide__block-rating {\n    display: flex;\n    align-items: center;\n    justify-content: flex-start;\nfont-size: 14px;\n}\n\n.social-proof-slide__block-stars {\n    display: flex;\n    margin-right: 8px;\n    color: var(--social-proof-star-color);\n}\n\n.social-proof-slide__block-rating-text {\n    display: inline;\n    color: var(--social-proof-text-color);\n    content: var(--social-proof-rating-text);\n}\n\n.social-proof-star {\n    margin: 0;\n    padding: 0;\n    display: flex;\n    justify-content: center;\n    align-items: center;\n    width: 16px;\n    height: 16px;\n}\n\n.social-proof-star svg {\n    width: 16px;\n    height: 16px;\n    fill: var(--social-proof-star-color);\n}\n</style>\n</head>\n<body>\n\n<div class=\"social-proof-slide__block-rating mt-2\">\n  <span class=\"social-proof-slide__block-stars\">\n    <span class=\"social-proof-star\">\n      <svg xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <svg class=\"w-[16px] h-[16px]\" fill=\"currentColor\" stroke=\"currentColor\" xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <path d=\"M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z\"></path>\n      </svg>\n    </span>\n<span class=\"social-proof-star\">\n      <svg xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <svg class=\"w-[16px] h-[16px]\" fill=\"currentColor\" stroke=\"currentColor\" xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <path d=\"M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z\"></path>\n      </svg>\n    </span>\n<span class=\"social-proof-star\">\n      <svg xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <svg class=\"w-[16px] h-[16px]\" fill=\"currentColor\" stroke=\"currentColor\" xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <path d=\"M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z\"></path>\n      </svg>\n    </span>\n<span class=\"social-proof-star\">\n      <svg xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <svg class=\"w-[16px] h-[16px]\" fill=\"currentColor\" stroke=\"currentColor\" xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <path d=\"M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z\"></path>\n      </svg>\n    </span>\n<span class=\"social-proof-star\">\n      <svg xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <svg class=\"w-[16px] h-[16px]\" fill=\"currentColor\" stroke=\"currentColor\" xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <path d=\"M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z\"></path>\n      </svg>\n    </span>\n  </span>\n  <span class=\"social-proof-slide__block-rating-text\">\n    Noté 4.8 par 1500+ femmes !\n  </span>\n</div>\n\n</body>\n</html>"
+          },
+          "type": "liquid"
+        },
+        "offer_8tMtUa": {
+          "settings": {
+            "background": "#eaf2ed",
+            "content": "<p>C'est dire à quel point nous sommes confiants dans vos résultats. Nous vous couvrons. Si vous n'obtenez pas de résultats visibles dans les 30 jours, il vous suffit de nous contacter pour obtenir un remboursement complet, sans aucune question.</p>",
+            "icon": "picto-return",
+            "icon_position": "aligned",
+            "icon_width": 24,
+            "text_alignment": "start",
+            "text_color": "#00a341",
+            "title": "Garantie de remboursement de 30 jours !"
+          },
+          "type": "offer"
+        },
+        "price_MQNRGg": {
+          "settings": {
+            "show_taxes_notice": false
+          },
+          "type": "price"
+        },
+        "text_FV3Law": {
+          "settings": {
+            "text": "<ul><li>Dites adieux aux rides</li><li>Elimine l'acné et points noirs </li><li>Résultats visibles et concrets </li><li>Améliore l'élasticité et la fermeté</li></ul>"
+          },
+          "type": "text"
+        },
+        "title_rwQPk4": {
+          "settings": {
+            "heading_tag": "h3"
+          },
+          "type": "title"
+        }
+      },
+      "name": "Featured product",
+      "settings": {
+        "background": "",
+        "background_gradient": "",
+        "desktop_media_layout": "carousel_thumbnails_left",
+        "desktop_media_width": 55,
+        "enable_image_zoom": true,
+        "enable_video_autoplay": true,
+        "enable_video_looping": false,
+        "full_width": true,
+        "input_background": "rgba(0,0,0,0)",
+        "input_text_color": "",
+        "max_image_zoom_level": 3,
+        "mobile_carousel_control": "thumbnails",
+        "mobile_media_size": "expanded",
+        "product": "masque-anti-age-lumiglow™",
+        "text_color": ""
+      },
+      "type": "featured-product"
+    },
+    "image_with_text_overlay_FtfCx3": {
+      "name": "Image with text overlay",
+      "settings": {
+        "allow_transparent_header": false,
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "enable_parallax": false,
+        "full_width": true,
+        "image": "shopify://shop_images/Benefices_9.png",
+        "image_size": "auto",
+        "mobile_image": "shopify://shop_images/Benefices_9.png",
+        "mobile_text_position": "place-self-center text-center",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0,
+        "text_color": "#ffffff"
+      },
+      "type": "image-with-text-overlay"
+    },
+    "images_with_text_scrolling_9LkrK4": {
+      "block_order": [
+        "item_Q94EfF",
+        "item_ggf3kL",
+        "item_8YMBLa"
+      ],
+      "blocks": {
+        "item_8YMBLa": {
+          "settings": {
+            "content": "<p><em>\"Depuis que je recommande LumiGlow, mes patientes de 40-50 ans obtiennent des résultats que je ne voyais qu'avec des traitements à 800€ la séance.\"</em></p><p><em>\"Les longueurs d'onde 660nm et 850nm sont exactement celles que j'utilise dans mon cabinet médical. La différence ? Elles peuvent désormais avoir ces résultats chez elles, quand elles veulent.\"</em></p><p><em>\"Franchement, si j'avais su que cette technologie serait accessible au grand public, j'aurais investi dedans pour ma propre mère. C'est révolutionnaire.\"</em></p><p><strong>Dr. Sophie MARTIN</strong></p>",
+            "icon": "none",
+            "icon_width": 48,
+            "image": "shopify://shop_images/doctorwoman.jpg",
+            "title": "\"MES PATIENTES ME SUPPLIENT DE LEUR DONNER LE SECRET\""
+          },
+          "type": "item"
+        },
+        "item_Q94EfF": {
+          "settings": {
+            "content": "<p>Vous en avez assez de voir vos rides se creuser chaque matin dans le miroir ? De vous sentir vieillir plus vite que vos amies du même âge ?</p><p>Le masque LED LumiGlow agit là où vos crèmes ont échoué : <strong>en profondeur</strong>, directement sur vos cellules. Sa lumière rouge réveille votre production naturelle de collagène, comme si vous rembobiniez le temps.</p><p><strong>Résultat ?</strong> Votre peau retrouve la fermeté et l'éclat de vos 30 ans. Vos rides s'estompent visiblement. Votre entourage remarque que \"vous avez l'air reposée\" sans comprendre pourquoi.</p><p><em>Utilisé 20 minutes, 3 fois par semaine. Simple comme regarder un épisode de série.</em></p>",
+            "icon": "none",
+            "icon_width": 48,
+            "image": "shopify://shop_images/Design_sans_titre_36.png",
+            "title": "ARRÊTEZ DE SUBIR LE TEMPS QUI PASSE"
+          },
+          "type": "item"
+        },
+        "item_ggf3kL": {
+          "settings": {
+            "content": "<p>À 35 ans, votre production de collagène chute de 1% par an. À 45 ans, vous en avez déjà perdu 15%. C'est mathématique : plus vous attendez, plus c'est difficile de rattraper.</p><p><strong>MAIS IL Y A UNE SOLUTION.</strong></p><p>La photobiomodulation (lumière rouge 660nm + infrarouge 850nm) pénètre jusqu'à 4mm sous votre peau. Elle redémarre littéralement vos \"usines à collagène\" endormies.</p><h3><strong>PREUVES SCIENTIFIQUES :</strong></h3><p><strong>+206% de production de collagène</strong> (Étude clinique 2023)<br/><br/><strong>-43% de profondeur des rides</strong> en 8 semaines<br/><br/><strong>+67% d'élasticité cutanée</strong> mesurée par dermatoscope<br/><br/><strong>+156% d'hydratation</strong> dès 4 semaines</p><p><em>Ces résultats ne sont pas des promesses, ce sont des faits mesurés scientifiquement.</em></p>",
+            "icon": "none",
+            "icon_width": 48,
+            "image": "shopify://shop_images/luminotherapie-science.jpg",
+            "title": "POURQUOI VOS CRÈMES NE MARCHENT PLUS"
+          },
+          "type": "item"
+        }
+      },
+      "name": "Images and text scrolling",
+      "settings": {
+        "background": "#121212",
+        "background_gradient": "",
+        "desktop_image_effect": "reveal",
+        "full_width": true,
+        "heading_color": "",
+        "heading_gradient": "",
+        "image_position": "end",
+        "show_counter": true,
+        "stack_on_mobile": true,
+        "text_color": "#ffffff"
+      },
+      "type": "images-with-text-scrolling"
+    },
+    "logo_list_HpL7Cp": {
+      "block_order": [
+        "logo_zWAg3Q",
+        "logo_7tbyhK",
+        "logo_cLr9zR",
+        "logo_XHCd9y"
+      ],
+      "blocks": {
+        "logo_7tbyhK": {
+          "settings": {
+            "link": "",
+            "logo": "shopify://shop_images/Vogue.png",
+            "logo_width": 120
+          },
+          "type": "logo"
+        },
+        "logo_XHCd9y": {
+          "settings": {
+            "link": "",
+            "logo": "shopify://shop_images/Marie_Claire.png",
+            "logo_width": 120
+          },
+          "type": "logo"
+        },
+        "logo_cLr9zR": {
+          "settings": {
+            "link": "",
+            "logo": "shopify://shop_images/Comopolitan.png",
+            "logo_width": 120
+          },
+          "type": "logo"
+        },
+        "logo_zWAg3Q": {
+          "settings": {
+            "link": "",
+            "logo": "shopify://shop_images/Elle.png",
+            "logo_width": 120
+          },
+          "type": "logo"
+        }
+      },
+      "name": "Logo list",
+      "settings": {
+        "background": "",
+        "background_gradient": "",
+        "content": "",
+        "full_width": true,
+        "heading_color": "",
+        "heading_gradient": "",
+        "items_per_row": 5,
+        "logo_item_background": "",
+        "logo_item_border": "",
+        "stack_mobile": true,
+        "text_alignment": "center",
+        "text_color": "",
+        "title": "Vu sur"
+      },
+      "type": "logo-list"
+    },
+    "media_with_text_7YftaR": {
+      "block_order": [
+        "image_YNWNPj"
+      ],
+      "blocks": {
+        "image_YNWNPj": {
+          "settings": {
+            "background": "#121212",
+            "background_gradient": "",
+            "button_background": "",
+            "button_text_color": "",
+            "content": "<p>Les spécialistes et nos clientes régulières le confirment :<br/><br/><strong>Le masque LumiGlow™ SORA offre un effet visible inratable.</strong><br/><br/>Mais si vous ne constatez <strong>aucune amélioration</strong> ou si le produit <strong>ne vous convient pas</strong>,<br/><br/>vous bénéficiez d’une <strong>garantie satisfait ou remboursé pendant 30 jours</strong>.</p>",
+            "icon": "none",
+            "icon_width": 48,
+            "image": "shopify://shop_images/2.png",
+            "link_text": "",
+            "link_url": "",
+            "media_position": "start",
+            "media_width": 50,
+            "subheading": "",
+            "text_color": "#ffffff",
+            "text_gradient": "",
+            "text_position": "place-self-center-start text-start",
+            "title": "Essayez Le masque LumiGlow™  en toute confiance avec notre garantie sérénité."
+          },
+          "type": "image"
+        }
+      },
+      "name": "Media with text",
+      "settings": {
+        "full_width": false,
+        "spacing": "small"
+      },
+      "type": "media-with-text"
+    },
+    "multi_column_PwJXgK": {
+      "block_order": [
+        "item_88HGTn",
+        "item_FNLYyw",
+        "item_U7P9x3",
+        "item_gQB6Y7",
+        "item_ktAb8d"
+      ],
+      "blocks": {
+        "item_88HGTn": {
+          "settings": {
+            "column_size": "3",
+            "content": "",
+            "heading_tag": "h4",
+            "image": "shopify://shop_images/1_b78e1b75-ee6a-44a9-9215-f20f25ee2938.webp",
+            "link_style": "link",
+            "link_text": "",
+            "link_url": "",
+            "title": ""
+          },
+          "type": "item"
+        },
+        "item_FNLYyw": {
+          "settings": {
+            "column_size": "3",
+            "content": "",
+            "heading_tag": "h4",
+            "image": "shopify://shop_images/5.webp",
+            "link_style": "link",
+            "link_text": "",
+            "link_url": "",
+            "title": ""
+          },
+          "type": "item"
+        },
+        "item_U7P9x3": {
+          "settings": {
+            "column_size": "3",
+            "content": "",
+            "heading_tag": "h4",
+            "image": "shopify://shop_images/2_fbf0ff7f-c247-46bb-a1a3-64bccab0410c.webp",
+            "link_style": "link",
+            "link_text": "",
+            "link_url": "",
+            "title": ""
+          },
+          "type": "item"
+        },
+        "item_gQB6Y7": {
+          "settings": {
+            "column_size": "3",
+            "content": "",
+            "heading_tag": "h4",
+            "image": "shopify://shop_images/4_a153af27-88ab-43fe-af2e-8efdce82151a.webp",
+            "link_style": "link",
+            "link_text": "",
+            "link_url": "",
+            "title": ""
+          },
+          "type": "item"
+        },
+        "item_ktAb8d": {
+          "settings": {
+            "column_size": "3",
+            "content": "",
+            "heading_tag": "h4",
+            "image": "shopify://shop_images/3_525deb09-563d-47f7-8590-e7da3957c68c.webp",
+            "link_style": "link",
+            "link_text": "",
+            "link_url": "",
+            "title": ""
+          },
+          "type": "item"
+        }
+      },
+      "name": "Multi-column",
+      "settings": {
+        "background": "",
+        "background_gradient": "",
+        "content": "",
+        "full_width": true,
+        "gap": "medium",
+        "stack_on_mobile": false,
+        "subheading": "",
+        "text_alignment": "center",
+        "text_color": "",
+        "title": "Des résultats concrèts"
+      },
+      "type": "multi-column"
+    },
+    "multi_column_t4KV3H": {
+      "block_order": [
+        "item_AVabeV",
+        "item_ahMUBL",
+        "item_k9Bfed",
+        "item_Jr44Wf",
+        "item_HQrFLT",
+        "item_AwHKyL",
+        "item_ErV6Wb",
+        "item_b8TkiT"
+      ],
+      "blocks": {
+        "item_AVabeV": {
+          "settings": {
+            "column_size": "3",
+            "content": "<p>À 58 ans, j'étais sceptique mais après 6 semaines, mes rides sont visiblement atténuées et mon teint beaucoup plus uniforme. Mes amies me demandent quel est mon secret ! Pour 199€, ce masque fait des miracles.</p>",
+            "heading_tag": "h4",
+            "image": "shopify://shop_images/group31.webp",
+            "link_style": "link",
+            "link_text": "",
+            "link_url": "",
+            "title": "Françoise"
+          },
+          "type": "item"
+        },
+        "item_AwHKyL": {
+          "settings": {
+            "column_size": "3",
+            "content": "<p>Mes rides et mes cernes creusés me donnaient un air fatigué en permanence. Après 7 semaines d'utilisation, mon visage est raffermit et mes traits sont lissés. Je retrouve un air reposé et plus jeune ! Mes collègues me font des compliments.</p>",
+            "heading_tag": "h4",
+            "image": "shopify://shop_images/group36.webp",
+            "link_style": "link",
+            "link_text": "",
+            "link_url": "",
+            "title": "Valérie"
+          },
+          "type": "item"
+        },
+        "item_ErV6Wb": {
+          "settings": {
+            "column_size": "3",
+            "content": "<p>Les rides autour de mes yeux me complexaient vraiment, surtout quand je souriais. En 5 semaines, elles se sont nettement estompées et ma peau paraît plus jeune. C'est exactement ce que j'espérais ! Même mon esthéticienne m'a demandé ce que j'avais fait.</p>",
+            "heading_tag": "h4",
+            "image": "shopify://shop_images/group37.webp",
+            "link_style": "link",
+            "link_text": "",
+            "link_url": "",
+            "title": "Sandrine"
+          },
+          "type": "item"
+        },
+        "item_HQrFLT": {
+          "settings": {
+            "column_size": "3",
+            "content": "<p>J'avais des taches pigmentaires et des cicatrices d'acné qui me complexaient depuis des années. En 4 semaines ma peau est transformée ! Le teint est unifié, les imperfections estompées et l'éclat naturel est revenu. Je ne pensais pas que ce serait si efficace !</p>",
+            "heading_tag": "h4",
+            "image": "shopify://shop_images/group35.webp",
+            "link_style": "link",
+            "link_text": "",
+            "link_url": "",
+            "title": "Laura"
+          },
+          "type": "item"
+        },
+        "item_Jr44Wf": {
+          "settings": {
+            "column_size": "3",
+            "content": "<p>Mes rides me vieillissaient énormément et mes cernes étaient très marqués. Après 2 mois d'utilisation du masque, la transformation est saisissante ! Ma peau est plus ferme, mes traits sont lissés et je parais 5 ans de moins. Investissement rentabilisé !</p>",
+            "heading_tag": "h4",
+            "image": "shopify://shop_images/group34.webp",
+            "link_style": "link",
+            "link_text": "",
+            "link_url": "",
+            "title": "Christine"
+          },
+          "type": "item"
+        },
+        "item_ahMUBL": {
+          "settings": {
+            "column_size": "3",
+            "content": "<p>Mes rides du coin de l'œil me complexaient énormément. Après 5 semaines avec mon masque, elles sont nettement moins marquées et ma peau est plus lisse. Je n'arrive pas à croire que ce soit si efficace ! Mon mari a même remarqué la différence. Les 200€ sont largement justifiés.</p>",
+            "heading_tag": "h4",
+            "image": "shopify://shop_images/group32.webp",
+            "link_style": "link",
+            "link_text": "",
+            "link_url": "",
+            "title": "Sophie"
+          },
+          "type": "item"
+        },
+        "item_b8TkiT": {
+          "settings": {
+            "column_size": "3",
+            "content": "<p>Mon acné inflammatoire me gâchait la vie depuis des années. J'ai tout essayé sans succès. En 6 semaines, les rougeurs ont diminué et les boutons se résorbent beaucoup mieux. Ma peau est apaisée et j'ose enfin sortir sans fond de teint ! Un vrai soulagement.</p>",
+            "heading_tag": "h4",
+            "image": "shopify://shop_images/group38.webp",
+            "link_style": "link",
+            "link_text": "",
+            "link_url": "",
+            "title": "Océane"
+          },
+          "type": "item"
+        },
+        "item_k9Bfed": {
+          "settings": {
+            "column_size": "3",
+            "content": "<p>J'avais des rougeurs persistantes et des taches qui me gênaient énormément. En 3 semaines avec Lumiglo, ma peau est apaisée et mon teint beaucoup plus uniforme. Les rougeurs ont quasi disparu ! Je retrouve enfin confiance en moi sans maquillage.</p>",
+            "heading_tag": "h4",
+            "image": "shopify://shop_images/group33.webp",
+            "link_style": "link",
+            "link_text": "",
+            "link_url": "",
+            "title": "Amélie"
+          },
+          "type": "item"
+        }
+      },
+      "name": "Multi-column",
+      "settings": {
+        "background": "#121212",
+        "background_gradient": "",
+        "content": "",
+        "full_width": true,
+        "gap": "small",
+        "stack_on_mobile": false,
+        "subheading": "",
+        "text_alignment": "center",
+        "text_color": "#ffffff",
+        "title": "Nos clientes en parlent le mieux"
+      },
+      "type": "multi-column"
+    },
+    "multiple_images_with_text_MmYAN6": {
+      "block_order": [
+        "item_A6aGNg",
+        "item_x6HV6D"
+      ],
+      "blocks": {
+        "item_A6aGNg": {
+          "settings": {
+            "button_text": "",
+            "button_url": "",
+            "content": "<ol><li>Perte de temps du aux déplacements </li><li>Disponibilités limitées sur rdv</li><li>Traitement couteux </li><li>Obligation de suivi</li></ol>",
+            "image": "shopify://shop_images/Autres.webp",
+            "image_rotation_degrees": 1.5,
+            "subheading": "",
+            "title": "Les autres VS."
+          },
+          "type": "item"
+        },
+        "item_x6HV6D": {
+          "settings": {
+            "button_text": "",
+            "button_url": "",
+            "content": "<ol><li>Résultats rapides et visibles </li><li>Confort total chez soi</li><li>Utilisation illimitée</li><li>seulement 10min/j</li></ol>",
+            "image": "shopify://shop_images/GIF_-_Benefices.webp",
+            "image_rotation_degrees": -2,
+            "subheading": "",
+            "title": "LumiGlow™"
+          },
+          "type": "item"
+        }
+      },
+      "name": "Multiple images with text",
+      "settings": {
+        "background": "",
+        "background_gradient": "",
+        "button_background": "",
+        "button_text_color": "",
+        "collage_images_alignment": "middle",
+        "full_width": true,
+        "images_layout": "stacked",
+        "text_color": ""
+      },
+      "type": "multiple-images-with-text"
+    },
+    "rich_text_bGkKLw": {
+      "block_order": [
+        "heading_7TaE69"
+      ],
+      "blocks": {
+        "heading_7TaE69": {
+          "settings": {
+            "gradient": "",
+            "heading_tag": "h4",
+            "text": "Pourquoi choisir notre thérapie par lumière ?",
+            "text_color": ""
+          },
+          "type": "heading"
+        }
+      },
+      "name": "Rich text",
+      "settings": {
+        "background": "",
+        "background_gradient": "",
+        "content_width": "small",
+        "full_width": true,
+        "text_color": "",
+        "text_position": "center"
+      },
+      "type": "rich-text"
+    },
+    "scrolling_text_7zjtdx": {
+      "name": "Scrolling text",
+      "settings": {
+        "background": "",
+        "background_gradient": "",
+        "full_width": true,
+        "scrolling_mode": "auto",
+        "scrolling_speed": 18,
+        "text": "Promotion Ultra Spéciale",
+        "text_color": "",
+        "text_gradient": "",
+        "text_size": "medium",
+        "text_style": "fill"
+      },
+      "type": "scrolling-text"
+    },
+    "slideshow": {
+      "block_order": [
+        "slide-2"
+      ],
+      "blocks": {
+        "slide-2": {
+          "settings": {
+            "background": "",
+            "background_gradient": "",
+            "button_background": "#ffffff",
+            "button_link": "",
+            "button_text": "",
+            "button_text_color": "#000000",
+            "content_max_width": 780,
+            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "heading_tag": "h1",
+            "image": "shopify://shop_images/Banniere_Desktop.png",
+            "mobile_image": "shopify://shop_images/ChatGPT_Image_14_sept._2025_18_25_04.png",
+            "mobile_text_position": "place-self-center text-center",
+            "overlay_color": "#000000",
+            "overlay_opacity": 20,
+            "subheading": "",
+            "text_color": "#ffffff",
+            "title": "Complexée par vos rides ? Effacez 10 ans en 15 minutes !"
+          },
+          "type": "image"
+        }
+      },
+      "settings": {
+        "allow_transparent_header": true,
+        "autoplay": true,
+        "background": "#f2f2f2",
+        "background_gradient": "linear-gradient(60deg, rgba(60, 65, 68, 1), rgba(23, 29, 33, 1) 98%)",
+        "controls_type": "numbers",
+        "cycle_speed": 6,
+        "full_width": true,
+        "image_size": "auto",
+        "transition_type": "fade_with_text"
+      },
+      "type": "slideshow"
+    },
+    "tabs_cieLCk": {
+      "block_order": [
+        "tab_XUAtCC",
+        "tab_NDrjnP",
+        "tab_jitWPe",
+        "tab_kPWDk7"
+      ],
+      "blocks": {
+        "tab_NDrjnP": {
+          "settings": {
+            "content": "<h3>COMMENT UTILISER VOTRE MASQUE LED</h3><h4><strong>ÉTAPE 1 : PRÉPARATION</strong> </h4><p>Nettoyez votre visage avec votre démaquillant habituel. Séchez délicatement votre peau avec une serviette propre. Une peau propre optimise la pénétration de la lumière LED.</p><h4><strong>ÉTAPE 2 : POSITIONNEMENT</strong> </h4><p>Placez le masque confortablement sur votre visage. Ajustez les sangles pour un maintien parfait sans pression excessive. Vos yeux doivent être bien protégés par les coques intégrées.</p><h4><strong>ÉTAPE 3 : ACTIVATION</strong> </h4><p>Appuyez sur le bouton d'alimentation. Sélectionnez votre programme (débutant : 10 min, expert : 20 min). Relaxez-vous pendant que les LED travaillent. Vous pouvez regarder la télé, lire ou méditer.</p><h4><strong>ÉTAPE 4 : FINALISATION</strong> </h4><p>Une fois la séance terminée, retirez le masque. Appliquez votre crème hydratante habituelle pour maximiser les bénéfices. Nettoyez le masque avec un chiffon doux.</p><h2><strong>FRÉQUENCE RECOMMANDÉE</strong></h2><p><strong>PHASE INTENSIVE (4 premières semaines) :</strong></p><ul><li>3 à 4 séances par semaine</li><li>15-20 minutes par séance</li><li>Résultats visibles dès 7 jours</li></ul><p><strong>PHASE D'ENTRETIEN (après 1 mois) :</strong></p><ul><li>2 à 3 séances par semaine</li><li>20 minutes par séance</li><li>Maintien des résultats à long terme</li></ul><h2><strong>QUAND L'UTILISER ?</strong></h2><p><strong>LE SOIR (RECOMMANDÉ) :</strong><br/>Idéal après votre routine de démaquillage. Moment de détente avant le coucher. Votre peau se régénère pendant la nuit.</p><p><strong>LE MATIN :</strong><br/>Parfait pour démarrer la journée avec un teint éclatant. Boost d'énergie naturel. Prépare votre peau au maquillage.</p>",
+            "page": "",
+            "title": "Comment l'utiliser"
+          },
+          "type": "tab"
+        },
+        "tab_XUAtCC": {
+          "settings": {
+            "content": "<p>Essayez votre masque LumiGlow sans risque <strong>pendant 30 jours</strong>. Si vous n'êtes pas complètement satisfaite de votre sérum vous avez la possibilité de le retourner et <strong>vous recevrez un remboursement intégral</strong>.</p>",
+            "page": "",
+            "title": "Essayez-le 30 jours gratuitement"
+          },
+          "type": "tab"
+        },
+        "tab_jitWPe": {
+          "settings": {
+            "content": "<p>La livraison gratuite à domicile est gratuite. Selon le volume de commandes à traiter, le délai de livraison est estimé entre 5 et 8 jours ouvrés.</p>",
+            "page": "",
+            "title": "Livraison gratuite à domicile"
+          },
+          "type": "tab"
+        },
+        "tab_kPWDk7": {
+          "settings": {
+            "content": "<p>Votre équipe est à votre disposition pour répondre à vos questions sept jours sur sept.</p><p>Vous pouvez nous contacter par email aux horaires suivants : du lundi au vendredi de 9h à 12h et de 14h à 18h, et le samedi et dimanche de 10h à 12h. N'hésitez pas à nous joindre.</p>",
+            "page": "",
+            "title": "Service client 7J/7"
+          },
+          "type": "tab"
+        }
+      },
+      "name": "Tabs",
+      "settings": {
+        "background": "",
+        "background_gradient": "",
+        "content_size": "medium",
+        "first_tab_open": false,
+        "full_width": true,
+        "heading_color": "",
+        "heading_gradient": "",
+        "subheading": "",
+        "text_color": "",
+        "title": ""
+      },
+      "type": "tabs"
+    }
+  }
 }
