@@ -464,22 +464,6 @@
         "input_text_color": ""
       }
     },
-    "scrolling_text_7zjtdx": {
-      "type": "scrolling-text",
-      "name": "Scrolling text",
-      "settings": {
-        "full_width": true,
-        "text": "Promotion Ultra Spéciale",
-        "text_size": "medium",
-        "text_style": "fill",
-        "scrolling_mode": "auto",
-        "scrolling_speed": 18,
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "text_gradient": ""
-      }
-    },
     "tabs_cieLCk": {
       "type": "tabs",
       "blocks": {
@@ -799,7 +783,6 @@
     "multi_column_PwJXgK",
     "multi_column_t4KV3H",
     "featured_product_n934yq",
-    "scrolling_text_7zjtdx",
     "tabs_cieLCk",
     "images_with_text_scrolling_9LkrK4",
     "multiple_images_with_text_MmYAN6",
