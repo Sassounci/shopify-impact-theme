@@ -111,20 +111,6 @@
     },
     "rich_text_bGkKLw": {
       "type": "rich-text",
-      "blocks": {
-        "heading_7TaE69": {
-          "type": "heading",
-          "settings": {
-            "text": "Pourquoi choisir notre thérapie par lumière ?",
-            "heading_tag": "h4",
-            "text_color": "",
-            "gradient": ""
-          }
-        }
-      },
-      "block_order": [
-        "heading_7TaE69"
-      ],
       "name": "Rich text",
       "settings": {
         "full_width": true,
@@ -144,7 +130,7 @@
         "enable_parallax": false,
         "image_size": "auto",
         "image": "shopify://shop_images/Benefices_9.png",
-        "mobile_image": "shopify://shop_images/Ajouter_un_sous-titre_20.png",
+        "mobile_image": "shopify://shop_images/Ajouter_un_sous-titre_21.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
