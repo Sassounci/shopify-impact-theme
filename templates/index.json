@@ -132,39 +132,6 @@
         "overlay_opacity": 0
       }
     },
-    "multi_column_t4KV3H": {
-      "type": "multi-column",
-      "blocks": {
-        "item_AVabeV": {
-          "type": "item",
-          "settings": {
-            "column_size": "3",
-            "title": "Marie-Claire D.",
-            "heading_tag": "h4",
-            "content": "<p><em>\"Je travaille 10h debout par jour à l'hôpital. Avant, je rentrais en pleurant tellement j'avais mal. Maintenant, je termine ma journée sans y penser. C'est un soulagement mental autant que physique.\"<br/></em></p><p>Infirmière, Lyon</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        }
-      },
-      "block_order": [
-        "item_AVabeV"
-      ],
-      "name": "Multi-column",
-      "settings": {
-        "full_width": true,
-        "stack_on_mobile": false,
-        "gap": "small",
-        "text_alignment": "center",
-        "subheading": "",
-        "title": "Nos clientes en parlent le mieux",
-        "content": "",
-        "background": "#ffffff",
-        "background_gradient": "",
-        "text_color": "#000000"
-      }
-    },
     "testimonials_NV47pD": {
       "type": "testimonials",
       "blocks": {
@@ -329,7 +296,7 @@
             "icon": "picto-return",
             "icon_width": 24,
             "title": "Garantie de remboursement de 30 jours !",
-            "content": "<p>C'est dire à quel point nous sommes confiants dans vos résultats. Nous vous couvrons. Si vous n'obtenez pas de résultats visibles dans les 30 jours, il vous suffit de nous contacter pour obtenir un remboursement complet, sans aucune question.</p>",
+            "content": "<p>C'est dire à quel point nous sommes confiants dans vos résultats. Nous vous couvrons. Si vous n'obtenez pas de résultats dans les 30 jours, il vous suffit de nous contacter pour obtenir un remboursement complet, sans aucune question.</p>",
             "background": "#eaf2ed",
             "text_color": "#00a341"
           }
@@ -675,7 +642,6 @@
     "logo_list_HpL7Cp",
     "rich_text_bGkKLw",
     "image_with_text_overlay_FtfCx3",
-    "multi_column_t4KV3H",
     "testimonials_NV47pD",
     "featured_product_n934yq",
     "tabs_cieLCk",
