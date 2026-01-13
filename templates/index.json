@@ -149,6 +149,22 @@
         "text_color": ""
       }
     },
+    "image_with_text_overlay_ECNeA4": {
+      "type": "image-with-text-overlay",
+      "name": "Image with text overlay",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "image": "shopify://shop_images/4_benefices.png",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
+    },
     "image_link_blocks_qc3tWe": {
       "type": "image-link-blocks",
       "blocks": {
@@ -280,6 +296,7 @@
   "order": [
     "slideshow_GC86jf",
     "multi_column_EYX6id",
+    "image_with_text_overlay_ECNeA4",
     "image_link_blocks_qc3tWe",
     "contact_YaQhAK"
   ]
