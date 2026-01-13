@@ -132,91 +132,6 @@
         "overlay_opacity": 0
       }
     },
-    "multi_column_PwJXgK": {
-      "type": "multi-column",
-      "blocks": {
-        "item_88HGTn": {
-          "type": "item",
-          "settings": {
-            "column_size": "3",
-            "title": "",
-            "heading_tag": "h4",
-            "content": "",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_FNLYyw": {
-          "type": "item",
-          "settings": {
-            "column_size": "3",
-            "title": "",
-            "heading_tag": "h4",
-            "content": "",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_U7P9x3": {
-          "type": "item",
-          "settings": {
-            "column_size": "3",
-            "title": "",
-            "heading_tag": "h4",
-            "content": "",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_gQB6Y7": {
-          "type": "item",
-          "settings": {
-            "column_size": "3",
-            "title": "",
-            "heading_tag": "h4",
-            "content": "",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_ktAb8d": {
-          "type": "item",
-          "settings": {
-            "column_size": "3",
-            "title": "",
-            "heading_tag": "h4",
-            "content": "",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        }
-      },
-      "block_order": [
-        "item_88HGTn",
-        "item_FNLYyw",
-        "item_U7P9x3",
-        "item_gQB6Y7",
-        "item_ktAb8d"
-      ],
-      "name": "Multi-column",
-      "settings": {
-        "full_width": true,
-        "stack_on_mobile": false,
-        "gap": "medium",
-        "text_alignment": "center",
-        "subheading": "",
-        "title": "Des résultats concrèts",
-        "content": "",
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
-      }
-    },
     "multi_column_t4KV3H": {
       "type": "multi-column",
       "blocks": {
@@ -336,9 +251,9 @@
         "subheading": "",
         "title": "Nos clientes en parlent le mieux",
         "content": "",
-        "background": "#121212",
+        "background": "#ffffff",
         "background_gradient": "",
-        "text_color": "#ffffff"
+        "text_color": "#000000"
       }
     },
     "featured_product_n934yq": {
@@ -753,7 +668,6 @@
     "logo_list_HpL7Cp",
     "rich_text_bGkKLw",
     "image_with_text_overlay_FtfCx3",
-    "multi_column_PwJXgK",
     "multi_column_t4KV3H",
     "featured_product_n934yq",
     "tabs_cieLCk",
