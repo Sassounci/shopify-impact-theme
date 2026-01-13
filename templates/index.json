@@ -139,93 +139,9 @@
           "type": "item",
           "settings": {
             "column_size": "3",
-            "title": "Françoise",
+            "title": "Marie-Claire D.",
             "heading_tag": "h4",
-            "content": "<p>À 58 ans, j'étais sceptique mais après 6 semaines, mes rides sont visiblement atténuées et mon teint beaucoup plus uniforme. Mes amies me demandent quel est mon secret ! Pour 199€, ce masque fait des miracles.</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_ahMUBL": {
-          "type": "item",
-          "settings": {
-            "column_size": "3",
-            "title": "Sophie",
-            "heading_tag": "h4",
-            "content": "<p>Mes rides du coin de l'œil me complexaient énormément. Après 5 semaines avec mon masque, elles sont nettement moins marquées et ma peau est plus lisse. Je n'arrive pas à croire que ce soit si efficace ! Mon mari a même remarqué la différence. Les 200€ sont largement justifiés.</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_k9Bfed": {
-          "type": "item",
-          "settings": {
-            "column_size": "3",
-            "title": "Amélie",
-            "heading_tag": "h4",
-            "content": "<p>J'avais des rougeurs persistantes et des taches qui me gênaient énormément. En 3 semaines avec Lumiglo, ma peau est apaisée et mon teint beaucoup plus uniforme. Les rougeurs ont quasi disparu ! Je retrouve enfin confiance en moi sans maquillage.</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_Jr44Wf": {
-          "type": "item",
-          "settings": {
-            "column_size": "3",
-            "title": "Christine",
-            "heading_tag": "h4",
-            "content": "<p>Mes rides me vieillissaient énormément et mes cernes étaient très marqués. Après 2 mois d'utilisation du masque, la transformation est saisissante ! Ma peau est plus ferme, mes traits sont lissés et je parais 5 ans de moins. Investissement rentabilisé !</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_HQrFLT": {
-          "type": "item",
-          "settings": {
-            "column_size": "3",
-            "title": "Laura",
-            "heading_tag": "h4",
-            "content": "<p>J'avais des taches pigmentaires et des cicatrices d'acné qui me complexaient depuis des années. En 4 semaines ma peau est transformée ! Le teint est unifié, les imperfections estompées et l'éclat naturel est revenu. Je ne pensais pas que ce serait si efficace !</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_AwHKyL": {
-          "type": "item",
-          "settings": {
-            "column_size": "3",
-            "title": "Valérie",
-            "heading_tag": "h4",
-            "content": "<p>Mes rides et mes cernes creusés me donnaient un air fatigué en permanence. Après 7 semaines d'utilisation, mon visage est raffermit et mes traits sont lissés. Je retrouve un air reposé et plus jeune ! Mes collègues me font des compliments.</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_ErV6Wb": {
-          "type": "item",
-          "settings": {
-            "column_size": "3",
-            "title": "Sandrine",
-            "heading_tag": "h4",
-            "content": "<p>Les rides autour de mes yeux me complexaient vraiment, surtout quand je souriais. En 5 semaines, elles se sont nettement estompées et ma peau paraît plus jeune. C'est exactement ce que j'espérais ! Même mon esthéticienne m'a demandé ce que j'avais fait.</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_b8TkiT": {
-          "type": "item",
-          "settings": {
-            "column_size": "3",
-            "title": "Océane",
-            "heading_tag": "h4",
-            "content": "<p>Mon acné inflammatoire me gâchait la vie depuis des années. J'ai tout essayé sans succès. En 6 semaines, les rougeurs ont diminué et les boutons se résorbent beaucoup mieux. Ma peau est apaisée et j'ose enfin sortir sans fond de teint ! Un vrai soulagement.</p>",
+            "content": "<p><em>\"Je travaille 10h debout par jour à l'hôpital. Avant, je rentrais en pleurant tellement j'avais mal. Maintenant, je termine ma journée sans y penser. C'est un soulagement mental autant que physique.\"<br/></em></p><p>Infirmière, Lyon</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -233,14 +149,7 @@
         }
       },
       "block_order": [
-        "item_AVabeV",
-        "item_ahMUBL",
-        "item_k9Bfed",
-        "item_Jr44Wf",
-        "item_HQrFLT",
-        "item_AwHKyL",
-        "item_ErV6Wb",
-        "item_b8TkiT"
+        "item_AVabeV"
       ],
       "name": "Multi-column",
       "settings": {
@@ -256,25 +165,115 @@
         "text_color": "#000000"
       }
     },
+    "testimonials_NV47pD": {
+      "type": "testimonials",
+      "blocks": {
+        "testimonial_wqVg6E": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 5,
+            "author": "Marie-Claire D.",
+            "title": "Infirmière, Lyon",
+            "content": "<p><em>\"Je travaille 10h debout par jour à l'hôpital. Avant, je rentrais en pleurant tellement j'avais mal. Maintenant, je termine ma journée sans y penser. C'est un soulagement mental autant que physique.\"</em></p>"
+          }
+        },
+        "testimonial_eqzVBn": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 5,
+            "author": "Philippe M.",
+            "title": "Cuisinier, Paris",
+            "content": "<p><em>\"En cuisine, on ne s'arrête jamais. Je tenais parce que je n'avais pas le choix. Avec PEDIVO, je ne pense plus à mes pieds pendant le service. Je peux enfin me concentrer sur mon travail.\"</em></p>"
+          }
+        },
+        "testimonial_bRgXVN": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 5,
+            "author": "Sylvie R.",
+            "title": "Vendeuse, Marseille",
+            "content": "<p><em>\"J'avais essayé des semelles à 80€. Elles ne me soulageaient qu'un peu. Là, pour 20€, j'ai retrouvé le plaisir de finir ma journée sans souffrir. Je ne m'y attendais pas.\"</em></p>"
+          }
+        },
+        "testimonial_TLDVyK": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 5,
+            "author": "Robert L.",
+            "title": "Facteur, Toulouse",
+            "content": "<p><em>\"Je suis facteur. Chaque fin de journée était un calvaire. Maintenant, je rentre chez moi avec encore l'envie de sortir promener le chien. Ma femme a remarqué que je ne râlais plus.\"</em></p>"
+          }
+        },
+        "testimonial_yUFYxT": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 5,
+            "author": "Ahmed K.",
+            "title": "Agent de sécurité, Nice",
+            "content": "<p><em>\"Agent de sécurité, je marche 15km par jour sur du béton. Je pensais que c'était normal d'avoir mal. Depuis que j'ai PEDIVO, je me rends compte que non, on peut finir sa journée sans souffrir.\"</em></p>"
+          }
+        },
+        "testimonial_HjMAmF": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 5,
+            "author": "Catherine B.",
+            "title": "Professeure, Lille",
+            "content": "<p><em>\"Professeure debout 7h par jour. Le soir, je n'avais plus la force de m'occuper de mes enfants. Maintenant, je rentre fatiguée mais pas épuisée. Ça change tout.\"</em></p>"
+          }
+        }
+      },
+      "block_order": [
+        "testimonial_wqVg6E",
+        "testimonial_eqzVBn",
+        "testimonial_bRgXVN",
+        "testimonial_TLDVyK",
+        "testimonial_yUFYxT",
+        "testimonial_HjMAmF"
+      ],
+      "name": "Testimonials",
+      "settings": {
+        "full_width": true,
+        "stack_testimonials": true,
+        "subheading": "",
+        "title": "Testimonials",
+        "content": "",
+        "link_url": "",
+        "link_text": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "testimonial_card_background": "",
+        "testimonial_card_text_color": ""
+      }
+    },
     "featured_product_n934yq": {
       "type": "featured-product",
       "blocks": {
         "liquid_M8G7rx": {
           "type": "liquid",
           "settings": {
-            "liquid": "<!DOCTYPE html>\n<html>\n<head>\n<style>\n:root {\n  --social-proof-text-color: #000000;\n  --social-proof-star-color: #007f4e;\n}\n\n.social-proof-slide__block-rating {\n    display: flex;\n    align-items: center;\n    justify-content: flex-start;\nfont-size: 14px;\n}\n\n.social-proof-slide__block-stars {\n    display: flex;\n    margin-right: 8px;\n    color: var(--social-proof-star-color);\n}\n\n.social-proof-slide__block-rating-text {\n    display: inline;\n    color: var(--social-proof-text-color);\n    content: var(--social-proof-rating-text);\n}\n\n.social-proof-star {\n    margin: 0;\n    padding: 0;\n    display: flex;\n    justify-content: center;\n    align-items: center;\n    width: 16px;\n    height: 16px;\n}\n\n.social-proof-star svg {\n    width: 16px;\n    height: 16px;\n    fill: var(--social-proof-star-color);\n}\n</style>\n</head>\n<body>\n\n<div class=\"social-proof-slide__block-rating mt-2\">\n  <span class=\"social-proof-slide__block-stars\">\n    <span class=\"social-proof-star\">\n      <svg xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <svg class=\"w-[16px] h-[16px]\" fill=\"currentColor\" stroke=\"currentColor\" xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <path d=\"M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z\"></path>\n      </svg>\n    </span>\n<span class=\"social-proof-star\">\n      <svg xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <svg class=\"w-[16px] h-[16px]\" fill=\"currentColor\" stroke=\"currentColor\" xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <path d=\"M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z\"></path>\n      </svg>\n    </span>\n<span class=\"social-proof-star\">\n      <svg xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <svg class=\"w-[16px] h-[16px]\" fill=\"currentColor\" stroke=\"currentColor\" xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <path d=\"M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z\"></path>\n      </svg>\n    </span>\n<span class=\"social-proof-star\">\n      <svg xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <svg class=\"w-[16px] h-[16px]\" fill=\"currentColor\" stroke=\"currentColor\" xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <path d=\"M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z\"></path>\n      </svg>\n    </span>\n<span class=\"social-proof-star\">\n      <svg xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <svg class=\"w-[16px] h-[16px]\" fill=\"currentColor\" stroke=\"currentColor\" xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <path d=\"M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z\"></path>\n      </svg>\n    </span>\n  </span>\n  <span class=\"social-proof-slide__block-rating-text\">\n    Noté 4.8 par 1500+ femmes !\n  </span>\n</div>\n\n</body>\n</html>"
+            "liquid": "<!DOCTYPE html>\n<html>\n<head>\n<style>\n:root {\n  --social-proof-text-color: #000000;\n  --social-proof-star-color: #007f4e;\n}\n\n.social-proof-slide__block-rating {\n    display: flex;\n    align-items: center;\n    justify-content: flex-start;\nfont-size: 14px;\n}\n\n.social-proof-slide__block-stars {\n    display: flex;\n    margin-right: 8px;\n    color: var(--social-proof-star-color);\n}\n\n.social-proof-slide__block-rating-text {\n    display: inline;\n    color: var(--social-proof-text-color);\n    content: var(--social-proof-rating-text);\n}\n\n.social-proof-star {\n    margin: 0;\n    padding: 0;\n    display: flex;\n    justify-content: center;\n    align-items: center;\n    width: 16px;\n    height: 16px;\n}\n\n.social-proof-star svg {\n    width: 16px;\n    height: 16px;\n    fill: var(--social-proof-star-color);\n}\n</style>\n</head>\n<body>\n\n<div class=\"social-proof-slide__block-rating mt-2\">\n  <span class=\"social-proof-slide__block-stars\">\n    <span class=\"social-proof-star\">\n      <svg xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <svg class=\"w-[16px] h-[16px]\" fill=\"currentColor\" stroke=\"currentColor\" xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <path d=\"M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z\"></path>\n      </svg>\n    </span>\n<span class=\"social-proof-star\">\n      <svg xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <svg class=\"w-[16px] h-[16px]\" fill=\"currentColor\" stroke=\"currentColor\" xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <path d=\"M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z\"></path>\n      </svg>\n    </span>\n<span class=\"social-proof-star\">\n      <svg xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <svg class=\"w-[16px] h-[16px]\" fill=\"currentColor\" stroke=\"currentColor\" xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <path d=\"M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z\"></path>\n      </svg>\n    </span>\n<span class=\"social-proof-star\">\n      <svg xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <svg class=\"w-[16px] h-[16px]\" fill=\"currentColor\" stroke=\"currentColor\" xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <path d=\"M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z\"></path>\n      </svg>\n    </span>\n<span class=\"social-proof-star\">\n      <svg xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <svg class=\"w-[16px] h-[16px]\" fill=\"currentColor\" stroke=\"currentColor\" xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <path d=\"M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z\"></path>\n      </svg>\n    </span>\n  </span>\n  <span class=\"social-proof-slide__block-rating-text\">\n    Noté 4.8 par 1500+ pieds sauvés !\n  </span>\n</div>\n\n</body>\n</html>"
           }
         },
         "title_rwQPk4": {
           "type": "title",
           "settings": {
             "heading_tag": "h3"
-          }
-        },
-        "text_FV3Law": {
-          "type": "text",
-          "settings": {
-            "text": "<ul><li>Dites adieux aux rides</li><li>Elimine l'acné et points noirs </li><li>Résultats visibles et concrets </li><li>Améliore l'élasticité et la fermeté</li></ul>"
           }
         },
         "image_HbA4dM": {
@@ -314,6 +313,14 @@
             "payment_button_text_color": ""
           }
         },
+        "image_QwBJwn": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Ajouter_un_sous-titre.png",
+            "alignment": "center",
+            "max_width": 500
+          }
+        },
         "offer_8tMtUa": {
           "type": "offer",
           "settings": {
@@ -331,18 +338,18 @@
       "block_order": [
         "liquid_M8G7rx",
         "title_rwQPk4",
-        "text_FV3Law",
         "image_HbA4dM",
         "price_MQNRGg",
         "liquid_FXTyqK",
         "image_4MYrtC",
         "buy_buttons_RAhpTR",
+        "image_QwBJwn",
         "offer_8tMtUa"
       ],
       "name": "Featured product",
       "settings": {
         "full_width": true,
-        "product": "masque-anti-age-lumiglow™",
+        "product": "semelles-4d",
         "desktop_media_width": 55,
         "desktop_media_layout": "carousel_thumbnails_left",
         "mobile_media_size": "expanded",
@@ -669,6 +676,7 @@
     "rich_text_bGkKLw",
     "image_with_text_overlay_FtfCx3",
     "multi_column_t4KV3H",
+    "testimonials_NV47pD",
     "featured_product_n934yq",
     "tabs_cieLCk",
     "images_with_text_scrolling_9LkrK4",
