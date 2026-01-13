@@ -51,18 +51,208 @@
         "background_gradient": ""
       }
     },
-    "slideshow": {
-      "type": "slideshow",
+    "multi_column_EYX6id": {
+      "type": "multi-column",
+      "blocks": {
+        "item_QcfCrH": {
+          "type": "item",
+          "settings": {
+            "column_size": "3",
+            "title": "Tenez sans effort toute la journée",
+            "heading_tag": "h4",
+            "content": "<p>Ne comptez plus les heures. Vos pieds vous soutiennent du matin jusqu'au soir sans cette douleur qui s'accumule.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_i7T3wz": {
+          "type": "item",
+          "settings": {
+            "column_size": "3",
+            "title": "Rentrez avec de l'énergie",
+            "heading_tag": "h4",
+            "content": "<p>Fini de vous écrouler en rentrant. Retrouvez cette énergie pour profiter de votre soirée et de vos proches.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_FrbjRr": {
+          "type": "item",
+          "settings": {
+            "column_size": "3",
+            "title": "Ne pensez plus à la douleur",
+            "heading_tag": "h4",
+            "content": "<p>Libérez votre esprit de cette charge mentale constante. Concentrez-vous sur votre travail, pas sur vos pieds.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_H8hyne": {
+          "type": "item",
+          "settings": {
+            "column_size": "3",
+            "title": "S'adapte à toutes vos chaussures",
+            "heading_tag": "h4",
+            "content": "<p>Une solution qui s'adapte à votre quotidien. Chaussures de ville, baskets, chaussures de sécurité.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_kRdJrF": {
+          "type": "item",
+          "settings": {
+            "column_size": "3",
+            "title": "Soulagement Immédiat",
+            "heading_tag": "h4",
+            "content": "<p>Découvrez la sensation de marcher sur un nuage. Pas besoin d'attendre des semaines pour ressentir la différence.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_9rVbpk": {
+          "type": "item",
+          "settings": {
+            "column_size": "3",
+            "title": "Solution Accessible",
+            "heading_tag": "h4",
+            "content": "<p>Moins cher qu'une seule séance de kiné. Un investissement qui dure des mois.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        }
+      },
+      "block_order": [
+        "item_QcfCrH",
+        "item_i7T3wz",
+        "item_FrbjRr",
+        "item_H8hyne",
+        "item_kRdJrF",
+        "item_9rVbpk"
+      ],
+      "name": "Multi-column",
       "settings": {
         "full_width": true,
-        "allow_transparent_header": true,
-        "image_size": "auto",
-        "controls_type": "numbers",
-        "transition_type": "fade_with_text",
-        "autoplay": true,
-        "cycle_speed": 6,
-        "background": "#f2f2f2",
-        "background_gradient": "linear-gradient(60deg, rgba(60, 65, 68, 1), rgba(23, 29, 33, 1) 98%)"
+        "stack_on_mobile": true,
+        "gap": "medium",
+        "text_alignment": "start",
+        "subheading": "",
+        "title": "Pourquoi choisir PEDIVO ?",
+        "content": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "image_link_blocks_qc3tWe": {
+      "type": "image-link-blocks",
+      "blocks": {
+        "item_764Bim": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/foret.png",
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "item_kXhV3a": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/infermiere.png",
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "item_LAheCj": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/parc.png",
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "item_zjEii4": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/retail.png",
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "item_wWDrdP": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/londres.png",
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "item_HFTycp": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/running.png",
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "item_764Bim",
+        "item_kXhV3a",
+        "item_LAheCj",
+        "item_zjEii4",
+        "item_wWDrdP",
+        "item_HFTycp"
+      ],
+      "name": "Image link blocks",
+      "settings": {
+        "full_width": false,
+        "block_size": "medium",
+        "subheading": "",
+        "title": "",
+        "content": "",
+        "link_url": "",
+        "link_text": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": ""
       }
     },
     "contact_YaQhAK": {
@@ -89,7 +279,8 @@
   },
   "order": [
     "slideshow_GC86jf",
-    "slideshow",
+    "multi_column_EYX6id",
+    "image_link_blocks_qc3tWe",
     "contact_YaQhAK"
   ]
 }
