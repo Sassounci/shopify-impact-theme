@@ -47,7 +47,7 @@
         "transition_type": "fade_with_text",
         "autoplay": false,
         "cycle_speed": 6,
-        "background": "#F2F2F2",
+        "background": "#f2f2f2",
         "background_gradient": ""
       }
     },
@@ -147,22 +147,6 @@
         "background": "",
         "background_gradient": "",
         "text_color": ""
-      }
-    },
-    "image_with_text_overlay_ECNeA4": {
-      "type": "image-with-text-overlay",
-      "name": "Image with text overlay",
-      "settings": {
-        "full_width": true,
-        "allow_transparent_header": false,
-        "enable_parallax": false,
-        "image_size": "auto",
-        "image": "shopify://shop_images/4_benefices.png",
-        "mobile_text_position": "place-self-center text-center",
-        "desktop_text_position": "sm:place-self-center sm:text-center",
-        "text_color": "#ffffff",
-        "overlay_color": "#000000",
-        "overlay_opacity": 0
       }
     },
     "image_link_blocks_qc3tWe": {
@@ -271,6 +255,158 @@
         "heading_gradient": ""
       }
     },
+    "testimonials_3LU8aV": {
+      "type": "testimonials",
+      "blocks": {
+        "testimonial_hmmR9M": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 5,
+            "author": "Marie-Claire D.",
+            "title": "Infirmière, Lyon",
+            "content": "<p><em>\"Je travaille 10h debout par jour à l'hôpital. Avant, je rentrais en pleurant tellement j'avais mal. Maintenant, je termine ma journée sans y penser. C'est un soulagement mental autant que physique.\"</em></p>"
+          }
+        },
+        "testimonial_P44BBT": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 5,
+            "author": "Philippe M.",
+            "title": "Cuisinier, Paris",
+            "content": "<p><em>\"En cuisine, on ne s'arrête jamais. Je tenais parce que je n'avais pas le choix. Avec PEDIVO, je ne pense plus à mes pieds pendant le service. Je peux enfin me concentrer sur mon travail.\"</em></p>"
+          }
+        },
+        "testimonial_93PKgR": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 5,
+            "author": "Sylvie R.",
+            "title": "Vendeuse, Marseille",
+            "content": "<p>\"J'avais essayé des semelles à 80€. Elles ne me soulageaient qu'un peu. Là, pour 20€, j'ai retrouvé le plaisir de finir ma journée sans souffrir. Je ne m'y attendais pas.\"</p>"
+          }
+        },
+        "testimonial_bPYLUi": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 5,
+            "author": "Robert L.",
+            "title": "Facteur, Toulouse",
+            "content": "<p><em>\"Je suis facteur. Chaque fin de journée était un calvaire. Maintenant, je rentre chez moi avec encore l'envie de sortir promener le chien. Ma femme a remarqué que je ne râlais plus.\"</em></p>"
+          }
+        },
+        "testimonial_rNPbix": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 5,
+            "author": "Ahmed K.",
+            "title": "Agent de sécurité, Nice",
+            "content": "<p><em>\"Agent de sécurité, je marche 15km par jour sur du béton. Je pensais que c'était normal d'avoir mal. Depuis que j'ai PEDIVO, je me rends compte que non, on peut finir sa journée sans souffrir.\"</em></p>"
+          }
+        },
+        "testimonial_4eXkgY": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 5,
+            "author": "Catherine B.",
+            "title": "Professeure, Lille",
+            "content": "<p><em>\"Professeure debout 7h par jour. Le soir, je n'avais plus la force de m'occuper de mes enfants. Maintenant, je rentre fatiguée mais pas épuisée. Ça change tout.\"</em></p>"
+          }
+        }
+      },
+      "block_order": [
+        "testimonial_hmmR9M",
+        "testimonial_P44BBT",
+        "testimonial_93PKgR",
+        "testimonial_bPYLUi",
+        "testimonial_rNPbix",
+        "testimonial_4eXkgY"
+      ],
+      "name": "Testimonials",
+      "settings": {
+        "full_width": true,
+        "stack_testimonials": true,
+        "subheading": "",
+        "title": "Ils en parlent le mieux",
+        "content": "",
+        "link_url": "",
+        "link_text": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "testimonial_card_background": "",
+        "testimonial_card_text_color": ""
+      }
+    },
+    "featured_product_jGcGDV": {
+      "type": "featured-product",
+      "blocks": {
+        "title_rQ8Crh": {
+          "type": "title",
+          "settings": {
+            "heading_tag": "h4"
+          }
+        },
+        "price_xqYpCW": {
+          "type": "price",
+          "settings": {
+            "show_taxes_notice": false
+          }
+        },
+        "buy_buttons_zTYCWr": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_payment_button": true,
+            "show_gift_card_recipient": true,
+            "atc_button_background": "",
+            "atc_button_text_color": "",
+            "payment_button_background": "",
+            "payment_button_text_color": ""
+          }
+        },
+        "pickup_availability_n7iFmf": {
+          "type": "pickup_availability",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "title_rQ8Crh",
+        "price_xqYpCW",
+        "buy_buttons_zTYCWr",
+        "pickup_availability_n7iFmf"
+      ],
+      "name": "Featured product",
+      "settings": {
+        "full_width": true,
+        "product": "semelles-4d",
+        "desktop_media_width": 50,
+        "desktop_media_layout": "carousel_thumbnails_left",
+        "mobile_media_size": "expanded",
+        "mobile_carousel_control": "floating_dots",
+        "enable_video_autoplay": true,
+        "enable_video_looping": false,
+        "enable_image_zoom": true,
+        "max_image_zoom_level": 1,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "input_background": "rgba(0,0,0,0)",
+        "input_text_color": ""
+      }
+    },
     "contact_YaQhAK": {
       "type": "contact",
       "name": "Contact form",
@@ -296,8 +432,9 @@
   "order": [
     "slideshow_GC86jf",
     "multi_column_EYX6id",
-    "image_with_text_overlay_ECNeA4",
     "image_link_blocks_qc3tWe",
+    "testimonials_3LU8aV",
+    "featured_product_jGcGDV",
     "contact_YaQhAK"
   ]
 }
