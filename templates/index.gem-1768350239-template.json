@@ -1,0 +1,440 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "slideshow_GC86jf": {
+      "type": "slideshow",
+      "blocks": {
+        "image_9QWG8i": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Baniere_pedivo.png",
+            "mobile_image": "shopify:\/\/shop_images\/Baniere_pedivo.png",
+            "content_max_width": 800,
+            "mobile_text_position": "place-self-center text-center",
+            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "subheading": "",
+            "title": "Des pieds légers même après 9h de travail !",
+            "heading_tag": "h0",
+            "button_text": "",
+            "button_link": "",
+            "text_color": "#ffffff",
+            "button_background": "#ffffff",
+            "button_text_color": "#000000",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30,
+            "background": "",
+            "background_gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_9QWG8i"
+      ],
+      "name": "Slideshow",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": true,
+        "image_size": "auto",
+        "controls_type": "dots",
+        "transition_type": "fade_with_text",
+        "autoplay": false,
+        "cycle_speed": 6,
+        "background": "#f2f2f2",
+        "background_gradient": ""
+      }
+    },
+    "multi_column_EYX6id": {
+      "type": "multi-column",
+      "blocks": {
+        "item_QcfCrH": {
+          "type": "item",
+          "settings": {
+            "column_size": "3",
+            "title": "Tenez sans effort toute la journée",
+            "heading_tag": "h4",
+            "content": "<p>Ne comptez plus les heures. Vos pieds vous soutiennent du matin jusqu'au soir sans cette douleur qui s'accumule.<\/p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_i7T3wz": {
+          "type": "item",
+          "settings": {
+            "column_size": "3",
+            "title": "Rentrez avec de l'énergie",
+            "heading_tag": "h4",
+            "content": "<p>Fini de vous écrouler en rentrant. Retrouvez cette énergie pour profiter de votre soirée et de vos proches.<\/p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_FrbjRr": {
+          "type": "item",
+          "settings": {
+            "column_size": "3",
+            "title": "Ne pensez plus à la douleur",
+            "heading_tag": "h4",
+            "content": "<p>Libérez votre esprit de cette charge mentale constante. Concentrez-vous sur votre travail, pas sur vos pieds.<\/p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_H8hyne": {
+          "type": "item",
+          "settings": {
+            "column_size": "3",
+            "title": "S'adapte à toutes vos chaussures",
+            "heading_tag": "h4",
+            "content": "<p>Une solution qui s'adapte à votre quotidien. Chaussures de ville, baskets, chaussures de sécurité.<\/p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_kRdJrF": {
+          "type": "item",
+          "settings": {
+            "column_size": "3",
+            "title": "Soulagement Immédiat",
+            "heading_tag": "h4",
+            "content": "<p>Découvrez la sensation de marcher sur un nuage. Pas besoin d'attendre des semaines pour ressentir la différence.<\/p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_9rVbpk": {
+          "type": "item",
+          "settings": {
+            "column_size": "3",
+            "title": "Solution Accessible",
+            "heading_tag": "h4",
+            "content": "<p>Moins cher qu'une seule séance de kiné. Un investissement qui dure des mois.<\/p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        }
+      },
+      "block_order": [
+        "item_QcfCrH",
+        "item_i7T3wz",
+        "item_FrbjRr",
+        "item_H8hyne",
+        "item_kRdJrF",
+        "item_9rVbpk"
+      ],
+      "name": "Multi-column",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": true,
+        "gap": "medium",
+        "text_alignment": "start",
+        "subheading": "",
+        "title": "Pourquoi choisir PEDIVO ?",
+        "content": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "image_link_blocks_qc3tWe": {
+      "type": "image-link-blocks",
+      "blocks": {
+        "item_764Bim": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/foret.png",
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "item_kXhV3a": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/infermiere.png",
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "item_LAheCj": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/parc.png",
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "item_zjEii4": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/retail.png",
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "item_wWDrdP": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/londres.png",
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "item_HFTycp": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/running.png",
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "item_764Bim",
+        "item_kXhV3a",
+        "item_LAheCj",
+        "item_zjEii4",
+        "item_wWDrdP",
+        "item_HFTycp"
+      ],
+      "name": "Image link blocks",
+      "settings": {
+        "full_width": false,
+        "block_size": "medium",
+        "subheading": "",
+        "title": "",
+        "content": "",
+        "link_url": "",
+        "link_text": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": ""
+      }
+    },
+    "testimonials_3LU8aV": {
+      "type": "testimonials",
+      "blocks": {
+        "testimonial_hmmR9M": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 5,
+            "author": "Marie-Claire D.",
+            "title": "Infirmière, Lyon",
+            "content": "<p><em>\"Je travaille 10h debout par jour à l'hôpital. Avant, je rentrais en pleurant tellement j'avais mal. Maintenant, je termine ma journée sans y penser. C'est un soulagement mental autant que physique.\"<\/em><\/p>"
+          }
+        },
+        "testimonial_P44BBT": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 5,
+            "author": "Philippe M.",
+            "title": "Cuisinier, Paris",
+            "content": "<p><em>\"En cuisine, on ne s'arrête jamais. Je tenais parce que je n'avais pas le choix. Avec PEDIVO, je ne pense plus à mes pieds pendant le service. Je peux enfin me concentrer sur mon travail.\"<\/em><\/p>"
+          }
+        },
+        "testimonial_93PKgR": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 5,
+            "author": "Sylvie R.",
+            "title": "Vendeuse, Marseille",
+            "content": "<p>\"J'avais essayé des semelles à 80€. Elles ne me soulageaient qu'un peu. Là, pour 20€, j'ai retrouvé le plaisir de finir ma journée sans souffrir. Je ne m'y attendais pas.\"<\/p>"
+          }
+        },
+        "testimonial_bPYLUi": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 5,
+            "author": "Robert L.",
+            "title": "Facteur, Toulouse",
+            "content": "<p><em>\"Je suis facteur. Chaque fin de journée était un calvaire. Maintenant, je rentre chez moi avec encore l'envie de sortir promener le chien. Ma femme a remarqué que je ne râlais plus.\"<\/em><\/p>"
+          }
+        },
+        "testimonial_rNPbix": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 5,
+            "author": "Ahmed K.",
+            "title": "Agent de sécurité, Nice",
+            "content": "<p><em>\"Agent de sécurité, je marche 15km par jour sur du béton. Je pensais que c'était normal d'avoir mal. Depuis que j'ai PEDIVO, je me rends compte que non, on peut finir sa journée sans souffrir.\"<\/em><\/p>"
+          }
+        },
+        "testimonial_4eXkgY": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 5,
+            "author": "Catherine B.",
+            "title": "Professeure, Lille",
+            "content": "<p><em>\"Professeure debout 7h par jour. Le soir, je n'avais plus la force de m'occuper de mes enfants. Maintenant, je rentre fatiguée mais pas épuisée. Ça change tout.\"<\/em><\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "testimonial_hmmR9M",
+        "testimonial_P44BBT",
+        "testimonial_93PKgR",
+        "testimonial_bPYLUi",
+        "testimonial_rNPbix",
+        "testimonial_4eXkgY"
+      ],
+      "name": "Testimonials",
+      "settings": {
+        "full_width": true,
+        "stack_testimonials": true,
+        "subheading": "",
+        "title": "Ils en parlent le mieux",
+        "content": "",
+        "link_url": "",
+        "link_text": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "testimonial_card_background": "",
+        "testimonial_card_text_color": ""
+      }
+    },
+    "featured_product_jGcGDV": {
+      "type": "featured-product",
+      "blocks": {
+        "title_rQ8Crh": {
+          "type": "title",
+          "settings": {
+            "heading_tag": "h4"
+          }
+        },
+        "price_xqYpCW": {
+          "type": "price",
+          "settings": {
+            "show_taxes_notice": false
+          }
+        },
+        "buy_buttons_zTYCWr": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_payment_button": true,
+            "show_gift_card_recipient": true,
+            "atc_button_background": "",
+            "atc_button_text_color": "",
+            "payment_button_background": "",
+            "payment_button_text_color": ""
+          }
+        },
+        "pickup_availability_n7iFmf": {
+          "type": "pickup_availability",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "title_rQ8Crh",
+        "price_xqYpCW",
+        "buy_buttons_zTYCWr",
+        "pickup_availability_n7iFmf"
+      ],
+      "name": "Featured product",
+      "settings": {
+        "full_width": true,
+        "product": "semelles-4d",
+        "desktop_media_width": 50,
+        "desktop_media_layout": "carousel_thumbnails_left",
+        "mobile_media_size": "expanded",
+        "mobile_carousel_control": "floating_dots",
+        "enable_video_autoplay": true,
+        "enable_video_looping": false,
+        "enable_image_zoom": true,
+        "max_image_zoom_level": 1,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "input_background": "rgba(0,0,0,0)",
+        "input_text_color": ""
+      }
+    },
+    "contact_YaQhAK": {
+      "type": "contact",
+      "name": "Contact form",
+      "settings": {
+        "full_width": true,
+        "subheading": "Notre service clientèle est disponible 7 jours sur 7. Temps de réponse moyen : 24h",
+        "title": "Une question ?",
+        "content": "<p>Du Lun au Ven de 9h à 12h et de 14h à 18h \/ Sam et Dim de 10h à 12h<br\/><\/p>",
+        "text_position": "start",
+        "contact_form_size": "large",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "contact_background": "",
+        "contact_text_color": "",
+        "button_background": "",
+        "button_text_color": ""
+      }
+    }
+  },
+  "order": [
+    "slideshow_GC86jf",
+    "multi_column_EYX6id",
+    "image_link_blocks_qc3tWe",
+    "testimonials_3LU8aV",
+    "featured_product_jGcGDV",
+    "contact_YaQhAK"
+  ]
+}
