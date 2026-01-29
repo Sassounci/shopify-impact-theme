@@ -108,6 +108,32 @@
         "logo_item_border": ""
       }
     },
+    "rich_text_FYPNTi": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_nrTEim": {
+          "type": "heading",
+          "settings": {
+            "text": "Pourquoi choisir les genouillères PEDIVO®",
+            "heading_tag": "h2",
+            "text_color": "",
+            "gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_nrTEim"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "image_with_text_overlay_t8J3RP": {
       "type": "image-with-text-overlay",
       "name": "Image with text overlay",
@@ -129,6 +155,7 @@
   "order": [
     "slideshow_GC86jf",
     "logo_list_JaLTLn",
+    "rich_text_FYPNTi",
     "image_with_text_overlay_t8J3RP"
   ]
 }
