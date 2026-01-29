@@ -11,6 +11,19 @@
   "type": "footer",
   "name": "Footer group",
   "sections": {
+    "custom_liquid_hYRKiw": {
+      "type": "custom-liquid",
+      "name": "Custom Liquid",
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "liquid": "<p style=\"text-align: center\">Write or copy/paste Liquid code</p>",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "text-with-icons": {
       "type": "text-with-icons",
       "blocks": {
@@ -121,6 +134,7 @@
     }
   },
   "order": [
+    "custom_liquid_hYRKiw",
     "text-with-icons",
     "footer"
   ]
