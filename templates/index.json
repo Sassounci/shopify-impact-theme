@@ -91,6 +91,7 @@
         "logo_YgBzr7",
         "logo_xNcxWt"
       ],
+      "custom_css": [],
       "name": "Logo list",
       "settings": {
         "full_width": true,
@@ -115,7 +116,7 @@
           "type": "heading",
           "settings": {
             "text": "Pourquoi choisir les genouillères PEDIVO®",
-            "heading_tag": "h2",
+            "heading_tag": "h3",
             "text_color": "",
             "gradient": ""
           }
