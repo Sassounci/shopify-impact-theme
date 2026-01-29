@@ -176,9 +176,9 @@
           "type": "item",
           "settings": {
             "column_size": "3",
-            "title": "Column title",
+            "title": "Claire, 54 ans",
             "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "content": "<p>“Je peux enfin marcher sans avoir très mal aux genoux. La douleur a diminué d’au moins 70 %. Je les porte dès que j’en ressens le besoin et ça me soulage vraiment.”</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -188,9 +188,9 @@
           "type": "item",
           "settings": {
             "column_size": "3",
-            "title": "Column title",
+            "title": "Marc, 47 ans",
             "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "content": "<p>“Je portais une genouillère de pharmacie qui me faisait mal à l’arrière du genou. Avec celle-ci, aucun frottement, elle tient bien en place et je peux la garder des heures.”<br/><br/></p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -200,9 +200,45 @@
           "type": "item",
           "settings": {
             "column_size": "3",
-            "title": "Column title",
+            "title": "Sophie, 49 ans",
             "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "content": "<p>“Je marche beaucoup et grâce à elle je peux à nouveau faire des sorties tous les après-midis. Bon soutien, sensation de stabilité immédiate.”</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_PUEGwh": {
+          "type": "item",
+          "settings": {
+            "column_size": "3",
+            "title": "Isabelle, 58 ans",
+            "heading_tag": "h4",
+            "content": "<p>“Je marche beaucoup et grâce à elle je peux à nouveau faire des sorties tous les après-midis. Bon soutien, sensation de stabilité immédiate.”</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_4wz96w": {
+          "type": "item",
+          "settings": {
+            "column_size": "3",
+            "title": "Laurent, 42 ans",
+            "heading_tag": "h4",
+            "content": "<p>“Très agréable à porter, elle ne gêne pas le mouvement et on l’oublie en quelques instants.Je la garde plusieurs heures sans problème.”</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_tzXQDg": {
+          "type": "item",
+          "settings": {
+            "column_size": "3",
+            "title": "Nadia, 51 ans",
+            "heading_tag": "h4",
+            "content": "<p>“Quand je la mets, je marche mieux et les douleurs s’apaisent. Mon genou ne se tord plus comme avant et elle ne glisse presque pas.”</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -212,7 +248,10 @@
       "block_order": [
         "item_nr6ifc",
         "item_DiQhdy",
-        "item_XnxUmx"
+        "item_XnxUmx",
+        "item_PUEGwh",
+        "item_4wz96w",
+        "item_tzXQDg"
       ],
       "name": "Multi-column",
       "settings": {
