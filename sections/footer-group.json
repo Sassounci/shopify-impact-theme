@@ -11,17 +11,29 @@
   "type": "footer",
   "name": "Footer group",
   "sections": {
-    "custom_liquid_hYRKiw": {
-      "type": "custom-liquid",
-      "name": "Custom Liquid",
+    "before_after_image_jztxRt": {
+      "type": "before-after-image",
+      "name": "Before/after image",
       "settings": {
         "full_width": true,
-        "remove_vertical_spacing": false,
-        "remove_horizontal_spacing": false,
-        "liquid": "<div class=\"calcium-section\" style=\"padding: 20px; text-align: center; font-family: sans-serif; max-width: 700px; margin: auto;\">\n  <h2 style=\"font-size: 24px; font-weight: bold;\">AVANT / APRÈS</h2>\n  <p style=\"margin-bottom: 30px;\">Sans un bon maintient votre genoux ne peux pas tenir... </p>\n\n  <div style=\"display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin-bottom: 30px;\">\n    <div style=\"flex: 1; min-width: 150px; max-width: 250px;\">\n      <img src=\"{{ 'sans-calcium.gif' | asset_url }}\" alt=\"Sans PEDIVO®\" style=\"width: 100%; border-radius: 8px;\" />\n      <h4 style=\"color: red; margin-top: 10px;\">Sans PEDIVO®</h4>\n      <p style=\"margin: 0;\">Hésitation • Escaliers difficiles • Raideur • Peur de marcher</p>\n      <strong></strong>\n    </div>\n    <div style=\"flex: 1; min-width: 150px; max-width: 250px;\">\n      <img src=\"{{ 'avec-calcium.gif' | asset_url }}\" alt=\"Avec PEDIVO®\" style=\"width: 100%; border-radius: 8px;\" />\n      <h4 style=\"color: green; margin-top: 10px;\">Avec PEDIVO®</h4>\n      <p style=\"margin: 0;\">Stabilité • Marche fluide • Confiance • Liberté</p>\n      <strong></strong>\n    </div>\n  </div>\n\n  <div style=\"background: #f9f9f9; border-radius: 12px; padding: 20px; margin-bottom: 30px;\">\n    <p style=\"font-style: italic; font-size: 15px;\">\n      <strong>“84% de calcium actif”</strong> : c’est le taux maximal que la peau peut absorber. C’est ce qui fait toute la différence.<br>\n      – Dr. Martin, Dermatologue\n    </p>\n  </div>\n\n  <a href=\"#\"\n     style=\"background-color: #00c853; color: white; padding: 15px 30px; border-radius: 30px; text-decoration: none; font-weight: bold; display: inline-block;\">\n    Effacer mes rides maintenant\n  </a>\n</div>",
+        "subheading": "",
+        "title": "AVANT / APRÈS",
+        "content": "<p><br/><strong>Avant :</strong><br/>Hésitation • Escaliers difficiles • Raideur • Peur de marcher<br/><br/><br/><strong>Après :</strong><br/>Stabilité • Marche fluide • Confiance • Liberté</p>",
+        "before_image": "shopify://shop_images/OC11_GIF3-2_1024x_7f17b455-02d0-4e67-8b13-a74b926c1f75.webp",
+        "after_image": "shopify://shop_images/OC11_GIF1-2_1024x_4b526f81-cae8-49bb-8a91-adf2caca579c.webp",
+        "expand_image": false,
+        "text_position": "center",
+        "before_after_text_position": "top",
+        "before_text": "Before",
+        "after_text": "After",
+        "drag_initial_position": 50,
         "background": "",
         "background_gradient": "",
-        "text_color": ""
+        "text_color": "",
+        "before_text_color": "#ffffff",
+        "after_text_color": "#ffffff",
+        "drag_cursor_background": "#ffffff",
+        "drag_cursor_color": "#000000"
       }
     },
     "text-with-icons": {
@@ -134,7 +146,7 @@
     }
   },
   "order": [
-    "custom_liquid_hYRKiw",
+    "before_after_image_jztxRt",
     "text-with-icons",
     "footer"
   ]
