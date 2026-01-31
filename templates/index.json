@@ -250,55 +250,11 @@
     "featured_product_rHFgHe": {
       "type": "featured-product",
       "blocks": {
-        "vendor_AWTr7i": {
-          "type": "vendor",
-          "settings": {}
-        },
         "title_qA9npU": {
           "type": "title",
           "settings": {
-            "heading_tag": "h2"
+            "heading_tag": "h4"
           }
-        },
-        "badges_9Nn3F7": {
-          "type": "badges",
-          "settings": {}
-        },
-        "price_97rF4r": {
-          "type": "price",
-          "settings": {
-            "show_taxes_notice": false
-          }
-        },
-        "rating_awJ7df": {
-          "type": "rating",
-          "settings": {
-            "show_empty": false
-          }
-        },
-        "separator_bdiRTR": {
-          "type": "separator",
-          "settings": {}
-        },
-        "description_CpjxJP": {
-          "type": "description",
-          "settings": {
-            "collapse_content": false
-          }
-        },
-        "variant_picker_7MK9wG": {
-          "type": "variant_picker",
-          "settings": {
-            "hide_sold_out_variants": false,
-            "stack_blocks": true,
-            "selector_mode": "block",
-            "color_mode": "color",
-            "size_chart_page": ""
-          }
-        },
-        "quantity_selector_PGknFR": {
-          "type": "quantity_selector",
-          "settings": {}
         },
         "buy_buttons_nNncDx": {
           "type": "buy_buttons",
@@ -310,24 +266,11 @@
             "payment_button_background": "",
             "payment_button_text_color": ""
           }
-        },
-        "pickup_availability_Q8DG8P": {
-          "type": "pickup_availability",
-          "settings": {}
         }
       },
       "block_order": [
-        "vendor_AWTr7i",
         "title_qA9npU",
-        "badges_9Nn3F7",
-        "price_97rF4r",
-        "rating_awJ7df",
-        "separator_bdiRTR",
-        "description_CpjxJP",
-        "variant_picker_7MK9wG",
-        "quantity_selector_PGknFR",
-        "buy_buttons_nNncDx",
-        "pickup_availability_Q8DG8P"
+        "buy_buttons_nNncDx"
       ],
       "name": "Featured product",
       "settings": {
