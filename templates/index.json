@@ -246,66 +246,6 @@
         "background_gradient": "",
         "text_color": ""
       }
-    },
-    "testimonials_6dqWVT": {
-      "type": "testimonials",
-      "blocks": {
-        "testimonial_yntryw": {
-          "type": "testimonial",
-          "settings": {
-            "round_avatar": true,
-            "show_rating": true,
-            "rating": 4,
-            "author": "John S.",
-            "title": "Testimonial 1",
-            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.</p>"
-          }
-        },
-        "testimonial_YeqRTN": {
-          "type": "testimonial",
-          "settings": {
-            "round_avatar": true,
-            "show_rating": true,
-            "rating": 5,
-            "author": "Mary U.",
-            "title": "Testimonial 2",
-            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.</p>"
-          }
-        },
-        "testimonial_BKTHF4": {
-          "type": "testimonial",
-          "settings": {
-            "round_avatar": true,
-            "show_rating": true,
-            "rating": 4,
-            "author": "Joshua A.",
-            "title": "Testimonial 3",
-            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.</p>"
-          }
-        }
-      },
-      "block_order": [
-        "testimonial_yntryw",
-        "testimonial_YeqRTN",
-        "testimonial_BKTHF4"
-      ],
-      "name": "Testimonials",
-      "settings": {
-        "full_width": true,
-        "stack_testimonials": true,
-        "subheading": "",
-        "title": "Nos clients en parlent le mieux",
-        "content": "",
-        "link_url": "",
-        "link_text": "",
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "heading_color": "",
-        "heading_gradient": "",
-        "testimonial_card_background": "",
-        "testimonial_card_text_color": ""
-      }
     }
   },
   "order": [
@@ -313,7 +253,6 @@
     "logo_list_JaLTLn",
     "image_with_text_overlay_wEYHY6",
     "image_with_text_overlay_t8J3RP",
-    "multi_column_3CYCP8",
-    "testimonials_6dqWVT"
+    "multi_column_3CYCP8"
   ]
 }
