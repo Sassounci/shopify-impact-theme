@@ -109,32 +109,6 @@
         "logo_item_border": ""
       }
     },
-    "rich_text_FYPNTi": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_nrTEim": {
-          "type": "heading",
-          "settings": {
-            "text": "Pourquoi choisir PEDIVO®",
-            "heading_tag": "h3",
-            "text_color": "",
-            "gradient": ""
-          }
-        }
-      },
-      "block_order": [
-        "heading_nrTEim"
-      ],
-      "name": "Rich text",
-      "settings": {
-        "full_width": true,
-        "content_width": "small",
-        "text_position": "center",
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
-      }
-    },
     "image_with_text_overlay_wEYHY6": {
       "type": "image-with-text-overlay",
       "name": "Image with text overlay",
@@ -143,8 +117,8 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
-        "image": "shopify://shop_images/4_benefices_2.png",
-        "mobile_image": "shopify://shop_images/4_benefices_2.png",
+        "image": "shopify://shop_images/4_benefices_3.png",
+        "mobile_image": "shopify://shop_images/4_benefices_3.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
@@ -271,7 +245,6 @@
   "order": [
     "slideshow_GC86jf",
     "logo_list_JaLTLn",
-    "rich_text_FYPNTi",
     "image_with_text_overlay_wEYHY6",
     "image_with_text_overlay_t8J3RP",
     "multi_column_3CYCP8"
