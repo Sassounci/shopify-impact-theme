@@ -292,12 +292,6 @@
             "payment_button_background": "",
             "payment_button_text_color": ""
           }
-        },
-        "liquid_R8pqnL": {
-          "type": "liquid",
-          "settings": {
-            "liquid": "<div class=\"red-div-wrapper\">\n  <div class=\"red-div\">\n    <span class=\"blink\">&#9679;</span>\n    <span id=\"cartCount\" style=\"color: #9F7301;\">4</span> personnes ont ajouté au panier\n  </div>\n</div>\n\n<script>\n  function updateRandomNumber() {\n    var randomCount = Math.floor(Math.random() * (20 - 4 + 1)) + 4;\n    document.getElementById(\"cartCount\").innerText = randomCount;\n  }\n  updateRandomNumber();\n  setInterval(updateRandomNumber, 15000);\n</script>\n\n<style>\n  .red-div-wrapper {\n    text-align: center; /* Centre le contenu à l'intérieur */\n    margin-top: 8px; /* Optionnel : espace au-dessus */\n  }\n\n  .red-div {\n    background-color: #FFF8D0;\n    padding: 4px 12px;\n    border-radius: 8px;\n    display: inline-block;\n    color: #9F7301;\n    font-weight: 500;\n    font-size: 12px;\n  }\n\n  .blink {\n    display: inline-block;\n    vertical-align: middle;\n    font-size: 12px;\n    margin-right: 5px;\n  }\n</style>"
-          }
         }
       },
       "block_order": [
@@ -306,8 +300,7 @@
         "price_4KYrEK",
         "liquid_EHFUJJ",
         "image_PUNaaz",
-        "buy_buttons_nNncDx",
-        "liquid_R8pqnL"
+        "buy_buttons_nNncDx"
       ],
       "name": "Featured product",
       "settings": {
