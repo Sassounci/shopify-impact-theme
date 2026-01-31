@@ -150,9 +150,9 @@
           "type": "item",
           "settings": {
             "column_size": "3",
-            "title": "Claire, 54 ans",
+            "title": "Lorraine C. ⭐⭐⭐⭐⭐",
             "heading_tag": "h4",
-            "content": "<p>“Je peux enfin marcher sans avoir très mal aux genoux. La douleur a diminué d’au moins 70 %. Je les porte dès que j’en ressens le besoin et ça me soulage vraiment.”</p>",
+            "content": "<p>J’ai récemment eu une déchirure du ménisque aux deux genoux et je souffre d’arthrose. J’ai acheté une paire pour dormir avec, et elles m’aident à marcher le lendemain. J’en ai aussitôt commandé deux autres paires pour la journée, quand j’en ai besoin.</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -162,9 +162,9 @@
           "type": "item",
           "settings": {
             "column_size": "3",
-            "title": "Marc, 47 ans",
+            "title": "Barbara D. ⭐⭐⭐⭐⭐",
             "heading_tag": "h4",
-            "content": "<p>“Je portais une genouillère de pharmacie qui me faisait mal à l’arrière du genou. Avec celle-ci, aucun frottement, elle tient bien en place et je peux la garder des heures.”<br/><br/></p>",
+            "content": "<p>J’avais des douleurs aux genoux et aux jambes depuis des mois. Après seulement 3 jours à porter les manchons pedivo, la douleur a disparu. Merci.</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -174,9 +174,9 @@
           "type": "item",
           "settings": {
             "column_size": "3",
-            "title": "Sophie, 49 ans",
+            "title": "Mark G. ⭐⭐⭐⭐⭐",
             "heading_tag": "h4",
-            "content": "<p>“Je marche beaucoup et grâce à elle je peux à nouveau faire des sorties tous les après-midis. Bon soutien, sensation de stabilité immédiate.”</p>",
+            "content": "<p><strong>La toute première nuit avec les manchons pedivo : plus aucune douleur.</strong><br/>Je les porte maintenant depuis plus d’un mois pour dormir, sans douleur ni courbatures. C’est incroyable. <br/></p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -186,9 +186,9 @@
           "type": "item",
           "settings": {
             "column_size": "3",
-            "title": "Isabelle, 58 ans",
+            "title": "Janice K. ⭐⭐⭐⭐⭐",
             "heading_tag": "h4",
-            "content": "<p>“Je marche beaucoup et grâce à elle je peux à nouveau faire des sorties tous les après-midis. Bon soutien, sensation de stabilité immédiate.”</p>",
+            "content": "<p>Je les porte tous les jours, même la nuit. Je sens vraiment la différence. Je les ai lavés un soir et laissés sécher, et j’ai passé une nuit sans les porter : mon genou était douloureux le lendemain matin.</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -198,9 +198,9 @@
           "type": "item",
           "settings": {
             "column_size": "3",
-            "title": "Laurent, 42 ans",
+            "title": "Maureen G. ⭐⭐⭐⭐⭐",
             "heading_tag": "h4",
-            "content": "<p>“Très agréable à porter, elle ne gêne pas le mouvement et on l’oublie en quelques instants.Je la garde plusieurs heures sans problème.”</p>",
+            "content": "<p>J’ai des douleurs au genou depuis des années. J’avais essayé d’autres genouillères, mais elles étaient trop encombrantes ou inconfortables.<br/>Le tissu en bambou est très facile à enfiler, même avec mes mains arthrosiques, et se glisse parfaitement sous les vêtements. <strong>Je suis vraiment reconnaissante pour le confort et le maintien qu’ils apportent.</strong></p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -210,9 +210,9 @@
           "type": "item",
           "settings": {
             "column_size": "3",
-            "title": "Nadia, 51 ans",
+            "title": "Rakhee J. ⭐⭐⭐⭐⭐",
             "heading_tag": "h4",
-            "content": "<p>“Quand je la mets, je marche mieux et les douleurs s’apaisent. Mon genou ne se tord plus comme avant et elle ne glisse presque pas.”</p>",
+            "content": "<p>Ces manchons en bambou m’aident énormément depuis plusieurs mois. Je devais passer un examen en décembre 2025, mais le fait de les porter m’a soulagée de manière impressionnante.<br/><strong>C’est déjà ma troisième paire commandée.</strong> Pour l’instant, tout est parfait.</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -234,11 +234,71 @@
         "gap": "medium",
         "text_alignment": "center",
         "subheading": "",
-        "title": "Ils le disent mieux que nous",
+        "title": "Nos clients en parlent le mieux",
         "content": "",
         "background": "",
         "background_gradient": "",
         "text_color": ""
+      }
+    },
+    "testimonials_6dqWVT": {
+      "type": "testimonials",
+      "blocks": {
+        "testimonial_yntryw": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 4,
+            "author": "John S.",
+            "title": "Testimonial 1",
+            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.</p>"
+          }
+        },
+        "testimonial_YeqRTN": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 5,
+            "author": "Mary U.",
+            "title": "Testimonial 2",
+            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.</p>"
+          }
+        },
+        "testimonial_BKTHF4": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 4,
+            "author": "Joshua A.",
+            "title": "Testimonial 3",
+            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "testimonial_yntryw",
+        "testimonial_YeqRTN",
+        "testimonial_BKTHF4"
+      ],
+      "name": "Testimonials",
+      "settings": {
+        "full_width": true,
+        "stack_testimonials": true,
+        "subheading": "",
+        "title": "Nos clients en parlent le mieux",
+        "content": "",
+        "link_url": "",
+        "link_text": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "testimonial_card_background": "",
+        "testimonial_card_text_color": ""
       }
     }
   },
@@ -247,6 +307,7 @@
     "logo_list_JaLTLn",
     "image_with_text_overlay_wEYHY6",
     "image_with_text_overlay_t8J3RP",
-    "multi_column_3CYCP8"
+    "multi_column_3CYCP8",
+    "testimonials_6dqWVT"
   ]
 }
