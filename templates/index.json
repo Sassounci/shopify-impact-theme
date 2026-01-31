@@ -268,6 +268,12 @@
             "show_taxes_notice": false
           }
         },
+        "rapi_rapi_bundle_EHFVUi": {
+          "type": "shopify://apps/rapi/blocks/rapi-bundle/99617c17-a32b-4e70-a883-7a155610d032",
+          "settings": {
+            "product": "{{section.settings.product}}"
+          }
+        },
         "liquid_EHFUJJ": {
           "type": "liquid",
           "settings": {
@@ -304,6 +310,7 @@
         "liquid_cADnVb",
         "title_qA9npU",
         "price_4KYrEK",
+        "rapi_rapi_bundle_EHFVUi",
         "liquid_EHFUJJ",
         "image_PUNaaz",
         "buy_buttons_nNncDx",
