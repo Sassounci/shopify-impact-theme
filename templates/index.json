@@ -262,6 +262,12 @@
             "heading_tag": "h5"
           }
         },
+        "price_4KYrEK": {
+          "type": "price",
+          "settings": {
+            "show_taxes_notice": false
+          }
+        },
         "buy_buttons_nNncDx": {
           "type": "buy_buttons",
           "settings": {
@@ -277,6 +283,7 @@
       "block_order": [
         "liquid_cADnVb",
         "title_qA9npU",
+        "price_4KYrEK",
         "buy_buttons_nNncDx"
       ],
       "name": "Featured product",
