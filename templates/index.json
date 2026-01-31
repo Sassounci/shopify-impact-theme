@@ -250,16 +250,22 @@
     "featured_product_rHFgHe": {
       "type": "featured-product",
       "blocks": {
+        "liquid_cADnVb": {
+          "type": "liquid",
+          "settings": {
+            "liquid": ""
+          }
+        },
         "title_qA9npU": {
           "type": "title",
           "settings": {
             "heading_tag": "h5"
           }
         },
-        "description_N6LeGy": {
-          "type": "description",
+        "liquid_Fb6RHM": {
+          "type": "liquid",
           "settings": {
-            "collapse_content": false
+            "liquid": "<style>\n  p {\n    font-size: 14px;\n    line-height: 1.2;\n  }\n</style>\n\n<p>✅ Reshapes figure naturally</p>\n<p>✅ Reshapes figure naturally</p>\n<p>✅ Reshapes figure naturally</p>"
           }
         },
         "buy_buttons_nNncDx": {
@@ -275,8 +281,9 @@
         }
       },
       "block_order": [
+        "liquid_cADnVb",
         "title_qA9npU",
-        "description_N6LeGy",
+        "liquid_Fb6RHM",
         "buy_buttons_nNncDx"
       ],
       "name": "Featured product",
