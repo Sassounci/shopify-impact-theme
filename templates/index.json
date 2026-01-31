@@ -149,6 +149,7 @@
         "item_nr6ifc": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/cPJsCL6CS.jpg",
             "column_size": "3",
             "title": "Lorraine C. ⭐⭐⭐⭐⭐",
             "heading_tag": "h4",
@@ -161,6 +162,7 @@
         "item_DiQhdy": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/9tDgqMd4c.jpg",
             "column_size": "3",
             "title": "Barbara D. ⭐⭐⭐⭐⭐",
             "heading_tag": "h4",
@@ -173,10 +175,11 @@
         "item_XnxUmx": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/GFAlRF7Ye.jpg",
             "column_size": "3",
             "title": "Mark G. ⭐⭐⭐⭐⭐",
             "heading_tag": "h4",
-            "content": "<p><strong>La toute première nuit avec les manchons pedivo : plus aucune douleur.</strong><br/>Je les porte maintenant depuis plus d’un mois pour dormir, sans douleur ni courbatures. C’est incroyable. <br/></p>",
+            "content": "<p><strong>La toute première nuit avec les manchons pedivo : plus aucune douleur.</strong><br/>Je les porte maintenant depuis plus d’un mois pour dormir, sans douleur ni courbatures. C’est incroyable. </p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -185,6 +188,7 @@
         "item_PUEGwh": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/HXZjGIHml.jpg",
             "column_size": "3",
             "title": "Janice K. ⭐⭐⭐⭐⭐",
             "heading_tag": "h4",
@@ -197,6 +201,7 @@
         "item_4wz96w": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/HCcANwLGJ.jpg",
             "column_size": "3",
             "title": "Maureen G. ⭐⭐⭐⭐⭐",
             "heading_tag": "h4",
@@ -209,6 +214,7 @@
         "item_tzXQDg": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/L1YYj7wap.jpg",
             "column_size": "3",
             "title": "Rakhee J. ⭐⭐⭐⭐⭐",
             "heading_tag": "h4",
