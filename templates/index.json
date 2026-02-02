@@ -408,19 +408,6 @@
             "link_style": "link"
           }
         },
-        "item_Rhjncy": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/3_11ce4351-9344-45f0-b9f6-8867f855c1c7.png",
-            "column_size": "3",
-            "title": "Thermorégulateur",
-            "heading_tag": "h5",
-            "content": "<p>Vous réchauffe quand il fait froid et vous rafraîchit quand il fait chaud</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
         "item_r9fjJW": {
           "type": "item",
           "settings": {
@@ -437,11 +424,24 @@
         "item_FxdWnM": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/5_d0e3fac9-2c15-4585-8dc0-3ae82a184004.png",
+            "image": "shopify://shop_images/6_b329a1b4-b29b-4ff3-94df-a138182181d0.png",
             "column_size": "3",
             "title": "Extrêmement doux",
             "heading_tag": "h5",
             "content": "<p>Luxueusement doux et souple</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_TiwUVH": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/5_d0e3fac9-2c15-4585-8dc0-3ae82a184004.png",
+            "column_size": "3",
+            "title": "Anti-bactérien",
+            "heading_tag": "h5",
+            "content": "<p>Naturellement respirant et hypoallergénique<br/></p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -452,9 +452,9 @@
         "item_kq4L3R",
         "item_3jBmr9",
         "item_K33tWg",
-        "item_Rhjncy",
         "item_r9fjJW",
-        "item_FxdWnM"
+        "item_FxdWnM",
+        "item_TiwUVH"
       ],
       "name": "Multi-column",
       "settings": {
