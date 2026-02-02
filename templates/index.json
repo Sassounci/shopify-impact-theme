@@ -335,37 +335,6 @@
         "input_text_color": ""
       }
     },
-    "images_with_text_scrolling_qzfzwY": {
-      "type": "images-with-text-scrolling",
-      "blocks": {
-        "item_BArfGF": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/Support_Ergonomique_1.png",
-            "icon": "none",
-            "icon_width": 48,
-            "title": "Recommandé par les orthopédistes",
-            "content": "<p>“Un bon maintien articulaire aide à réduire la sensation d’instabilité et à retrouver une marche plus sûre.”</p>"
-          }
-        }
-      },
-      "block_order": [
-        "item_BArfGF"
-      ],
-      "name": "Images and text scrolling",
-      "settings": {
-        "full_width": true,
-        "stack_on_mobile": false,
-        "show_counter": false,
-        "desktop_image_effect": "reveal",
-        "image_position": "end",
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "heading_color": "",
-        "heading_gradient": ""
-      }
-    },
     "multi_column_R9A8tV": {
       "type": "multi-column",
       "blocks": {
@@ -469,6 +438,47 @@
         "background_gradient": "",
         "text_color": ""
       }
+    },
+    "images_with_text_scrolling_qzfzwY": {
+      "type": "images-with-text-scrolling",
+      "blocks": {
+        "item_BArfGF": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Support_Ergonomique_1.png",
+            "icon": "none",
+            "icon_width": 48,
+            "title": "Recommandé par les orthopédistes",
+            "content": "<p>“Un bon maintien articulaire aide à réduire la sensation d’instabilité et à retrouver une marche plus sûre.”</p>"
+          }
+        },
+        "item_q4TjwT": {
+          "type": "item",
+          "settings": {
+            "icon": "none",
+            "icon_width": 48,
+            "title": "Garantie 30 jours !",
+            "content": "<p>Essayez sans risque 30 jours Satisfait ou remboursé</p>"
+          }
+        }
+      },
+      "block_order": [
+        "item_BArfGF",
+        "item_q4TjwT"
+      ],
+      "name": "Images and text scrolling",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "show_counter": false,
+        "desktop_image_effect": "reveal",
+        "image_position": "end",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": ""
+      }
     }
   },
   "order": [
@@ -478,7 +488,7 @@
     "image_with_text_overlay_t8J3RP",
     "multi_column_3CYCP8",
     "featured_product_rHFgHe",
-    "images_with_text_scrolling_qzfzwY",
-    "multi_column_R9A8tV"
+    "multi_column_R9A8tV",
+    "images_with_text_scrolling_qzfzwY"
   ]
 }
