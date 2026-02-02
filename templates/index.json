@@ -373,7 +373,7 @@
           "type": "item",
           "settings": {
             "image": "shopify://shop_images/1_beee0789-2586-45c6-940a-f237ca596f6a.png",
-            "column_size": "4",
+            "column_size": "3",
             "title": "Ecologique",
             "heading_tag": "h5",
             "content": "<p>Utilise 10x moins d'eau que le coton</p>",
@@ -385,6 +385,7 @@
         "item_3jBmr9": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/2_c5fd832c-b7ea-4e7a-9f64-55959ce12ff2.png",
             "column_size": "3",
             "title": "Issu de l'agriculture biologique",
             "heading_tag": "h5",
@@ -397,10 +398,50 @@
         "item_K33tWg": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/3_11ce4351-9344-45f0-b9f6-8867f855c1c7.png",
             "column_size": "3",
-            "title": "Column title",
-            "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "title": "Fraîcheur naturelle",
+            "heading_tag": "h5",
+            "content": "<p>Empêche les mauvaises odeurs 4 fois plus efficace que le coton</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_Rhjncy": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/3_11ce4351-9344-45f0-b9f6-8867f855c1c7.png",
+            "column_size": "3",
+            "title": "Thermorégulateur",
+            "heading_tag": "h5",
+            "content": "<p>Vous réchauffe quand il fait froid et vous rafraîchit quand il fait chaud</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_r9fjJW": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/4_7f287951-79fc-4d39-bac1-21af076ee629.png",
+            "column_size": "3",
+            "title": "Thermorégulateur",
+            "heading_tag": "h5",
+            "content": "<p>Vous réchauffe quand il fait froid et vous rafraîchit quand il fait chaud</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_FxdWnM": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/5_d0e3fac9-2c15-4585-8dc0-3ae82a184004.png",
+            "column_size": "3",
+            "title": "Extrêmement doux",
+            "heading_tag": "h5",
+            "content": "<p>Luxueusement doux et souple</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -410,14 +451,17 @@
       "block_order": [
         "item_kq4L3R",
         "item_3jBmr9",
-        "item_K33tWg"
+        "item_K33tWg",
+        "item_Rhjncy",
+        "item_r9fjJW",
+        "item_FxdWnM"
       ],
       "name": "Multi-column",
       "settings": {
         "full_width": true,
         "stack_on_mobile": false,
         "gap": "medium",
-        "text_alignment": "center",
+        "text_alignment": "start",
         "subheading": "",
         "title": "Pourquoi la fibre de bambou est meilleure ?",
         "content": "<p>Notre bambou de <strong>qualité supérieure</strong> comporte <strong>beaucoup de bénéfices</strong></p>",
