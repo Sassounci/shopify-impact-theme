@@ -372,6 +372,7 @@
         "item_kq4L3R": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/1_beee0789-2586-45c6-940a-f237ca596f6a.png",
             "column_size": "4",
             "title": "Ecologique",
             "heading_tag": "h5",
@@ -384,7 +385,6 @@
         "item_3jBmr9": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/gempages_491478759153599514-189440ab-7420-4836-a1c8-bbd3fd0c5ce4.png",
             "column_size": "3",
             "title": "Issu de l'agriculture biologique",
             "heading_tag": "h5",
@@ -419,7 +419,7 @@
         "gap": "medium",
         "text_alignment": "center",
         "subheading": "",
-        "title": "Pourquoi le bambou est meilleur ?",
+        "title": "Pourquoi la fibre de bambou est meilleure ?",
         "content": "<p>Notre bambou de <strong>qualité supérieure</strong> comporte <strong>beaucoup de bénéfices</strong></p>",
         "background": "",
         "background_gradient": "",
