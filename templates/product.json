@@ -18,12 +18,6 @@
             "heading_tag": "h5"
           }
         },
-        "price": {
-          "type": "price",
-          "settings": {
-            "show_taxes_notice": false
-          }
-        },
         "rapi_rapi_bundle_QFmVkC": {
           "type": "shopify://apps/rapi/blocks/rapi-bundle/99617c17-a32b-4e70-a883-7a155610d032",
           "settings": {
@@ -44,7 +38,6 @@
       },
       "block_order": [
         "title",
-        "price",
         "rapi_rapi_bundle_QFmVkC",
         "buy_buttons"
       ],
