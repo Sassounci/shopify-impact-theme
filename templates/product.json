@@ -26,6 +26,7 @@
         },
         "text_7nCeHL": {
           "type": "text",
+          "disabled": true,
           "settings": {
             "text": "<p>Expédié en 48h</p><p>Livraison Gratuite en France </p><p>Garantie 90j Satisfait ou Remboursé </p>"
           }
