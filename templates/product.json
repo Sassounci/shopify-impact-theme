@@ -24,6 +24,12 @@
             "heading_tag": "h5"
           }
         },
+        "text_7nCeHL": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Expédié en 48h</p><p>Livraison Gratuite en France </p><p>Garantie 90j Satisfait ou Remboursé </p>"
+          }
+        },
         "rapi_rapi_bundle_QFmVkC": {
           "type": "shopify://apps/rapi/blocks/rapi-bundle/99617c17-a32b-4e70-a883-7a155610d032",
           "settings": {
@@ -45,6 +51,7 @@
       "block_order": [
         "liquid_YQXktB",
         "title",
+        "text_7nCeHL",
         "rapi_rapi_bundle_QFmVkC",
         "buy_buttons"
       ],
