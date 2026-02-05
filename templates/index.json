@@ -455,6 +455,7 @@
         "item_q4TjwT": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/Livraison.png",
             "icon": "none",
             "icon_width": 48,
             "title": "Garantie 30 jours !",
