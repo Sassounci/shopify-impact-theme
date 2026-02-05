@@ -104,41 +104,6 @@
       },
       "type": "gp-section-605276994552201783"
     },
-    "gp_section_605276994619310852": {
-      "settings": {
-        "checksum": "61a1de2903f45720eb2c6122a83232a7493a020f1950f0a45cc82a517c99410d_1_1_1_0__1",
-        "gg-t2V60ky8_text": "<p>For questions and problems, you can always&nbsp;<br>get in touch with our support desk, so we can get you back, up and running.</p>",
-        "gg1MgeuF7Qi_text": "<p>Installation</p>",
-        "gg28XOZZynS_text": "<p>Windows 10 May 2019 update or higher - Significant improvements have been added to the Windows Mixed Reality platform to optimize for the visual quality of this device. For the best performance, please ensure you have the latest updates from Windows 10: version 1903/1909 (KB4577062 or later) or 2004 (KB4577063 or later).</p>",
-        "gg2GfvKn0-T_text": "<p>Memory</p>",
-        "gg6JVOzBbXs_text": "<p>Charging Cable</p>",
-        "gg94epYzs1L_text": "<p>Compatible operating systems</p>",
-        "ggAeVRevj0M_text": "<p>Magnesium alloy, plastic</p>",
-        "ggCDsvjcukQ_text": "<p>Technical Specifications</p>",
-        "ggFojI-abls_text": "<p>2 Touch Controllers</p>",
-        "ggJKJ-KwWNE_text": "<p>128GB/256GB</p>",
-        "ggJRJTgj2dY_text": "<p>Color</p>",
-        "ggK8ydH34yr_text": "<p>Material</p>",
-        "ggLGUrp7aAK_text": "<p>We set up your VR headsets for direct use, by preconfiguring the headsets and pre-installing your desired application and 360° content.</p>",
-        "ggOo1lgslw-_text": "<p>Field of view</p>",
-        "ggTR-Wwaahi_text": "<p>Glasses Spacer</p>",
-        "ggV4S2CHY87_text": "<p>120 degrees</p>",
-        "ggV5FS4kPGK_text": "<p>Professional Support</p>",
-        "ggZNZVPzT0f_text": "<p>2448 x 2448 pixels per eye</p>",
-        "gg_KqHWsNwy_text": "<p>Black</p>",
-        "ggagJyu4TCi_childItem_0": "Product Specifications",
-        "ggagJyu4TCi_childItem_1": "Product Details",
-        "ggagJyu4TCi_childItem_2": "Product Services",
-        "ggbyIj9IBjq_text": "<p>Resolution</p>",
-        "gge1fClgei7_text": "<p>Power Adapter</p>",
-        "ggiITc48y66_text": "<p>Weight</p>",
-        "ggj9mraPVQ8_text": "<p>24/7 Support Desk</p>",
-        "ggkid-DJeJU_text": "<p>VR Headset</p>",
-        "ggm7oBYtihf_text": "<p>What's Included</p>",
-        "ggpTAkCNL4-_text": "<p>560 grams</p>"
-      },
-      "type": "gp-section-605276994619310852"
-    },
     "gp_section_605276994736751159": {
       "settings": {
         "checksum": "95832a3ff57f6b8b52666071a7b919a91d0bd0c17d7f3628249c29bcf24caff9_1_1_1_0__1",
@@ -202,7 +167,6 @@
   },
   "order": [
     "gp_section_605276994552201783",
-    "gp_section_605276994619310852",
     "gp_section_605276994149548804",
     "gp_section_605276994501870340",
     "gp_section_605276994535424922",
