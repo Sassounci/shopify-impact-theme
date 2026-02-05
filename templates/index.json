@@ -282,6 +282,14 @@
             "product": "{{section.settings.product}}"
           }
         },
+        "image_yqzXBj": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Ajouter_un_sous-titre_1.png",
+            "alignment": "start",
+            "max_width": 500
+          }
+        },
         "buy_buttons_nNncDx": {
           "type": "buy_buttons",
           "settings": {
@@ -306,6 +314,7 @@
         "image_PUNaaz",
         "liquid_EHFUJJ",
         "rapi_rapi_bundle_EHFVUi",
+        "image_yqzXBj",
         "buy_buttons_nNncDx",
         "liquid_N3UKfw"
       ],
