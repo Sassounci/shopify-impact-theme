@@ -484,6 +484,13 @@
     "faq_Akqewx": {
       "type": "faq",
       "blocks": {
+        "item_bRWbgb": {
+          "type": "item",
+          "settings": {
+            "title": "Et si ça ne fonctionne pas pour moi ?",
+            "content": "<p>Vous êtes couvert par notre garantie satisfait ou remboursé pendant 90 jours, sans discussion.</p>"
+          }
+        },
         "item_wWELjE": {
           "type": "item",
           "settings": {
@@ -574,16 +581,10 @@
             "title": "Est-ce qu’elle convient aux deux genoux ?",
             "content": "<p>Oui.<br/><br/>Elle peut être utilisée sur le genou droit ou gauche.</p>"
           }
-        },
-        "item_bRWbgb": {
-          "type": "item",
-          "settings": {
-            "title": "Et si ça ne fonctionne pas pour moi ?",
-            "content": "<p>Vous êtes couvert par notre garantie satisfait ou remboursé pendant 90 jours, sans discussion.</p>"
-          }
         }
       },
       "block_order": [
+        "item_bRWbgb",
         "item_wWELjE",
         "item_hRth7R",
         "item_ApddgF",
@@ -596,8 +597,7 @@
         "item_Lxr7X8",
         "item_zf3nKt",
         "item_Xtyf8k",
-        "item_edpG8F",
-        "item_bRWbgb"
+        "item_edpG8F"
       ],
       "name": "FAQ",
       "settings": {
@@ -621,6 +621,27 @@
         "accordion_background": "",
         "accordion_text_color": ""
       }
+    },
+    "contact_HdJcJM": {
+      "type": "contact",
+      "name": "Contact form",
+      "settings": {
+        "full_width": true,
+        "subheading": "",
+        "title": "Vous avez une question ? Posez la !",
+        "content": "<p>Nous répondons à toutes vos questions avec un délais maximum de 24h. </p><p>Nous sommes ouverts du : </p><p>Lundi au Vendredi : 9h - 17h</p><p>Le week-end : 14h - 16h</p>",
+        "text_position": "start",
+        "contact_form_size": "large",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "contact_background": "",
+        "contact_text_color": "",
+        "button_background": "",
+        "button_text_color": ""
+      }
     }
   },
   "order": [
@@ -632,6 +653,7 @@
     "featured_product_rHFgHe",
     "multi_column_R9A8tV",
     "images_with_text_scrolling_qzfzwY",
-    "faq_Akqewx"
+    "faq_Akqewx",
+    "contact_HdJcJM"
   ]
 }
