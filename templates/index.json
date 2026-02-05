@@ -629,7 +629,7 @@
         "full_width": true,
         "subheading": "",
         "title": "Vous avez une question ? Posez la !",
-        "content": "<p>Nous répondons à toutes vos questions avec un délais maximum de 24h. </p><p>Nous sommes ouverts du : </p><p>Lundi au Vendredi : 9h - 17h</p><p>Le week-end : 14h - 16h</p>",
+        "content": "<p>Nous répondons à toutes vos questions avec un délais maximum de 24h. </p><p><strong>Horaires</strong> : Du Lun au Ven de 9h à 12h et de 14h à 18h / Sam et Dim de 10h à 12h</p>",
         "text_position": "start",
         "contact_form_size": "large",
         "background": "",
