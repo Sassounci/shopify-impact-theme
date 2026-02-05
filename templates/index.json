@@ -264,6 +264,22 @@
             "heading_tag": "h5"
           }
         },
+        "price_qNWMRT": {
+          "type": "price",
+          "settings": {
+            "show_taxes_notice": false
+          }
+        },
+        "variant_picker_3CW8yP": {
+          "type": "variant_picker",
+          "settings": {
+            "hide_sold_out_variants": false,
+            "stack_blocks": true,
+            "selector_mode": "dropdown",
+            "color_mode": "color",
+            "size_chart_page": ""
+          }
+        },
         "image_PUNaaz": {
           "type": "image",
           "settings": {
@@ -314,6 +330,8 @@
       "block_order": [
         "liquid_cADnVb",
         "title_qA9npU",
+        "price_qNWMRT",
+        "variant_picker_3CW8yP",
         "image_PUNaaz",
         "liquid_EHFUJJ",
         "rapi_rapi_bundle_EHFVUi",
