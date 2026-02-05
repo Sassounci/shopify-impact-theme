@@ -96,14 +96,10 @@
     },
     "gp_section_605276994552201783": {
       "settings": {
-        "checksum": "b2a2ddc95b137987b753d7e9bcd1d02e13073606b7b1d3a5750df4e9db08241d_1_1_1_0__1",
-        "gg3xHEgOr7Q_label": "Buy it now",
+        "checksum": "fa47db32e856877f11fc36a7f34eb49e9f388a3f2f69af3db9a86069665c7a6d_1_1_1_0__1",
+        "gg3xHEgOr7Q_label": "<p><span style=\"color:#FFFFFF;\">ACHETEZ MAINTENANT</span></p>",
         "gg7CEgpKoNV_text": "<p>Expédié en 48h</p><p>Livraison Gratuite&nbsp;</p><p>Garantie 90j Satisfait ou Remboursé</p>",
         "ggTF1aTaKar_text": "<p><s>€75,99</s></p>",
-        "ggXwndDVWpX_label": "ADD TO CART",
-        "ggXwndDVWpX_outOfStockLabel": "Out of stock",
-        "ggXwndDVWpX_unavailableLabel": "Unavailable",
-        "ggXwndDVWpX_variantSelectionRequiredMessage": "Please select a variant to add product to cart",
         "section_preload": "true"
       },
       "type": "gp-section-605276994552201783"
