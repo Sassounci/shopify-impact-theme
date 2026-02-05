@@ -286,7 +286,7 @@
           "type": "image",
           "settings": {
             "image": "shopify://shop_images/Ajouter_un_sous-titre_1.png",
-            "alignment": "start",
+            "alignment": "center",
             "max_width": 500
           }
         },
