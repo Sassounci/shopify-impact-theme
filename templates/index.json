@@ -262,16 +262,12 @@
             "heading_tag": "h5"
           }
         },
-        "price_4KYrEK": {
-          "type": "price",
+        "image_PUNaaz": {
+          "type": "image",
           "settings": {
-            "show_taxes_notice": false
-          }
-        },
-        "rapi_rapi_bundle_EHFVUi": {
-          "type": "shopify://apps/rapi/blocks/rapi-bundle/99617c17-a32b-4e70-a883-7a155610d032",
-          "settings": {
-            "product": "{{section.settings.product}}"
+            "image": "shopify://shop_images/Ajouter_un_sous-titre.jpg",
+            "alignment": "center",
+            "max_width": 500
           }
         },
         "liquid_EHFUJJ": {
@@ -280,12 +276,10 @@
             "liquid": "<style>\n  .blink {\n    animation: blink-animation 1.5s steps(5, start) infinite;\n    color: red;\n    display: inline-block; /* Display as inline-block */\n    vertical-align: middle; /* Align vertically to middle */\n    font-size: 10px; /* Set font size */\n  }\n\n  @keyframes blink-animation {\n    to {\n      visibility: hidden;\n    }\n  }\n\n  .red-div {\n    background-color: #ffcccc;\n    padding: 2px 10px; /* 6px vertical, 10px horizontal */\n    border-radius: 8px; /* Rounded corners */\n    display: inline-block; /* Display as inline-block */\n    text-align: center; /* Center align the content */\n    margin: 0 auto; /* Horizontally center the red-div */\n  }\n\n  .text {\n    display: inline-block; /* Display as inline-block */\n    vertical-align: middle; /* Align vertically to middle */\n    margin-left: 10px; /* Add some space between the dot and the text */\n    color: #AD0000; /* Text color */\n    font-weight: 500; /* Medium font weight */\n    font-size: 12px; /* Set font size */\n    text-align: justify; /* Justify the text to the center */\n  }\n</style>\n\n<div class=\"red-div\">\n  <div class=\"blink\">&#9679;</div>\n  <div class=\"text\">Plus que 8 en stock </div>\n</div>"
           }
         },
-        "image_PUNaaz": {
-          "type": "image",
+        "rapi_rapi_bundle_EHFVUi": {
+          "type": "shopify://apps/rapi/blocks/rapi-bundle/99617c17-a32b-4e70-a883-7a155610d032",
           "settings": {
-            "image": "shopify://shop_images/Ajouter_un_sous-titre.jpg",
-            "alignment": "center",
-            "max_width": 500
+            "product": "{{section.settings.product}}"
           }
         },
         "buy_buttons_nNncDx": {
@@ -309,10 +303,9 @@
       "block_order": [
         "liquid_cADnVb",
         "title_qA9npU",
-        "price_4KYrEK",
-        "rapi_rapi_bundle_EHFVUi",
-        "liquid_EHFUJJ",
         "image_PUNaaz",
+        "liquid_EHFUJJ",
+        "rapi_rapi_bundle_EHFVUi",
         "buy_buttons_nNncDx",
         "liquid_N3UKfw"
       ],
