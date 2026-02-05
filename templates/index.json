@@ -480,6 +480,147 @@
         "heading_color": "",
         "heading_gradient": ""
       }
+    },
+    "faq_Akqewx": {
+      "type": "faq",
+      "blocks": {
+        "item_wWELjE": {
+          "type": "item",
+          "settings": {
+            "title": "Est-ce que ça serre trop ?",
+            "content": "<p>Non. Le maintien est ferme mais souple.</p><p><br/>La genouillère soutient le genou sans couper la circulation ni comprimer excessivement.</p>"
+          }
+        },
+        "item_hRth7R": {
+          "type": "item",
+          "settings": {
+            "title": "Est-ce qu’elle va glisser en marchant ?",
+            "content": "<p>Elle est conçue pour rester bien en place, même pendant une marche prolongée ou dans les escaliers.</p>"
+          }
+        },
+        "item_ApddgF": {
+          "type": "item",
+          "settings": {
+            "title": "Puis-je la porter toute la journée ?",
+            "content": "<p>Oui.<br/><br/>Elle est respirante et confortable, ce qui permet de la porter plusieurs heures sans gêne.</p>"
+          }
+        },
+        "item_4xq7ki": {
+          "type": "item",
+          "settings": {
+            "title": "Est-ce qu’elle est visible sous les vêtements ?",
+            "content": "<p>Non.<br/><br/>Son design fin permet de la porter discrètement sous un pantalon ou un legging.</p>"
+          }
+        },
+        "item_h36JGM": {
+          "type": "item",
+          "settings": {
+            "title": "Est-ce que ça fonctionne pour l’arthrose, tendinite ou entorse ?",
+            "content": "<p>Oui.<br/><br/>Elle aide à stabiliser le genou et à réduire la sensation d’instabilité liée à ces douleurs.</p>"
+          }
+        },
+        "item_yc6e9p": {
+          "type": "item",
+          "settings": {
+            "title": "Comment choisir la bonne taille ?",
+            "content": "<p>Un guide de taille simple est disponible sur la page produit.<br/><br/>Si vous êtes entre deux tailles, il est recommandé de prendre la plus grande pour plus de confort.</p>"
+          }
+        },
+        "item_MyVrae": {
+          "type": "item",
+          "settings": {
+            "title": "Est-ce que ça fonctionne si j’ai déjà essayé d’autres genouillères ?",
+            "content": "<p>Oui, c’est justement pour ça que beaucoup de clients l’achètent.<br/><br/>Elle combine maintien, confort et tenue en place, ce qui manque souvent aux modèles classiques.</p>"
+          }
+        },
+        "item_fLrrpw": {
+          "type": "item",
+          "settings": {
+            "title": "Est-ce que ça chauffe ou fait transpirer ?",
+            "content": "<p>Non.<br/><br/>Le tissu en fibre de bambou est respirant et aide à limiter la chaleur et l’humidité.</p>"
+          }
+        },
+        "item_RCGmTx": {
+          "type": "item",
+          "settings": {
+            "title": "Puis-je la porter pour marcher ou faire du sport ?",
+            "content": "<p>Oui.</p><p><br/>Elle est adaptée à la marche, aux activités quotidiennes et aux efforts modérés.</p>"
+          }
+        },
+        "item_Lxr7X8": {
+          "type": "item",
+          "settings": {
+            "title": "Est-ce que je peux la laver ?",
+            "content": "<p>Oui.<br/><br/>Elle se lave facilement à la main ou en machine à basse température.</p>"
+          }
+        },
+        "item_zf3nKt": {
+          "type": "item",
+          "settings": {
+            "title": "En combien de temps ressent-on les effets ?",
+            "content": "<p>La plupart des utilisateurs ressentent un meilleur maintien dès les premières utilisations.<br/><br/>Les bénéfices augmentent avec un port régulier.</p>"
+          }
+        },
+        "item_Xtyf8k": {
+          "type": "item",
+          "settings": {
+            "title": "Combien de temps dure la genouillère ?",
+            "content": "<p>Elle est conçue pour durer plusieurs mois avec un usage normal.</p>"
+          }
+        },
+        "item_edpG8F": {
+          "type": "item",
+          "settings": {
+            "title": "Est-ce qu’elle convient aux deux genoux ?",
+            "content": "<p>Oui.<br/><br/>Elle peut être utilisée sur le genou droit ou gauche.</p>"
+          }
+        },
+        "item_bRWbgb": {
+          "type": "item",
+          "settings": {
+            "title": "Et si ça ne fonctionne pas pour moi ?",
+            "content": "<p>Vous êtes couvert par notre garantie satisfait ou remboursé pendant 90 jours, sans discussion.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "item_wWELjE",
+        "item_hRth7R",
+        "item_ApddgF",
+        "item_4xq7ki",
+        "item_h36JGM",
+        "item_yc6e9p",
+        "item_MyVrae",
+        "item_fLrrpw",
+        "item_RCGmTx",
+        "item_Lxr7X8",
+        "item_zf3nKt",
+        "item_Xtyf8k",
+        "item_edpG8F",
+        "item_bRWbgb"
+      ],
+      "name": "FAQ",
+      "settings": {
+        "full_width": true,
+        "subheading": "",
+        "title": "FAQ",
+        "content": "",
+        "team_avatar_width": 160,
+        "support_hours": "",
+        "answer_time": "",
+        "button_text": "",
+        "button_url": "",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "button_background": "",
+        "button_text_color": "",
+        "accordion_background": "",
+        "accordion_text_color": ""
+      }
     }
   },
   "order": [
@@ -490,6 +631,7 @@
     "multi_column_3CYCP8",
     "featured_product_rHFgHe",
     "multi_column_R9A8tV",
-    "images_with_text_scrolling_qzfzwY"
+    "images_with_text_scrolling_qzfzwY",
+    "faq_Akqewx"
   ]
 }
