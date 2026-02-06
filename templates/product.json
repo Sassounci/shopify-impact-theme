@@ -145,6 +145,7 @@
         "item_CyQjmT": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/6989b544-4ec0-4631-9ce8-f2d04344ed56.webp",
             "icon": "none",
             "icon_width": 48,
             "title": "Vous ne le réalisez peut-être pas…",
@@ -154,6 +155,7 @@
         "item_r3dhNt": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/OC11_GIF1-2.webp",
             "icon": "none",
             "icon_width": 48,
             "title": "Adoptez un maintien confortable et discret",
@@ -168,7 +170,7 @@
       "name": "Images and text scrolling",
       "settings": {
         "full_width": true,
-        "stack_on_mobile": false,
+        "stack_on_mobile": true,
         "show_counter": true,
         "desktop_image_effect": "reveal",
         "image_position": "end",
