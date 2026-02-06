@@ -300,12 +300,55 @@
         "background_gradient": "",
         "text_color": ""
       }
+    },
+    "images_with_text_scrolling_LEeAjf": {
+      "type": "images-with-text-scrolling",
+      "blocks": {
+        "item_9mLPN4": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Support_Ergonomique_1.png",
+            "icon": "none",
+            "icon_width": 48,
+            "title": "Recommandé par les orthopédistes",
+            "content": "<p>“Un bon maintien articulaire aide à réduire la sensation d’instabilité et à retrouver une marche plus sûre.”</p>"
+          }
+        },
+        "item_4QMd7x": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Livraison.png",
+            "icon": "none",
+            "icon_width": 48,
+            "title": "Garantie 90 jours !",
+            "content": "<p>Essayez la genouillère en bambou <strong>pendant 90 jours chez vous</strong>. Si vous ne constatez aucune amélioration de votre confort de genou ou si le produit ne vous convient pas, contactez-nous par mail et <strong>nous vous remboursons sans vous poser de questions.</strong></p>"
+          }
+        }
+      },
+      "block_order": [
+        "item_9mLPN4",
+        "item_4QMd7x"
+      ],
+      "name": "Images and text scrolling",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": true,
+        "show_counter": false,
+        "desktop_image_effect": "reveal",
+        "image_position": "end",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": ""
+      }
     }
   },
   "order": [
     "main",
     "logo_list_FbNjWX",
     "images_with_text_scrolling_f7PWwV",
-    "multi_column_AqTEEP"
+    "multi_column_AqTEEP",
+    "images_with_text_scrolling_LEeAjf"
   ]
 }
