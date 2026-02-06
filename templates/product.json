@@ -149,7 +149,7 @@
             "icon": "none",
             "icon_width": 48,
             "title": "Vous ne le réalisez peut-être pas…",
-            "content": "<p>Douleurs en fin de journée, sensation d’instabilité en marchant, escaliers difficiles…<br/><br/>Beaucoup de personnes vivent avec un genou fragile sans comprendre pourquoi la douleur revient constamment.</p><p>Avec le temps, le manque de maintien articulaire peut rendre les gestes simples plus fatigants et inconfortables.</p><p>C’est pourquoi la genouillère en fibre de bambou a été conçue :<br/><br/>pour stabiliser le genou et réduire la pression sur l’articulation pendant vos mouvements quotidiens.</p>"
+            "content": "<p>Douleurs en fin de journée, sensation d’instabilité en marchant, escaliers difficiles…<br/><br/>Beaucoup de personnes vivent avec un genou fragile sans comprendre <strong>pourquoi la douleur revient constamment.</strong></p><p>Avec le temps, le manque de maintien articulaire peut rendre les gestes simples plus fatigants et inconfortables.</p><p>C’est pourquoi nous avons créé la genouillère en fibre de bambou. </p><p>Stabiliser le genou et réduire la pression sur l’articulation pendant vos mouvements quotidiens.</p>"
           }
         },
         "item_r3dhNt": {
@@ -159,13 +159,23 @@
             "icon": "none",
             "icon_width": 48,
             "title": "Adoptez un maintien confortable et discret",
-            "content": "<p>Grâce à sa compression douce et ergonomique, cette genouillère accompagne naturellement les mouvements du genou.</p><p>Son tissu respirant en fibre de bambou permet un port confortable pendant plusieurs heures sans sensation de gêne ou de chaleur excessive.</p><p>Contrairement aux genouillères rigides ou instables, elle combine maintien, confort et tenue en place pour accompagner votre quotidien.</p>"
+            "content": "<p>Grâce à sa compression douce et ergonomique, cette genouillère <strong>accompagne naturellement</strong> les mouvements du genou.</p><p>Son tissu respirant en fibre de bambou permet un port <strong>confortable</strong> pendant plusieurs heures<strong> sans sensation de gêne</strong> ou de chaleur excessive.</p><p>Contrairement aux genouillères rigides ou instables, elle combine <strong>maintien</strong>, <strong>confort</strong> et<strong> tenue en place</strong> pour accompagner votre quotidien.</p>"
+          }
+        },
+        "item_NMy9jb": {
+          "type": "item",
+          "settings": {
+            "icon": "none",
+            "icon_width": 48,
+            "title": "Libérez vos genoux pour de bon !",
+            "content": "<p><strong>Marchez plus longtemps :</strong> Sans gêne en fin de journée ni fatigue au moindre pas. </p><p><strong>Genoux stables e fiables :</strong> Sensation de maintien immédiat sans compression agressive. </p><p><strong>Ne glisse pas :</strong> Léger, respirant, il reste en place toute la journée, même dans les escaliers. </p><p><strong>Retrouvez confiance :</strong> Moins peur de tomber, plus de liberté de mouvement. </p>"
           }
         }
       },
       "block_order": [
         "item_CyQjmT",
-        "item_r3dhNt"
+        "item_r3dhNt",
+        "item_NMy9jb"
       ],
       "name": "Images and text scrolling",
       "settings": {
