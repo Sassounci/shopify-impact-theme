@@ -342,6 +342,155 @@
         "heading_color": "",
         "heading_gradient": ""
       }
+    },
+    "faq_9z6xxH": {
+      "type": "faq",
+      "blocks": {
+        "item_RXWTzc": {
+          "type": "item",
+          "settings": {
+            "title": "Est- ce que ça sere trop",
+            "content": "<p>Vous êtes couvert par notre garantie satisfait ou remboursé pendant 90 jours, sans discussion.</p>"
+          }
+        },
+        "item_QPHAUe": {
+          "type": "item",
+          "settings": {
+            "title": "Est-ce que ça serre trop ?",
+            "content": "<p>Non. Le maintien est ferme mais souple.<br/>La genouillère soutient le genou sans couper la circulation ni comprimer excessivement.</p>"
+          }
+        },
+        "item_N39BN6": {
+          "type": "item",
+          "settings": {
+            "title": "Est-ce qu’elle va glisser en marchant ?",
+            "content": "<p>Non.<br/><br/>Elle est conçue pour rester bien en place, même pendant une marche prolongée ou dans les escaliers.</p>"
+          }
+        },
+        "item_QBPDUV": {
+          "type": "item",
+          "settings": {
+            "title": "Puis-je la porter toute la journée ?",
+            "content": "<p>Oui.<br/>Elle est respirante et confortable, ce qui permet de la porter plusieurs heures sans gêne.</p>"
+          }
+        },
+        "item_i9pxyt": {
+          "type": "item",
+          "settings": {
+            "title": "Est-ce qu’elle est visible sous les vêtements ?",
+            "content": "<p>Non.<br/>Son design fin permet de la porter discrètement sous un pantalon ou un legging.</p>"
+          }
+        },
+        "item_9UnAq7": {
+          "type": "item",
+          "settings": {
+            "title": "Est-ce que ça fonctionne pour l’arthrose, tendinite ou entorse ?",
+            "content": "<p>Oui.<br/><br/>Elle aide à stabiliser le genou et à réduire la sensation d’instabilité liée à ces douleurs.</p>"
+          }
+        },
+        "item_48yct6": {
+          "type": "item",
+          "settings": {
+            "title": "Comment choisir la bonne taille ?",
+            "content": "<p>Un guide de taille simple est disponible sur la page produit.<br/><br/>Si vous êtes entre deux tailles, il est recommandé de prendre la plus grande pour plus de confort.</p>"
+          }
+        },
+        "item_qw7nR8": {
+          "type": "item",
+          "settings": {
+            "title": "Est-ce que ça fonctionne si j’ai déjà essayé d’autres genouillères ?",
+            "content": "<p>Oui, c’est justement pour ça que beaucoup de clients l’achètent.<br/><br/>Elle combine maintien, confort et tenue en place, ce qui manque souvent aux modèles classiques.</p>"
+          }
+        },
+        "item_R9hWEt": {
+          "type": "item",
+          "settings": {
+            "title": "Est-ce que ça chauffe ou fait transpirer ?",
+            "content": "<p>Non.<br/><br/>Le tissu en fibre de bambou est respirant et aide à limiter la chaleur et l’humidité.</p>"
+          }
+        },
+        "item_BYrwRd": {
+          "type": "item",
+          "settings": {
+            "title": "Puis-je la porter pour marcher ou faire du sport ?",
+            "content": "<p>Oui.<br/><br/>Elle est adaptée à la marche, aux activités quotidiennes et aux efforts modérés.</p>"
+          }
+        },
+        "item_RLnbWf": {
+          "type": "item",
+          "settings": {
+            "title": "Est-ce que je peux la laver ?",
+            "content": "<p>Oui.<br/><br/>Elle se lave facilement à la main ou en machine à basse température.</p>"
+          }
+        },
+        "item_LtCCYe": {
+          "type": "item",
+          "settings": {
+            "title": "En combien de temps ressent-on les effets ?",
+            "content": "<p>La plupart des utilisateurs ressentent un meilleur maintien dès les premières utilisations.<br/><br/>Les bénéfices augmentent avec un port régulier.</p>"
+          }
+        },
+        "item_fTKAUy": {
+          "type": "item",
+          "settings": {
+            "title": "Combien de temps dure la genouillère ?",
+            "content": "<p>Elle est conçue pour durer plusieurs mois avec un usage normal.</p>"
+          }
+        },
+        "item_JaCBDC": {
+          "type": "item",
+          "settings": {
+            "title": "Est-ce qu’elle convient aux deux genoux ?",
+            "content": "<p>Oui.<br/><br/>Elle peut être utilisée sur le genou droit ou gauche.</p>"
+          }
+        },
+        "item_eEqnaN": {
+          "type": "item",
+          "settings": {
+            "title": "Combien de genouillères dois-je prendre ?",
+            "content": "<p>Beaucoup de clients prennent deux genouillères pour un maintien équilibré et pour alterner entre les lavages.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "item_RXWTzc",
+        "item_QPHAUe",
+        "item_N39BN6",
+        "item_QBPDUV",
+        "item_i9pxyt",
+        "item_9UnAq7",
+        "item_48yct6",
+        "item_qw7nR8",
+        "item_R9hWEt",
+        "item_BYrwRd",
+        "item_RLnbWf",
+        "item_LtCCYe",
+        "item_fTKAUy",
+        "item_JaCBDC",
+        "item_eEqnaN"
+      ],
+      "name": "FAQ",
+      "settings": {
+        "full_width": true,
+        "subheading": "",
+        "title": "FAQ",
+        "content": "",
+        "team_avatar_width": 160,
+        "support_hours": "",
+        "answer_time": "",
+        "button_text": "",
+        "button_url": "",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "button_background": "",
+        "button_text_color": "",
+        "accordion_background": "",
+        "accordion_text_color": ""
+      }
     }
   },
   "order": [
@@ -349,6 +498,7 @@
     "logo_list_FbNjWX",
     "images_with_text_scrolling_f7PWwV",
     "multi_column_AqTEEP",
-    "images_with_text_scrolling_LEeAjf"
+    "images_with_text_scrolling_LEeAjf",
+    "faq_9z6xxH"
   ]
 }
