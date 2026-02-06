@@ -139,7 +139,64 @@
         "logo_item_border": ""
       }
     },
+    "images_with_text_scrolling_f7PWwV": {
+      "type": "images-with-text-scrolling",
+      "blocks": {
+        "item_CyQjmT": {
+          "type": "item",
+          "settings": {
+            "icon": "none",
+            "icon_width": 48,
+            "title": "Vous ne le réalisez peut-être pas…",
+            "content": "<p>Douleurs en fin de journée, sensation d’instabilité en marchant, escaliers difficiles…<br/><br/>Beaucoup de personnes vivent avec un genou fragile sans comprendre pourquoi la douleur revient constamment.</p><p>Avec le temps, le manque de maintien articulaire peut rendre les gestes simples plus fatigants et inconfortables.</p><p>C’est pourquoi la genouillère en fibre de bambou a été conçue :<br/><br/>pour stabiliser le genou et réduire la pression sur l’articulation pendant vos mouvements quotidiens.</p>"
+          }
+        },
+        "item_r3dhNt": {
+          "type": "item",
+          "settings": {
+            "icon": "none",
+            "icon_width": 48,
+            "title": "Adoptez un maintien confortable et discret",
+            "content": "<p>Grâce à sa compression douce et ergonomique, cette genouillère accompagne naturellement les mouvements du genou.</p><p>Son tissu respirant en fibre de bambou permet un port confortable pendant plusieurs heures sans sensation de gêne ou de chaleur excessive.</p><p>Contrairement aux genouillères rigides ou instables, elle combine maintien, confort et tenue en place pour accompagner votre quotidien.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "item_CyQjmT",
+        "item_r3dhNt"
+      ],
+      "name": "Images and text scrolling",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "show_counter": true,
+        "desktop_image_effect": "reveal",
+        "image_position": "end",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": ""
+      }
+    },
     "image_with_text_overlay_pAYPQE": {
+      "type": "image-with-text-overlay",
+      "name": "Image with text overlay",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "image": "shopify://shop_images/4_benefices_1.png",
+        "mobile_image": "shopify://shop_images/4_benefices_1.png",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
+    },
+    "image_with_text_overlay_hFGwGX": {
       "type": "image-with-text-overlay",
       "name": "Image with text overlay",
       "settings": {
@@ -160,6 +217,8 @@
   "order": [
     "main",
     "logo_list_FbNjWX",
-    "image_with_text_overlay_pAYPQE"
+    "images_with_text_scrolling_f7PWwV",
+    "image_with_text_overlay_pAYPQE",
+    "image_with_text_overlay_hFGwGX"
   ]
 }
