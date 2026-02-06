@@ -30,34 +30,13 @@
           "settings": {
             "text": "<p>Expédié en 48h</p><p>Livraison Gratuite en France </p><p>Garantie 90j Satisfait ou Remboursé </p>"
           }
-        },
-        "rapi_rapi_bundle_QFmVkC": {
-          "type": "shopify://apps/rapi/blocks/rapi-bundle/99617c17-a32b-4e70-a883-7a155610d032",
-          "disabled": true,
-          "settings": {
-            "product": "{{product}}"
-          }
-        },
-        "buy_buttons": {
-          "type": "buy_buttons",
-          "settings": {
-            "show_payment_button": true,
-            "show_gift_card_recipient": true,
-            "atc_button_background": "",
-            "atc_button_text_color": "",
-            "payment_button_background": "",
-            "payment_button_text_color": ""
-          }
         }
       },
       "block_order": [
         "liquid_YQXktB",
         "title",
-        "text_7nCeHL",
-        "rapi_rapi_bundle_QFmVkC",
-        "buy_buttons"
+        "text_7nCeHL"
       ],
-      "disabled": true,
       "settings": {
         "full_width": true,
         "show_fixed_add_to_cart": true,
