@@ -203,10 +203,11 @@
         "item_T6CjdP": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/cPJsCL6CS.jpg",
             "column_size": "3",
-            "title": "Column title",
-            "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "title": "Lorraine C. ⭐⭐⭐⭐⭐",
+            "heading_tag": "h5",
+            "content": "<p>J’ai récemment eu une déchirure du ménisque aux deux genoux et je souffre d’arthrose. J’ai acheté une paire pour dormir avec, et elles m’aident à marcher le lendemain. J’en ai aussitôt commandé deux autres paires pour la journée, quand j’en ai besoin.</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -215,10 +216,11 @@
         "item_A4463L": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/9tDgqMd4c.jpg",
             "column_size": "3",
-            "title": "Column title",
-            "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "title": "Barbara D. ⭐⭐⭐⭐⭐",
+            "heading_tag": "h5",
+            "content": "<p>J’avais des douleurs aux genoux et aux jambes depuis des mois. Après seulement 3 jours à porter les manchons pedivo, la douleur a disparu. Merci.</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -227,10 +229,50 @@
         "item_7tTNki": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/GFAlRF7Ye.jpg",
             "column_size": "3",
-            "title": "Column title",
-            "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "title": "Mark G. ⭐⭐⭐⭐⭐",
+            "heading_tag": "h5",
+            "content": "<p><strong>La toute première nuit avec les manchons pedivo, plus aucune douleur.</strong>Je les porte maintenant depuis plus d’un mois pour dormir, sans douleur ni courbatures. C’est incroyable.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_G7DCUD": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/HXZjGIHml.jpg",
+            "column_size": "3",
+            "title": "Janice K. ⭐⭐⭐⭐⭐",
+            "heading_tag": "h5",
+            "content": "<p>Je les porte tous les jours, même la nuit. Je sens vraiment la différence. Je les ai lavés un soir et laissés sécher, et j’ai passé une nuit sans les porter : mon genou était douloureux le lendemain matin.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_rrKpXT": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/HCcANwLGJ.jpg",
+            "column_size": "3",
+            "title": "Maureen G. ⭐⭐⭐⭐⭐",
+            "heading_tag": "h5",
+            "content": "<p>J’ai des douleurs au genou depuis des années. J’avais essayé d’autres genouillères, mais elles étaient trop encombrantes ou inconfortables.<br/>Le tissu en bambou est très facile à enfiler, même avec mes mains arthrosiques, et se glisse parfaitement sous les vêtements. <strong>Je suis vraiment reconnaissante pour le confort et le maintien qu’ils apportent.</strong></p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_i3QAf3": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/L1YYj7wap.jpg",
+            "column_size": "3",
+            "title": "Rakhee J. ⭐⭐⭐⭐⭐",
+            "heading_tag": "h5",
+            "content": "<p>Ces manchons en bambou m’aident énormément depuis plusieurs mois. Je devais passer un examen en décembre 2025, mais le fait de les porter m’a soulagée de manière impressionnante.<br/><strong>C’est déjà ma troisième paire commandée. </strong>Pour l’instant, tout est parfait.</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -240,7 +282,10 @@
       "block_order": [
         "item_T6CjdP",
         "item_A4463L",
-        "item_7tTNki"
+        "item_7tTNki",
+        "item_G7DCUD",
+        "item_rrKpXT",
+        "item_i3QAf3"
       ],
       "name": "Multi-column",
       "settings": {
@@ -248,9 +293,9 @@
         "stack_on_mobile": false,
         "gap": "medium",
         "text_alignment": "start",
-        "subheading": "About",
-        "title": "Featured content",
-        "content": "<p>Organize content into multiple columns to share useful information to your customers about your products, values...</p>",
+        "subheading": "",
+        "title": "Nos clients en parlent le mieux",
+        "content": "",
         "background": "",
         "background_gradient": "",
         "text_color": ""
