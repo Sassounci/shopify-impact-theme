@@ -24,12 +24,6 @@
             "heading_tag": "h5"
           }
         },
-        "price_nHt7XK": {
-          "type": "price",
-          "settings": {
-            "show_taxes_notice": false
-          }
-        },
         "text_7nCeHL": {
           "type": "text",
           "settings": {
@@ -57,7 +51,6 @@
       "block_order": [
         "liquid_YQXktB",
         "title",
-        "price_nHt7XK",
         "text_7nCeHL",
         "rapi_rapi_bundle_DtY64M",
         "buy_buttons_zNHKxP"
