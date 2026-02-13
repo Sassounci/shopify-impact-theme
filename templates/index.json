@@ -58,7 +58,7 @@
           "type": "logo",
           "settings": {
             "logo": "shopify://shop_images/TS-small.png",
-            "logo_width": 50,
+            "logo_width": 100,
             "link": ""
           }
         },
@@ -66,7 +66,7 @@
           "type": "logo",
           "settings": {
             "logo": "shopify://shop_images/bienetre-et-sante_logo_2025.png",
-            "logo_width": 50,
+            "logo_width": 100,
             "link": ""
           }
         },
@@ -74,7 +74,7 @@
           "type": "logo",
           "settings": {
             "logo": "shopify://shop_images/sante_magazine.png",
-            "logo_width": 50,
+            "logo_width": 100,
             "link": ""
           }
         },
@@ -82,7 +82,7 @@
           "type": "logo",
           "settings": {
             "logo": "shopify://shop_images/logo-femmeactuelle-copie.png",
-            "logo_width": 50,
+            "logo_width": 100,
             "link": ""
           }
         }
