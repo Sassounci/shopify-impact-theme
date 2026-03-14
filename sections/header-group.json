@@ -24,7 +24,7 @@
         "message_E6kgcy": {
           "type": "message",
           "settings": {
-            "text": "Offre d'HIVER : -50%",
+            "text": "Offre HIVER : 2 + 1 OFFERT Stock limité",
             "url": ""
           }
         },
@@ -54,7 +54,7 @@
         "text_size": "text-xs",
         "navigation_mode": "scrolling",
         "scrolling_speed": 25,
-        "background": "#1f3a8a",
+        "background": "#7a3e45",
         "background_gradient": "",
         "text_color": "#ffffff"
       }
@@ -64,7 +64,6 @@
       "settings": {
         "enable_sticky": true,
         "hide_on_scroll": false,
-        "logo": "shopify://shop_images/LOGO_2.png",
         "logo_max_width": 120,
         "logo_mobile_max_width": 100,
         "menu": "main-menu",
