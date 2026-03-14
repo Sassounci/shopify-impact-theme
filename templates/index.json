@@ -430,6 +430,22 @@
         "input_text_color": ""
       }
     },
+    "17734831465785135b": {
+      "type": "apps",
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "enable_review_integration": true,
+        "review_header_gradient": "linear-gradient(135deg, #FFC266 0%, #FFA31A 100%)",
+        "review_header_text_color": "#000000",
+        "review_button_background": "#000000",
+        "review_button_text_color": "#ffffff"
+      }
+    },
     "media_with_text_bgEkNx": {
       "type": "media-with-text",
       "blocks": {
@@ -463,6 +479,41 @@
       "settings": {
         "full_width": false,
         "spacing": "small"
+      }
+    },
+    "1773485417ec12d5e0": {
+      "type": "apps",
+      "blocks": {
+        "loox_reviews_loox_agg_section_Lzfmq7": {
+          "type": "shopify://apps/loox-reviews/blocks/loox-agg-section/5c3b337f-fd14-4df5-b1d6-80ec13e6e28e",
+          "settings": {
+            "reviews_to_display": "",
+            "default_tab": "automatic",
+            "only_photos": false,
+            "hide_thumbnails": false,
+            "product_handle": "",
+            "aggregated": true,
+            "data-limit": 20,
+            "maxwidth": 1080,
+            "is_sample": true
+          }
+        }
+      },
+      "block_order": [
+        "loox_reviews_loox_agg_section_Lzfmq7"
+      ],
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "enable_review_integration": true,
+        "review_header_gradient": "linear-gradient(135deg, #FFC266 0%, #FFA31A 100%)",
+        "review_header_text_color": "#000000",
+        "review_button_background": "#000000",
+        "review_button_text_color": "#ffffff"
       }
     },
     "faq_Akqewx": {
@@ -596,7 +647,9 @@
     "slideshow_FifcF4",
     "multi_column_3CYCP8",
     "featured_product_rHFgHe",
+    "17734831465785135b",
     "media_with_text_bgEkNx",
+    "1773485417ec12d5e0",
     "faq_Akqewx",
     "contact_HdJcJM"
   ]
