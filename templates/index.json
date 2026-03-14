@@ -345,16 +345,10 @@
             "max_width": 500
           }
         },
-        "text_cVrVrE": {
-          "type": "text",
-          "settings": {
-            "text": "<p>👀 Un regard qui change tout </p><p>❤️ Des cils plus longs et plus denses </p><p>👄 Même sans mascara vos cils sont épais et sexy</p>"
-          }
-        },
         "liquid_YNfgYF": {
           "type": "liquid",
           "settings": {
-            "liquid": "<style>\n  p {\n    font-size: 14px;\n    line-height: 1.5;\n  }\n</style>\n\n<p>🍒 un regard qui change tout</p>\n<p>❤️ Des cils plus longs et plus denses</p>\n<p>👄 Même sans mascara vos cils sont épais et sexy</p>"
+            "liquid": "<style>\n  p {\n    font-size: 14px;\n    line-height: 1.5;\n  }\n</style>\n\n<p>❤️ un regard qui change tout</p>\n<p>❤️ Des cils plus longs et plus denses</p>\n<p>❤️ Même sans mascara vos cils sont épais et sexy</p>"
           }
         },
         "liquid_EHFUJJ": {
@@ -399,7 +393,6 @@
         "liquid_cADnVb",
         "title_qA9npU",
         "image_PUNaaz",
-        "text_cVrVrE",
         "liquid_YNfgYF",
         "liquid_EHFUJJ",
         "rapi_rapi_bundle_JFY3qe",
