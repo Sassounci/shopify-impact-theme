@@ -57,6 +57,7 @@
         "logo_jXjxxL": {
           "type": "logo",
           "settings": {
+            "logo": "shopify://shop_images/ELLE_Magazine_Logo.svg",
             "logo_width": 100,
             "link": ""
           }
@@ -64,6 +65,7 @@
         "logo_q7dHXt": {
           "type": "logo",
           "settings": {
+            "logo": "shopify://shop_images/Cosmopolitan__revista__logotipo.avif",
             "logo_width": 100,
             "link": ""
           }
@@ -71,6 +73,7 @@
         "logo_YgBzr7": {
           "type": "logo",
           "settings": {
+            "logo": "shopify://shop_images/Marie_Claire_Magazine_logo_svg.avif",
             "logo_width": 100,
             "link": ""
           }
@@ -78,6 +81,7 @@
         "logo_xNcxWt": {
           "type": "logo",
           "settings": {
+            "logo": "shopify://shop_images/Grazia-Logo_svg.avif",
             "logo_width": 100,
             "link": ""
           }
@@ -107,34 +111,86 @@
         "logo_item_border": ""
       }
     },
-    "image_with_text_overlay_wEYHY6": {
-      "type": "image-with-text-overlay",
-      "name": "Image with text overlay",
+    "images_with_text_scrolling_qzfzwY": {
+      "type": "images-with-text-scrolling",
+      "blocks": {
+        "item_BArfGF": {
+          "type": "item",
+          "settings": {
+            "icon": "none",
+            "icon_width": 48,
+            "title": "Vos cils ne sont plus ce qu’il étaient…",
+            "content": "<p>Cils fragilisés par le mascara</p><p>Extensions qui abîment </p><p>Zones clairsemées </p><p>Cils qui tombent</p><p><strong>Résultat : votre regard paraît plus fatigué et moins intense.</strong></p>"
+          }
+        },
+        "item_q4TjwT": {
+          "type": "item",
+          "settings": {
+            "icon": "none",
+            "icon_width": 48,
+            "title": "Redonnez vie à vos cils naturellement",
+            "content": "<p>Ton sérum agit directement à la racine du cil pour : </p><p>Renforcer la fibre </p><p>Stimuler la repousse </p><p>Densifier la ligne de cils</p><p><strong>Résultat : un regard plus intense et captivant, naturellement</strong></p>"
+          }
+        }
+      },
+      "block_order": [
+        "item_BArfGF",
+        "item_q4TjwT"
+      ],
+      "name": "Images and text scrolling",
       "settings": {
         "full_width": true,
-        "allow_transparent_header": false,
-        "enable_parallax": false,
-        "image_size": "auto",
-        "mobile_text_position": "place-self-center text-center",
-        "desktop_text_position": "sm:place-self-center sm:text-center",
-        "text_color": "#ffffff",
-        "overlay_color": "#000000",
-        "overlay_opacity": 0
+        "stack_on_mobile": true,
+        "show_counter": false,
+        "desktop_image_effect": "reveal",
+        "image_position": "end",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": ""
       }
     },
-    "image_with_text_overlay_t8J3RP": {
-      "type": "image-with-text-overlay",
-      "name": "Image with text overlay",
+    "slideshow_FifcF4": {
+      "type": "slideshow",
+      "blocks": {
+        "image_b7Vx99": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Section_Benefices_1.png",
+            "mobile_image": "shopify://shop_images/Section_Benefices_1.png",
+            "content_max_width": 780,
+            "mobile_text_position": "place-self-center text-center",
+            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "subheading": "",
+            "title": "",
+            "heading_tag": "h0",
+            "button_text": "",
+            "button_link": "",
+            "text_color": "#ffffff",
+            "button_background": "#ffffff",
+            "button_text_color": "#000000",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0,
+            "background": "#ffffff",
+            "background_gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_b7Vx99"
+      ],
+      "name": "Slideshow",
       "settings": {
         "full_width": true,
-        "allow_transparent_header": false,
-        "enable_parallax": false,
+        "allow_transparent_header": true,
         "image_size": "auto",
-        "mobile_text_position": "place-self-center text-center",
-        "desktop_text_position": "sm:place-self-center sm:text-center",
-        "text_color": "#ffffff",
-        "overlay_color": "#000000",
-        "overlay_opacity": 0
+        "controls_type": "dots",
+        "transition_type": "fade_with_text",
+        "autoplay": false,
+        "cycle_speed": 6,
+        "background": "#F2F2F2",
+        "background_gradient": ""
       }
     },
     "multi_column_3CYCP8": {
@@ -423,46 +479,6 @@
         "text_color": ""
       }
     },
-    "images_with_text_scrolling_qzfzwY": {
-      "type": "images-with-text-scrolling",
-      "blocks": {
-        "item_BArfGF": {
-          "type": "item",
-          "settings": {
-            "icon": "none",
-            "icon_width": 48,
-            "title": "Recommandé par les professionnels",
-            "content": "<p>« J’avoue avoir été surpris par l’efficacité de cette genouillère en bambou. La compression est très bien dosée et apporte un réel soulagement, même sur des genoux sensibles. C’est un excellent complément aux séances de kiné, et plusieurs de mes patients l’utilisent désormais chaque jour. »</p><p><strong>Dr. Marc R., Kinésithérapeute</strong></p>"
-          }
-        },
-        "item_q4TjwT": {
-          "type": "item",
-          "settings": {
-            "icon": "none",
-            "icon_width": 48,
-            "title": "Garantie 90 jours !",
-            "content": "<p>Essayez la genouillère en bambou <strong>pendant 90 jours chez vous</strong>. Si vous ne constatez aucune amélioration de votre confort de genou ou si le produit ne vous convient pas, contactez-nous par mail et <strong>nous vous remboursons sans vous poser de questions. </strong></p>"
-          }
-        }
-      },
-      "block_order": [
-        "item_BArfGF",
-        "item_q4TjwT"
-      ],
-      "name": "Images and text scrolling",
-      "settings": {
-        "full_width": true,
-        "stack_on_mobile": true,
-        "show_counter": false,
-        "desktop_image_effect": "reveal",
-        "image_position": "end",
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "heading_color": "",
-        "heading_gradient": ""
-      }
-    },
     "faq_Akqewx": {
       "type": "faq",
       "blocks": {
@@ -629,12 +645,11 @@
   "order": [
     "slideshow_GC86jf",
     "logo_list_JaLTLn",
-    "image_with_text_overlay_wEYHY6",
-    "image_with_text_overlay_t8J3RP",
+    "images_with_text_scrolling_qzfzwY",
+    "slideshow_FifcF4",
     "multi_column_3CYCP8",
     "featured_product_rHFgHe",
     "multi_column_R9A8tV",
-    "images_with_text_scrolling_qzfzwY",
     "faq_Akqewx",
     "contact_HdJcJM"
   ]
