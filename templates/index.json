@@ -117,6 +117,7 @@
         "item_BArfGF": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/IMG_3295.jpg",
             "icon": "none",
             "icon_width": 48,
             "title": "Vos cils ne sont plus ce qu’il étaient…",
@@ -126,6 +127,7 @@
         "item_q4TjwT": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/image_avant_apres_1.jpg",
             "icon": "none",
             "icon_width": 48,
             "title": "Redonnez vie à vos cils naturellement",
@@ -456,6 +458,7 @@
       "block_order": [
         "image_GiaTMB"
       ],
+      "disabled": true,
       "name": "Media with text",
       "settings": {
         "full_width": false,
