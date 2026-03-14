@@ -471,99 +471,64 @@
         "item_bRWbgb": {
           "type": "item",
           "settings": {
-            "title": "Et si ça ne fonctionne pas pour moi ?",
-            "content": "<p>Vous êtes couvert par notre garantie satisfait ou remboursé pendant 90 jours, sans discussion.</p>"
+            "title": "Comment utiliser le sérum SORA™ ?",
+            "content": "<p>Les premiers résultats sont visibles dès 14 jours. Les résultats optimaux apparaissent après 6 à 8 semaines d'utilisation quotidienne. C'est pourquoi nous recommandons la cure de 2 mois minimum.</p>"
           }
         },
         "item_wWELjE": {
           "type": "item",
           "settings": {
-            "title": "Est-ce que ça serre trop ?",
-            "content": "<p>Non. Le maintien est ferme mais souple.</p><p><br/>La genouillère soutient le genou sans couper la circulation ni comprimer excessivement.</p>"
+            "title": "Le sérum est-il sans danger pour mes yeux ?",
+            "content": "<p>Oui. Le sérum SORA est formulé à partir d’ingrédients cosmétiques reconnus tels que des peptides, de la biotine, de l’acide hyaluronique et des extraits de plantes, utilisés pour renforcer et nourrir les cils en douceur.</p><p>La formule est <strong>sans prostaglandines, sans hormones et sans parabènes</strong>, des ingrédients parfois associés à des irritations dans certains sérums pour cils.</p><p>Comme pour tout produit cosmétique appliqué près des yeux, nous recommandons d’utiliser le sérum <strong>uniquement sur la base des cils, sur une peau propre et sèche</strong>, et d’éviter tout contact direct avec l’œil.</p><p>En cas de sensibilité ou d’irritation, il est conseillé de <strong>cesser l’utilisation</strong> et de consulter un professionnel de santé si nécessaire. Nous recommandons également de réaliser <strong>un test sur une petite zone de peau avant la première utilisation</strong>.</p>"
           }
         },
         "item_hRth7R": {
           "type": "item",
           "settings": {
-            "title": "Est-ce qu’elle va glisser en marchant ?",
-            "content": "<p>Elle est conçue pour rester bien en place, même pendant une marche prolongée ou dans les escaliers.</p>"
+            "title": "Quelle est la différence avec les autres sérums cils ?",
+            "content": "<p>La plupart des sérums utilisent des prostaglandines qui peuvent provoquer des irritations, des cernes et un changement de couleur de l'iris. SORA™ utilise une formule 100% végan à base de peptides biomimétiques, biotine, vitamine B et extraits de plante pour stimuler la croissance naturellement, sans effet secondaire.</p>"
           }
         },
         "item_ApddgF": {
           "type": "item",
           "settings": {
-            "title": "Puis-je la porter toute la journée ?",
-            "content": "<p>Oui.<br/><br/>Elle est respirante et confortable, ce qui permet de la porter plusieurs heures sans gêne.</p>"
+            "title": "Puis-je l'utiliser avec des extensions de cils ?",
+            "content": "<p>Oui, mais nous recommandons de l'appliquer sans extensions pour de meilleurs résultats. SORA™ est d'ailleurs idéal pour réparer et faire repousser vos cils après l'arrêt des extensions.</p>"
           }
         },
         "item_4xq7ki": {
           "type": "item",
           "settings": {
-            "title": "Est-ce qu’elle est visible sous les vêtements ?",
-            "content": "<p>Non.<br/><br/>Son design fin permet de la porter discrètement sous un pantalon ou un legging.</p>"
+            "title": "Oui, mais nous recommandons de l'appliquer sans extensions pour de meilleurs résultats. SORA™ est d'ailleurs idéal pour réparer et faire repousser vos cils après l'arrêt des extensions.",
+            "content": "<p>Un flacon de 3,5 ml dure environ 30 jours à raison d'une application par jour. C'est pour cela que nos cures sont proposées en 1, 2 flacons.</p>"
           }
         },
         "item_h36JGM": {
           "type": "item",
           "settings": {
-            "title": "Est-ce que ça fonctionne pour l’arthrose, tendinite ou entorse ?",
-            "content": "<p>Oui.<br/><br/>Elle aide à stabiliser le genou et à réduire la sensation d’instabilité liée à ces douleurs.</p>"
+            "title": "La formule est-elle végan ?",
+            "content": "<p>Oui. SORA™ est 100% végan, cruelty-free et formulé exclusivement avec des ingrédients d'origine naturelle.</p>"
           }
         },
         "item_yc6e9p": {
           "type": "item",
           "settings": {
-            "title": "Comment choisir la bonne taille ?",
-            "content": "<p>Un guide de taille simple est disponible sur la page produit.<br/><br/>Si vous êtes entre deux tailles, il est recommandé de prendre la plus grande pour plus de confort.</p>"
+            "title": "Quels sont les délais de livraison ?",
+            "content": "<p>Votre commande est expédiée sous 48h en Colissimo suivi. Comptez 3 à 5 jours ouvrés pour la réception en France, Belgique et Suisse. La livraison est offerte sur toutes les commandes.</p>"
           }
         },
         "item_MyVrae": {
           "type": "item",
           "settings": {
-            "title": "Est-ce que ça fonctionne si j’ai déjà essayé d’autres genouillères ?",
-            "content": "<p>Oui, c’est justement pour ça que beaucoup de clients l’achètent.<br/><br/>Elle combine maintien, confort et tenue en place, ce qui manque souvent aux modèles classiques.</p>"
+            "title": "Que faire si je ne suis pas satisfaite ?",
+            "content": "<p>Vous êtes couverte par notre garantie Satisfait ou Remboursé 60 jours. Si vous ne constatez aucun résultat, contactez-nous et nous vous remboursons intégralement. Sans condition.</p>"
           }
         },
         "item_fLrrpw": {
           "type": "item",
           "settings": {
-            "title": "Est-ce que ça chauffe ou fait transpirer ?",
-            "content": "<p>Non.<br/><br/>Le tissu en fibre de bambou est respirant et aide à limiter la chaleur et l’humidité.</p>"
-          }
-        },
-        "item_RCGmTx": {
-          "type": "item",
-          "settings": {
-            "title": "Puis-je la porter pour marcher ou faire du sport ?",
-            "content": "<p>Oui.</p><p><br/>Elle est adaptée à la marche, aux activités quotidiennes et aux efforts modérés.</p>"
-          }
-        },
-        "item_Lxr7X8": {
-          "type": "item",
-          "settings": {
-            "title": "Est-ce que je peux la laver ?",
-            "content": "<p>Oui.<br/><br/>Elle se lave facilement à la main ou en machine à basse température.</p>"
-          }
-        },
-        "item_zf3nKt": {
-          "type": "item",
-          "settings": {
-            "title": "En combien de temps ressent-on les effets ?",
-            "content": "<p>La plupart des utilisateurs ressentent un meilleur maintien dès les premières utilisations.<br/><br/>Les bénéfices augmentent avec un port régulier.</p>"
-          }
-        },
-        "item_Xtyf8k": {
-          "type": "item",
-          "settings": {
-            "title": "Combien de temps dure la genouillère ?",
-            "content": "<p>Elle est conçue pour durer plusieurs mois avec un usage normal.</p>"
-          }
-        },
-        "item_edpG8F": {
-          "type": "item",
-          "settings": {
-            "title": "Est-ce qu’elle convient aux deux genoux ?",
-            "content": "<p>Oui.<br/><br/>Elle peut être utilisée sur le genou droit ou gauche.</p>"
+            "title": "Comment contacter le service client ?",
+            "content": "<p>Notre équipe est disponible 7j/7 par email à<a href=\"mailto:serviceclient@madamsoin.fr\"><strong>sora-skincare@outlook.com</strong></a>. Nous répondons à toutes les demandes sous 24h maximum.</p>"
           }
         }
       },
@@ -576,12 +541,7 @@
         "item_h36JGM",
         "item_yc6e9p",
         "item_MyVrae",
-        "item_fLrrpw",
-        "item_RCGmTx",
-        "item_Lxr7X8",
-        "item_zf3nKt",
-        "item_Xtyf8k",
-        "item_edpG8F"
+        "item_fLrrpw"
       ],
       "name": "FAQ",
       "settings": {
