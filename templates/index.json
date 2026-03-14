@@ -151,6 +151,32 @@
         "heading_gradient": ""
       }
     },
+    "rich_text_kdGkQj": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_9pLCAn": {
+          "type": "heading",
+          "settings": {
+            "text": "Pourquoi des milliers de femmes adoptent SORA ?",
+            "heading_tag": "h3",
+            "text_color": "",
+            "gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_9pLCAn"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "slideshow_FifcF4": {
       "type": "slideshow",
       "blocks": {
@@ -646,6 +672,7 @@
     "slideshow_GC86jf",
     "logo_list_JaLTLn",
     "images_with_text_scrolling_qzfzwY",
+    "rich_text_kdGkQj",
     "slideshow_FifcF4",
     "multi_column_3CYCP8",
     "featured_product_rHFgHe",
