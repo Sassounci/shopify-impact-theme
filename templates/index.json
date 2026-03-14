@@ -351,6 +351,14 @@
             "liquid": "<style>\n  p {\n    font-size: 14px;\n    line-height: 1.5;\n  }\n</style>\n\n<p>❤️ un regard qui change tout</p>\n<p>❤️ Des cils plus longs et plus denses</p>\n<p>❤️ Même sans mascara vos cils sont épais et sexy</p>"
           }
         },
+        "image_gRxTLP": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Ajouter_un_sous-titre_2.png",
+            "alignment": "start",
+            "max_width": 500
+          }
+        },
         "liquid_EHFUJJ": {
           "type": "liquid",
           "settings": {
@@ -394,6 +402,7 @@
         "title_qA9npU",
         "image_PUNaaz",
         "liquid_YNfgYF",
+        "image_gRxTLP",
         "liquid_EHFUJJ",
         "rapi_rapi_bundle_JFY3qe",
         "buy_buttons_nNncDx",
