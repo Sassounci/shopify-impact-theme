@@ -421,6 +421,27 @@
             "alignment": "center",
             "max_width": 500
           }
+        },
+        "collapsible_text_fXjeXx": {
+          "type": "collapsible_text",
+          "settings": {
+            "title": "Livraisons et retours",
+            "content": "<p>Conformément à la législation en vigueur, vous disposez d’un délai de <strong>14 jours après réception de votre commande</strong> pour exercer votre droit de rétractation.</p><h4>Conditions de retour</h4><p>Pour être éligible à un retour :</p><p>Le produit doit être <strong>non ouvert, non utilisé</strong></p><p>Il doit être retourné dans <strong>son emballage d’origine</strong></p><p>Une preuve d’achat est requise</p><p>⚠️ Pour des raisons d’hygiène, les produits ouverts ou utilisés ne peuvent être repris.<br/><br/><strong>Procédure</strong></p><ol><li>Contactez notre service client à : <a><strong>sora-skincare@outlook.com</strong></a><br/></li><li>Nous vous communiquerons l’adresse de retour.<br/></li><li>Après réception et inspection du produit, nous vous confirmerons l’approbation du remboursement.<br/></li></ol><p>Le remboursement sera effectué via le moyen de paiement initial sous quelques jours ouvrés.</p><p>Les frais de retour restent à la charge du client.</p><h4>Garantie Satisfaction SORA</h4><p>Nous croyons en la qualité de notre sérum.</p><p>Si vous ne constatez aucun résultat après <strong>60 jours d’utilisation conforme</strong>, contactez notre service client.</p><p>Nous étudierons votre demande avec attention.</p><p>Notre priorité est votre satisfaction.</p>"
+          }
+        },
+        "collapsible_text_QUbWyz": {
+          "type": "collapsible_text",
+          "settings": {
+            "title": "Comment l'utiliser ?",
+            "content": "<h4>Étape 1 – Nettoyez</h4><p>Démaquillez soigneusement vos yeux. Les cils doivent être propres et parfaitement secs.</p><h4>Étape 2 – Appliquez</h4><p>Appliquez un fin trait de sérum à la racine des cils supérieurs, une fois par jour, idéalement le soir.</p><p>Un seul passage d’applicateur suffit pour les deux yeux.</p><h4>Étape 3 – Laissez agir</h4><p>Laissez sécher 1 à 2 minutes avant d’appliquer d’autres produits.</p><p>Premiers résultats visibles dès 3 à 4 semaines.<br/><br/>Résultats optimaux après 8 semaines d’utilisation régulière.</p><h4>⚠️ Précautions d’emploi</h4><ul><li>Évitez tout contact direct avec l’œil.<br/></li><li>Ne pas utiliser en cas d’allergie connue à l’un des ingrédients.<br/></li><li>En cas de rougeur ou d’irritation, cesser l’utilisation.<br/></li><li>Ne pas utiliser pendant la grossesse ou l’allaitement sans avis médical.<br/></li><li>Tenir hors de portée des enfants.<br/></li></ul><p>Un test cutané est recommandé avant la première utilisation.</p>"
+          }
+        },
+        "collapsible_text_xaWdwJ": {
+          "type": "collapsible_text",
+          "settings": {
+            "title": "La composition",
+            "content": "<p>Le sérum regard intense SORA associe des actifs soigneusement sélectionnés pour soutenir la croissance naturelle des cils.</p><p>Enrichi en extrait de racine de ginseng et en extrait de graines de courge, il aide à fortifier les follicules et à limiter la casse.</p><p>Sa formule contient également des peptides et de la biotine, reconnus pour favoriser des cils visiblement plus denses et résistants.</p><p>Le sodium hyaluronate contribue à maintenir l’hydratation pour des cils plus souples et protégés au quotidien.</p>"
+          }
         }
       },
       "block_order": [
@@ -434,7 +455,10 @@
         "rapi_rapi_bundle_JFY3qe",
         "buy_buttons_nNncDx",
         "liquid_N3UKfw",
-        "image_6bDHnY"
+        "image_6bDHnY",
+        "collapsible_text_fXjeXx",
+        "collapsible_text_QUbWyz",
+        "collapsible_text_xaWdwJ"
       ],
       "name": "Featured product",
       "settings": {
