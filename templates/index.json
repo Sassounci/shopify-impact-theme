@@ -63,7 +63,7 @@
         "scrolling_speed": 8,
         "background": "",
         "background_gradient": "",
-        "text_color": "",
+        "text_color": "#f83a3a",
         "text_gradient": ""
       }
     },
