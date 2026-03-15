@@ -397,6 +397,12 @@
             "product": "{{section.settings.product}}"
           }
         },
+        "liquid_chtgii": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<div class=\"loved-by-customers\">\n  <span>📦 Expédition en 24h</span>\n</div>\n\n<style>\n  .loved-by-customers {\n    background-color: #D0FFE0;\n    color: #008454;\n    text-align: center;\n    padding: 6px;\n    margin-top: 10px; /* Adjust as needed */\n    border-radius: 20px; /* Adjust to desired pill shape */\n    width: 300px; /* Adjust width as needed */\n    margin-left: auto;\n    margin-right: auto;\n    font-size: 12px;\n    font-weight: \n  }\n</style>"
+          }
+        },
         "buy_buttons_nNncDx": {
           "type": "buy_buttons",
           "settings": {
@@ -432,6 +438,7 @@
         "image_gRxTLP",
         "liquid_EHFUJJ",
         "rapi_rapi_bundle_JFY3qe",
+        "liquid_chtgii",
         "buy_buttons_nNncDx",
         "liquid_N3UKfw",
         "image_6bDHnY"
