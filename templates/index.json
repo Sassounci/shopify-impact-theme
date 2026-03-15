@@ -53,6 +53,7 @@
     },
     "scrolling_text_x7aQjD": {
       "type": "scrolling-text",
+      "disabled": true,
       "custom_css": [],
       "name": "Scrolling text",
       "settings": {
