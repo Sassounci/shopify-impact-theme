@@ -51,6 +51,22 @@
         "background_gradient": ""
       }
     },
+    "scrolling_text_x7aQjD": {
+      "type": "scrolling-text",
+      "name": "Scrolling text",
+      "settings": {
+        "full_width": true,
+        "text": "Offre d'HIVER : 1 ACHETE + 1 OFFERT",
+        "text_size": "xsmall",
+        "text_style": "fill",
+        "scrolling_mode": "auto",
+        "scrolling_speed": 8,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "text_gradient": ""
+      }
+    },
     "logo_list_JaLTLn": {
       "type": "logo-list",
       "blocks": {
@@ -641,6 +657,7 @@
   },
   "order": [
     "slideshow_GC86jf",
+    "scrolling_text_x7aQjD",
     "logo_list_JaLTLn",
     "images_with_text_scrolling_qzfzwY",
     "rich_text_kdGkQj",
