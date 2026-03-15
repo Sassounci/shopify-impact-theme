@@ -16,7 +16,7 @@
           "type": "image",
           "settings": {
             "image": "shopify://shop_images/11.png",
-            "mobile_image": "shopify://shop_images/11.png",
+            "mobile_image": "shopify://shop_images/Le_serum_qui_repare_vos_cils_detruits.png",
             "content_max_width": 780,
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
