@@ -374,7 +374,7 @@
         "liquid_mwBQ9f": {
           "type": "liquid",
           "settings": {
-            "liquid": "<style>\n  p {\n    font-size: 14px;\n    line-height: 1.7;\n  }\n</style>\n\n<p>✓ Livraison suivie</p>\n<p>✓ Testé dermatologiquement</p>\n<p>✓ Garantie 30 jours</p>"
+            "liquid": "<style>\n  p {\n    font-size: 14px;\n    line-height: 1.7;\n  }\n</style>\n\n<p>✓ Livraison suivie et gratuite </p>\n<p>✓ Expédié en 24H</p>\n<p>✓ Garantie 30 jours</p>"
           }
         },
         "image_gRxTLP": {
