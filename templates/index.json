@@ -366,8 +366,15 @@
         },
         "liquid_YNfgYF": {
           "type": "liquid",
+          "disabled": true,
           "settings": {
             "liquid": "<style>\n  p {\n    font-size: 14px;\n    line-height: 1.7;\n  }\n</style>\n\n<p>❤️ un regard qui change tout</p>\n<p>❤️ Des cils plus longs et plus denses</p>\n<p>❤️ Même sans mascara vos cils sont épais et sexy</p>"
+          }
+        },
+        "liquid_mwBQ9f": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<style>\n  p {\n    font-size: 14px;\n    line-height: 1.7;\n  }\n</style>\n\n<p>✓ Livraison suivie</p>\n<p>✓ Testé dermatologiquement</p>\n<p>✓ Garantie 30 jours</p>"
           }
         },
         "image_gRxTLP": {
@@ -421,6 +428,7 @@
         "title_qA9npU",
         "image_PUNaaz",
         "liquid_YNfgYF",
+        "liquid_mwBQ9f",
         "image_gRxTLP",
         "liquid_EHFUJJ",
         "rapi_rapi_bundle_JFY3qe",
