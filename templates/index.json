@@ -15,8 +15,7 @@
         "image_xnMi3A": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/11.png",
-            "mobile_image": "shopify://shop_images/Le_serum_qui_repare_vos_cils_detruits_5.png",
+            "image": "shopify://shop_images/Template_Shop.png",
             "content_max_width": 780,
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
@@ -75,7 +74,6 @@
         "logo_jXjxxL": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/ELLE_Magazine_Logo.svg",
             "logo_width": 100,
             "link": ""
           }
@@ -83,7 +81,6 @@
         "logo_q7dHXt": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/Cosmopolitan__revista__logotipo.avif",
             "logo_width": 100,
             "link": ""
           }
@@ -91,7 +88,6 @@
         "logo_YgBzr7": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/Marie_Claire_Magazine_logo_svg.avif",
             "logo_width": 100,
             "link": ""
           }
@@ -99,7 +95,6 @@
         "logo_xNcxWt": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/Grazia-Logo_svg.avif",
             "logo_width": 100,
             "link": ""
           }
@@ -135,7 +130,6 @@
         "item_BArfGF": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/IMG_3295.jpg",
             "icon": "none",
             "icon_width": 48,
             "title": "Vos cils ne sont plus ce qu’il étaient…",
@@ -145,7 +139,6 @@
         "item_q4TjwT": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/image_avant_apres_1.jpg",
             "icon": "none",
             "icon_width": 48,
             "title": "Redonnez vie à vos cils naturellement",
@@ -203,8 +196,6 @@
         "image_b7Vx99": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Section_Benefices_1.png",
-            "mobile_image": "shopify://shop_images/Section_Benefices_1.png",
             "content_max_width": 1200,
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
@@ -245,7 +236,6 @@
         "item_nr6ifc": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/Grey_Minimalist_Before_After_Beauty_Instagram_Post_14_600x750_crop_center_139c5ef4-864f-46bb-b273-c994b5037e73.png",
             "column_size": "3",
             "title": "Chloé T.",
             "heading_tag": "h5",
@@ -258,7 +248,6 @@
         "item_DiQhdy": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/Grey_Minimalist_Before_After_Beauty_Instagram_Post_1_600x750_crop_center_4c9321e6-7c1a-4120-b3ff-4b3edda67ac5.png",
             "column_size": "3",
             "title": "Anna M.",
             "heading_tag": "h5",
@@ -271,7 +260,6 @@
         "item_XnxUmx": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/Grey_Minimalist_Before_After_Beauty_Instagram_Post_16_600x750_crop_center_1.png",
             "column_size": "3",
             "title": "Laura A.",
             "heading_tag": "h5",
@@ -284,7 +272,6 @@
         "item_PUEGwh": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/Group_5772_600x750_crop_center_49d91392-0cf3-4c04-9f7c-e460e4208906.jpg",
             "column_size": "3",
             "title": "Julie R.",
             "heading_tag": "h5",
@@ -297,7 +284,6 @@
         "item_4wz96w": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/Group_4992_600x750_crop_center_a5e641fd-67e5-480d-9f89-6ed52a7d0ba0.jpg",
             "column_size": "3",
             "title": "Lea R.",
             "heading_tag": "h5",
@@ -310,7 +296,6 @@
         "item_tzXQDg": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/av_aprs_54_600x750_crop_center_9bfdd374-0d0c-4f15-a9cc-91da7e656700.jpg",
             "column_size": "3",
             "title": "Liza C.",
             "heading_tag": "h5",
@@ -381,7 +366,6 @@
         "image_gRxTLP": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Ajouter_un_sous-titre_2.png",
             "alignment": "start",
             "max_width": 500
           }
@@ -390,12 +374,6 @@
           "type": "liquid",
           "settings": {
             "liquid": "<style>\n  .blink {\n    animation: blink-animation 1.5s steps(5, start) infinite;\n    color: red;\n    display: inline-block; /* Display as inline-block */\n    vertical-align: middle; /* Align vertically to middle */\n    font-size: 10px; /* Set font size */\n  }\n\n  @keyframes blink-animation {\n    to {\n      visibility: hidden;\n    }\n  }\n\n  .red-div {\n    background-color: #ffcccc;\n    padding: 2px 10px; /* 6px vertical, 10px horizontal */\n    border-radius: 8px; /* Rounded corners */\n    display: inline-block; /* Display as inline-block */\n    text-align: center; /* Center align the content */\n    margin: 0 auto; /* Horizontally center the red-div */\n  }\n\n  .text {\n    display: inline-block; /* Display as inline-block */\n    vertical-align: middle; /* Align vertically to middle */\n    margin-left: 10px; /* Add some space between the dot and the text */\n    color: #AD0000; /* Text color */\n    font-weight: 500; /* Medium font weight */\n    font-size: 12px; /* Set font size */\n    text-align: justify; /* Justify the text to the center */\n  }\n</style>\n\n<div class=\"red-div\">\n  <div class=\"blink\">&#9679;</div>\n  <div class=\"text\">Plus que 4 en stock </div>\n</div>"
-          }
-        },
-        "rapi_rapi_bundle_JFY3qe": {
-          "type": "shopify://apps/rapi/blocks/rapi-bundle/99617c17-a32b-4e70-a883-7a155610d032",
-          "settings": {
-            "product": "{{section.settings.product}}"
           }
         },
         "buy_buttons_nNncDx": {
@@ -418,7 +396,6 @@
         "image_6bDHnY": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Sans_titre_600_x_172_px_12_1.jpg",
             "alignment": "center",
             "max_width": 500
           }
@@ -453,7 +430,6 @@
         "liquid_mwBQ9f",
         "image_gRxTLP",
         "liquid_EHFUJJ",
-        "rapi_rapi_bundle_JFY3qe",
         "buy_buttons_nNncDx",
         "liquid_N3UKfw",
         "image_6bDHnY",
@@ -546,25 +522,6 @@
     },
     "1773485417ec12d5e0": {
       "type": "apps",
-      "blocks": {
-        "loox_reviews_loox_agg_section_Lzfmq7": {
-          "type": "shopify://apps/loox-reviews/blocks/loox-agg-section/5c3b337f-fd14-4df5-b1d6-80ec13e6e28e",
-          "settings": {
-            "reviews_to_display": "",
-            "default_tab": "automatic",
-            "only_photos": false,
-            "hide_thumbnails": false,
-            "product_handle": "",
-            "aggregated": true,
-            "data-limit": 20,
-            "maxwidth": 1080,
-            "is_sample": true
-          }
-        }
-      },
-      "block_order": [
-        "loox_reviews_loox_agg_section_Lzfmq7"
-      ],
       "settings": {
         "full_width": true,
         "remove_vertical_spacing": false,
