@@ -167,7 +167,7 @@
             "column_size": "3",
             "title": "Brigitte D. — 62 ans",
             "heading_tag": "h4",
-            "content": "<p>\"Mes bras crépés étaient mon plus gros complexe. En 6 semaines, la peau est plus tendue, plus hydratée et plus lisse.\"</p>",
+            "content": "<p>\"Mes jambes paraissent tellement plus saines ! Et en plus, je me sens plus à l'aise avec elles. La sécheresse est enfin partie.\"</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -206,8 +206,71 @@
         "text_color": ""
       }
     },
+    "multi_column_iLKHeP": {
+      "type": "multi-column",
+      "blocks": {
+        "item_KJqdRB": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Catherine.png",
+            "column_size": "3",
+            "title": "Catherine, 58 ans — Achat vérifié",
+            "heading_tag": "h5",
+            "content": "<p>\"J'avais peur que ce soit encore un produit marketing. J'ai testé Bio Oil pendant 3 ans, des crèmes à 80€, rien. Au bout de 6 semaines, mes bras ne ressemblent plus à du papier crépon. J'ai porté une robe sans manches à un mariage. Première fois depuis 4 ans.\"</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_EXtr8N": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Florence.png",
+            "column_size": "3",
+            "title": "Florence, 47 ans — Achat vérifié",
+            "heading_tag": "h5",
+            "content": "<p>\"J'ai perdu 22 kilos. Le poids est parti, ma peau n'a pas suivi. Je me cachais encore plus qu'avant. Trois mois avec cette huile et la peau de mon ventre s'est resserrée. Je peux enfin me regarder dans le miroir.\"</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_DHpNCH": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Isabelle.png",
+            "column_size": "3",
+            "title": "Isabelle, 62 ans — Achat vérifié",
+            "heading_tag": "h5",
+            "content": "<p>\"À la ménopause, ma peau est devenue fine comme du papier. Ma dermato m'a expliqué pourquoi mes crèmes ne marchaient pas. Cette huile descend plus profond. Ma peau a retrouvé du rebond. Je me sens à nouveau dans mon corps.\"</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        }
+      },
+      "block_order": [
+        "item_KJqdRB",
+        "item_EXtr8N",
+        "item_DHpNCH"
+      ],
+      "name": "Multi-column",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "gap": "medium",
+        "text_alignment": "center",
+        "subheading": "Recommandé par + 15.000 femmes",
+        "title": "Nos utilisatrices en parlent le mieux",
+        "content": "<p>Voyez par vous même les bienfaits du magic Body Oil sur nos utilisatrices</p>",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "contact_HdJcJM": {
       "type": "contact",
+      "disabled": true,
       "name": "Contact form",
       "settings": {
         "full_width": true,
@@ -226,6 +289,67 @@
         "button_background": "",
         "button_text_color": ""
       }
+    },
+    "testimonials_9XnH7k": {
+      "type": "testimonials",
+      "blocks": {
+        "testimonial_Reg8qh": {
+          "type": "testimonial",
+          "settings": {
+            "image": "shopify://shop_images/Catherine.png",
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 5,
+            "author": "Achat vérifié",
+            "title": "Catherine, 58 ans",
+            "content": "<p>\"J'avais peur que ce soit encore un produit marketing. J'ai testé Bio Oil pendant 3 ans, des crèmes à 80€, rien. Au bout de 6 semaines, mes bras ne ressemblent plus à du papier crépon. J'ai porté une robe sans manches à un mariage. Première fois depuis 4 ans.\"</p>"
+          }
+        },
+        "testimonial_nQhLCD": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 5,
+            "author": "Mary U.",
+            "title": "Testimonial 2",
+            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.</p>"
+          }
+        },
+        "testimonial_xa9gGR": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 4,
+            "author": "Joshua A.",
+            "title": "Testimonial 3",
+            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "testimonial_Reg8qh",
+        "testimonial_nQhLCD",
+        "testimonial_xa9gGR"
+      ],
+      "name": "Testimonials",
+      "settings": {
+        "full_width": true,
+        "stack_testimonials": true,
+        "subheading": "",
+        "title": "Testimonials",
+        "content": "",
+        "link_url": "",
+        "link_text": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "testimonial_card_background": "",
+        "testimonial_card_text_color": ""
+      }
     }
   },
   "order": [
@@ -234,6 +358,8 @@
     "logo_list_JaLTLn",
     "image_with_text_overlay_UbtfBQ",
     "multi_column_ziTmdW",
-    "contact_HdJcJM"
+    "multi_column_iLKHeP",
+    "contact_HdJcJM",
+    "testimonials_9XnH7k"
   ]
 }
