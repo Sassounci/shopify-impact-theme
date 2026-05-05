@@ -144,14 +144,63 @@
         "overlay_opacity": 0
       }
     },
-    "custom_liquid_V6Gba8": {
-      "type": "custom-liquid",
-      "name": "Custom Liquid",
+    "multi_column_ziTmdW": {
+      "type": "multi-column",
+      "blocks": {
+        "item_NhXbGF": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Marie.png",
+            "column_size": "3",
+            "title": "Marie L. — 54 ans",
+            "heading_tag": "h4",
+            "content": "<p>\"Ma peau de ventre était un cauchemar après mes 25 kilos perdus. C'est plus ferme et plus lisse que ce que j'aurais imaginé.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_pbt7th": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Brigitte.png",
+            "column_size": "3",
+            "title": "Brigitte D. — 62 ans",
+            "heading_tag": "h4",
+            "content": "<p>\"Mes bras crépés étaient mon plus gros complexe. En 6 semaines, la peau est plus tendue, plus hydratée et plus lisse.\"</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_8FnFRJ": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Sandrine.png",
+            "column_size": "3",
+            "title": "Sandrine M. — 47 ans",
+            "heading_tag": "h4",
+            "content": "<p>\"La peau de mes bras est tellement mieux soutenue et moins relâchée. C'est tout ce que je voulais : juste plus ferme et plus lisse.\"</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        }
+      },
+      "block_order": [
+        "item_NhXbGF",
+        "item_pbt7th",
+        "item_8FnFRJ"
+      ],
+      "name": "Multi-column",
       "settings": {
         "full_width": true,
-        "remove_vertical_spacing": false,
-        "remove_horizontal_spacing": false,
-        "liquid": "{% comment %}\n  SORA — Section Calendrier de Transformation\n  Custom Liquid — À coller dans une section \"Custom Liquid\" de ton thème Shopify\n  \n  ⚠️ AVANT D'UTILISER : Remplace les 2 URLs d'images ci-dessous par les tiennes\n  Upload tes images dans Shopify → Settings → Files puis copie les URLs\n{% endcomment %}\n\n{%- assign image_week1 = \"https://cdn.shopify.com/s/files/REMPLACER-PAR-TON-URL-WEEK1.jpg\" -%}\n{%- assign image_week4 = \"https://cdn.shopify.com/s/files/REMPLACER-PAR-TON-URL-WEEK4.jpg\" -%}\n\n<section class=\"sora-timeline\">\n  <div class=\"sora-timeline__container\">\n    \n    <!-- TITRE PRINCIPAL -->\n    <div class=\"sora-timeline__header\">\n      <h2 class=\"sora-timeline__title\">Ce que la plupart des femmes<br>remarquent avec SORA au quotidien</h2>\n    </div>\n    \n    <!-- CONTENU PRINCIPAL : 2 COLONNES -->\n    <div class=\"sora-timeline__content\">\n      \n      <!-- COLONNE GAUCHE : AVANT/APRÈS -->\n      <div class=\"sora-timeline__images\">\n        <div class=\"sora-timeline__image-pair\">\n          <div class=\"sora-timeline__image-wrapper\">\n            <img src=\"{{ image_week1 }}\" alt=\"Peau semaine 1 — avant utilisation SORA\" loading=\"lazy\">\n            <span class=\"sora-timeline__image-label\">SEMAINE 1</span>\n          </div>\n          <div class=\"sora-timeline__image-wrapper\">\n            <img src=\"{{ image_week4 }}\" alt=\"Peau semaine 4 — après utilisation SORA\" loading=\"lazy\">\n            <span class=\"sora-timeline__image-label\">SEMAINE 4</span>\n          </div>\n        </div>\n      </div>\n      \n      <!-- COLONNE DROITE : TIMELINE 4 ÉTAPES -->\n      <div class=\"sora-timeline__steps\">\n        \n        <div class=\"sora-timeline__step\">\n          <div class=\"sora-timeline__week-badge\">\n            <svg xmlns=\"http://www.w3.org/2000/svg\" width=\"14\" height=\"14\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><rect x=\"3\" y=\"4\" width=\"18\" height=\"18\" rx=\"2\" ry=\"2\"/><line x1=\"16\" y1=\"2\" x2=\"16\" y2=\"6\"/><line x1=\"8\" y1=\"2\" x2=\"8\" y2=\"6\"/><line x1=\"3\" y1=\"10\" x2=\"21\" y2=\"10\"/></svg>\n            <span>Semaine 1</span>\n          </div>\n          <div class=\"sora-timeline__card\">\n            <h3>Douceur et confort immédiats</h3>\n            <p>La peau est plus douce, plus souple, hydratée en profondeur. La sécheresse et les tiraillements s'estompent.</p>\n          </div>\n        </div>\n        \n        <div class=\"sora-timeline__step\">\n          <div class=\"sora-timeline__week-badge\">\n            <svg xmlns=\"http://www.w3.org/2000/svg\" width=\"14\" height=\"14\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><rect x=\"3\" y=\"4\" width=\"18\" height=\"18\" rx=\"2\" ry=\"2\"/><line x1=\"16\" y1=\"2\" x2=\"16\" y2=\"6\"/><line x1=\"8\" y1=\"2\" x2=\"8\" y2=\"6\"/><line x1=\"3\" y1=\"10\" x2=\"21\" y2=\"10\"/></svg>\n            <span>Semaine 2</span>\n          </div>\n          <div class=\"sora-timeline__card\">\n            <h3>Texture lissée, éclat retrouvé</h3>\n            <p>La peau paraît plus saine, plus uniforme. Les zones rugueuses deviennent plus douces au toucher.</p>\n          </div>\n        </div>\n        \n        <div class=\"sora-timeline__step\">\n          <div class=\"sora-timeline__week-badge\">\n            <svg xmlns=\"http://www.w3.org/2000/svg\" width=\"14\" height=\"14\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><rect x=\"3\" y=\"4\" width=\"18\" height=\"18\" rx=\"2\" ry=\"2\"/><line x1=\"16\" y1=\"2\" x2=\"16\" y2=\"6\"/><line x1=\"8\" y1=\"2\" x2=\"8\" y2=\"6\"/><line x1=\"3\" y1=\"10\" x2=\"21\" y2=\"10\"/></svg>\n            <span>Semaine 3</span>\n          </div>\n          <div class=\"sora-timeline__card\">\n            <h3>Peau plus ferme, plus élastique</h3>\n            <p>Le rebond est visiblement amélioré. Les bras et les cuisses paraissent plus lisses, plus toniques.</p>\n          </div>\n        </div>\n        \n        <div class=\"sora-timeline__step\">\n          <div class=\"sora-timeline__week-badge\">\n            <svg xmlns=\"http://www.w3.org/2000/svg\" width=\"14\" height=\"14\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><rect x=\"3\" y=\"4\" width=\"18\" height=\"18\" rx=\"2\" ry=\"2\"/><line x1=\"16\" y1=\"2\" x2=\"16\" y2=\"6\"/><line x1=\"8\" y1=\"2\" x2=\"8\" y2=\"6\"/><line x1=\"3\" y1=\"10\" x2=\"21\" y2=\"10\"/></svg>\n            <span>Semaine 4</span>\n          </div>\n          <div class=\"sora-timeline__card\">\n            <h3>Peau renforcée, confiance retrouvée</h3>\n            <p>La peau apparaît plus tendue, plus tonique, visiblement nourrie. Hydratation longue durée sans lourdeur.</p>\n          </div>\n        </div>\n        \n      </div>\n      \n    </div>\n  </div>\n</section>\n\n<style>\n  .sora-timeline {\n    background-color: #F5F0EB;\n    padding: 80px 20px;\n    font-family: 'Montserrat', -apple-system, BlinkMacSystemFont, sans-serif;\n    color: #3D3530;\n  }\n  \n  .sora-timeline__container {\n    max-width: 1200px;\n    margin: 0 auto;\n  }\n  \n  .sora-timeline__header {\n    text-align: center;\n    margin-bottom: 60px;\n  }\n  \n  .sora-timeline__title {\n    font-family: 'Playfair Display', Georgia, serif;\n    font-size: 42px;\n    font-weight: 600;\n    line-height: 1.2;\n    color: #3D3530;\n    margin: 0;\n  }\n  \n  .sora-timeline__content {\n    display: grid;\n    grid-template-columns: 1fr 1fr;\n    gap: 60px;\n    align-items: start;\n  }\n  \n  /* COLONNE IMAGES */\n  .sora-timeline__images {\n    position: sticky;\n    top: 20px;\n  }\n  \n  .sora-timeline__image-pair {\n    display: grid;\n    grid-template-columns: 1fr 1fr;\n    gap: 4px;\n    border-radius: 12px;\n    overflow: hidden;\n    box-shadow: 0 8px 30px rgba(61, 53, 48, 0.12);\n  }\n  \n  .sora-timeline__image-wrapper {\n    position: relative;\n    aspect-ratio: 3/4;\n    overflow: hidden;\n    background-color: #C8B9A4;\n  }\n  \n  .sora-timeline__image-wrapper img {\n    width: 100%;\n    height: 100%;\n    object-fit: cover;\n    display: block;\n  }\n  \n  .sora-timeline__image-label {\n    position: absolute;\n    bottom: 16px;\n    left: 16px;\n    color: #FFFFFF;\n    font-family: 'Playfair Display', Georgia, serif;\n    font-size: 18px;\n    font-weight: 500;\n    letter-spacing: 1px;\n    text-shadow: 0 2px 8px rgba(0, 0, 0, 0.4);\n  }\n  \n  /* COLONNE TIMELINE */\n  .sora-timeline__steps {\n    position: relative;\n    display: flex;\n    flex-direction: column;\n    gap: 20px;\n  }\n  \n  .sora-timeline__steps::before {\n    content: '';\n    position: absolute;\n    left: 38px;\n    top: 30px;\n    bottom: 30px;\n    width: 2px;\n    border-left: 2px dashed #8C7B6B;\n    z-index: 0;\n  }\n  \n  .sora-timeline__step {\n    display: grid;\n    grid-template-columns: 90px 1fr;\n    gap: 16px;\n    align-items: start;\n    position: relative;\n    z-index: 1;\n  }\n  \n  .sora-timeline__week-badge {\n    background-color: #8C2840;\n    color: #FFFFFF;\n    padding: 10px 14px;\n    border-radius: 8px;\n    font-size: 13px;\n    font-weight: 600;\n    display: inline-flex;\n    align-items: center;\n    gap: 6px;\n    white-space: nowrap;\n    margin-top: 14px;\n  }\n  \n  .sora-timeline__week-badge svg {\n    flex-shrink: 0;\n  }\n  \n  .sora-timeline__card {\n    background-color: #FFFFFF;\n    border: 1.5px solid #8C2840;\n    border-radius: 10px;\n    padding: 18px 22px;\n    box-shadow: 0 2px 12px rgba(140, 40, 64, 0.06);\n  }\n  \n  .sora-timeline__card h3 {\n    font-family: 'Playfair Display', Georgia, serif;\n    font-size: 19px;\n    font-weight: 600;\n    color: #3D3530;\n    margin: 0 0 8px 0;\n    line-height: 1.3;\n  }\n  \n  .sora-timeline__card p {\n    font-size: 14px;\n    line-height: 1.55;\n    color: #3D3530;\n    margin: 0;\n    opacity: 0.85;\n  }\n  \n  /* RESPONSIVE TABLETTE */\n  @media (max-width: 1024px) {\n    .sora-timeline__content {\n      gap: 40px;\n    }\n    \n    .sora-timeline__title {\n      font-size: 36px;\n    }\n  }\n  \n  /* RESPONSIVE MOBILE */\n  @media (max-width: 768px) {\n    .sora-timeline {\n      padding: 50px 16px;\n    }\n    \n    .sora-timeline__title {\n      font-size: 28px;\n    }\n    \n    .sora-timeline__title br {\n      display: none;\n    }\n    \n    .sora-timeline__header {\n      margin-bottom: 36px;\n    }\n    \n    .sora-timeline__content {\n      grid-template-columns: 1fr;\n      gap: 36px;\n    }\n    \n    .sora-timeline__images {\n      position: static;\n    }\n    \n    .sora-timeline__image-pair {\n      max-width: 500px;\n      margin: 0 auto;\n    }\n    \n    .sora-timeline__image-label {\n      font-size: 14px;\n      bottom: 12px;\n      left: 12px;\n    }\n    \n    .sora-timeline__steps::before {\n      left: 30px;\n      top: 24px;\n      bottom: 24px;\n    }\n    \n    .sora-timeline__step {\n      grid-template-columns: 80px 1fr;\n      gap: 12px;\n    }\n    \n    .sora-timeline__week-badge {\n      font-size: 11px;\n      padding: 8px 10px;\n      margin-top: 12px;\n    }\n    \n    .sora-timeline__week-badge svg {\n      width: 12px;\n      height: 12px;\n    }\n    \n    .sora-timeline__card {\n      padding: 14px 16px;\n    }\n    \n    .sora-timeline__card h3 {\n      font-size: 16px;\n      margin-bottom: 6px;\n    }\n    \n    .sora-timeline__card p {\n      font-size: 13px;\n      line-height: 1.5;\n    }\n  }\n  \n  /* RESPONSIVE PETIT MOBILE */\n  @media (max-width: 380px) {\n    .sora-timeline__title {\n      font-size: 24px;\n    }\n    \n    .sora-timeline__step {\n      grid-template-columns: 70px 1fr;\n      gap: 10px;\n    }\n    \n    .sora-timeline__week-badge {\n      padding: 7px 8px;\n      font-size: 10px;\n    }\n  }\n</style>",
+        "stack_on_mobile": false,
+        "gap": "medium",
+        "text_alignment": "center",
+        "subheading": "",
+        "title": "Avant / Après",
+        "content": "<p>Vois les résultats partagés par des femmes qui utilisent Magic Body Oil au quotidien</p>",
         "background": "",
         "background_gradient": "",
         "text_color": ""
@@ -184,7 +233,7 @@
     "scrolling_text_x7aQjD",
     "logo_list_JaLTLn",
     "image_with_text_overlay_UbtfBQ",
-    "custom_liquid_V6Gba8",
+    "multi_column_ziTmdW",
     "contact_HdJcJM"
   ]
 }
