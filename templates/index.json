@@ -326,6 +326,55 @@
         "text_color": ""
       }
     },
+    "featured_product_Czdpti": {
+      "type": "featured-product",
+      "blocks": {
+        "title_xjWbkk": {
+          "type": "title",
+          "settings": {
+            "heading_tag": "h2"
+          }
+        },
+        "buy_buttons_gG9peJ": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_payment_button": true,
+            "show_gift_card_recipient": true,
+            "atc_button_background": "",
+            "atc_button_text_color": "",
+            "payment_button_background": "",
+            "payment_button_text_color": ""
+          }
+        },
+        "pickup_availability_4kLmyk": {
+          "type": "pickup_availability",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "title_xjWbkk",
+        "buy_buttons_gG9peJ",
+        "pickup_availability_4kLmyk"
+      ],
+      "name": "Featured product",
+      "settings": {
+        "full_width": true,
+        "product": "",
+        "desktop_media_width": 55,
+        "desktop_media_layout": "carousel_thumbnails_left",
+        "mobile_media_size": "expanded",
+        "mobile_carousel_control": "floating_dots",
+        "enable_video_autoplay": true,
+        "enable_video_looping": false,
+        "enable_image_zoom": true,
+        "max_image_zoom_level": 3,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "input_background": "rgba(0,0,0,0)",
+        "input_text_color": ""
+      }
+    },
     "contact_HdJcJM": {
       "type": "contact",
       "disabled": true,
@@ -357,6 +406,7 @@
     "multi_column_ziTmdW",
     "multi_column_iLKHeP",
     "timeline_k7CBPt",
+    "featured_product_Czdpti",
     "contact_HdJcJM"
   ]
 }
