@@ -15,7 +15,7 @@
         "image_xnMi3A": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Template_Shop.png",
+            "image": "shopify://shop_images/Template_Shop_1.png",
             "content_max_width": 780,
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
