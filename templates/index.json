@@ -379,8 +379,12 @@
         "liquid_7fRcpQ": {
           "type": "liquid",
           "settings": {
-            "liquid": "<style>\n  .list-payment {\n    display: flex;\n    align-items: center;\n    justify-content: center;\n    gap: 8px;\n    flex-wrap: wrap;\n    padding: 0;\n    margin: 0;\n    list-style: none;\n  }\n\n  .list-payment__item {\n    display: flex;\n    align-items: center;\n    justify-content: center;\n  }\n\n  .list-payment__item svg {\n    width: 38px;\n    height: 24px;\n    display: block;\n  }\n</style>\n\n<ul class=\"list-payment\" role=\"list\">\n\n  <!-- American Express -->\n  <li class=\"list-payment__item\">\n    <svg class=\"icon icon--full-color\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\" viewBox=\"0 0 38 24\" width=\"38\" height=\"24\">\n      <rect width=\"38\" height=\"24\" rx=\"3\" fill=\"#006FCF\"/>\n      <text x=\"19\" y=\"15\" text-anchor=\"middle\" fill=\"white\" font-size=\"7\" font-family=\"Arial\" font-weight=\"bold\">\n        AMEX\n      </text>\n    </svg>\n  </li>\n\n  <!-- Apple Pay -->\n  <li class=\"list-payment__item\">\n    <svg xmlns=\"http://www.w3.org/2000/svg\" width=\"38\" height=\"24\" viewBox=\"0 0 38 24\">\n      <rect width=\"38\" height=\"24\" rx=\"3\" fill=\"black\"/>\n      <text x=\"19\" y=\"15\" text-anchor=\"middle\" fill=\"white\" font-size=\"7\" font-family=\"Arial\" font-weight=\"bold\">\n        Apple Pay\n      </text>\n    </svg>\n  </li>\n\n  <!-- Google Pay -->\n  <li class=\"list-payment__item\">\n    <svg xmlns=\"http://www.w3.org/2000/svg\" width=\"38\" height=\"24\" viewBox=\"0 0 38 24\">\n      <rect width=\"38\" height=\"24\" rx=\"3\" fill=\"white\" stroke=\"#ddd\"/>\n      <text x=\"19\" y=\"15\" text-anchor=\"middle\" fill=\"#4285F4\" font-size=\"7\" font-family=\"Arial\" font-weight=\"bold\">\n        G Pay\n      </text>\n    </svg>\n  </li>\n\n  <!-- Mastercard -->\n  <li class=\"list-payment__item\">\n    <svg xmlns=\"http://www.w3.org/2000/svg\" width=\"38\" height=\"24\" viewBox=\"0 0 38 24\">\n      <rect width=\"38\" height=\"24\" rx=\"3\" fill=\"white\"/>\n      <circle cx=\"15\" cy=\"12\" r=\"6\" fill=\"#EB001B\"/>\n      <circle cx=\"23\" cy=\"12\" r=\"6\" fill=\"#F79E1B\"/>\n    </svg>\n  </li>\n\n  <!-- PayPal -->\n  <li class=\"list-payment__item\">\n    <svg xmlns=\"http://www.w3.org/2000/svg\" width=\"38\" height=\"24\" viewBox=\"0 0 38 24\">\n      <rect width=\"38\" height=\"24\" rx=\"3\" fill=\"white\"/>\n      <text x=\"19\" y=\"15\" text-anchor=\"middle\" fill=\"#003087\" font-size=\"7\" font-family=\"Arial\" font-weight=\"bold\">\n        PayPal\n      </text>\n    </svg>\n  </li>\n\n  <!-- Shop Pay -->\n  <li class=\"list-payment__item\">\n    <svg xmlns=\"http://www.w3.org/2000/svg\" width=\"38\" height=\"24\" viewBox=\"0 0 38 24\">\n      <rect width=\"38\" height=\"24\" rx=\"3\" fill=\"#5A31F4\"/>\n      <text x=\"19\" y=\"15\" text-anchor=\"middle\" fill=\"white\" font-size=\"7\" font-family=\"Arial\" font-weight=\"bold\">\n        shop\n      </text>\n    </svg>\n  </li>\n\n  <!-- Visa -->\n  <li class=\"list-payment__item\">\n    <svg xmlns=\"http://www.w3.org/2000/svg\" width=\"38\" height=\"24\" viewBox=\"0 0 38 24\">\n      <rect width=\"38\" height=\"24\" rx=\"3\" fill=\"white\"/>\n      <text x=\"19\" y=\"15\" text-anchor=\"middle\" fill=\"#142688\" font-size=\"7\" font-family=\"Arial\" font-weight=\"bold\">\n        VISA\n      </text>\n    </svg>\n  </li>\n\n</ul>"
+            "liquid": ""
           }
+        },
+        "badges_8ANB7i": {
+          "type": "badges",
+          "settings": {}
         },
         "pickup_availability_4kLmyk": {
           "type": "pickup_availability",
@@ -396,6 +400,7 @@
         "price_PLkGGm",
         "buy_buttons_gG9peJ",
         "liquid_7fRcpQ",
+        "badges_8ANB7i",
         "pickup_availability_4kLmyk"
       ],
       "name": "Featured product",
@@ -403,9 +408,9 @@
         "full_width": true,
         "product": "huile-magique-raffermissante-sora®",
         "desktop_media_width": 55,
-        "desktop_media_layout": "carousel_thumbnails_left",
+        "desktop_media_layout": "grid_highlight",
         "mobile_media_size": "expanded",
-        "mobile_carousel_control": "floating_dots",
+        "mobile_carousel_control": "thumbnails",
         "enable_video_autoplay": true,
         "enable_video_looping": false,
         "enable_image_zoom": true,
