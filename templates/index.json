@@ -268,6 +268,64 @@
         "text_color": ""
       }
     },
+    "timeline_k7CBPt": {
+      "type": "timeline",
+      "blocks": {
+        "slide_cRqzAg": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/avant_apres_section.png",
+            "navigation_label": "SEMAINE 1",
+            "subheading": "Ce que la plupart des femmes remarquent en utilisant Magic Body Oil au quotidien",
+            "title": "Douceur et confort immédiats",
+            "content": "<p>La peau est plus douce, hydratée en profondeur, le toucher papier crépon commence à s'estomper</p>"
+          }
+        },
+        "slide_N6kBdg": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/avant_apres_section.png",
+            "navigation_label": "SEMAINE 2",
+            "subheading": "",
+            "title": "Texture visiblement améliorée",
+            "content": "<p>La peau paraît plus saine et lissée. Les zones rugueuses s'adoucissent</p>"
+          }
+        },
+        "slide_P3yNcj": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/avant_apres_section.png",
+            "navigation_label": "SEMAINE 4",
+            "subheading": "",
+            "title": "Peau plus ferme et plus élastique",
+            "content": "<p>Rebond visiblement amélioré. Les zones de relâchement gagnent en hydratation sans effet gras</p>"
+          }
+        },
+        "slide_Lfz4UQ": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/avant_apres_section.png",
+            "navigation_label": "SEMAINE 8",
+            "subheading": "",
+            "title": "Peau plus forte, plus confiante",
+            "content": "<p>Plus rebondie, plus nourrie. Hydratation longue durée sans lourdeur</p>"
+          }
+        }
+      },
+      "block_order": [
+        "slide_cRqzAg",
+        "slide_N6kBdg",
+        "slide_P3yNcj",
+        "slide_Lfz4UQ"
+      ],
+      "name": "Timeline",
+      "settings": {
+        "full_width": true,
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "contact_HdJcJM": {
       "type": "contact",
       "disabled": true,
@@ -289,67 +347,6 @@
         "button_background": "",
         "button_text_color": ""
       }
-    },
-    "testimonials_9XnH7k": {
-      "type": "testimonials",
-      "blocks": {
-        "testimonial_Reg8qh": {
-          "type": "testimonial",
-          "settings": {
-            "image": "shopify://shop_images/Catherine.png",
-            "round_avatar": true,
-            "show_rating": true,
-            "rating": 5,
-            "author": "Achat vérifié",
-            "title": "Catherine, 58 ans",
-            "content": "<p>\"J'avais peur que ce soit encore un produit marketing. J'ai testé Bio Oil pendant 3 ans, des crèmes à 80€, rien. Au bout de 6 semaines, mes bras ne ressemblent plus à du papier crépon. J'ai porté une robe sans manches à un mariage. Première fois depuis 4 ans.\"</p>"
-          }
-        },
-        "testimonial_nQhLCD": {
-          "type": "testimonial",
-          "settings": {
-            "round_avatar": true,
-            "show_rating": true,
-            "rating": 5,
-            "author": "Mary U.",
-            "title": "Testimonial 2",
-            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.</p>"
-          }
-        },
-        "testimonial_xa9gGR": {
-          "type": "testimonial",
-          "settings": {
-            "round_avatar": true,
-            "show_rating": true,
-            "rating": 4,
-            "author": "Joshua A.",
-            "title": "Testimonial 3",
-            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.</p>"
-          }
-        }
-      },
-      "block_order": [
-        "testimonial_Reg8qh",
-        "testimonial_nQhLCD",
-        "testimonial_xa9gGR"
-      ],
-      "name": "Testimonials",
-      "settings": {
-        "full_width": true,
-        "stack_testimonials": true,
-        "subheading": "",
-        "title": "Testimonials",
-        "content": "",
-        "link_url": "",
-        "link_text": "",
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "heading_color": "",
-        "heading_gradient": "",
-        "testimonial_card_background": "",
-        "testimonial_card_text_color": ""
-      }
     }
   },
   "order": [
@@ -359,7 +356,7 @@
     "image_with_text_overlay_UbtfBQ",
     "multi_column_ziTmdW",
     "multi_column_iLKHeP",
-    "contact_HdJcJM",
-    "testimonials_9XnH7k"
+    "timeline_k7CBPt",
+    "contact_HdJcJM"
   ]
 }
