@@ -128,6 +128,22 @@
         "logo_item_border": ""
       }
     },
+    "image_with_text_overlay_UbtfBQ": {
+      "type": "image-with-text-overlay",
+      "name": "Image with text overlay",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "image": "shopify://shop_images/Section_Benefice.png",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
+    },
     "contact_HdJcJM": {
       "type": "contact",
       "name": "Contact form",
@@ -154,6 +170,7 @@
     "slideshow_GC86jf",
     "scrolling_text_x7aQjD",
     "logo_list_JaLTLn",
+    "image_with_text_overlay_UbtfBQ",
     "contact_HdJcJM"
   ]
 }
