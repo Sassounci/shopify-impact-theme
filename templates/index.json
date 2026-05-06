@@ -268,64 +268,6 @@
         "text_color": ""
       }
     },
-    "timeline_k7CBPt": {
-      "type": "timeline",
-      "blocks": {
-        "slide_cRqzAg": {
-          "type": "slide",
-          "settings": {
-            "image": "shopify://shop_images/avant_apres_section.png",
-            "navigation_label": "SEMAINE 1",
-            "subheading": "Ce que la plupart des femmes remarquent en utilisant Magic Body Oil au quotidien",
-            "title": "Douceur et confort immédiats",
-            "content": "<p>La peau est plus douce, hydratée en profondeur, le toucher papier crépon commence à s'estomper</p>"
-          }
-        },
-        "slide_N6kBdg": {
-          "type": "slide",
-          "settings": {
-            "image": "shopify://shop_images/avant_apres_section.png",
-            "navigation_label": "SEMAINE 2",
-            "subheading": "",
-            "title": "Texture visiblement améliorée",
-            "content": "<p>La peau paraît plus saine et lissée. Les zones rugueuses s'adoucissent</p>"
-          }
-        },
-        "slide_P3yNcj": {
-          "type": "slide",
-          "settings": {
-            "image": "shopify://shop_images/avant_apres_section.png",
-            "navigation_label": "SEMAINE 4",
-            "subheading": "",
-            "title": "Peau plus ferme et plus élastique",
-            "content": "<p>Rebond visiblement amélioré. Les zones de relâchement gagnent en hydratation sans effet gras</p>"
-          }
-        },
-        "slide_Lfz4UQ": {
-          "type": "slide",
-          "settings": {
-            "image": "shopify://shop_images/avant_apres_section.png",
-            "navigation_label": "SEMAINE 8",
-            "subheading": "",
-            "title": "Peau plus forte, plus confiante",
-            "content": "<p>Plus rebondie, plus nourrie. Hydratation longue durée sans lourdeur</p>"
-          }
-        }
-      },
-      "block_order": [
-        "slide_cRqzAg",
-        "slide_N6kBdg",
-        "slide_P3yNcj",
-        "slide_Lfz4UQ"
-      ],
-      "name": "Timeline",
-      "settings": {
-        "full_width": true,
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
-      }
-    },
     "featured_product_Czdpti": {
       "type": "featured-product",
       "blocks": {
@@ -415,6 +357,64 @@
         "input_text_color": ""
       }
     },
+    "timeline_k7CBPt": {
+      "type": "timeline",
+      "blocks": {
+        "slide_cRqzAg": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/avant_apres_section.png",
+            "navigation_label": "SEMAINE 1",
+            "subheading": "Ce que la plupart des femmes remarquent en utilisant Magic Body Oil au quotidien",
+            "title": "Douceur et confort immédiats",
+            "content": "<p>La peau est plus douce, hydratée en profondeur, le toucher papier crépon commence à s'estomper</p>"
+          }
+        },
+        "slide_N6kBdg": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/avant_apres_section.png",
+            "navigation_label": "SEMAINE 2",
+            "subheading": "",
+            "title": "Texture visiblement améliorée",
+            "content": "<p>La peau paraît plus saine et lissée. Les zones rugueuses s'adoucissent</p>"
+          }
+        },
+        "slide_P3yNcj": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/avant_apres_section.png",
+            "navigation_label": "SEMAINE 4",
+            "subheading": "",
+            "title": "Peau plus ferme et plus élastique",
+            "content": "<p>Rebond visiblement amélioré. Les zones de relâchement gagnent en hydratation sans effet gras</p>"
+          }
+        },
+        "slide_Lfz4UQ": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/avant_apres_section.png",
+            "navigation_label": "SEMAINE 8",
+            "subheading": "",
+            "title": "Peau plus forte, plus confiante",
+            "content": "<p>Plus rebondie, plus nourrie. Hydratation longue durée sans lourdeur</p>"
+          }
+        }
+      },
+      "block_order": [
+        "slide_cRqzAg",
+        "slide_N6kBdg",
+        "slide_P3yNcj",
+        "slide_Lfz4UQ"
+      ],
+      "name": "Timeline",
+      "settings": {
+        "full_width": true,
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "contact_HdJcJM": {
       "type": "contact",
       "disabled": true,
@@ -445,8 +445,8 @@
     "image_with_text_overlay_UbtfBQ",
     "multi_column_ziTmdW",
     "multi_column_iLKHeP",
-    "timeline_k7CBPt",
     "featured_product_Czdpti",
+    "timeline_k7CBPt",
     "contact_HdJcJM"
   ]
 }
