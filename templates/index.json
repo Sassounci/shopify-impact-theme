@@ -206,79 +206,6 @@
         "text_color": ""
       }
     },
-    "custom_liquid_H9BiN7": {
-      "type": "custom-liquid",
-      "name": "Custom Liquid",
-      "settings": {
-        "full_width": true,
-        "remove_vertical_spacing": false,
-        "remove_horizontal_spacing": false,
-        "liquid": "",
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
-      }
-    },
-    "testimonials_8FWJiT": {
-      "type": "testimonials",
-      "blocks": {
-        "testimonial_HwUHWe": {
-          "type": "testimonial",
-          "settings": {
-            "round_avatar": true,
-            "show_rating": true,
-            "rating": 4,
-            "author": "John S.",
-            "title": "Testimonial 1",
-            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.</p>"
-          }
-        },
-        "testimonial_dKjLaW": {
-          "type": "testimonial",
-          "settings": {
-            "round_avatar": true,
-            "show_rating": true,
-            "rating": 5,
-            "author": "Mary U.",
-            "title": "Testimonial 2",
-            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.</p>"
-          }
-        },
-        "testimonial_7YGBFf": {
-          "type": "testimonial",
-          "settings": {
-            "round_avatar": true,
-            "show_rating": true,
-            "rating": 4,
-            "author": "Joshua A.",
-            "title": "Testimonial 3",
-            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.</p>"
-          }
-        }
-      },
-      "block_order": [
-        "testimonial_HwUHWe",
-        "testimonial_dKjLaW",
-        "testimonial_7YGBFf"
-      ],
-      "name": "Testimonials",
-      "settings": {
-        "full_width": true,
-        "stack_testimonials": true,
-        "subheading": "",
-        "title": "Testimonials",
-        "content": "",
-        "link_url": "",
-        "link_text": "",
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "heading_color": "",
-        "heading_gradient": "",
-        "testimonial_card_background": "",
-        "testimonial_card_text_color": ""
-      }
-    },
     "multi_column_iLKHeP": {
       "type": "multi-column",
       "blocks": {
@@ -287,7 +214,7 @@
           "settings": {
             "image": "shopify://shop_images/Catherine.png",
             "column_size": "3",
-            "title": "Catherine, 58 ans — Achat vérifié",
+            "title": "★★★★★ Catherine, 58 ans — Achat vérifié",
             "heading_tag": "h5",
             "content": "<p>\"J'avais peur que ce soit encore un produit marketing. J'ai testé Bio Oil pendant 3 ans, des crèmes à 80€, rien. Au bout de 6 semaines, mes bras ne ressemblent plus à du papier crépon. J'ai porté une robe sans manches à un mariage. Première fois depuis 4 ans.\"</p>",
             "link_url": "",
@@ -336,19 +263,6 @@
         "subheading": "Recommandé par + 15.000 femmes",
         "title": "Nos utilisatrices en parlent le mieux",
         "content": "<p>Voyez par vous même les bienfaits du magic Body Oil sur nos utilisatrices</p>",
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
-      }
-    },
-    "custom_liquid_d6crrQ": {
-      "type": "custom-liquid",
-      "name": "Custom Liquid",
-      "settings": {
-        "full_width": true,
-        "remove_vertical_spacing": false,
-        "remove_horizontal_spacing": false,
-        "liquid": "",
         "background": "",
         "background_gradient": "",
         "text_color": ""
@@ -443,6 +357,67 @@
         "input_text_color": ""
       }
     },
+    "testimonials_cEQaAB": {
+      "type": "testimonials",
+      "blocks": {
+        "testimonial_QhE8Wt": {
+          "type": "testimonial",
+          "settings": {
+            "image": "shopify://shop_images/Catherine.png",
+            "round_avatar": false,
+            "show_rating": true,
+            "rating": 4,
+            "author": "John S.",
+            "title": "Testimonial 1",
+            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.</p>"
+          }
+        },
+        "testimonial_BnGHde": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": false,
+            "show_rating": true,
+            "rating": 5,
+            "author": "Mary U.",
+            "title": "Testimonial 2",
+            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.</p>"
+          }
+        },
+        "testimonial_7pTWWD": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": false,
+            "show_rating": true,
+            "rating": 4,
+            "author": "Joshua A.",
+            "title": "Testimonial 3",
+            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "testimonial_QhE8Wt",
+        "testimonial_BnGHde",
+        "testimonial_7pTWWD"
+      ],
+      "name": "Testimonials",
+      "settings": {
+        "full_width": true,
+        "stack_testimonials": true,
+        "subheading": "",
+        "title": "Testimonials",
+        "content": "",
+        "link_url": "",
+        "link_text": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "testimonial_card_background": "",
+        "testimonial_card_text_color": ""
+      }
+    },
     "timeline_k7CBPt": {
       "type": "timeline",
       "blocks": {
@@ -530,11 +505,9 @@
     "logo_list_JaLTLn",
     "image_with_text_overlay_UbtfBQ",
     "multi_column_ziTmdW",
-    "custom_liquid_H9BiN7",
-    "testimonials_8FWJiT",
     "multi_column_iLKHeP",
-    "custom_liquid_d6crrQ",
     "featured_product_Czdpti",
+    "testimonials_cEQaAB",
     "timeline_k7CBPt",
     "contact_HdJcJM"
   ]
