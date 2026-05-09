@@ -129,11 +129,11 @@
   },
   "contact": {
     "form": {
-      "name": "Name",
+      "name": "Nom",
       "email": "E-mail",
       "message": "Message",
-      "submit": "Send message",
-      "success_message": "Your message has been sent."
+      "submit": "Envoyer mon message",
+      "success_message": "Votre message à été transmis. Merci !"
     }
   },
   "customer": {
