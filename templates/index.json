@@ -214,7 +214,7 @@
           "settings": {
             "image": "shopify://shop_images/Catherine.png",
             "column_size": "3",
-            "title": "★★★★★ Catherine, 58 ans — Achat vérifié",
+            "title": "Catherine, 58 ans — Achat vérifié",
             "heading_tag": "h5",
             "content": "<p>\"J'avais peur que ce soit encore un produit marketing. J'ai testé Bio Oil pendant 3 ans, des crèmes à 80€, rien. Au bout de 6 semaines, mes bras ne ressemblent plus à du papier crépon. J'ai porté une robe sans manches à un mariage. Première fois depuis 4 ans.\"</p>",
             "link_url": "",
@@ -247,12 +247,26 @@
             "link_text": "",
             "link_style": "link"
           }
+        },
+        "item_UMhJUc": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/feedback-img-4.png",
+            "column_size": "3",
+            "title": "Camille, 42 ans - Achat vérifié",
+            "heading_tag": "h5",
+            "content": "<p>« Ce que j’aime le plus, c’est la sensation de confort. Aucun résidu collant, aucune couche épaisse — juste une peau lisse et nourrie qui s’améliore avec le temps. »</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
         }
       },
       "block_order": [
         "item_KJqdRB",
         "item_EXtr8N",
-        "item_DHpNCH"
+        "item_DHpNCH",
+        "item_UMhJUc"
       ],
       "name": "Multi-column",
       "settings": {
@@ -357,67 +371,6 @@
         "input_text_color": ""
       }
     },
-    "testimonials_cEQaAB": {
-      "type": "testimonials",
-      "blocks": {
-        "testimonial_QhE8Wt": {
-          "type": "testimonial",
-          "settings": {
-            "image": "shopify://shop_images/Catherine.png",
-            "round_avatar": false,
-            "show_rating": true,
-            "rating": 4,
-            "author": "John S.",
-            "title": "Testimonial 1",
-            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.</p>"
-          }
-        },
-        "testimonial_BnGHde": {
-          "type": "testimonial",
-          "settings": {
-            "round_avatar": false,
-            "show_rating": true,
-            "rating": 5,
-            "author": "Mary U.",
-            "title": "Testimonial 2",
-            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.</p>"
-          }
-        },
-        "testimonial_7pTWWD": {
-          "type": "testimonial",
-          "settings": {
-            "round_avatar": false,
-            "show_rating": true,
-            "rating": 4,
-            "author": "Joshua A.",
-            "title": "Testimonial 3",
-            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.</p>"
-          }
-        }
-      },
-      "block_order": [
-        "testimonial_QhE8Wt",
-        "testimonial_BnGHde",
-        "testimonial_7pTWWD"
-      ],
-      "name": "Testimonials",
-      "settings": {
-        "full_width": true,
-        "stack_testimonials": true,
-        "subheading": "",
-        "title": "Testimonials",
-        "content": "",
-        "link_url": "",
-        "link_text": "",
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "heading_color": "",
-        "heading_gradient": "",
-        "testimonial_card_background": "",
-        "testimonial_card_text_color": ""
-      }
-    },
     "timeline_k7CBPt": {
       "type": "timeline",
       "blocks": {
@@ -507,7 +460,6 @@
     "multi_column_ziTmdW",
     "multi_column_iLKHeP",
     "featured_product_Czdpti",
-    "testimonials_cEQaAB",
     "timeline_k7CBPt",
     "contact_HdJcJM"
   ]
