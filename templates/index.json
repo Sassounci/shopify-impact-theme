@@ -127,68 +127,30 @@
         "background_gradient": ""
       }
     },
-    "image_link_blocks_mMBjed": {
-      "type": "image-link-blocks",
+    "rich_text_FFKPHY": {
+      "type": "rich-text",
       "blocks": {
-        "item_LDMMy8": {
-          "type": "item",
+        "heading_AxF9NL": {
+          "type": "heading",
           "settings": {
-            "image": "shopify://shop_images/Marie.png",
-            "stretch_image": true,
-            "link_text": "",
-            "link_url": "",
-            "background": "",
-            "text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0
-          }
-        },
-        "item_jiHKeV": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/Brigitte.png",
-            "stretch_image": true,
-            "link_text": "",
-            "link_url": "",
-            "background": "",
-            "text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0
-          }
-        },
-        "item_ht4Dpi": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/Sandrine.png",
-            "stretch_image": true,
-            "link_text": "",
-            "link_url": "",
-            "background": "",
-            "text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0
+            "text": "Avant / Après",
+            "heading_tag": "h2",
+            "text_color": "",
+            "gradient": ""
           }
         }
       },
       "block_order": [
-        "item_LDMMy8",
-        "item_jiHKeV",
-        "item_ht4Dpi"
+        "heading_AxF9NL"
       ],
-      "name": "Image link blocks",
+      "name": "Rich text",
       "settings": {
-        "full_width": false,
-        "block_size": "large",
-        "subheading": "",
-        "title": "",
-        "content": "",
-        "link_url": "",
-        "link_text": "",
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
         "background": "",
         "background_gradient": "",
-        "text_color": "",
-        "heading_color": "",
-        "heading_gradient": ""
+        "text_color": ""
       }
     },
     "slideshow_wEGCiB": {
@@ -621,7 +583,7 @@
     "image_with_text_overlay_BBEDmF",
     "logo_list_UErnmU",
     "slideshow_M6NLmc",
-    "image_link_blocks_mMBjed",
+    "rich_text_FFKPHY",
     "slideshow_wEGCiB",
     "17783169356b18380c",
     "image_with_text_overlay_rK9VMm",
