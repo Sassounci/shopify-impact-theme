@@ -489,39 +489,71 @@
         "item_3YXtEp": {
           "type": "item",
           "settings": {
-            "title": "Do you ship overseas?",
-            "content": "<p>Yes, we ship all over the world. Shipping costs will apply, and will be added at checkout. We run discounts and promotions all year, so stay tuned for exclusive deals.</p>"
+            "title": "En combien de temps verrai-je les premiers résultats ?",
+            "content": "<p>La majorité des clientes voient une peau plus douce dès la 1ère semaine. Pour des résultats visibles sur la fermeté, comptez 56 jours d'utilisation quotidienne — délai validé par 86% des utilisatrices.</p>"
           }
         },
         "item_zppwFp": {
           "type": "item",
           "settings": {
-            "title": "How long will it take to get my orders?",
-            "content": "<p>It depends on where you are. Orders processed here will take 5-7 business days to arrive. Overseas deliveries can take anywhere from 7-16 days. Delivery details will be provided in your confirmation email.</p>"
+            "title": "J'ai déjà essayé Bio Oil et plein de crèmes, en quoi c'est différent ?",
+            "content": "<p>Les crèmes sont composées à 70-80% d'eau et restent en surface. Notre huile est pressée à froid : les molécules sont assez fines pour atteindre le derme — la couche profonde où se joue la fermeté. C'est pour ça que ça marche là où les crèmes échouent.</p>"
           }
         },
         "item_dD6GET": {
           "type": "item",
           "settings": {
-            "title": "Any question?",
-            "content": "<p>You can contact us through our contact page! We will be happy to assist you.</p>"
+            "title": "Est-ce que ça laisse un film gras ?",
+            "content": "<p>Non. La formule pénètre en 2-3 minutes. Tu peux t'habiller juste après sans tacher tes vêtements.</p>"
+          }
+        },
+        "item_iW4Wkx": {
+          "type": "item",
+          "settings": {
+            "title": "Convient-il à toutes les peaux ?",
+            "content": "<p>Oui, y compris les peaux sensibles. 100% naturel, sans parabens ni parfums chimiques. Pour les peaux à imperfections, on conseille de tester sur une petite zone d'abord.</p>"
+          }
+        },
+        "item_C6qA3Q": {
+          "type": "item",
+          "settings": {
+            "title": "Puis-je l'utiliser pendant la grossesse ?",
+            "content": "<p>Demandez l'avis de votre médecin par précaution — la formule contient des huiles essentielles douces (lavande, géranium) qui sont déconseillées pendant les 3 premiers mois.</p>"
+          }
+        },
+        "item_GY7T7J": {
+          "type": "item",
+          "settings": {
+            "title": "Et si ça ne marche pas pour moi ?",
+            "content": "<p>Vous êtes remboursée. On offre 60 jours satisfaite ou remboursée — le temps de voir les résultats sans aucun risque.</p>"
+          }
+        },
+        "item_kHTabF": {
+          "type": "item",
+          "settings": {
+            "title": "Quels sont les délais de livraison ?",
+            "content": "<p>Expédition sous 48h. Réception en 2-5 jours ouvrés.</p>"
           }
         }
       },
       "block_order": [
         "item_3YXtEp",
         "item_zppwFp",
-        "item_dD6GET"
+        "item_dD6GET",
+        "item_iW4Wkx",
+        "item_C6qA3Q",
+        "item_GY7T7J",
+        "item_kHTabF"
       ],
       "name": "FAQ",
       "settings": {
         "full_width": true,
         "subheading": "",
         "title": "FAQ",
-        "content": "<p>Use this text to share information about your product or shipping policies.</p>",
+        "content": "",
         "team_avatar_width": 160,
-        "support_hours": "Our customer support is available Monday to Friday: 8am-8:30pm.",
-        "answer_time": "Average answer time: 24h",
+        "support_hours": "",
+        "answer_time": "",
         "button_text": "",
         "button_url": "",
         "text_position": "center",
@@ -541,9 +573,9 @@
       "name": "Contact form",
       "settings": {
         "full_width": true,
-        "subheading": "Contact Us",
-        "title": "Do you have any question?",
-        "content": "",
+        "subheading": "",
+        "title": "Une question ?",
+        "content": "<p>Notre équipe te répond sous 24h.</p><p>Horaires : Lun à Ven : 9h - 17h et Sam et Dim : 14h - 16h</p>",
         "text_position": "start",
         "contact_form_size": "large",
         "background": "",
