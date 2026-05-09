@@ -1,0 +1,270 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "gp_section_618711352059364145": {
+      "settings": {
+        "checksum": "23224a0715dec753021599ee2bce8a45d41926dfb620f55278ee1ad363c2ce0e_1_1_1_0__1",
+        "gg7AQZar5RG_srcSet_desktop_src": "https://cdn.shopify.com/s/files/1/2005/9307/files/gempages_432750572815254551-7db7d4c1-a4eb-4d04-afd4-23a978d3b6fe.svg",
+        "ggBiGrk6-3u_srcSet_desktop_src": "https://cdn.shopify.com/s/files/1/2005/9307/files/gempages_432750572815254551-2cbeeed6-194d-4cc9-b8f0-0be8b4f7b274.svg",
+        "ggUxDIRNfIJ_srcSet_desktop_src": "https://cdn.shopify.com/s/files/1/2005/9307/files/gempages_432750572815254551-4e3559be-fbfe-4d35-86c8-eef45ac852d3.svg",
+        "gghFppBdWgx_srcSet_desktop_src": "https://cdn.shopify.com/s/files/1/2005/9307/files/gempages_432750572815254551-450f2634-a245-4be0-b322-741cd7897b06.svg",
+        "ggiO6BRPlyM_srcSet_desktop_src": "https://cdn.shopify.com/s/files/1/2005/9307/files/gempages_432750572815254551-a62c7382-44b5-4b8a-b2af-4bef057d11ea.svg",
+        "ggjhUKLK_Dy_srcSet_desktop_src": "https://cdn.shopify.com/s/files/1/2005/9307/files/gempages_432750572815254551-86492abc-13d3-4402-980f-6b51aa8820c4.svg",
+        "ggsnW1wj5qa_text": "As Featured In"
+      },
+      "type": "gp-section-618711352059364145"
+    },
+    "gp_section_618711352361354075": {
+      "settings": {
+        "checksum": "876dd2250eda1480e0f525836cec6bd7ff0b6d9a77d5114a981f1fca1ef93c89_1_1_1_0__1",
+        "gg_fIbsoBDt_text": "Our Commitment to Your Skin",
+        "ggaS4h-cmOi_altLeft": "Describes the appearance of the image",
+        "ggaS4h-cmOi_altRight": "Describes the appearance of the image",
+        "ggaS4h-cmOi_imageLeft_src": "https://cdn.shopify.com/s/files/1/2005/9307/files/gempages_432750572815254551-71758ff5-3451-4a4a-ba6c-148e80890f30.png",
+        "ggaS4h-cmOi_imageRight_src": "https://cdn.shopify.com/s/files/1/2005/9307/files/gempages_432750572815254551-010a210d-bd48-4eea-b950-b732bcea25f9.png",
+        "ggaS4h-cmOi_leftImageLabel": "Before",
+        "ggaS4h-cmOi_rightImageLabel": "After",
+        "ggaS4h-cmOi_titleLeft": "Title",
+        "ggaS4h-cmOi_titleRight": "Title",
+        "ggqNYa7dnvW_text": "<p>Skin Promise</p>",
+        "ggqVkNAc6a0_text": "<p>We promise safe, effective, and honest skincare you can truly trust every day.</p>",
+        "ggvlxB47m8b_childItem_0": "<p>Dermatologically tested &amp; safe for all skin types</p>",
+        "ggvlxB47m8b_childItem_1": "<p>Free from parabens, sulfates, and harsh chemicals</p>",
+        "ggvlxB47m8b_childItem_2": "<p>Ethically made with premium, cruelty-free ingredients</p>"
+      },
+      "type": "gp-section-618711352361354075"
+    },
+    "gp_section_618711352378131029": {
+      "settings": {
+        "checksum": "b3af3d446a1f7a3bf4b5c76fa97ede407cde809a109c6b9af0d9e9e1c1bcf3ea_1_1_1_0__1",
+        "ggp4oX9irKX_srcSet_desktop_src": "https://cdn.shopify.com/s/files/1/2005/9307/files/gempages_432750572815254551-caa40f86-1bc2-4c68-925f-78fcf646d153.png"
+      },
+      "type": "gp-section-618711352378131029"
+    },
+    "gp_section_618711352478794545": {
+      "settings": {
+        "checksum": "fb95f8cb03220cb208ff111cd06d7dc19a95720210e97d3f62a8e886d55469b0_1_1_1_0__1",
+        "gg7ODL_LH_Y_text": "<p>Twice daily, morning and evening, for best results.</p>",
+        "gg91d90xqIc_childItem_0": "<p>How often should I use the serum?</p>",
+        "gg91d90xqIc_childItem_1": "<p>Is the serum suitable for sensitive skin?</p>",
+        "gg91d90xqIc_childItem_2": "<p>How long before I see visible results?</p>",
+        "gg91d90xqIc_childItem_3": "<p>Can I apply it under makeup?</p>",
+        "gg91d90xqIc_childItem_4": "<p>Does it contain any harsh chemicals?</p>",
+        "gg91d90xqIc_childItem_5": "<p>What is the shelf life of the serum?</p>",
+        "ggCYuVFMPLf_text": "<p>24 months unopened, and 6 months after opening.</p>",
+        "ggH_Ni-hH6Q_text": "<p>Absolutely, the lightweight formula absorbs quickly and layers well under makeup.</p>",
+        "ggPH5frjCXN_text": "<p>Yes, it’s dermatologically tested and formulated to be gentle.</p>",
+        "ggW_gAzH9XQ_text": "<p>Clear Guidance</p>",
+        "ggchV2AQvZA_text": "<p>FAQs</p>",
+        "ggo994Af_m7_srcSet_desktop_src": "https://cdn.shopify.com/s/files/1/2005/9307/files/gempages_432750572815254551-cd50b0f7-48a6-4563-b443-e18247047920.png",
+        "ggo994Af_m7_srcSet_mobile_src": "https://cdn.shopify.com/s/files/1/2005/9307/files/gempages_432750572815254551-cd50b0f7-48a6-4563-b443-e18247047920.png",
+        "ggvn851dVF6_text": "<p>Most users notice improvements within 2–4 weeks of consistent use.</p>",
+        "ggyduIBKyko_text": "<p>No, it’s free from parabens, sulfates, and artificial fragrances.</p>"
+      },
+      "type": "gp-section-618711352478794545"
+    },
+    "gp_section_618711352613012181": {
+      "settings": {
+        "checksum": "53ea44387e0bfbd659943b1fa99d7c2268263d9caebfbaaca25ca38600d9fa0d_1_1_1_0__1",
+        "gg0PCR3cA_E_text": "Discover Our Bestsellers",
+        "ggO3XU34QMP_errorMessage": "Cannot add product to cart",
+        "ggO3XU34QMP_label": "Add to cart",
+        "ggO3XU34QMP_outOfStockLabel": "Out of stock",
+        "ggO3XU34QMP_successMessage": "Add product to cart successfully",
+        "ggO3XU34QMP_unavailableLabel": "Unavailable",
+        "ggO3XU34QMP_variantSelectionRequiredMessage": "Please select a variant to add product to cart",
+        "ggWEpooep9s_text": "<p>20ml</p>",
+        "ggoXJxnL__l_text": "<p>Curated For You</p>"
+      },
+      "type": "gp-section-618711352613012181"
+    },
+    "gp_section_618711352613012315": {
+      "settings": {
+        "checksum": "ca4bc20fca4b939401abfa58c1a7f779e3aa0aa3ae4ee0b5813ceec04785d8c4_1_1_1_0__1",
+        "gg5gE-b0fs__text": "Trusted by Skincare Experts",
+        "ggBl3JZ-2lQ_text": "<p>&nbsp; &nbsp;Expert-Approved Skincare Choice &nbsp;&nbsp;</p>",
+        "ggMHW1HwXNs_srcSet_desktop_src": "https://cdn.shopify.com/s/files/1/2005/9307/files/gempages_432750572815254551-b7c2bc1d-de7d-46a1-8b13-813c6dafddc3.png",
+        "ggV88VHCPpN_srcSet_desktop_src": "https://cdn.shopify.com/s/files/1/2005/9307/files/gempages_432750572815254551-2c1c780b-a116-4ff3-ac65-291b06ed491d.png",
+        "gglSnVpt-xE_text": "<p>Dermatologists recognize AuraGem Youth Elixir as a <span style=\"background-color:rgba(185, 239, 158, 0.77);\">science-backed solution</span> that delivers visible, lasting results for healthier, youthful skin.</p>",
+        "ggqooH3OFQh_srcSet_desktop_src": "https://cdn.shopify.com/s/files/1/2005/9307/files/gempages_432750572815254551-e555b1e5-1249-42e6-b608-bb9cc230ac33.png"
+      },
+      "type": "gp-section-618711352613012315"
+    },
+    "gp_section_618711352629789489": {
+      "settings": {
+        "checksum": "617cea526c120a929208909f0cdf30fec738c8549cc9c9702bd54aa6906573db_1_1_1_0__1",
+        "gg44c-lmyLO_text": "<p>Most reported smoother skin texture and reduced wrinkles within weeks of use.</p>",
+        "ggBEn75nuql_text": "<p>Users noticed plumper, softer skin with long-lasting hydration after consistent use.</p>",
+        "ggC2LlcgsNo_text": "<p>87%</p>",
+        "ggD57gjbTIT_text": "<p>92%</p>",
+        "ggFKEXcbkH3_text": "Powerful Ingredients, Proven Results",
+        "ggY-lkCzxfy_srcSet_desktop_src": "https://cdn.shopify.com/s/files/1/2005/9307/files/gempages_432750572815254551-199cb7cd-b6d4-4467-978c-bf698bb6e037.jpg",
+        "ggbxodi4A8x_text": "<p>Backed by science with key metrics showing visible improvements in hydration, brightness, and texture.</p>",
+        "ggcDSq0xQ6m_srcSet_desktop_src": "https://cdn.shopify.com/s/files/1/2005/9307/files/gempages_432750572815254551-b16e9fc8-98a7-4b19-a549-ecf1a5d59234.png",
+        "ggd9tq7ii5N_srcSet_desktop_src": "https://cdn.shopify.com/s/files/1/2005/9307/files/Frame_1171280981.png",
+        "gggiLcKF0vq_text": "<p>Visible boost in hydration</p>",
+        "ggwlZ20DoRd_text": "<p>Reduction in fine lines</p>"
+      },
+      "type": "gp-section-618711352629789489"
+    },
+    "gp_section_618711352663343701": {
+      "settings": {
+        "checksum": "37bf7ff1be4b08d4f0aee39481dded174d1d0048458adb7e99d45bbcfee869da_1_1_1_0__1",
+        "gg-2Bfy0SLk_srcSet_desktop_src": "https://cdn.shopify.com/s/files/1/2005/9307/files/gempages_432750572815254551-f20d9943-7c65-42da-87bd-dd7209ee237f.png",
+        "gg5-hLgFz-8_srcSet_desktop_src": "https://cdn.shopify.com/s/files/1/2005/9307/files/gempages_432750572815254551-9b75870f-ca0f-4a2e-8cfa-4cab8c390344.png",
+        "ggCbTLpMFLZ_text": "<p>Copyright © 2025 GemPages.</p>",
+        "ggCeEMQcg2x_srcSet_desktop_src": "https://cdn.shopify.com/s/files/1/2005/9307/files/gempages_432750572815254551-1cd135b4-e229-45c0-8552-08ed7005ead1.png",
+        "ggEB8Q9clel_label": "Delivery Information",
+        "ggOkTEUjDsK_label": "FAQ&nbsp;",
+        "ggahzgX89eS_label": "Return &amp; Exchange&nbsp;",
+        "ggj_NlYmZCq_srcSet_desktop_src": "https://cdn.shopify.com/s/files/1/2005/9307/files/gempages_432750572815254551-762669bf-c0d4-41a3-8fc4-c835555dae7d.png",
+        "ggtZrcCHtEb_label": "Contact Us",
+        "ggxFIL3zIzw_srcSet_desktop_src": "https://cdn.shopify.com/s/files/1/2005/9307/files/gempages_432750572815254551-f12df0fc-9708-4fbf-82a8-601f2f0d70ef.png"
+      },
+      "type": "gp-section-618711352663343701"
+    },
+    "gp_section_618711352663343921": {
+      "settings": {
+        "checksum": "a15edb8dedcdb65f4b3f49683496229d643d96f96e0a207bd7d54413ef803e7e_1_1_1_0__1",
+        "gg79IXxZZWE_text": "<p>Shields from Damage</p>",
+        "gg9_5_PmoSn_text": "<p>Refines and tightens pores, giving skin a smoother and more polished look.</p>",
+        "ggBQ5VIIei2_text": "<p>&nbsp; &nbsp;Skin Relief &nbsp;&nbsp;</p>",
+        "ggF8GkrLuwl_text": "<p>Gradually lightens dark spots and evens skin tone for a brighter complexion.</p>",
+        "ggJo4yKv3fe_text": "<p>&nbsp; &nbsp;Smooth Glow &nbsp;&nbsp;</p>",
+        "ggQl7scuM3a_srcSet_desktop_src": "https://cdn.shopify.com/s/files/1/2005/9307/files/gempages_432750572815254551-006fc209-b73b-4c9d-a76c-34390f3e8715.jpg",
+        "ggVPZQdxsS-_text": "<p>Fades Dark Spots</p>",
+        "ggYvPLu0WAP_text": "<p>Gently calms redness, reduces sensitivity, and restores skin’s natural comfort balance.</p>",
+        "ggbCcf5-Fay_text": "<p>Soothes Irritation</p>",
+        "ggbMOHABMOB_text": "<p>Skin Benefits</p>",
+        "ggcdfIG-aCh_text": "<p>&nbsp; &nbsp;Daily Defense &nbsp;&nbsp;</p>",
+        "gggyOH7Y-G9_text": "Unlock Your Skin’s True Potential",
+        "ggk-wc84shK_text": "<p>&nbsp; &nbsp;Radiant Skin &nbsp;&nbsp;</p>",
+        "ggtDBz5v9P0_text": "<p>Minimizes Pores</p>",
+        "ggzDXrN23Of_text": "<p>Creates a protective barrier against pollution, UV exposure, and environmental stress.</p>"
+      },
+      "type": "gp-section-618711352663343921"
+    },
+    "gp_section_618711352780784341": {
+      "settings": {
+        "checksum": "4eec7b289c52d2721f9b3b191a19c280dba7972c22e9ba66eab25f2bbcf4072d_1_1_1_0__1",
+        "gg019x5j2ac_text": "<p>Customer</p>",
+        "gg0nXTNC1dl_text": "<p>Real Stories</p>",
+        "gg7rghZ0bi__text": "<p>Customer</p>",
+        "ggCUS6IfqF9_text": "<p>Sophie Williams</p>",
+        "ggJ5eGK4qVD_text": "<p>Daniel Thompson</p>",
+        "ggRAuY6dGJm_text": "<p>\"This serum transformed my skin. My complexion feels smoother, brighter, refreshed every day.\"</p>",
+        "ggT_3RKxs57_text": "<p>\"Within weeks of use, I noticed visible improvements. Fine lines softened, tone evened, hydration lasted longer.\"</p>",
+        "ggcCrsaBijZ_text": "<p>Emily Carter</p>",
+        "gggUO9SaGof_text": "<p>Customer</p>",
+        "ggxs7zlEu4j_text": "What Our Customers Say",
+        "ggyposqmrDl_text": "<p>\"I’ve tried many products, but this one truly stands out. My skin looks healthier, radiant, and nourished.\"</p>"
+      },
+      "type": "gp-section-618711352780784341"
+    },
+    "gp_section_618711352881447771": {
+      "settings": {
+        "checksum": "a192fd2fe6dcb948e610e5378c83df9062bb490d397648c2f799bdc6ac84ca38_1_1_1_0__1",
+        "gg0ca6xC4Pt_background_desktop_image_src": "https://cdn.shopify.com/s/files/1/2005/9307/files/Gemskincare4.png",
+        "gg0oGYgy_bK_text": "ClarityGem Blemish Elixir",
+        "gg0yiMl4zey_background_desktop_image_src": "https://cdn.shopify.com/s/files/1/2005/9307/files/Gemskincare3.png",
+        "gg4UccxrgJg_text": "<p>Intense moisture boost</p>",
+        "gg5R-ZWTt5a_text": "Discover Your Perfect Elixir",
+        "gg6NMZaUubr_text": "<p><a href=\"https://seal-commerce-asia.myshopify.com/a/gempages?version=v7&amp;shop_id=432750572815254551&amp;theme_page_id=583068063469929112&amp;page_type=GP_PRODUCT\"><u>Get It Now -&gt;&nbsp;</u></a></p>",
+        "gg7IuPR0yJq_text": "<p>Locks in moisture</p>",
+        "ggAQdGWyOsj_text": "<p>Calms redness</p>",
+        "ggAsImgGEsl_text": "CalmGem Barrier Repair Elixir",
+        "ggB5oaWEYSO_text": "<p>Shields from stressors</p>",
+        "ggBKwbJYfh0_text": "<p><a href=\"https://seal-commerce-asia.myshopify.com/a/gempages?version=v7&amp;shop_id=432750572815254551&amp;theme_page_id=583068063469929112&amp;page_type=GP_PRODUCT\"><u>Get It Now -&gt;&nbsp;</u></a></p>",
+        "ggC9dtQMowv_text": "<p>Stronger barrier</p>",
+        "ggDcEo3WrJg_text": "<p><a href=\"https://seal-commerce-asia.myshopify.com/a/gempages?version=v7&amp;shop_id=432750572815254551&amp;theme_page_id=583068063469929112&amp;page_type=GP_PRODUCT\"><u>Get It Now -&gt;&nbsp;</u></a></p>",
+        "ggDmkhAJGzu_text": "<p>Restores softness</p>",
+        "ggJEuU1AHc6_text": "<p><a href=\"https://seal-commerce-asia.myshopify.com/a/gempages?version=v7&amp;shop_id=432750572815254551&amp;theme_page_id=583068063469929112&amp;page_type=GP_PRODUCT\"><u>Get It Now -&gt;&nbsp;</u></a></p>",
+        "ggJHffuJ1pK_text": "<p>Soothes irritation</p>",
+        "ggL7owoY2sa_text": "<p>Plumps dull skin</p>",
+        "ggNztXDX8vU_text": "HydroGem Deep Hydration Elixir",
+        "ggOZc9wVpaR_text": "<p>Reduces fine lines</p>",
+        "ggQjPWTgFXY_text": "<p>Refines skin texture</p>",
+        "ggR7MQ3OQmu_background_desktop_image_src": "https://cdn.shopify.com/s/files/1/2005/9307/files/Gemskincare1.png",
+        "ggeEgSAt7pi_background_desktop_image_src": "https://cdn.shopify.com/s/files/1/2005/9307/files/Gemskincare2.png",
+        "gggNS8J_6lY_text": "<p>Boosts natural radiance</p>",
+        "gghlkrWJ9qL_text": "<p>Clears blemishes</p>",
+        "ggi64ERLXME_text": "<p>Multi-layer hydration</p>",
+        "ggkVRgZXjbP_text": "<p>Targeted Skin Solutions</p>",
+        "ggkp3lk9Pvr_text": "<p>Protects against aging</p>",
+        "ggpnWk7GccH_text": "AuraGem Youth Elixir",
+        "ggtavxePAvQ_text": "<p>Controls excess oil</p>",
+        "ggwl_KEtPhe_text": "<p>Evens skin tone</p>"
+      },
+      "type": "gp-section-618711352881447771"
+    },
+    "gp_section_618711353166660309": {
+      "settings": {
+        "checksum": "3b188a962e84daa5917d32f6c473f8dfd7d1d5c50c9afa98cb367305e9a75bfe_1_1_1_0__1",
+        "gg1VX78G5uA_text": "<p>Real Reviews</p>",
+        "gg2AhDJejfu_text": "<p><a href=\"#\" target=\"_blank\"><i><u>@oliviafresh</u></i></a></p>",
+        "gg4WPV9uSRQ_text": "<p><a href=\"#\" target=\"_blank\"><i><u>@isabellabright</u></i></a></p>",
+        "gg5qg6GIOJp_text": "<p>\"Deep hydration that lasts all day long.\"</p>",
+        "ggCHJu65WrM_text": "<p>\"Dark spots reduced, and my skin tone looks even.\"</p>",
+        "ggGlUpsSvSb_text": "<p><a href=\"#\" target=\"_blank\"><i><u>@sophie.skin</u></i></a></p>",
+        "ggL5HLJrsks_text": "Hear It from Our Happy Customers",
+        "ggMf7Je9fSI_text": "<p>\"Fine lines faded, and my face looks refreshed.\"</p>",
+        "ggN8CKfU5-1_html5Url": "https://cdn.shopify.com/videos/c/o/v/2cd3deb506b54b009063f7270ab5cf2e.mp4",
+        "ggN8CKfU5-1_poster_src": "https://cdn.shopify.com/s/files/1/2005/9307/files/gempages_432750572815254551-d3735ee7-66ff-4e39-804b-6f466ab1ee91.jpg",
+        "ggN8CKfU5-1_vimeoUrl": "https://vimeo.com/1095883398",
+        "ggN8CKfU5-1_youtubeUrl": "https://www.youtube.com/watch?v=drIt4RH_kyQ",
+        "ggP7XQw-8aF_text": "<p>\"This serum gave me a natural youthful glow.\"</p>",
+        "ggUfbwIco1d_html5Url": "https://cdn.shopify.com/videos/c/o/v/2cd3deb506b54b009063f7270ab5cf2e.mp4",
+        "ggUfbwIco1d_poster_src": "https://cdn.shopify.com/s/files/1/2005/9307/files/gempages_432750572815254551-8b071589-e21f-4b0d-a6fe-84989e0eedfd.jpg",
+        "ggUfbwIco1d_vimeoUrl": "https://vimeo.com/1095883398",
+        "ggUfbwIco1d_youtubeUrl": "https://www.youtube.com/watch?v=drIt4RH_kyQ",
+        "ggag4NKuiq0_html5Url": "https://cdn.shopify.com/videos/c/o/v/2cd3deb506b54b009063f7270ab5cf2e.mp4",
+        "ggag4NKuiq0_poster_src": "https://cdn.shopify.com/s/files/1/2005/9307/files/gempages_432750572815254551-8b54d4eb-e7ad-43ad-98b5-6ca7329870cc.jpg",
+        "ggag4NKuiq0_vimeoUrl": "https://vimeo.com/1095883398",
+        "ggag4NKuiq0_youtubeUrl": "https://www.youtube.com/watch?v=drIt4RH_kyQ",
+        "ggfoOsdAqYC_html5Url": "https://cdn.shopify.com/videos/c/o/v/2cd3deb506b54b009063f7270ab5cf2e.mp4",
+        "ggfoOsdAqYC_poster_src": "https://cdn.shopify.com/s/files/1/2005/9307/files/gempages_432750572815254551-8b54d4eb-e7ad-43ad-98b5-6ca7329870cc.jpg",
+        "ggfoOsdAqYC_vimeoUrl": "https://vimeo.com/1095883398",
+        "ggfoOsdAqYC_youtubeUrl": "https://www.youtube.com/watch?v=drIt4RH_kyQ",
+        "ggh4uJnPl3U_text": "<p><a href=\"#\" target=\"_blank\"><i><u>@emilyglow</u></i></a></p>",
+        "gghiWPESv_x_html5Url": "https://cdn.shopify.com/videos/c/o/v/2cd3deb506b54b009063f7270ab5cf2e.mp4",
+        "gghiWPESv_x_poster_src": "https://cdn.shopify.com/s/files/1/2005/9307/files/gempages_432750572815254551-79409966-6e8b-4214-91b4-236bdfdc485f.jpg",
+        "gghiWPESv_x_vimeoUrl": "https://vimeo.com/1095883398",
+        "gghiWPESv_x_youtubeUrl": "https://www.youtube.com/watch?v=drIt4RH_kyQ",
+        "ggp72qf3_O5_text": "<p>\"My skin feels smoother and brighter every day.\"</p>",
+        "ggrpFcldkUL_text": "<p><a href=\"#\" target=\"_blank\"><i><u>@grace.dewy</u></i></a></p>"
+      },
+      "type": "gp-section-618711353166660309"
+    },
+    "gp_section_618711574693020507": {
+      "settings": {
+        "checksum": "d8d0fceb480a480ab90ca81e1e9efffed18d2df8b0d251880dadcafc6fd64ec9_1_1_1_0__1",
+        "ggoPndEZNIm_srcSet_desktop_src": "https://cdn.shopify.com/s/files/1/0988/0413/8328/files/Template_Shop_1.png?v=1777972925",
+        "section_preload": "true"
+      },
+      "type": "gp-section-618711574693020507"
+    }
+  },
+  "order": [
+    "gp_section_618711574693020507",
+    "gp_section_618711352059364145",
+    "gp_section_618711352613012181",
+    "gp_section_618711352881447771",
+    "gp_section_618711352663343921",
+    "gp_section_618711352361354075",
+    "gp_section_618711353166660309",
+    "gp_section_618711352613012315",
+    "gp_section_618711352629789489",
+    "gp_section_618711352780784341",
+    "gp_section_618711352478794545",
+    "gp_section_618711352378131029",
+    "gp_section_618711352663343701"
+  ]
+}
