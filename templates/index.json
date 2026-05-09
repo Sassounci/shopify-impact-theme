@@ -127,158 +127,60 @@
         "background_gradient": ""
       }
     },
-    "rich_text_ndLhnV": {
-      "type": "rich-text",
+    "image_link_blocks_mMBjed": {
+      "type": "image-link-blocks",
       "blocks": {
-        "subheading_aBL9PL": {
-          "type": "subheading",
+        "item_LDMMy8": {
+          "type": "item",
           "settings": {
-            "text": "Subheading"
+            "image": "shopify://shop_images/Marie.png",
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
           }
         },
-        "heading_iC3XhA": {
-          "type": "heading",
+        "item_jiHKeV": {
+          "type": "item",
           "settings": {
-            "text": "Heading",
-            "heading_tag": "h1",
-            "text_color": "",
-            "gradient": ""
+            "image": "shopify://shop_images/Brigitte.png",
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
           }
         },
-        "richtext_MzHkqk": {
-          "type": "richtext",
+        "item_ht4Dpi": {
+          "type": "item",
           "settings": {
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
+            "image": "shopify://shop_images/Sandrine.png",
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
           }
         }
       },
       "block_order": [
-        "subheading_aBL9PL",
-        "heading_iC3XhA",
-        "richtext_MzHkqk"
+        "item_LDMMy8",
+        "item_jiHKeV",
+        "item_ht4Dpi"
       ],
-      "name": "Rich text",
+      "name": "Image link blocks",
       "settings": {
-        "full_width": true,
-        "content_width": "small",
-        "text_position": "center",
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
-      }
-    },
-    "logo_list_3bFadV": {
-      "type": "logo-list",
-      "blocks": {
-        "logo_HbFtKJ": {
-          "type": "logo",
-          "settings": {
-            "logo_width": 120,
-            "link": ""
-          }
-        },
-        "logo_LPTy7M": {
-          "type": "logo",
-          "settings": {
-            "logo_width": 120,
-            "link": ""
-          }
-        },
-        "logo_8EDrDp": {
-          "type": "logo",
-          "settings": {
-            "logo_width": 120,
-            "link": ""
-          }
-        },
-        "logo_8aE3JT": {
-          "type": "logo",
-          "settings": {
-            "logo_width": 120,
-            "link": ""
-          }
-        },
-        "logo_WwB6LU": {
-          "type": "logo",
-          "settings": {
-            "logo_width": 120,
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "logo_HbFtKJ",
-        "logo_LPTy7M",
-        "logo_8EDrDp",
-        "logo_8aE3JT",
-        "logo_WwB6LU"
-      ],
-      "name": "Logo list",
-      "settings": {
-        "full_width": true,
-        "stack_mobile": true,
-        "title": "Logo list",
-        "content": "",
-        "text_alignment": "start",
-        "items_per_row": 5,
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "heading_color": "",
-        "heading_gradient": "",
-        "logo_item_background": "",
-        "logo_item_border": ""
-      }
-    },
-    "testimonials_wEgrmg": {
-      "type": "testimonials",
-      "blocks": {
-        "testimonial_yByzWk": {
-          "type": "testimonial",
-          "settings": {
-            "image": "shopify://shop_images/feedback-img-4.png",
-            "round_avatar": true,
-            "show_rating": true,
-            "rating": 4,
-            "author": "John S.",
-            "title": "Testimonial 1",
-            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.</p>"
-          }
-        },
-        "testimonial_LDiyLT": {
-          "type": "testimonial",
-          "settings": {
-            "round_avatar": true,
-            "show_rating": true,
-            "rating": 5,
-            "author": "Mary U.",
-            "title": "Testimonial 2",
-            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.</p>"
-          }
-        },
-        "testimonial_c9LFm8": {
-          "type": "testimonial",
-          "settings": {
-            "round_avatar": true,
-            "show_rating": true,
-            "rating": 4,
-            "author": "Joshua A.",
-            "title": "Testimonial 3",
-            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.</p>"
-          }
-        }
-      },
-      "block_order": [
-        "testimonial_yByzWk",
-        "testimonial_LDiyLT",
-        "testimonial_c9LFm8"
-      ],
-      "name": "Testimonials",
-      "settings": {
-        "full_width": true,
-        "stack_testimonials": true,
+        "full_width": false,
+        "block_size": "large",
         "subheading": "",
-        "title": "Testimonials",
+        "title": "",
         "content": "",
         "link_url": "",
         "link_text": "",
@@ -286,9 +188,7 @@
         "background_gradient": "",
         "text_color": "",
         "heading_color": "",
-        "heading_gradient": "",
-        "testimonial_card_background": "",
-        "testimonial_card_text_color": ""
+        "heading_gradient": ""
       }
     },
     "17783169356b18380c": {
@@ -326,41 +226,45 @@
             "review_title_size": 16,
             "review_text_size": 14,
             "customer_name_size": 14,
-            "background_color": "#F5EFE6",
+            "background_color": "#f5f5f0",
             "heading_color": "#1a1a1a",
             "text_color": "#666666",
             "card_background": "#f8f8f8",
             "star_color": "#00b67a",
-            "verified_icon_color": "#D4AF37",
+            "verified_icon_color": "#b8a060",
             "verified_text_color": "#999999",
             "verified_text": "Verified customer",
             "testimonial_1_enabled": true,
+            "testimonial_1_image": "shopify://shop_images/Catherine.png",
             "testimonial_1_show_stars": true,
             "testimonial_1_rating": 5,
-            "testimonial_1_title": "Absolutely glowing skin",
-            "testimonial_1_text": "My skin has never felt this soft and hydrated. I noticed visible changes within just two weeks of daily use.",
-            "testimonial_1_name": "Sarah M.",
+            "testimonial_1_title": "",
+            "testimonial_1_text": "\"J'avais peur que ce soit encore un produit marketing. J'ai testé Bio Oil pendant 3 ans, des crèmes à 80€, rien. Au bout de 6 semaines, mes bras ne ressemblent plus à du papier crépon. J'ai porté une robe sans manches à un mariage. Première fois depuis 4 ans.\"",
+            "testimonial_1_name": "Catherine, 58 ans",
             "testimonial_1_show_verified": true,
             "testimonial_2_enabled": true,
+            "testimonial_2_image": "shopify://shop_images/Isabelle.png",
             "testimonial_2_show_stars": true,
             "testimonial_2_rating": 5,
-            "testimonial_2_title": "Best body oil I've tried",
-            "testimonial_2_text": "The texture is luxurious and it absorbs quickly without feeling greasy. My skin looks radiant all day.",
-            "testimonial_2_name": "Emma L.",
+            "testimonial_2_title": "",
+            "testimonial_2_text": "\"J'ai perdu 22 kilos. Le poids est parti, ma peau n'a pas suivi. Je me cachais encore plus qu'avant. Trois mois avec cette huile et la peau de mon ventre s'est resserrée. Je peux enfin me regarder dans le miroir.\"",
+            "testimonial_2_name": "Florence, 47 ans",
             "testimonial_2_show_verified": true,
             "testimonial_3_enabled": true,
+            "testimonial_3_image": "shopify://shop_images/feedback-img-4.png",
             "testimonial_3_show_stars": true,
             "testimonial_3_rating": 5,
-            "testimonial_3_title": "Worth every penny",
-            "testimonial_3_text": "I was skeptical at first, but this oil has transformed my dry skin. The glow is real and long-lasting.",
-            "testimonial_3_name": "Jessica K.",
+            "testimonial_3_title": "",
+            "testimonial_3_text": "\"À la ménopause, ma peau est devenue fine comme du papier. Ma dermato m'a expliqué pourquoi mes crèmes ne marchaient pas. Cette huile descend plus profond. Ma peau a retrouvé du rebond. Je me sens à nouveau dans mon corps.\"",
+            "testimonial_3_name": "Isabelle, 62 ans",
             "testimonial_3_show_verified": true,
-            "testimonial_4_enabled": true,
+            "testimonial_4_enabled": false,
+            "testimonial_4_image": "shopify://shop_images/Marie.png",
             "testimonial_4_show_stars": true,
             "testimonial_4_rating": 5,
-            "testimonial_4_title": "My skin feels amazing",
-            "testimonial_4_text": "After just one month, my skin texture has improved dramatically. It feels smoother and looks healthier.",
-            "testimonial_4_name": "Rachel T.",
+            "testimonial_4_title": "",
+            "testimonial_4_text": "\"Ma peau de ventre était un cauchemar après mes 25 kilos perdus. C'est plus ferme et plus lisse que ce que j'aurais imaginé.\"",
+            "testimonial_4_name": "Marie L. — 54 ans",
             "testimonial_4_show_verified": true
           },
           "blocks": {}
@@ -370,66 +274,6 @@
         "ai_gen_block_eacf00a_aQQ4wA"
       ],
       "settings": {}
-    },
-    "testimonials_bF4fWV": {
-      "type": "testimonials",
-      "blocks": {
-        "testimonial_wVFLbM": {
-          "type": "testimonial",
-          "settings": {
-            "round_avatar": true,
-            "show_rating": true,
-            "rating": 4,
-            "author": "John S.",
-            "title": "Testimonial 1",
-            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.</p>"
-          }
-        },
-        "testimonial_7fg83G": {
-          "type": "testimonial",
-          "settings": {
-            "round_avatar": true,
-            "show_rating": true,
-            "rating": 5,
-            "author": "Mary U.",
-            "title": "Testimonial 2",
-            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.</p>"
-          }
-        },
-        "testimonial_rJBWJE": {
-          "type": "testimonial",
-          "settings": {
-            "round_avatar": true,
-            "show_rating": true,
-            "rating": 4,
-            "author": "Joshua A.",
-            "title": "Testimonial 3",
-            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.</p>"
-          }
-        }
-      },
-      "block_order": [
-        "testimonial_wVFLbM",
-        "testimonial_7fg83G",
-        "testimonial_rJBWJE"
-      ],
-      "name": "Testimonials",
-      "settings": {
-        "full_width": true,
-        "stack_testimonials": true,
-        "subheading": "",
-        "title": "Testimonials",
-        "content": "",
-        "link_url": "",
-        "link_text": "",
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "heading_color": "",
-        "heading_gradient": "",
-        "testimonial_card_background": "",
-        "testimonial_card_text_color": ""
-      }
     },
     "image_with_text_overlay_rK9VMm": {
       "type": "image-with-text-overlay",
@@ -692,11 +536,8 @@
     "image_with_text_overlay_BBEDmF",
     "logo_list_UErnmU",
     "slideshow_M6NLmc",
-    "rich_text_ndLhnV",
-    "logo_list_3bFadV",
-    "testimonials_wEgrmg",
+    "image_link_blocks_mMBjed",
     "17783169356b18380c",
-    "testimonials_bF4fWV",
     "image_with_text_overlay_rK9VMm",
     "featured_product_WTWXk8",
     "images_with_text_scrolling_A6n7wh",
