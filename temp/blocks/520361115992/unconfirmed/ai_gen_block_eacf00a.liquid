@@ -1,6 +1,1143 @@
+{% doc %}
+  @prompt
+    Create a premium testimonial section inspired by modern skincare brands, with a soft luxury aesthetic exactly like the reference image.
+    
+    SECTION LAYOUT:
+    
+    Large centered heading at the top
+    Small trust line above the heading with 5 gold stars and text: “Trusted by women of all ages”
+    Heading text large, elegant and serif font:
+    “Visible Changes Verified By Women Who Use It”
+    Small centered subtitle under heading:
+    “See what customers are noticing after using Glow Body Oil daily.”
+    
+    GRID:
+    
+    4 testimonial cards displayed in a responsive horizontal grid on desktop
+    On mobile: horizontal swipe carousel
+    Equal spacing between cards
+    Cards aligned perfectly
+    
+    EACH TESTIMONIAL CARD:
+    
+    Large rounded image at the top (portrait lifestyle image)
+    Light gray review card underneath attached visually to the image
+    Rounded corners everywhere
+    Soft luxury skincare aesthetic
+    
+    INSIDE REVIEW CARD:
+    
+    Review title in bold black text
+    Review text underneath
+    Customer name at bottom
+    Small verified customer line with gold verification icon
+    Optional 5 gold stars above review title
+    
+    STYLE:
+    
+    Background color: warm beige / cream (#F5EFE6 style)
+    Serif heading font similar to luxury cosmetic brands
+    Clean sans-serif for body text
+    Minimal premium skincare branding
+    Soft shadows
+    Rounded corners around cards
+    Spacious padding
+    Elegant feminine luxury look
+    
+    CUSTOMIZATION SETTINGS:
+    
+    Ability to add/edit:
+    customer image
+    review title
+    review text
+    customer name
+    star rating
+    verified badge toggle
+    Ability to change:
+    heading
+    subtitle
+    colors
+    number of columns
+    section spacing
+    
+    ANIMATIONS:
+    
+    Slight hover lift on desktop cards
+    Smooth fade-in animation when section enters viewport
+    
+    IMPORTANT:
+    
+    Make the section visually almost identical to the provided reference
+    Keep proportions and spacing very clean and balanced
+    Make it feel like a premium Shopify skincare brand
+    Optimized for both desktop and mobile
+    Use Shopify section schema with editable blocks for testimonials
+{% enddoc %}
+{% assign ai_gen_id = block.id | replace: '_', '' | downcase %}
+
+{% style %}
+  .ai-testimonials-{{ ai_gen_id }} {
+    display: block;
+    width: 100%;
+    background-color: {{ block.settings.background_color }};
+    padding: {{ block.settings.section_padding_top }}px 20px {{ block.settings.section_padding_bottom }}px;
+  }
+
+  .ai-testimonials-container-{{ ai_gen_id }} {
+    max-width: {{ block.settings.container_width }}px;
+    margin: 0 auto;
+  }
+
+  .ai-testimonials-header-{{ ai_gen_id }} {
+    text-align: center;
+    margin-bottom: {{ block.settings.header_spacing }}px;
+  }
+
+  .ai-testimonials-trust-line-{{ ai_gen_id }} {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 8px;
+    margin-bottom: 16px;
+  }
+
+  .ai-testimonials-stars-{{ ai_gen_id }} {
+    display: flex;
+    gap: 4px;
+  }
+
+  .ai-testimonials-star-{{ ai_gen_id }} {
+    width: 16px;
+    height: 16px;
+    fill: {{ block.settings.star_color }};
+  }
+
+  .ai-testimonials-trust-text-{{ ai_gen_id }} {
+    font-size: 14px;
+    color: {{ block.settings.text_color }};
+    font-weight: 400;
+    letter-spacing: 0.3px;
+  }
+
+  .ai-testimonials-heading-{{ ai_gen_id }} {
+    font-family: {{ block.settings.heading_font.family }}, {{ block.settings.heading_font.fallback_families }};
+    font-weight: {{ block.settings.heading_font.weight }};
+    font-style: {{ block.settings.heading_font.style }};
+    font-size: {{ block.settings.heading_size_mobile }}px;
+    line-height: 1.2;
+    color: {{ block.settings.heading_color }};
+    margin: 0 0 16px;
+    letter-spacing: -0.5px;
+  }
+
+  .ai-testimonials-subtitle-{{ ai_gen_id }} {
+    font-size: {{ block.settings.subtitle_size }}px;
+    color: {{ block.settings.text_color }};
+    margin: 0;
+    line-height: 1.5;
+    max-width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .ai-testimonials-grid-{{ ai_gen_id }} {
+    display: grid;
+    grid-template-columns: repeat({{ block.settings.columns_mobile }}, 1fr);
+    gap: {{ block.settings.card_gap_mobile }}px;
+    margin-top: {{ block.settings.grid_top_spacing }}px;
+    opacity: 0;
+    transform: translateY(30px);
+    transition: opacity 0.8s ease, transform 0.8s ease;
+  }
+
+  .ai-testimonials-grid-{{ ai_gen_id }}.ai-testimonials-visible-{{ ai_gen_id }} {
+    opacity: 1;
+    transform: translateY(0);
+  }
+
+  .ai-testimonials-card-{{ ai_gen_id }} {
+    display: flex;
+    flex-direction: column;
+    transition: transform 0.3s ease;
+  }
+
+  .ai-testimonials-image-wrapper-{{ ai_gen_id }} {
+    width: 100%;
+    border-radius: {{ block.settings.image_border_radius }}px;
+    overflow: hidden;
+    margin-bottom: -{{ block.settings.card_overlap }}px;
+    position: relative;
+    z-index: 1;
+  }
+
+  .ai-testimonials-image-{{ ai_gen_id }} {
+    width: 100%;
+    height: auto;
+    display: block;
+    aspect-ratio: {{ block.settings.image_aspect_ratio }};
+    object-fit: cover;
+  }
+
+  .ai-testimonials-image-placeholder-{{ ai_gen_id }} {
+    width: 100%;
+    aspect-ratio: {{ block.settings.image_aspect_ratio }};
+    background-color: #e8e8e8;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .ai-testimonials-image-placeholder-{{ ai_gen_id }} svg {
+    width: 60%;
+    height: 60%;
+    opacity: 0.3;
+  }
+
+  .ai-testimonials-review-card-{{ ai_gen_id }} {
+    background-color: {{ block.settings.card_background }};
+    border-radius: {{ block.settings.card_border_radius }}px;
+    padding: {{ block.settings.card_padding }}px;
+    box-shadow: 0 {{ block.settings.card_shadow_y }}px {{ block.settings.card_shadow_blur }}px rgba(0, 0, 0, {{ block.settings.card_shadow_opacity }});
+    position: relative;
+    z-index: 2;
+  }
+
+  .ai-testimonials-card-stars-{{ ai_gen_id }} {
+    display: flex;
+    gap: 3px;
+    margin-bottom: 12px;
+  }
+
+  .ai-testimonials-card-star-{{ ai_gen_id }} {
+    width: 14px;
+    height: 14px;
+    fill: {{ block.settings.star_color }};
+  }
+
+  .ai-testimonials-review-title-{{ ai_gen_id }} {
+    font-size: {{ block.settings.review_title_size }}px;
+    font-weight: 600;
+    color: {{ block.settings.heading_color }};
+    margin: 0 0 10px;
+    line-height: 1.3;
+  }
+
+  .ai-testimonials-review-text-{{ ai_gen_id }} {
+    font-size: {{ block.settings.review_text_size }}px;
+    color: {{ block.settings.text_color }};
+    line-height: 1.6;
+    margin: 0 0 16px;
+  }
+
+  .ai-testimonials-customer-name-{{ ai_gen_id }} {
+    font-size: {{ block.settings.customer_name_size }}px;
+    font-weight: 500;
+    color: {{ block.settings.heading_color }};
+    margin: 0 0 6px;
+  }
+
+  .ai-testimonials-verified-{{ ai_gen_id }} {
+    display: flex;
+    align-items: center;
+    gap: 6px;
+    font-size: 12px;
+    color: {{ block.settings.verified_text_color }};
+  }
+
+  .ai-testimonials-verified-icon-{{ ai_gen_id }} {
+    width: 14px;
+    height: 14px;
+    fill: {{ block.settings.verified_icon_color }};
+  }
+
+  @media screen and (min-width: 750px) {
+    .ai-testimonials-{{ ai_gen_id }} {
+      padding: {{ block.settings.section_padding_top }}px 40px {{ block.settings.section_padding_bottom }}px;
+    }
+
+    .ai-testimonials-heading-{{ ai_gen_id }} {
+      font-size: {{ block.settings.heading_size_desktop }}px;
+    }
+
+    .ai-testimonials-grid-{{ ai_gen_id }} {
+      grid-template-columns: repeat({{ block.settings.columns_desktop }}, 1fr);
+      gap: {{ block.settings.card_gap_desktop }}px;
+    }
+
+    .ai-testimonials-card-{{ ai_gen_id }}:hover {
+      transform: translateY(-8px);
+    }
+  }
+
+  @media screen and (max-width: 749px) {
+    .ai-testimonials-grid-{{ ai_gen_id }} {
+      overflow-x: auto;
+      scroll-snap-type: x mandatory;
+      -webkit-overflow-scrolling: touch;
+      scrollbar-width: none;
+      -ms-overflow-style: none;
+    }
+
+    .ai-testimonials-grid-{{ ai_gen_id }}::-webkit-scrollbar {
+      display: none;
+    }
+
+    .ai-testimonials-card-{{ ai_gen_id }} {
+      scroll-snap-align: start;
+      min-width: 280px;
+    }
+  }
+{% endstyle %}
+
+<testimonials-section-{{ ai_gen_id }} class="ai-testimonials-{{ ai_gen_id }}" {{ block.shopify_attributes }}>
+  <div class="ai-testimonials-container-{{ ai_gen_id }}">
+    <div class="ai-testimonials-header-{{ ai_gen_id }}">
+      {% if block.settings.show_trust_line %}
+        <div class="ai-testimonials-trust-line-{{ ai_gen_id }}">
+          <div class="ai-testimonials-stars-{{ ai_gen_id }}">
+            {% for i in (1..5) %}
+              <svg class="ai-testimonials-star-{{ ai_gen_id }}" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                <path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z"/>
+              </svg>
+            {% endfor %}
+          </div>
+          <span class="ai-testimonials-trust-text-{{ ai_gen_id }}">{{ block.settings.trust_line_text }}</span>
+        </div>
+      {% endif %}
+
+      {% if block.settings.heading != blank %}
+        <h2 class="ai-testimonials-heading-{{ ai_gen_id }}">{{ block.settings.heading }}</h2>
+      {% endif %}
+
+      {% if block.settings.subtitle != blank %}
+        <p class="ai-testimonials-subtitle-{{ ai_gen_id }}">{{ block.settings.subtitle }}</p>
+      {% endif %}
+    </div>
+
+    <div class="ai-testimonials-grid-{{ ai_gen_id }}" data-testimonials-grid>
+      {% if block.settings.testimonial_1_enabled %}
+        <div class="ai-testimonials-card-{{ ai_gen_id }}">
+          <div class="ai-testimonials-image-wrapper-{{ ai_gen_id }}">
+            {% if block.settings.testimonial_1_image %}
+              <img
+                src="{{ block.settings.testimonial_1_image | image_url: width: 600 }}"
+                alt="{{ block.settings.testimonial_1_name | escape }}"
+                class="ai-testimonials-image-{{ ai_gen_id }}"
+                loading="lazy"
+                width="600"
+                height="{{ 600 | divided_by: block.settings.image_aspect_ratio | round }}"
+              >
+            {% else %}
+              <div class="ai-testimonials-image-placeholder-{{ ai_gen_id }}">
+                {{ 'image' | placeholder_svg_tag }}
+              </div>
+            {% endif %}
+          </div>
+
+          <div class="ai-testimonials-review-card-{{ ai_gen_id }}">
+            {% if block.settings.testimonial_1_show_stars %}
+              <div class="ai-testimonials-card-stars-{{ ai_gen_id }}">
+                {% for i in (1..block.settings.testimonial_1_rating) %}
+                  <svg class="ai-testimonials-card-star-{{ ai_gen_id }}" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                    <path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z"/>
+                  </svg>
+                {% endfor %}
+              </div>
+            {% endif %}
+
+            {% if block.settings.testimonial_1_title != blank %}
+              <h3 class="ai-testimonials-review-title-{{ ai_gen_id }}">{{ block.settings.testimonial_1_title }}</h3>
+            {% endif %}
+
+            {% if block.settings.testimonial_1_text != blank %}
+              <p class="ai-testimonials-review-text-{{ ai_gen_id }}">{{ block.settings.testimonial_1_text }}</p>
+            {% endif %}
+
+            {% if block.settings.testimonial_1_name != blank %}
+              <div class="ai-testimonials-customer-name-{{ ai_gen_id }}">{{ block.settings.testimonial_1_name }}</div>
+            {% endif %}
+
+            {% if block.settings.testimonial_1_show_verified %}
+              <div class="ai-testimonials-verified-{{ ai_gen_id }}">
+                <svg class="ai-testimonials-verified-icon-{{ ai_gen_id }}" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                  <path d="M9 16.17L4.83 12l-1.42 1.41L9 19 21 7l-1.41-1.41L9 16.17z"/>
+                </svg>
+                <span>{{ block.settings.verified_text }}</span>
+              </div>
+            {% endif %}
+          </div>
+        </div>
+      {% endif %}
+
+      {% if block.settings.testimonial_2_enabled %}
+        <div class="ai-testimonials-card-{{ ai_gen_id }}">
+          <div class="ai-testimonials-image-wrapper-{{ ai_gen_id }}">
+            {% if block.settings.testimonial_2_image %}
+              <img
+                src="{{ block.settings.testimonial_2_image | image_url: width: 600 }}"
+                alt="{{ block.settings.testimonial_2_name | escape }}"
+                class="ai-testimonials-image-{{ ai_gen_id }}"
+                loading="lazy"
+                width="600"
+                height="{{ 600 | divided_by: block.settings.image_aspect_ratio | round }}"
+              >
+            {% else %}
+              <div class="ai-testimonials-image-placeholder-{{ ai_gen_id }}">
+                {{ 'image' | placeholder_svg_tag }}
+              </div>
+            {% endif %}
+          </div>
+
+          <div class="ai-testimonials-review-card-{{ ai_gen_id }}">
+            {% if block.settings.testimonial_2_show_stars %}
+              <div class="ai-testimonials-card-stars-{{ ai_gen_id }}">
+                {% for i in (1..block.settings.testimonial_2_rating) %}
+                  <svg class="ai-testimonials-card-star-{{ ai_gen_id }}" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                    <path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z"/>
+                  </svg>
+                {% endfor %}
+              </div>
+            {% endif %}
+
+            {% if block.settings.testimonial_2_title != blank %}
+              <h3 class="ai-testimonials-review-title-{{ ai_gen_id }}">{{ block.settings.testimonial_2_title }}</h3>
+            {% endif %}
+
+            {% if block.settings.testimonial_2_text != blank %}
+              <p class="ai-testimonials-review-text-{{ ai_gen_id }}">{{ block.settings.testimonial_2_text }}</p>
+            {% endif %}
+
+            {% if block.settings.testimonial_2_name != blank %}
+              <div class="ai-testimonials-customer-name-{{ ai_gen_id }}">{{ block.settings.testimonial_2_name }}</div>
+            {% endif %}
+
+            {% if block.settings.testimonial_2_show_verified %}
+              <div class="ai-testimonials-verified-{{ ai_gen_id }}">
+                <svg class="ai-testimonials-verified-icon-{{ ai_gen_id }}" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                  <path d="M9 16.17L4.83 12l-1.42 1.41L9 19 21 7l-1.41-1.41L9 16.17z"/>
+                </svg>
+                <span>{{ block.settings.verified_text }}</span>
+              </div>
+            {% endif %}
+          </div>
+        </div>
+      {% endif %}
+
+      {% if block.settings.testimonial_3_enabled %}
+        <div class="ai-testimonials-card-{{ ai_gen_id }}">
+          <div class="ai-testimonials-image-wrapper-{{ ai_gen_id }}">
+            {% if block.settings.testimonial_3_image %}
+              <img
+                src="{{ block.settings.testimonial_3_image | image_url: width: 600 }}"
+                alt="{{ block.settings.testimonial_3_name | escape }}"
+                class="ai-testimonials-image-{{ ai_gen_id }}"
+                loading="lazy"
+                width="600"
+                height="{{ 600 | divided_by: block.settings.image_aspect_ratio | round }}"
+              >
+            {% else %}
+              <div class="ai-testimonials-image-placeholder-{{ ai_gen_id }}">
+                {{ 'image' | placeholder_svg_tag }}
+              </div>
+            {% endif %}
+          </div>
+
+          <div class="ai-testimonials-review-card-{{ ai_gen_id }}">
+            {% if block.settings.testimonial_3_show_stars %}
+              <div class="ai-testimonials-card-stars-{{ ai_gen_id }}">
+                {% for i in (1..block.settings.testimonial_3_rating) %}
+                  <svg class="ai-testimonials-card-star-{{ ai_gen_id }}" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                    <path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z"/>
+                  </svg>
+                {% endfor %}
+              </div>
+            {% endif %}
+
+            {% if block.settings.testimonial_3_title != blank %}
+              <h3 class="ai-testimonials-review-title-{{ ai_gen_id }}">{{ block.settings.testimonial_3_title }}</h3>
+            {% endif %}
+
+            {% if block.settings.testimonial_3_text != blank %}
+              <p class="ai-testimonials-review-text-{{ ai_gen_id }}">{{ block.settings.testimonial_3_text }}</p>
+            {% endif %}
+
+            {% if block.settings.testimonial_3_name != blank %}
+              <div class="ai-testimonials-customer-name-{{ ai_gen_id }}">{{ block.settings.testimonial_3_name }}</div>
+            {% endif %}
+
+            {% if block.settings.testimonial_3_show_verified %}
+              <div class="ai-testimonials-verified-{{ ai_gen_id }}">
+                <svg class="ai-testimonials-verified-icon-{{ ai_gen_id }}" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                  <path d="M9 16.17L4.83 12l-1.42 1.41L9 19 21 7l-1.41-1.41L9 16.17z"/>
+                </svg>
+                <span>{{ block.settings.verified_text }}</span>
+              </div>
+            {% endif %}
+          </div>
+        </div>
+      {% endif %}
+
+      {% if block.settings.testimonial_4_enabled %}
+        <div class="ai-testimonials-card-{{ ai_gen_id }}">
+          <div class="ai-testimonials-image-wrapper-{{ ai_gen_id }}">
+            {% if block.settings.testimonial_4_image %}
+              <img
+                src="{{ block.settings.testimonial_4_image | image_url: width: 600 }}"
+                alt="{{ block.settings.testimonial_4_name | escape }}"
+                class="ai-testimonials-image-{{ ai_gen_id }}"
+                loading="lazy"
+                width="600"
+                height="{{ 600 | divided_by: block.settings.image_aspect_ratio | round }}"
+              >
+            {% else %}
+              <div class="ai-testimonials-image-placeholder-{{ ai_gen_id }}">
+                {{ 'image' | placeholder_svg_tag }}
+              </div>
+            {% endif %}
+          </div>
+
+          <div class="ai-testimonials-review-card-{{ ai_gen_id }}">
+            {% if block.settings.testimonial_4_show_stars %}
+              <div class="ai-testimonials-card-stars-{{ ai_gen_id }}">
+                {% for i in (1..block.settings.testimonial_4_rating) %}
+                  <svg class="ai-testimonials-card-star-{{ ai_gen_id }}" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                    <path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z"/>
+                  </svg>
+                {% endfor %}
+              </div>
+            {% endif %}
+
+            {% if block.settings.testimonial_4_title != blank %}
+              <h3 class="ai-testimonials-review-title-{{ ai_gen_id }}">{{ block.settings.testimonial_4_title }}</h3>
+            {% endif %}
+
+            {% if block.settings.testimonial_4_text != blank %}
+              <p class="ai-testimonials-review-text-{{ ai_gen_id }}">{{ block.settings.testimonial_4_text }}</p>
+            {% endif %}
+
+            {% if block.settings.testimonial_4_name != blank %}
+              <div class="ai-testimonials-customer-name-{{ ai_gen_id }}">{{ block.settings.testimonial_4_name }}</div>
+            {% endif %}
+
+            {% if block.settings.testimonial_4_show_verified %}
+              <div class="ai-testimonials-verified-{{ ai_gen_id }}">
+                <svg class="ai-testimonials-verified-icon-{{ ai_gen_id }}" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                  <path d="M9 16.17L4.83 12l-1.42 1.41L9 19 21 7l-1.41-1.41L9 16.17z"/>
+                </svg>
+                <span>{{ block.settings.verified_text }}</span>
+              </div>
+            {% endif %}
+          </div>
+        </div>
+      {% endif %}
+    </div>
+  </div>
+</testimonials-section-{{ ai_gen_id }}>
+
+<script>
+  (function() {
+    class TestimonialsSection{{ ai_gen_id }} extends HTMLElement {
+      constructor() {
+        super();
+        this.grid = this.querySelector('[data-testimonials-grid]');
+      }
+
+      connectedCallback() {
+        this.setupIntersectionObserver();
+      }
+
+      setupIntersectionObserver() {
+        const options = {
+          root: null,
+          rootMargin: '0px',
+          threshold: 0.1
+        };
+
+        const observer = new IntersectionObserver((entries) => {
+          entries.forEach(entry => {
+            if (entry.isIntersecting) {
+              this.grid.classList.add('ai-testimonials-visible-{{ ai_gen_id }}');
+              observer.unobserve(entry.target);
+            }
+          });
+        }, options);
+
+        observer.observe(this.grid);
+      }
+    }
+
+    customElements.define('testimonials-section-{{ ai_gen_id }}', TestimonialsSection{{ ai_gen_id }});
+  })();
+</script>
+
 {% schema %}
- {
-   "name": "AI_Block",
-   "tag": "shopify-ai-generated-block"
- }
+{
+  "name": "Premium testimonials",
+  "tag": null,
+  "class": "shopify-section-premium-testimonials",
+  "settings": [
+    {
+      "type": "header",
+      "content": "Section header"
+    },
+    {
+      "type": "checkbox",
+      "id": "show_trust_line",
+      "label": "Show trust line",
+      "default": true
+    },
+    {
+      "type": "text",
+      "id": "trust_line_text",
+      "label": "Trust line text",
+      "default": "Trusted by women of all ages"
+    },
+    {
+      "type": "inline_richtext",
+      "id": "heading",
+      "label": "Heading",
+      "default": "Visible Changes Verified By Women Who Use It"
+    },
+    {
+      "type": "text",
+      "id": "subtitle",
+      "label": "Subtitle",
+      "default": "See what customers are noticing after using Glow Body Oil daily."
+    },
+    {
+      "type": "font_picker",
+      "id": "heading_font",
+      "label": "Heading font",
+      "default": "serif"
+    },
+    {
+      "type": "range",
+      "id": "heading_size_mobile",
+      "label": "Heading size (mobile)",
+      "min": 24,
+      "max": 60,
+      "step": 2,
+      "unit": "px",
+      "default": 32
+    },
+    {
+      "type": "range",
+      "id": "heading_size_desktop",
+      "label": "Heading size (desktop)",
+      "min": 28,
+      "max": 80,
+      "step": 2,
+      "unit": "px",
+      "default": 48
+    },
+    {
+      "type": "range",
+      "id": "subtitle_size",
+      "label": "Subtitle size",
+      "min": 12,
+      "max": 24,
+      "step": 1,
+      "unit": "px",
+      "default": 16
+    },
+    {
+      "type": "header",
+      "content": "Layout"
+    },
+    {
+      "type": "range",
+      "id": "container_width",
+      "label": "Container width",
+      "min": 1000,
+      "max": 1600,
+      "step": 50,
+      "unit": "px",
+      "default": 1400
+    },
+    {
+      "type": "range",
+      "id": "columns_desktop",
+      "label": "Columns (desktop)",
+      "min": 2,
+      "max": 4,
+      "step": 1,
+      "default": 4
+    },
+    {
+      "type": "select",
+      "id": "columns_mobile",
+      "label": "Columns (mobile)",
+      "options": [
+        { "value": "1", "label": "1" },
+        { "value": "2", "label": "2" }
+      ],
+      "default": "1"
+    },
+    {
+      "type": "range",
+      "id": "card_gap_desktop",
+      "label": "Card gap (desktop)",
+      "min": 16,
+      "max": 60,
+      "step": 4,
+      "unit": "px",
+      "default": 24
+    },
+    {
+      "type": "range",
+      "id": "card_gap_mobile",
+      "label": "Card gap (mobile)",
+      "min": 12,
+      "max": 40,
+      "step": 4,
+      "unit": "px",
+      "default": 16
+    },
+    {
+      "type": "range",
+      "id": "desktop_width_percent",
+      "label": "Desktop width",
+      "min": 50,
+      "max": 100,
+      "step": 5,
+      "unit": "%",
+      "default": 100
+    },
+    {
+      "type": "header",
+      "content": "Spacing"
+    },
+    {
+      "type": "range",
+      "id": "section_padding_top",
+      "label": "Top padding",
+      "min": 0,
+      "max": 120,
+      "step": 8,
+      "unit": "px",
+      "default": 80
+    },
+    {
+      "type": "range",
+      "id": "section_padding_bottom",
+      "label": "Bottom padding",
+      "min": 0,
+      "max": 120,
+      "step": 8,
+      "unit": "px",
+      "default": 80
+    },
+    {
+      "type": "range",
+      "id": "header_spacing",
+      "label": "Header bottom spacing",
+      "min": 24,
+      "max": 80,
+      "step": 4,
+      "unit": "px",
+      "default": 48
+    },
+    {
+      "type": "range",
+      "id": "grid_top_spacing",
+      "label": "Grid top spacing",
+      "min": 0,
+      "max": 60,
+      "step": 4,
+      "unit": "px",
+      "default": 0
+    },
+    {
+      "type": "header",
+      "content": "Card style"
+    },
+    {
+      "type": "range",
+      "id": "image_border_radius",
+      "label": "Image border radius",
+      "min": 0,
+      "max": 40,
+      "step": 4,
+      "unit": "px",
+      "default": 20
+    },
+    {
+      "type": "range",
+      "id": "card_border_radius",
+      "label": "Card border radius",
+      "min": 0,
+      "max": 40,
+      "step": 4,
+      "unit": "px",
+      "default": 16
+    },
+    {
+      "type": "range",
+      "id": "card_padding",
+      "label": "Card padding",
+      "min": 16,
+      "max": 48,
+      "step": 4,
+      "unit": "px",
+      "default": 24
+    },
+    {
+      "type": "range",
+      "id": "card_overlap",
+      "label": "Image card overlap",
+      "min": 0,
+      "max": 40,
+      "step": 4,
+      "unit": "px",
+      "default": 20
+    },
+    {
+      "type": "select",
+      "id": "image_aspect_ratio",
+      "label": "Image aspect ratio",
+      "options": [
+        { "value": "0.75", "label": "Portrait (3:4)" },
+        { "value": "1", "label": "Square (1:1)" },
+        { "value": "1.33", "label": "Landscape (4:3)" }
+      ],
+      "default": "0.75"
+    },
+    {
+      "type": "range",
+      "id": "card_shadow_y",
+      "label": "Shadow vertical offset",
+      "min": 0,
+      "max": 30,
+      "step": 2,
+      "unit": "px",
+      "default": 8
+    },
+    {
+      "type": "range",
+      "id": "card_shadow_blur",
+      "label": "Shadow blur",
+      "min": 0,
+      "max": 40,
+      "step": 4,
+      "unit": "px",
+      "default": 20
+    },
+    {
+      "type": "range",
+      "id": "card_shadow_opacity",
+      "label": "Shadow opacity",
+      "min": 0,
+      "max": 0.5,
+      "step": 0.1,
+      "default": 0.1
+    },
+    {
+      "type": "header",
+      "content": "Typography"
+    },
+    {
+      "type": "range",
+      "id": "review_title_size",
+      "label": "Review title size",
+      "min": 14,
+      "max": 24,
+      "step": 1,
+      "unit": "px",
+      "default": 16
+    },
+    {
+      "type": "range",
+      "id": "review_text_size",
+      "label": "Review text size",
+      "min": 12,
+      "max": 18,
+      "step": 1,
+      "unit": "px",
+      "default": 14
+    },
+    {
+      "type": "range",
+      "id": "customer_name_size",
+      "label": "Customer name size",
+      "min": 12,
+      "max": 18,
+      "step": 1,
+      "unit": "px",
+      "default": 14
+    },
+    {
+      "type": "header",
+      "content": "Colors"
+    },
+    {
+      "type": "color",
+      "id": "background_color",
+      "label": "Background",
+      "default": "#F5EFE6"
+    },
+    {
+      "type": "color",
+      "id": "heading_color",
+      "label": "Heading",
+      "default": "#1a1a1a"
+    },
+    {
+      "type": "color",
+      "id": "text_color",
+      "label": "Text",
+      "default": "#666666"
+    },
+    {
+      "type": "color",
+      "id": "card_background",
+      "label": "Card background",
+      "default": "#f8f8f8"
+    },
+    {
+      "type": "color",
+      "id": "star_color",
+      "label": "Star",
+      "default": "#D4AF37"
+    },
+    {
+      "type": "color",
+      "id": "verified_icon_color",
+      "label": "Verified icon",
+      "default": "#D4AF37"
+    },
+    {
+      "type": "color",
+      "id": "verified_text_color",
+      "label": "Verified text",
+      "default": "#999999"
+    },
+    {
+      "type": "text",
+      "id": "verified_text",
+      "label": "Verified text",
+      "default": "Verified customer"
+    },
+    {
+      "type": "header",
+      "content": "Testimonial 1"
+    },
+    {
+      "type": "checkbox",
+      "id": "testimonial_1_enabled",
+      "label": "Enable testimonial 1",
+      "default": true
+    },
+    {
+      "type": "image_picker",
+      "id": "testimonial_1_image",
+      "label": "Image"
+    },
+    {
+      "type": "checkbox",
+      "id": "testimonial_1_show_stars",
+      "label": "Show stars",
+      "default": true
+    },
+    {
+      "type": "range",
+      "id": "testimonial_1_rating",
+      "label": "Star rating",
+      "min": 1,
+      "max": 5,
+      "step": 1,
+      "default": 5
+    },
+    {
+      "type": "text",
+      "id": "testimonial_1_title",
+      "label": "Review title",
+      "default": "Absolutely glowing skin"
+    },
+    {
+      "type": "textarea",
+      "id": "testimonial_1_text",
+      "label": "Review text",
+      "default": "My skin has never felt this soft and hydrated. I noticed visible changes within just two weeks of daily use."
+    },
+    {
+      "type": "text",
+      "id": "testimonial_1_name",
+      "label": "Customer name",
+      "default": "Sarah M."
+    },
+    {
+      "type": "checkbox",
+      "id": "testimonial_1_show_verified",
+      "label": "Show verified badge",
+      "default": true
+    },
+    {
+      "type": "header",
+      "content": "Testimonial 2"
+    },
+    {
+      "type": "checkbox",
+      "id": "testimonial_2_enabled",
+      "label": "Enable testimonial 2",
+      "default": true
+    },
+    {
+      "type": "image_picker",
+      "id": "testimonial_2_image",
+      "label": "Image"
+    },
+    {
+      "type": "checkbox",
+      "id": "testimonial_2_show_stars",
+      "label": "Show stars",
+      "default": true
+    },
+    {
+      "type": "range",
+      "id": "testimonial_2_rating",
+      "label": "Star rating",
+      "min": 1,
+      "max": 5,
+      "step": 1,
+      "default": 5
+    },
+    {
+      "type": "text",
+      "id": "testimonial_2_title",
+      "label": "Review title",
+      "default": "Best body oil I've tried"
+    },
+    {
+      "type": "textarea",
+      "id": "testimonial_2_text",
+      "label": "Review text",
+      "default": "The texture is luxurious and it absorbs quickly without feeling greasy. My skin looks radiant all day."
+    },
+    {
+      "type": "text",
+      "id": "testimonial_2_name",
+      "label": "Customer name",
+      "default": "Emma L."
+    },
+    {
+      "type": "checkbox",
+      "id": "testimonial_2_show_verified",
+      "label": "Show verified badge",
+      "default": true
+    },
+    {
+      "type": "header",
+      "content": "Testimonial 3"
+    },
+    {
+      "type": "checkbox",
+      "id": "testimonial_3_enabled",
+      "label": "Enable testimonial 3",
+      "default": true
+    },
+    {
+      "type": "image_picker",
+      "id": "testimonial_3_image",
+      "label": "Image"
+    },
+    {
+      "type": "checkbox",
+      "id": "testimonial_3_show_stars",
+      "label": "Show stars",
+      "default": true
+    },
+    {
+      "type": "range",
+      "id": "testimonial_3_rating",
+      "label": "Star rating",
+      "min": 1,
+      "max": 5,
+      "step": 1,
+      "default": 5
+    },
+    {
+      "type": "text",
+      "id": "testimonial_3_title",
+      "label": "Review title",
+      "default": "Worth every penny"
+    },
+    {
+      "type": "textarea",
+      "id": "testimonial_3_text",
+      "label": "Review text",
+      "default": "I was skeptical at first, but this oil has transformed my dry skin. The glow is real and long-lasting."
+    },
+    {
+      "type": "text",
+      "id": "testimonial_3_name",
+      "label": "Customer name",
+      "default": "Jessica K."
+    },
+    {
+      "type": "checkbox",
+      "id": "testimonial_3_show_verified",
+      "label": "Show verified badge",
+      "default": true
+    },
+    {
+      "type": "header",
+      "content": "Testimonial 4"
+    },
+    {
+      "type": "checkbox",
+      "id": "testimonial_4_enabled",
+      "label": "Enable testimonial 4",
+      "default": true
+    },
+    {
+      "type": "image_picker",
+      "id": "testimonial_4_image",
+      "label": "Image"
+    },
+    {
+      "type": "checkbox",
+      "id": "testimonial_4_show_stars",
+      "label": "Show stars",
+      "default": true
+    },
+    {
+      "type": "range",
+      "id": "testimonial_4_rating",
+      "label": "Star rating",
+      "min": 1,
+      "max": 5,
+      "step": 1,
+      "default": 5
+    },
+    {
+      "type": "text",
+      "id": "testimonial_4_title",
+      "label": "Review title",
+      "default": "My skin feels amazing"
+    },
+    {
+      "type": "textarea",
+      "id": "testimonial_4_text",
+      "label": "Review text",
+      "default": "After just one month, my skin texture has improved dramatically. It feels smoother and looks healthier."
+    },
+    {
+      "type": "text",
+      "id": "testimonial_4_name",
+      "label": "Customer name",
+      "default": "Rachel T."
+    },
+    {
+      "type": "checkbox",
+      "id": "testimonial_4_show_verified",
+      "label": "Show verified badge",
+      "default": true
+    }
+  ],
+  "presets": [
+    {
+      "name": "Premium testimonials"
+    }
+  ]
+}
 {% endschema %}
