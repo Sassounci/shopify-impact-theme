@@ -78,7 +78,8 @@
         "show_country_selector": true,
         "show_country_flag": true,
         "show_country_name": false,
-        "transparent_header_text_color": "#ffffff",
+        "transparent_header_text_color": "rgba(0,0,0,0)",
+        "transparent_logo": "shopify://shop_images/LOGO_3.png",
         "reduce_padding": true,
         "background_opacity": 0,
         "background_blur_radius": 0
