@@ -127,77 +127,6 @@
         "background_gradient": ""
       }
     },
-    "rich_text_7PEb6A": {
-      "type": "rich-text",
-      "blocks": {
-        "subheading_eUpWLD": {
-          "type": "subheading",
-          "settings": {
-            "text": "Subheading"
-          }
-        },
-        "heading_VtQFi9": {
-          "type": "heading",
-          "settings": {
-            "text": "Heading",
-            "heading_tag": "h1",
-            "text_color": "",
-            "gradient": ""
-          }
-        },
-        "richtext_qERGpV": {
-          "type": "richtext",
-          "settings": {
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
-          }
-        }
-      },
-      "block_order": [
-        "subheading_eUpWLD",
-        "heading_VtQFi9",
-        "richtext_qERGpV"
-      ],
-      "name": "Rich text",
-      "settings": {
-        "full_width": true,
-        "content_width": "small",
-        "text_position": "center",
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
-      }
-    },
-    "video_tMYLNf": {
-      "type": "video",
-      "blocks": {
-        "play_9irK6C": {
-          "type": "play",
-          "settings": {}
-        },
-        "heading_zcWiAa": {
-          "type": "heading",
-          "settings": {
-            "text": "Video",
-            "heading_tag": "h1"
-          }
-        }
-      },
-      "block_order": [
-        "play_9irK6C",
-        "heading_zcWiAa"
-      ],
-      "name": "Video",
-      "settings": {
-        "full_width": true,
-        "allow_transparent_header": false,
-        "autoplay": false,
-        "video_size": "auto",
-        "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
-        "text_color": "#ffffff",
-        "overlay_color": "#000000",
-        "overlay_opacity": 30
-      }
-    },
     "rich_text_ndLhnV": {
       "type": "rich-text",
       "blocks": {
@@ -300,6 +229,147 @@
         "logo_item_background": "",
         "logo_item_border": ""
       }
+    },
+    "testimonials_wEgrmg": {
+      "type": "testimonials",
+      "blocks": {
+        "testimonial_yByzWk": {
+          "type": "testimonial",
+          "settings": {
+            "image": "shopify://shop_images/feedback-img-4.png",
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 4,
+            "author": "John S.",
+            "title": "Testimonial 1",
+            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.</p>"
+          }
+        },
+        "testimonial_LDiyLT": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 5,
+            "author": "Mary U.",
+            "title": "Testimonial 2",
+            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.</p>"
+          }
+        },
+        "testimonial_c9LFm8": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 4,
+            "author": "Joshua A.",
+            "title": "Testimonial 3",
+            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "testimonial_yByzWk",
+        "testimonial_LDiyLT",
+        "testimonial_c9LFm8"
+      ],
+      "name": "Testimonials",
+      "settings": {
+        "full_width": true,
+        "stack_testimonials": true,
+        "subheading": "",
+        "title": "Testimonials",
+        "content": "",
+        "link_url": "",
+        "link_text": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "testimonial_card_background": "",
+        "testimonial_card_text_color": ""
+      }
+    },
+    "17783169356b18380c": {
+      "type": "_blocks",
+      "blocks": {
+        "ai_gen_block_eacf00a_aQQ4wA": {
+          "type": "ai_gen_block_eacf00a",
+          "settings": {
+            "show_trust_line": true,
+            "trust_line_text": "",
+            "heading": "Elles en parlent le mieux",
+            "subtitle": "",
+            "heading_font": "poppins_n7",
+            "heading_size_mobile": 24,
+            "heading_size_desktop": 32,
+            "subtitle_size": 16,
+            "container_width": 1400,
+            "columns_desktop": 4,
+            "columns_mobile": "1",
+            "card_gap_desktop": 24,
+            "card_gap_mobile": 16,
+            "desktop_width_percent": 100,
+            "section_padding_top": 80,
+            "section_padding_bottom": 80,
+            "header_spacing": 48,
+            "grid_top_spacing": 0,
+            "image_border_radius": 20,
+            "card_border_radius": 16,
+            "card_padding": 24,
+            "card_overlap": 20,
+            "image_aspect_ratio": "0.75",
+            "card_shadow_y": 8,
+            "card_shadow_blur": 20,
+            "card_shadow_opacity": 0.1,
+            "review_title_size": 16,
+            "review_text_size": 14,
+            "customer_name_size": 14,
+            "background_color": "#F5EFE6",
+            "heading_color": "#1a1a1a",
+            "text_color": "#666666",
+            "card_background": "#f8f8f8",
+            "star_color": "#00b67a",
+            "verified_icon_color": "#D4AF37",
+            "verified_text_color": "#999999",
+            "verified_text": "Verified customer",
+            "testimonial_1_enabled": true,
+            "testimonial_1_show_stars": true,
+            "testimonial_1_rating": 5,
+            "testimonial_1_title": "Absolutely glowing skin",
+            "testimonial_1_text": "My skin has never felt this soft and hydrated. I noticed visible changes within just two weeks of daily use.",
+            "testimonial_1_name": "Sarah M.",
+            "testimonial_1_show_verified": true,
+            "testimonial_2_enabled": true,
+            "testimonial_2_show_stars": true,
+            "testimonial_2_rating": 5,
+            "testimonial_2_title": "Best body oil I've tried",
+            "testimonial_2_text": "The texture is luxurious and it absorbs quickly without feeling greasy. My skin looks radiant all day.",
+            "testimonial_2_name": "Emma L.",
+            "testimonial_2_show_verified": true,
+            "testimonial_3_enabled": true,
+            "testimonial_3_show_stars": true,
+            "testimonial_3_rating": 5,
+            "testimonial_3_title": "Worth every penny",
+            "testimonial_3_text": "I was skeptical at first, but this oil has transformed my dry skin. The glow is real and long-lasting.",
+            "testimonial_3_name": "Jessica K.",
+            "testimonial_3_show_verified": true,
+            "testimonial_4_enabled": true,
+            "testimonial_4_show_stars": true,
+            "testimonial_4_rating": 5,
+            "testimonial_4_title": "My skin feels amazing",
+            "testimonial_4_text": "After just one month, my skin texture has improved dramatically. It feels smoother and looks healthier.",
+            "testimonial_4_name": "Rachel T.",
+            "testimonial_4_show_verified": true
+          },
+          "blocks": {}
+        }
+      },
+      "block_order": [
+        "ai_gen_block_eacf00a_aQQ4wA"
+      ],
+      "settings": {}
     },
     "testimonials_bF4fWV": {
       "type": "testimonials",
@@ -622,10 +692,10 @@
     "image_with_text_overlay_BBEDmF",
     "logo_list_UErnmU",
     "slideshow_M6NLmc",
-    "rich_text_7PEb6A",
-    "video_tMYLNf",
     "rich_text_ndLhnV",
     "logo_list_3bFadV",
+    "testimonials_wEgrmg",
+    "17783169356b18380c",
     "testimonials_bF4fWV",
     "image_with_text_overlay_rK9VMm",
     "featured_product_WTWXk8",
