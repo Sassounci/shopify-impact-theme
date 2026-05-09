@@ -11,14 +11,14 @@
   "sections": {
     "gp_section_618711352059364145": {
       "settings": {
-        "checksum": "23224a0715dec753021599ee2bce8a45d41926dfb620f55278ee1ad363c2ce0e_1_1_1_0__1",
+        "checksum": "da724e7e0929343779938418cdce8ab2604073bbf082c27af26bf16c87e2c96b_1_1_1_0__1",
         "gg7AQZar5RG_srcSet_desktop_src": "https://cdn.shopify.com/s/files/1/2005/9307/files/gempages_432750572815254551-7db7d4c1-a4eb-4d04-afd4-23a978d3b6fe.svg",
         "ggBiGrk6-3u_srcSet_desktop_src": "https://cdn.shopify.com/s/files/1/2005/9307/files/gempages_432750572815254551-2cbeeed6-194d-4cc9-b8f0-0be8b4f7b274.svg",
         "ggUxDIRNfIJ_srcSet_desktop_src": "https://cdn.shopify.com/s/files/1/2005/9307/files/gempages_432750572815254551-4e3559be-fbfe-4d35-86c8-eef45ac852d3.svg",
         "gghFppBdWgx_srcSet_desktop_src": "https://cdn.shopify.com/s/files/1/2005/9307/files/gempages_432750572815254551-450f2634-a245-4be0-b322-741cd7897b06.svg",
         "ggiO6BRPlyM_srcSet_desktop_src": "https://cdn.shopify.com/s/files/1/2005/9307/files/gempages_432750572815254551-a62c7382-44b5-4b8a-b2af-4bef057d11ea.svg",
         "ggjhUKLK_Dy_srcSet_desktop_src": "https://cdn.shopify.com/s/files/1/2005/9307/files/gempages_432750572815254551-86492abc-13d3-4402-980f-6b51aa8820c4.svg",
-        "ggsnW1wj5qa_text": "As Featured In"
+        "ggsnW1wj5qa_text": "Vu sur :"
       },
       "type": "gp-section-618711352059364145"
     },
@@ -71,21 +71,6 @@
       },
       "type": "gp-section-618711352478794545"
     },
-    "gp_section_618711352613012181": {
-      "settings": {
-        "checksum": "53ea44387e0bfbd659943b1fa99d7c2268263d9caebfbaaca25ca38600d9fa0d_1_1_1_0__1",
-        "gg0PCR3cA_E_text": "Discover Our Bestsellers",
-        "ggO3XU34QMP_errorMessage": "Cannot add product to cart",
-        "ggO3XU34QMP_label": "Add to cart",
-        "ggO3XU34QMP_outOfStockLabel": "Out of stock",
-        "ggO3XU34QMP_successMessage": "Add product to cart successfully",
-        "ggO3XU34QMP_unavailableLabel": "Unavailable",
-        "ggO3XU34QMP_variantSelectionRequiredMessage": "Please select a variant to add product to cart",
-        "ggWEpooep9s_text": "<p>20ml</p>",
-        "ggoXJxnL__l_text": "<p>Curated For You</p>"
-      },
-      "type": "gp-section-618711352613012181"
-    },
     "gp_section_618711352613012315": {
       "settings": {
         "checksum": "ca4bc20fca4b939401abfa58c1a7f779e3aa0aa3ae4ee0b5813ceec04785d8c4_1_1_1_0__1",
@@ -133,7 +118,7 @@
     },
     "gp_section_618711352663343921": {
       "settings": {
-        "checksum": "a15edb8dedcdb65f4b3f49683496229d643d96f96e0a207bd7d54413ef803e7e_1_1_1_0__1",
+        "checksum": "eeae4176c2006ad06fd36c0703bae199c1c2168d4da19554c703ad38c436b2d4_1_1_1_0__1",
         "gg79IXxZZWE_text": "<p>Shields from Damage</p>",
         "gg9_5_PmoSn_text": "<p>Refines and tightens pores, giving skin a smoother and more polished look.</p>",
         "ggBQ5VIIei2_text": "<p>&nbsp; &nbsp;Skin Relief &nbsp;&nbsp;</p>",
@@ -143,9 +128,8 @@
         "ggVPZQdxsS-_text": "<p>Fades Dark Spots</p>",
         "ggYvPLu0WAP_text": "<p>Gently calms redness, reduces sensitivity, and restores skin’s natural comfort balance.</p>",
         "ggbCcf5-Fay_text": "<p>Soothes Irritation</p>",
-        "ggbMOHABMOB_text": "<p>Skin Benefits</p>",
         "ggcdfIG-aCh_text": "<p>&nbsp; &nbsp;Daily Defense &nbsp;&nbsp;</p>",
-        "gggyOH7Y-G9_text": "Unlock Your Skin’s True Potential",
+        "gggyOH7Y-G9_text": "Pourquoi choisir SORA ?",
         "ggk-wc84shK_text": "<p>&nbsp; &nbsp;Radiant Skin &nbsp;&nbsp;</p>",
         "ggtDBz5v9P0_text": "<p>Minimizes Pores</p>",
         "ggzDXrN23Of_text": "<p>Creates a protective barrier against pollution, UV exposure, and environmental stress.</p>"
@@ -168,42 +152,6 @@
         "ggyposqmrDl_text": "<p>\"I’ve tried many products, but this one truly stands out. My skin looks healthier, radiant, and nourished.\"</p>"
       },
       "type": "gp-section-618711352780784341"
-    },
-    "gp_section_618711352881447771": {
-      "settings": {
-        "checksum": "a192fd2fe6dcb948e610e5378c83df9062bb490d397648c2f799bdc6ac84ca38_1_1_1_0__1",
-        "gg0ca6xC4Pt_background_desktop_image_src": "https://cdn.shopify.com/s/files/1/2005/9307/files/Gemskincare4.png",
-        "gg0oGYgy_bK_text": "ClarityGem Blemish Elixir",
-        "gg0yiMl4zey_background_desktop_image_src": "https://cdn.shopify.com/s/files/1/2005/9307/files/Gemskincare3.png",
-        "gg4UccxrgJg_text": "<p>Intense moisture boost</p>",
-        "gg5R-ZWTt5a_text": "Discover Your Perfect Elixir",
-        "gg6NMZaUubr_text": "<p><a href=\"https://seal-commerce-asia.myshopify.com/a/gempages?version=v7&amp;shop_id=432750572815254551&amp;theme_page_id=583068063469929112&amp;page_type=GP_PRODUCT\"><u>Get It Now -&gt;&nbsp;</u></a></p>",
-        "gg7IuPR0yJq_text": "<p>Locks in moisture</p>",
-        "ggAQdGWyOsj_text": "<p>Calms redness</p>",
-        "ggAsImgGEsl_text": "CalmGem Barrier Repair Elixir",
-        "ggB5oaWEYSO_text": "<p>Shields from stressors</p>",
-        "ggBKwbJYfh0_text": "<p><a href=\"https://seal-commerce-asia.myshopify.com/a/gempages?version=v7&amp;shop_id=432750572815254551&amp;theme_page_id=583068063469929112&amp;page_type=GP_PRODUCT\"><u>Get It Now -&gt;&nbsp;</u></a></p>",
-        "ggC9dtQMowv_text": "<p>Stronger barrier</p>",
-        "ggDcEo3WrJg_text": "<p><a href=\"https://seal-commerce-asia.myshopify.com/a/gempages?version=v7&amp;shop_id=432750572815254551&amp;theme_page_id=583068063469929112&amp;page_type=GP_PRODUCT\"><u>Get It Now -&gt;&nbsp;</u></a></p>",
-        "ggDmkhAJGzu_text": "<p>Restores softness</p>",
-        "ggJEuU1AHc6_text": "<p><a href=\"https://seal-commerce-asia.myshopify.com/a/gempages?version=v7&amp;shop_id=432750572815254551&amp;theme_page_id=583068063469929112&amp;page_type=GP_PRODUCT\"><u>Get It Now -&gt;&nbsp;</u></a></p>",
-        "ggJHffuJ1pK_text": "<p>Soothes irritation</p>",
-        "ggL7owoY2sa_text": "<p>Plumps dull skin</p>",
-        "ggNztXDX8vU_text": "HydroGem Deep Hydration Elixir",
-        "ggOZc9wVpaR_text": "<p>Reduces fine lines</p>",
-        "ggQjPWTgFXY_text": "<p>Refines skin texture</p>",
-        "ggR7MQ3OQmu_background_desktop_image_src": "https://cdn.shopify.com/s/files/1/2005/9307/files/Gemskincare1.png",
-        "ggeEgSAt7pi_background_desktop_image_src": "https://cdn.shopify.com/s/files/1/2005/9307/files/Gemskincare2.png",
-        "gggNS8J_6lY_text": "<p>Boosts natural radiance</p>",
-        "gghlkrWJ9qL_text": "<p>Clears blemishes</p>",
-        "ggi64ERLXME_text": "<p>Multi-layer hydration</p>",
-        "ggkVRgZXjbP_text": "<p>Targeted Skin Solutions</p>",
-        "ggkp3lk9Pvr_text": "<p>Protects against aging</p>",
-        "ggpnWk7GccH_text": "AuraGem Youth Elixir",
-        "ggtavxePAvQ_text": "<p>Controls excess oil</p>",
-        "ggwl_KEtPhe_text": "<p>Evens skin tone</p>"
-      },
-      "type": "gp-section-618711352881447771"
     },
     "gp_section_618711353166660309": {
       "settings": {
@@ -255,8 +203,6 @@
   "order": [
     "gp_section_618711574693020507",
     "gp_section_618711352059364145",
-    "gp_section_618711352613012181",
-    "gp_section_618711352881447771",
     "gp_section_618711352663343921",
     "gp_section_618711352361354075",
     "gp_section_618711353166660309",
