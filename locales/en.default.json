@@ -352,7 +352,7 @@
       "code": "Gift card code",
       "expires_on": "Expires on: {{ expires_on }}",
       "expired": "Your gift card has expired or has been disabled.",
-      "add_to_apple_wallet": "Add to Apple Wallet"
+      "add_to_apple_wallet": "Ajouter à Apple pay"
     },
     "recipient": {
       "checkbox": "I want to send this as a gift",
