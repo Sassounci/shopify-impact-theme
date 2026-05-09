@@ -421,6 +421,7 @@
         "slide_P3yNcj",
         "slide_Lfz4UQ"
       ],
+      "disabled": true,
       "name": "Timeline",
       "settings": {
         "full_width": true,
@@ -450,6 +451,83 @@
         "button_background": "",
         "button_text_color": ""
       }
+    },
+    "multi_column_N4WrHf": {
+      "type": "multi-column",
+      "blocks": {
+        "item_6Wbe8J": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/target-icon-1.svg",
+            "column_size": "3",
+            "title": "CUISSES",
+            "heading_tag": "h4",
+            "content": "<p>✓ Améliore la texture et la fermeté de la peau</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_4KLrdR": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/target-icon-2.svg",
+            "column_size": "3",
+            "title": "BRAS",
+            "heading_tag": "h4",
+            "content": "<p>✓ Réduit l’apparence du relâchement cutané</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_WzVDzT": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/target-icon-3.svg",
+            "column_size": "3",
+            "title": "POITRINE",
+            "heading_tag": "h4",
+            "content": "<p>✓ Aide à améliorer l’apparence de l’élasticité</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_peHip8": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/target-icon-4.svg",
+            "column_size": "3",
+            "title": "VENTRE",
+            "heading_tag": "h4",
+            "content": "<p>✓ Favorise une peau plus lisse et plus ferme</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        }
+      },
+      "block_order": [
+        "item_6Wbe8J",
+        "item_4KLrdR",
+        "item_WzVDzT",
+        "item_peHip8"
+      ],
+      "disabled": true,
+      "name": "Multi-column",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": true,
+        "gap": "medium",
+        "text_alignment": "center",
+        "subheading": "",
+        "title": "Ciblez le relâchement là où il se voit le plus",
+        "content": "<p>Raffermissez, lissez et hydratez intensément les zones qui perdent leur élasticité en premier.</p>",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
     }
   },
   "order": [
@@ -461,6 +539,7 @@
     "multi_column_iLKHeP",
     "featured_product_Czdpti",
     "timeline_k7CBPt",
-    "contact_HdJcJM"
+    "contact_HdJcJM",
+    "multi_column_N4WrHf"
   ]
 }
