@@ -11,7 +11,7 @@
   "sections": {
     "gp_section_618711352059364145": {
       "settings": {
-        "checksum": "da724e7e0929343779938418cdce8ab2604073bbf082c27af26bf16c87e2c96b_1_1_1_0__1",
+        "checksum": "ec5b1d7e8f85b97b590fc9d7a5f0cbacf0f84cb6f7aa336275d9e65141016496_1_1_1_0__1",
         "gg7AQZar5RG_srcSet_desktop_src": "https://cdn.shopify.com/s/files/1/2005/9307/files/gempages_432750572815254551-7db7d4c1-a4eb-4d04-afd4-23a978d3b6fe.svg",
         "ggBiGrk6-3u_srcSet_desktop_src": "https://cdn.shopify.com/s/files/1/2005/9307/files/gempages_432750572815254551-2cbeeed6-194d-4cc9-b8f0-0be8b4f7b274.svg",
         "ggUxDIRNfIJ_srcSet_desktop_src": "https://cdn.shopify.com/s/files/1/2005/9307/files/gempages_432750572815254551-4e3559be-fbfe-4d35-86c8-eef45ac852d3.svg",
@@ -21,26 +21,6 @@
         "ggsnW1wj5qa_text": "Vu sur :"
       },
       "type": "gp-section-618711352059364145"
-    },
-    "gp_section_618711352361354075": {
-      "settings": {
-        "checksum": "876dd2250eda1480e0f525836cec6bd7ff0b6d9a77d5114a981f1fca1ef93c89_1_1_1_0__1",
-        "gg_fIbsoBDt_text": "Our Commitment to Your Skin",
-        "ggaS4h-cmOi_altLeft": "Describes the appearance of the image",
-        "ggaS4h-cmOi_altRight": "Describes the appearance of the image",
-        "ggaS4h-cmOi_imageLeft_src": "https://cdn.shopify.com/s/files/1/2005/9307/files/gempages_432750572815254551-71758ff5-3451-4a4a-ba6c-148e80890f30.png",
-        "ggaS4h-cmOi_imageRight_src": "https://cdn.shopify.com/s/files/1/2005/9307/files/gempages_432750572815254551-010a210d-bd48-4eea-b950-b732bcea25f9.png",
-        "ggaS4h-cmOi_leftImageLabel": "Before",
-        "ggaS4h-cmOi_rightImageLabel": "After",
-        "ggaS4h-cmOi_titleLeft": "Title",
-        "ggaS4h-cmOi_titleRight": "Title",
-        "ggqNYa7dnvW_text": "<p>Skin Promise</p>",
-        "ggqVkNAc6a0_text": "<p>We promise safe, effective, and honest skincare you can truly trust every day.</p>",
-        "ggvlxB47m8b_childItem_0": "<p>Dermatologically tested &amp; safe for all skin types</p>",
-        "ggvlxB47m8b_childItem_1": "<p>Free from parabens, sulfates, and harsh chemicals</p>",
-        "ggvlxB47m8b_childItem_2": "<p>Ethically made with premium, cruelty-free ingredients</p>"
-      },
-      "type": "gp-section-618711352361354075"
     },
     "gp_section_618711352378131029": {
       "settings": {
@@ -118,7 +98,7 @@
     },
     "gp_section_618711352663343921": {
       "settings": {
-        "checksum": "61007abc91446cf573935d3f0f3779baa8215ec126417b93c26fbd56dba4cbc8_1_1_1_0__1",
+        "checksum": "43e02d22b6fc3d49c04594975feb073fae212999f94bc3c2bfaf6a24189bc461_1_1_1_0__1",
         "ggastYD0rl0_srcSet_desktop_src": "https://cdn.shopify.com/s/files/1/0988/0413/8328/files/Section_Benefice.png?v=1777973999",
         "gggyOH7Y-G9_text": "Pourquoi choisir SORA ?"
       },
@@ -192,7 +172,6 @@
     "gp_section_618711574693020507",
     "gp_section_618711352059364145",
     "gp_section_618711352663343921",
-    "gp_section_618711352361354075",
     "gp_section_618711353166660309",
     "gp_section_618711352613012315",
     "gp_section_618711352629789489",
