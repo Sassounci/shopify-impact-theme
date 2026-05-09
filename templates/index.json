@@ -404,31 +404,70 @@
         "input_text_color": ""
       }
     },
+    "rich_text_dRpCHe": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_cQG7a9": {
+          "type": "heading",
+          "settings": {
+            "text": "Votre rituel simple en 3 étapes",
+            "heading_tag": "h4",
+            "text_color": "",
+            "gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_cQG7a9"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "images_with_text_scrolling_A6n7wh": {
       "type": "images-with-text-scrolling",
       "blocks": {
         "item_QEhzcK": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/Design_sans_titre_5.png",
             "icon": "none",
             "icon_width": 48,
-            "title": "Heading 1",
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
+            "title": "Appliquer",
+            "content": "<p>Appliquez sur une peau propre et sèche.</p>"
           }
         },
         "item_reyjDC": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/product-img-2.png",
             "icon": "none",
             "icon_width": 48,
-            "title": "Heading 2",
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
+            "title": "Lisser",
+            "content": "<p>Massez délicatement jusqu’à absorption complète.</p>"
+          }
+        },
+        "item_aNCzcG": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Design_sans_titre_6.png",
+            "icon": "none",
+            "icon_width": 48,
+            "title": "Rayonner",
+            "content": "<p>Utilisez quotidiennement ou dès que votre peau a besoin d’éclat.</p>"
           }
         }
       },
       "block_order": [
         "item_QEhzcK",
-        "item_reyjDC"
+        "item_reyjDC",
+        "item_aNCzcG"
       ],
       "name": "Images and text scrolling",
       "settings": {
@@ -527,6 +566,7 @@
     "rich_text_FFKPHY",
     "slideshow_wEGCiB",
     "featured_product_WTWXk8",
+    "rich_text_dRpCHe",
     "images_with_text_scrolling_A6n7wh",
     "faq_J9hEAg",
     "contact_WrCYkM"
