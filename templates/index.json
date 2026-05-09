@@ -11,43 +11,19 @@
   "sections": {
     "image_with_text_overlay_BBEDmF": {
       "type": "image-with-text-overlay",
-      "blocks": {
-        "subheading_d6WkgU": {
-          "type": "subheading",
-          "settings": {
-            "text": "Subheading"
-          }
-        },
-        "heading_b8YMXn": {
-          "type": "heading",
-          "settings": {
-            "text": "Image with text overlay",
-            "heading_tag": "h1"
-          }
-        },
-        "richtext_j4W9KW": {
-          "type": "richtext",
-          "settings": {
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
-          }
-        }
-      },
-      "block_order": [
-        "subheading_d6WkgU",
-        "heading_b8YMXn",
-        "richtext_j4W9KW"
-      ],
       "name": "Image with text overlay",
       "settings": {
         "full_width": true,
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
+        "image": "shopify://shop_images/Template_Shop_1.png",
+        "mobile_image": "shopify://shop_images/Le_serum_qui_repare_vos_cils_detruits_6.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
         "overlay_color": "#000000",
-        "overlay_opacity": 30
+        "overlay_opacity": 0
       }
     },
     "logo_list_UErnmU": {
