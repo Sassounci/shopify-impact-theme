@@ -17,7 +17,7 @@
   "apps": {
     "shopify_reviews": {
       "review_info": "This product is rated {{ rating_value }} of {{ rating_max }} stars.",
-      "leave_review": "Leave a review",
+      "leave_review": "Laisser un avis",
       "review_count": {
         "zero": "This product has no reviews yet.",
         "one": "It has received {{ count }} review.",
@@ -28,9 +28,9 @@
   "blog": {
     "general": {
       "empty_blog": "This blog is empty",
-      "back_to_home": "Back to home",
-      "view": "View",
-      "all_posts": "All posts"
+      "back_to_home": "Retour à la page d'accueil",
+      "view": "Voir",
+      "all_posts": "tous les posts"
     },
     "post": {
       "written_by": "By {{ author }}",
