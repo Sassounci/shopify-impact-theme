@@ -9,84 +9,675 @@
  */
 {
   "sections": {
-    "multi_column_N4WrHf": {
-      "type": "multi-column",
+    "image_with_text_overlay_BBEDmF": {
+      "type": "image-with-text-overlay",
       "blocks": {
-        "item_6Wbe8J": {
-          "type": "item",
+        "subheading_d6WkgU": {
+          "type": "subheading",
           "settings": {
-            "image": "shopify://shop_images/target-icon-1.svg",
-            "column_size": "3",
-            "title": "CUISSES",
-            "heading_tag": "h4",
-            "content": "<p>✓ Améliore la texture et la fermeté de la peau</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
+            "text": "Subheading"
           }
         },
-        "item_4KLrdR": {
-          "type": "item",
+        "heading_b8YMXn": {
+          "type": "heading",
           "settings": {
-            "image": "shopify://shop_images/target-icon-2.svg",
-            "column_size": "3",
-            "title": "BRAS",
-            "heading_tag": "h4",
-            "content": "<p>✓ Réduit l’apparence du relâchement cutané</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
+            "text": "Image with text overlay",
+            "heading_tag": "h1"
           }
         },
-        "item_WzVDzT": {
-          "type": "item",
+        "richtext_j4W9KW": {
+          "type": "richtext",
           "settings": {
-            "image": "shopify://shop_images/target-icon-3.svg",
-            "column_size": "3",
-            "title": "POITRINE",
-            "heading_tag": "h4",
-            "content": "<p>✓ Aide à améliorer l’apparence de l’élasticité</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_peHip8": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/target-icon-4.svg",
-            "column_size": "3",
-            "title": "VENTRE",
-            "heading_tag": "h4",
-            "content": "<p>✓ Favorise une peau plus lisse et plus ferme</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
+            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
           }
         }
       },
       "block_order": [
-        "item_6Wbe8J",
-        "item_4KLrdR",
-        "item_WzVDzT",
-        "item_peHip8"
+        "subheading_d6WkgU",
+        "heading_b8YMXn",
+        "richtext_j4W9KW"
       ],
-      "name": "Multi-column",
+      "name": "Image with text overlay",
       "settings": {
         "full_width": true,
-        "stack_on_mobile": true,
-        "gap": "medium",
-        "text_alignment": "center",
-        "subheading": "",
-        "title": "Ciblez le relâchement là où il se voit le plus",
-        "content": "<p>Raffermissez, lissez et hydratez intensément les zones qui perdent leur élasticité en premier.</p>",
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 30
+      }
+    },
+    "logo_list_UErnmU": {
+      "type": "logo-list",
+      "blocks": {
+        "logo_gRab9Y": {
+          "type": "logo",
+          "settings": {
+            "logo_width": 120,
+            "link": ""
+          }
+        },
+        "logo_4baXCx": {
+          "type": "logo",
+          "settings": {
+            "logo_width": 120,
+            "link": ""
+          }
+        },
+        "logo_wEqETy": {
+          "type": "logo",
+          "settings": {
+            "logo_width": 120,
+            "link": ""
+          }
+        },
+        "logo_7LhBAD": {
+          "type": "logo",
+          "settings": {
+            "logo_width": 120,
+            "link": ""
+          }
+        },
+        "logo_XY3PyX": {
+          "type": "logo",
+          "settings": {
+            "logo_width": 120,
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "logo_gRab9Y",
+        "logo_4baXCx",
+        "logo_wEqETy",
+        "logo_7LhBAD",
+        "logo_XY3PyX"
+      ],
+      "name": "Logo list",
+      "settings": {
+        "full_width": true,
+        "stack_mobile": true,
+        "title": "Logo list",
+        "content": "",
+        "text_alignment": "start",
+        "items_per_row": 5,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "logo_item_background": "",
+        "logo_item_border": ""
+      }
+    },
+    "slideshow_M6NLmc": {
+      "type": "slideshow",
+      "blocks": {
+        "image_aGJNmk": {
+          "type": "image",
+          "settings": {
+            "content_max_width": 780,
+            "mobile_text_position": "place-self-center text-center",
+            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "subheading": "Tell your story",
+            "title": "Slide 1",
+            "heading_tag": "h0",
+            "button_text": "",
+            "button_link": "",
+            "text_color": "#ffffff",
+            "button_background": "#ffffff",
+            "button_text_color": "#000000",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30,
+            "background": "",
+            "background_gradient": ""
+          }
+        },
+        "image_LbEWEe": {
+          "type": "image",
+          "settings": {
+            "content_max_width": 780,
+            "mobile_text_position": "place-self-center text-center",
+            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "subheading": "Tell your story",
+            "title": "Slide 2",
+            "heading_tag": "h0",
+            "button_text": "",
+            "button_link": "",
+            "text_color": "#ffffff",
+            "button_background": "#ffffff",
+            "button_text_color": "#000000",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30,
+            "background": "",
+            "background_gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_aGJNmk",
+        "image_LbEWEe"
+      ],
+      "name": "Slideshow",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": true,
+        "image_size": "auto",
+        "controls_type": "dots",
+        "transition_type": "fade_with_text",
+        "autoplay": false,
+        "cycle_speed": 6,
+        "background": "#F2F2F2",
+        "background_gradient": ""
+      }
+    },
+    "rich_text_7PEb6A": {
+      "type": "rich-text",
+      "blocks": {
+        "subheading_eUpWLD": {
+          "type": "subheading",
+          "settings": {
+            "text": "Subheading"
+          }
+        },
+        "heading_VtQFi9": {
+          "type": "heading",
+          "settings": {
+            "text": "Heading",
+            "heading_tag": "h1",
+            "text_color": "",
+            "gradient": ""
+          }
+        },
+        "richtext_qERGpV": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "subheading_eUpWLD",
+        "heading_VtQFi9",
+        "richtext_qERGpV"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
         "background": "",
         "background_gradient": "",
         "text_color": ""
       }
+    },
+    "video_tMYLNf": {
+      "type": "video",
+      "blocks": {
+        "play_9irK6C": {
+          "type": "play",
+          "settings": {}
+        },
+        "heading_zcWiAa": {
+          "type": "heading",
+          "settings": {
+            "text": "Video",
+            "heading_tag": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "play_9irK6C",
+        "heading_zcWiAa"
+      ],
+      "name": "Video",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "autoplay": false,
+        "video_size": "auto",
+        "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 30
+      }
+    },
+    "rich_text_ndLhnV": {
+      "type": "rich-text",
+      "blocks": {
+        "subheading_aBL9PL": {
+          "type": "subheading",
+          "settings": {
+            "text": "Subheading"
+          }
+        },
+        "heading_iC3XhA": {
+          "type": "heading",
+          "settings": {
+            "text": "Heading",
+            "heading_tag": "h1",
+            "text_color": "",
+            "gradient": ""
+          }
+        },
+        "richtext_MzHkqk": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "subheading_aBL9PL",
+        "heading_iC3XhA",
+        "richtext_MzHkqk"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "logo_list_3bFadV": {
+      "type": "logo-list",
+      "blocks": {
+        "logo_HbFtKJ": {
+          "type": "logo",
+          "settings": {
+            "logo_width": 120,
+            "link": ""
+          }
+        },
+        "logo_LPTy7M": {
+          "type": "logo",
+          "settings": {
+            "logo_width": 120,
+            "link": ""
+          }
+        },
+        "logo_8EDrDp": {
+          "type": "logo",
+          "settings": {
+            "logo_width": 120,
+            "link": ""
+          }
+        },
+        "logo_8aE3JT": {
+          "type": "logo",
+          "settings": {
+            "logo_width": 120,
+            "link": ""
+          }
+        },
+        "logo_WwB6LU": {
+          "type": "logo",
+          "settings": {
+            "logo_width": 120,
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "logo_HbFtKJ",
+        "logo_LPTy7M",
+        "logo_8EDrDp",
+        "logo_8aE3JT",
+        "logo_WwB6LU"
+      ],
+      "name": "Logo list",
+      "settings": {
+        "full_width": true,
+        "stack_mobile": true,
+        "title": "Logo list",
+        "content": "",
+        "text_alignment": "start",
+        "items_per_row": 5,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "logo_item_background": "",
+        "logo_item_border": ""
+      }
+    },
+    "testimonials_bF4fWV": {
+      "type": "testimonials",
+      "blocks": {
+        "testimonial_wVFLbM": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 4,
+            "author": "John S.",
+            "title": "Testimonial 1",
+            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.</p>"
+          }
+        },
+        "testimonial_7fg83G": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 5,
+            "author": "Mary U.",
+            "title": "Testimonial 2",
+            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.</p>"
+          }
+        },
+        "testimonial_rJBWJE": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 4,
+            "author": "Joshua A.",
+            "title": "Testimonial 3",
+            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "testimonial_wVFLbM",
+        "testimonial_7fg83G",
+        "testimonial_rJBWJE"
+      ],
+      "name": "Testimonials",
+      "settings": {
+        "full_width": true,
+        "stack_testimonials": true,
+        "subheading": "",
+        "title": "Testimonials",
+        "content": "",
+        "link_url": "",
+        "link_text": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "testimonial_card_background": "",
+        "testimonial_card_text_color": ""
+      }
+    },
+    "image_with_text_overlay_rK9VMm": {
+      "type": "image-with-text-overlay",
+      "blocks": {
+        "subheading_WByMgx": {
+          "type": "subheading",
+          "settings": {
+            "text": "Subheading"
+          }
+        },
+        "heading_gGYnpQ": {
+          "type": "heading",
+          "settings": {
+            "text": "Image with text overlay",
+            "heading_tag": "h1"
+          }
+        },
+        "richtext_MM9qmH": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "subheading_WByMgx",
+        "heading_gGYnpQ",
+        "richtext_MM9qmH"
+      ],
+      "name": "Image with text overlay",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 30
+      }
+    },
+    "featured_product_WTWXk8": {
+      "type": "featured-product",
+      "blocks": {
+        "vendor_HMXXdj": {
+          "type": "vendor",
+          "settings": {}
+        },
+        "title_8mhHqa": {
+          "type": "title",
+          "settings": {
+            "heading_tag": "h2"
+          }
+        },
+        "badges_TzmY8m": {
+          "type": "badges",
+          "settings": {}
+        },
+        "price_JRBcH9": {
+          "type": "price",
+          "settings": {
+            "show_taxes_notice": false
+          }
+        },
+        "rating_D8Wima": {
+          "type": "rating",
+          "settings": {
+            "show_empty": false
+          }
+        },
+        "separator_hhANFK": {
+          "type": "separator",
+          "settings": {}
+        },
+        "description_H74Hqq": {
+          "type": "description",
+          "settings": {
+            "collapse_content": false
+          }
+        },
+        "variant_picker_b9yy69": {
+          "type": "variant_picker",
+          "settings": {
+            "hide_sold_out_variants": false,
+            "stack_blocks": true,
+            "selector_mode": "block",
+            "color_mode": "color",
+            "size_chart_page": ""
+          }
+        },
+        "quantity_selector_XPixX4": {
+          "type": "quantity_selector",
+          "settings": {}
+        },
+        "buy_buttons_L4DpzM": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_payment_button": true,
+            "show_gift_card_recipient": true,
+            "atc_button_background": "",
+            "atc_button_text_color": "",
+            "payment_button_background": "",
+            "payment_button_text_color": ""
+          }
+        },
+        "pickup_availability_w4ggTY": {
+          "type": "pickup_availability",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "vendor_HMXXdj",
+        "title_8mhHqa",
+        "badges_TzmY8m",
+        "price_JRBcH9",
+        "rating_D8Wima",
+        "separator_hhANFK",
+        "description_H74Hqq",
+        "variant_picker_b9yy69",
+        "quantity_selector_XPixX4",
+        "buy_buttons_L4DpzM",
+        "pickup_availability_w4ggTY"
+      ],
+      "name": "Featured product",
+      "settings": {
+        "full_width": true,
+        "product": "",
+        "desktop_media_width": 55,
+        "desktop_media_layout": "carousel_thumbnails_left",
+        "mobile_media_size": "expanded",
+        "mobile_carousel_control": "floating_dots",
+        "enable_video_autoplay": true,
+        "enable_video_looping": false,
+        "enable_image_zoom": true,
+        "max_image_zoom_level": 3,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "input_background": "rgba(0,0,0,0)",
+        "input_text_color": ""
+      }
+    },
+    "images_with_text_scrolling_A6n7wh": {
+      "type": "images-with-text-scrolling",
+      "blocks": {
+        "item_QEhzcK": {
+          "type": "item",
+          "settings": {
+            "icon": "none",
+            "icon_width": 48,
+            "title": "Heading 1",
+            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
+          }
+        },
+        "item_reyjDC": {
+          "type": "item",
+          "settings": {
+            "icon": "none",
+            "icon_width": 48,
+            "title": "Heading 2",
+            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "item_QEhzcK",
+        "item_reyjDC"
+      ],
+      "name": "Images and text scrolling",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "show_counter": true,
+        "desktop_image_effect": "reveal",
+        "image_position": "end",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": ""
+      }
+    },
+    "faq_J9hEAg": {
+      "type": "faq",
+      "blocks": {
+        "item_3YXtEp": {
+          "type": "item",
+          "settings": {
+            "title": "Do you ship overseas?",
+            "content": "<p>Yes, we ship all over the world. Shipping costs will apply, and will be added at checkout. We run discounts and promotions all year, so stay tuned for exclusive deals.</p>"
+          }
+        },
+        "item_zppwFp": {
+          "type": "item",
+          "settings": {
+            "title": "How long will it take to get my orders?",
+            "content": "<p>It depends on where you are. Orders processed here will take 5-7 business days to arrive. Overseas deliveries can take anywhere from 7-16 days. Delivery details will be provided in your confirmation email.</p>"
+          }
+        },
+        "item_dD6GET": {
+          "type": "item",
+          "settings": {
+            "title": "Any question?",
+            "content": "<p>You can contact us through our contact page! We will be happy to assist you.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "item_3YXtEp",
+        "item_zppwFp",
+        "item_dD6GET"
+      ],
+      "name": "FAQ",
+      "settings": {
+        "full_width": true,
+        "subheading": "",
+        "title": "FAQ",
+        "content": "<p>Use this text to share information about your product or shipping policies.</p>",
+        "team_avatar_width": 160,
+        "support_hours": "Our customer support is available Monday to Friday: 8am-8:30pm.",
+        "answer_time": "Average answer time: 24h",
+        "button_text": "",
+        "button_url": "",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "button_background": "",
+        "button_text_color": "",
+        "accordion_background": "",
+        "accordion_text_color": ""
+      }
+    },
+    "contact_WrCYkM": {
+      "type": "contact",
+      "name": "Contact form",
+      "settings": {
+        "full_width": true,
+        "subheading": "Contact Us",
+        "title": "Do you have any question?",
+        "content": "",
+        "text_position": "start",
+        "contact_form_size": "large",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "contact_background": "",
+        "contact_text_color": "",
+        "button_background": "",
+        "button_text_color": ""
+      }
     }
   },
   "order": [
-    "multi_column_N4WrHf"
+    "image_with_text_overlay_BBEDmF",
+    "logo_list_UErnmU",
+    "slideshow_M6NLmc",
+    "rich_text_7PEb6A",
+    "video_tMYLNf",
+    "rich_text_ndLhnV",
+    "logo_list_3bFadV",
+    "testimonials_bF4fWV",
+    "image_with_text_overlay_rK9VMm",
+    "featured_product_WTWXk8",
+    "images_with_text_scrolling_A6n7wh",
+    "faq_J9hEAg",
+    "contact_WrCYkM"
   ]
 }
