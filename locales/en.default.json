@@ -282,53 +282,53 @@
   },
   "general": {
     "page": "Page {{ page }}",
-    "home": "Home",
+    "home": "Accueil",
     "accessibility": {
-      "skip_to_content": "Skip to content",
-      "pagination": "Pagination navigation",
-      "go_to_page": "Go to page {{ index }}",
-      "go_to_item": "Go to item {{ index }}",
-      "item_nth_of_count": "Item {{ index }} of {{ count }}",
-      "drag": "Drag",
-      "close": "Close",
-      "next": "Next",
-      "previous": "Previous",
-      "play_video": "Play video",
-      "read_more": "Read more"
+      "skip_to_content": "Aller au contenu",
+      "pagination": "Navigation de pagination",
+      "go_to_page": "Aller à la page {{ index }}",
+      "go_to_item": "Aller à l’élément {{ index }}",
+      "item_nth_of_count": "Élément {{ index }} sur {{ count }}",
+      "drag": "Faire glisser",
+      "close": "Fermer",
+      "next": "Suivant",
+      "previous": "Précédent",
+      "play_video": "Lire la vidéo",
+      "read_more": "Lire plus"
     },
     "label": {
-      "color": "Color,Colour",
-      "white": "White",
-      "size": "Size"
+      "color": "Couleur",
+      "white": "Blanc",
+      "size": "Taille"
     },
     "social": {
-      "follow_on": "Follow on {{ social_media }}",
-      "share": "Share",
-      "share_on": "Share on {{ social_media }}",
-      "share_email": "Share by email"
+      "follow_on": "Suivez sur {{ social_media }}",
+      "share": "Partager",
+      "share_on": "Partager sur {{ social_media }}",
+      "share_email": "Partager par mail"
     },
     "rating": {
       "info": "{{ rating_value }} out of {{ rating_max }} stars"
     },
     "newsletter": {
       "email": "E-mail",
-      "subscribe": "Subscribe",
-      "notify_me": "Notify me",
-      "subscribed_successfully": "You have been subscribed to our newsletter."
+      "subscribe": "S'abonner",
+      "notify_me": "Notifiez moi",
+      "subscribed_successfully": "Abonnement réussi"
     },
     "localization": {
-      "country": "Country",
+      "country": "Pays",
       "language": "Language"
     },
     "privacy_bar": {
-      "accept": "Accept",
-      "decline": "Decline"
+      "accept": "Accpeté",
+      "decline": "Décliné"
     },
     "form": {
       "max_characters": "{{ max_chars }} characters max"
     },
     "on_boarding": {
-      "blog_post_category": "Category",
+      "blog_post_category": "Catégorie",
       "blog_post_title": "Article",
       "blog_post_excerpt": "Write text about your blog post.",
       "product_vendor": "Vendor",
