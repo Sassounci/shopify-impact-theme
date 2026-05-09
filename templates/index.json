@@ -341,8 +341,8 @@
           "type": "image",
           "settings": {
             "image": "shopify://shop_images/IMG_1015.jpg",
-            "alignment": "start",
-            "max_width": 150
+            "alignment": "center",
+            "max_width": 500
           }
         },
         "badges_TzmY8m": {
