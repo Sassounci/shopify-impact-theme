@@ -127,6 +127,90 @@
         "background_gradient": ""
       }
     },
+    "17783169356b18380c": {
+      "type": "_blocks",
+      "blocks": {
+        "ai_gen_block_eacf00a_aQQ4wA": {
+          "type": "ai_gen_block_eacf00a",
+          "settings": {
+            "show_trust_line": false,
+            "trust_line_text": "",
+            "heading": "Elles en parlent le mieux",
+            "subtitle": "",
+            "heading_font": "poppins_n7",
+            "heading_size_mobile": 24,
+            "heading_size_desktop": 32,
+            "subtitle_size": 16,
+            "container_width": 1400,
+            "columns_desktop": 3,
+            "columns_mobile": "1",
+            "card_gap_desktop": 16,
+            "card_gap_mobile": 16,
+            "desktop_width_percent": 100,
+            "section_padding_top": 16,
+            "section_padding_bottom": 16,
+            "header_spacing": 48,
+            "grid_top_spacing": 0,
+            "image_border_radius": 20,
+            "card_border_radius": 16,
+            "card_padding": 24,
+            "card_overlap": 20,
+            "image_aspect_ratio": "0.75",
+            "card_shadow_y": 8,
+            "card_shadow_blur": 20,
+            "card_shadow_opacity": 0.1,
+            "review_title_size": 16,
+            "review_text_size": 14,
+            "customer_name_size": 14,
+            "background_color": "#f5f5f0",
+            "heading_color": "#1a1a1a",
+            "text_color": "#666666",
+            "card_background": "#f8f8f8",
+            "star_color": "#00b67a",
+            "verified_icon_color": "#b8a060",
+            "verified_text_color": "#999999",
+            "verified_text": "Verified customer",
+            "testimonial_1_enabled": true,
+            "testimonial_1_image": "shopify://shop_images/Catherine.png",
+            "testimonial_1_show_stars": true,
+            "testimonial_1_rating": 5,
+            "testimonial_1_title": "",
+            "testimonial_1_text": "\"J'avais peur que ce soit encore un produit marketing. J'ai testé Bio Oil pendant 3 ans, des crèmes à 80€, rien. Au bout de 6 semaines, mes bras ne ressemblent plus à du papier crépon. J'ai porté une robe sans manches à un mariage. Première fois depuis 4 ans.\"",
+            "testimonial_1_name": "Catherine, 58 ans",
+            "testimonial_1_show_verified": true,
+            "testimonial_2_enabled": true,
+            "testimonial_2_image": "shopify://shop_images/Isabelle.png",
+            "testimonial_2_show_stars": true,
+            "testimonial_2_rating": 5,
+            "testimonial_2_title": "",
+            "testimonial_2_text": "\"J'ai perdu 22 kilos. Le poids est parti, ma peau n'a pas suivi. Je me cachais encore plus qu'avant. Trois mois avec cette huile et la peau de mon ventre s'est resserrée. Je peux enfin me regarder dans le miroir.\"",
+            "testimonial_2_name": "Florence, 47 ans",
+            "testimonial_2_show_verified": true,
+            "testimonial_3_enabled": true,
+            "testimonial_3_image": "shopify://shop_images/feedback-img-4.png",
+            "testimonial_3_show_stars": true,
+            "testimonial_3_rating": 5,
+            "testimonial_3_title": "",
+            "testimonial_3_text": "\"À la ménopause, ma peau est devenue fine comme du papier. Ma dermato m'a expliqué pourquoi mes crèmes ne marchaient pas. Cette huile descend plus profond. Ma peau a retrouvé du rebond. Je me sens à nouveau dans mon corps.\"",
+            "testimonial_3_name": "Isabelle, 62 ans",
+            "testimonial_3_show_verified": true,
+            "testimonial_4_enabled": false,
+            "testimonial_4_image": "shopify://shop_images/Marie.png",
+            "testimonial_4_show_stars": true,
+            "testimonial_4_rating": 5,
+            "testimonial_4_title": "",
+            "testimonial_4_text": "\"Ma peau de ventre était un cauchemar après mes 25 kilos perdus. C'est plus ferme et plus lisse que ce que j'aurais imaginé.\"",
+            "testimonial_4_name": "Marie L. — 54 ans",
+            "testimonial_4_show_verified": true
+          },
+          "blocks": {}
+        }
+      },
+      "block_order": [
+        "ai_gen_block_eacf00a_aQQ4wA"
+      ],
+      "settings": {}
+    },
     "rich_text_FFKPHY": {
       "type": "rich-text",
       "blocks": {
@@ -238,142 +322,19 @@
         "background_gradient": ""
       }
     },
-    "17783169356b18380c": {
-      "type": "_blocks",
-      "blocks": {
-        "ai_gen_block_eacf00a_aQQ4wA": {
-          "type": "ai_gen_block_eacf00a",
-          "settings": {
-            "show_trust_line": true,
-            "trust_line_text": "",
-            "heading": "Elles en parlent le mieux",
-            "subtitle": "",
-            "heading_font": "poppins_n7",
-            "heading_size_mobile": 24,
-            "heading_size_desktop": 32,
-            "subtitle_size": 16,
-            "container_width": 1400,
-            "columns_desktop": 4,
-            "columns_mobile": "1",
-            "card_gap_desktop": 24,
-            "card_gap_mobile": 16,
-            "desktop_width_percent": 100,
-            "section_padding_top": 80,
-            "section_padding_bottom": 80,
-            "header_spacing": 48,
-            "grid_top_spacing": 0,
-            "image_border_radius": 20,
-            "card_border_radius": 16,
-            "card_padding": 24,
-            "card_overlap": 20,
-            "image_aspect_ratio": "0.75",
-            "card_shadow_y": 8,
-            "card_shadow_blur": 20,
-            "card_shadow_opacity": 0.1,
-            "review_title_size": 16,
-            "review_text_size": 14,
-            "customer_name_size": 14,
-            "background_color": "#f5f5f0",
-            "heading_color": "#1a1a1a",
-            "text_color": "#666666",
-            "card_background": "#f8f8f8",
-            "star_color": "#00b67a",
-            "verified_icon_color": "#b8a060",
-            "verified_text_color": "#999999",
-            "verified_text": "Verified customer",
-            "testimonial_1_enabled": true,
-            "testimonial_1_image": "shopify://shop_images/Catherine.png",
-            "testimonial_1_show_stars": true,
-            "testimonial_1_rating": 5,
-            "testimonial_1_title": "",
-            "testimonial_1_text": "\"J'avais peur que ce soit encore un produit marketing. J'ai testé Bio Oil pendant 3 ans, des crèmes à 80€, rien. Au bout de 6 semaines, mes bras ne ressemblent plus à du papier crépon. J'ai porté une robe sans manches à un mariage. Première fois depuis 4 ans.\"",
-            "testimonial_1_name": "Catherine, 58 ans",
-            "testimonial_1_show_verified": true,
-            "testimonial_2_enabled": true,
-            "testimonial_2_image": "shopify://shop_images/Isabelle.png",
-            "testimonial_2_show_stars": true,
-            "testimonial_2_rating": 5,
-            "testimonial_2_title": "",
-            "testimonial_2_text": "\"J'ai perdu 22 kilos. Le poids est parti, ma peau n'a pas suivi. Je me cachais encore plus qu'avant. Trois mois avec cette huile et la peau de mon ventre s'est resserrée. Je peux enfin me regarder dans le miroir.\"",
-            "testimonial_2_name": "Florence, 47 ans",
-            "testimonial_2_show_verified": true,
-            "testimonial_3_enabled": true,
-            "testimonial_3_image": "shopify://shop_images/feedback-img-4.png",
-            "testimonial_3_show_stars": true,
-            "testimonial_3_rating": 5,
-            "testimonial_3_title": "",
-            "testimonial_3_text": "\"À la ménopause, ma peau est devenue fine comme du papier. Ma dermato m'a expliqué pourquoi mes crèmes ne marchaient pas. Cette huile descend plus profond. Ma peau a retrouvé du rebond. Je me sens à nouveau dans mon corps.\"",
-            "testimonial_3_name": "Isabelle, 62 ans",
-            "testimonial_3_show_verified": true,
-            "testimonial_4_enabled": false,
-            "testimonial_4_image": "shopify://shop_images/Marie.png",
-            "testimonial_4_show_stars": true,
-            "testimonial_4_rating": 5,
-            "testimonial_4_title": "",
-            "testimonial_4_text": "\"Ma peau de ventre était un cauchemar après mes 25 kilos perdus. C'est plus ferme et plus lisse que ce que j'aurais imaginé.\"",
-            "testimonial_4_name": "Marie L. — 54 ans",
-            "testimonial_4_show_verified": true
-          },
-          "blocks": {}
-        }
-      },
-      "block_order": [
-        "ai_gen_block_eacf00a_aQQ4wA"
-      ],
-      "settings": {}
-    },
-    "image_with_text_overlay_rK9VMm": {
-      "type": "image-with-text-overlay",
-      "blocks": {
-        "subheading_WByMgx": {
-          "type": "subheading",
-          "settings": {
-            "text": "Subheading"
-          }
-        },
-        "heading_gGYnpQ": {
-          "type": "heading",
-          "settings": {
-            "text": "Image with text overlay",
-            "heading_tag": "h1"
-          }
-        },
-        "richtext_MM9qmH": {
-          "type": "richtext",
-          "settings": {
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
-          }
-        }
-      },
-      "block_order": [
-        "subheading_WByMgx",
-        "heading_gGYnpQ",
-        "richtext_MM9qmH"
-      ],
-      "name": "Image with text overlay",
-      "settings": {
-        "full_width": true,
-        "allow_transparent_header": false,
-        "enable_parallax": false,
-        "image_size": "auto",
-        "mobile_text_position": "place-self-center text-center",
-        "desktop_text_position": "sm:place-self-center sm:text-center",
-        "text_color": "#ffffff",
-        "overlay_color": "#000000",
-        "overlay_opacity": 30
-      }
-    },
     "featured_product_WTWXk8": {
       "type": "featured-product",
       "blocks": {
-        "vendor_HMXXdj": {
-          "type": "vendor",
-          "settings": {}
+        "liquid_pt8Mpf": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<!DOCTYPE html>\n<html>\n<head>\n<style>\n:root {\n  --social-proof-text-color: #000000;\n  --social-proof-star-color: #724C39;\n}\n\n.social-proof-slide__block-rating {\n    display: flex;\n    align-items: center;\n    justify-content: flex-start;\nfont-size: 14px;\n}\n\n.social-proof-slide__block-stars {\n    display: flex;\n    margin-right: 8px;\n    color: var(--social-proof-star-color);\n}\n\n.social-proof-slide__block-rating-text {\n    display: inline;\n    color: var(--social-proof-text-color);\n    content: var(--social-proof-rating-text);\n}\n\n.social-proof-star {\n    margin: 0;\n    padding: 0;\n    display: flex;\n    justify-content: center;\n    align-items: center;\n    width: 16px;\n    height: 16px;\n}\n\n.social-proof-star svg {\n    width: 16px;\n    height: 16px;\n    fill: var(--social-proof-star-color);\n}\n</style>\n</head>\n<body>\n\n<div class=\"social-proof-slide__block-rating mt-2\">\n  <span class=\"social-proof-slide__block-stars\">\n    <span class=\"social-proof-star\">\n      <svg xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <svg class=\"w-[16px] h-[16px]\" fill=\"currentColor\" stroke=\"currentColor\" xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <path d=\"M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z\"></path>\n      </svg>\n    </span>\n<span class=\"social-proof-star\">\n      <svg xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <svg class=\"w-[16px] h-[16px]\" fill=\"currentColor\" stroke=\"currentColor\" xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <path d=\"M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z\"></path>\n      </svg>\n    </span>\n<span class=\"social-proof-star\">\n      <svg xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <svg class=\"w-[16px] h-[16px]\" fill=\"currentColor\" stroke=\"currentColor\" xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <path d=\"M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z\"></path>\n      </svg>\n    </span>\n<span class=\"social-proof-star\">\n      <svg xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <svg class=\"w-[16px] h-[16px]\" fill=\"currentColor\" stroke=\"currentColor\" xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <path d=\"M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z\"></path>\n      </svg>\n    </span>\n<span class=\"social-proof-star\">\n      <svg xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <svg class=\"w-[16px] h-[16px]\" fill=\"currentColor\" stroke=\"currentColor\" xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <path d=\"M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z\"></path>\n      </svg>\n    </span>\n  </span>\n  <span class=\"social-proof-slide__block-rating-text\">\n    Rated 4.8 by 1500+ Customers!\n  </span>\n</div>\n\n</body>\n</html>"
+          }
         },
         "title_8mhHqa": {
           "type": "title",
           "settings": {
-            "heading_tag": "h2"
+            "heading_tag": "h5"
           }
         },
         "badges_TzmY8m": {
@@ -386,45 +347,27 @@
             "show_taxes_notice": false
           }
         },
-        "rating_D8Wima": {
-          "type": "rating",
+        "liquid_VXiAQc": {
+          "type": "liquid",
           "settings": {
-            "show_empty": false
+            "liquid": ""
           }
-        },
-        "separator_hhANFK": {
-          "type": "separator",
-          "settings": {}
-        },
-        "description_H74Hqq": {
-          "type": "description",
-          "settings": {
-            "collapse_content": false
-          }
-        },
-        "variant_picker_b9yy69": {
-          "type": "variant_picker",
-          "settings": {
-            "hide_sold_out_variants": false,
-            "stack_blocks": true,
-            "selector_mode": "block",
-            "color_mode": "color",
-            "size_chart_page": ""
-          }
-        },
-        "quantity_selector_XPixX4": {
-          "type": "quantity_selector",
-          "settings": {}
         },
         "buy_buttons_L4DpzM": {
           "type": "buy_buttons",
           "settings": {
-            "show_payment_button": true,
+            "show_payment_button": false,
             "show_gift_card_recipient": true,
             "atc_button_background": "",
             "atc_button_text_color": "",
             "payment_button_background": "",
             "payment_button_text_color": ""
+          }
+        },
+        "liquid_tatR6r": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<!DOCTYPE html>\n<html lang=\"fr\">\n<head>\n  <meta charset=\"UTF-8\">\n  <title>Logos de Paiement</title>\n  <style>\n    .icon-container {\n      display: flex;\n      gap: 10px;\n      align-items: center;\n      justify-content: center;\n      margin-top: 30px;\n    }\n\n    .icon {\n      width: 40px;\n      height: auto;\n    }\n  </style>\n</head>\n<body>\n\n  <div class=\"icon-container\">\n    <!-- Apple Pay -->\n    <img class=\"icon\" src=\"https://cdn.shopify.com/s/files/1/0747/1749/5526/files/Apple_Pay-Logo.wine.png?v=1746126288\" alt=\"Apple Pay\">\n\n    <!-- Google Pay -->\n    <img class=\"icon\" src=\"https://cdn.shopify.com/s/files/1/0747/1749/5526/files/images.png?v=1746126288\" alt=\"Google Pay\">\n\n    <!-- PayPal -->\n    <img class=\"icon\" src=\"https://upload.wikimedia.org/wikipedia/commons/b/b5/PayPal.svg\" alt=\"PayPal\">\n\n    <!-- Mastercard -->\n    <img class=\"icon\" src=\"https://upload.wikimedia.org/wikipedia/commons/0/04/Mastercard-logo.png\" alt=\"Mastercard\">\n\n    <!-- Visa -->\n    <img class=\"icon\" src=\"https://upload.wikimedia.org/wikipedia/commons/4/41/Visa_Logo.png\" alt=\"Visa\">\n\n    <!-- American Express -->\n    <img class=\"icon\" src=\"https://cdn.shopify.com/s/files/1/0747/1749/5526/files/hd-amex-american-express-logo-png-701751694708970jttzjjyo6e.png?v=1746126288\" alt=\"American Express\">\n  </div>"
           }
         },
         "pickup_availability_w4ggTY": {
@@ -433,22 +376,19 @@
         }
       },
       "block_order": [
-        "vendor_HMXXdj",
+        "liquid_pt8Mpf",
         "title_8mhHqa",
         "badges_TzmY8m",
         "price_JRBcH9",
-        "rating_D8Wima",
-        "separator_hhANFK",
-        "description_H74Hqq",
-        "variant_picker_b9yy69",
-        "quantity_selector_XPixX4",
+        "liquid_VXiAQc",
         "buy_buttons_L4DpzM",
+        "liquid_tatR6r",
         "pickup_availability_w4ggTY"
       ],
       "name": "Featured product",
       "settings": {
         "full_width": true,
-        "product": "",
+        "product": "huile-magique-raffermissante-sora®",
         "desktop_media_width": 55,
         "desktop_media_layout": "carousel_thumbnails_left",
         "mobile_media_size": "expanded",
@@ -583,10 +523,9 @@
     "image_with_text_overlay_BBEDmF",
     "logo_list_UErnmU",
     "slideshow_M6NLmc",
+    "17783169356b18380c",
     "rich_text_FFKPHY",
     "slideshow_wEGCiB",
-    "17783169356b18380c",
-    "image_with_text_overlay_rK9VMm",
     "featured_product_WTWXk8",
     "images_with_text_scrolling_A6n7wh",
     "faq_J9hEAg",
