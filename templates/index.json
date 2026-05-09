@@ -337,6 +337,14 @@
             "heading_tag": "h5"
           }
         },
+        "image_F8g3qR": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/IMG_1015.jpg",
+            "alignment": "start",
+            "max_width": 150
+          }
+        },
         "badges_TzmY8m": {
           "type": "badges",
           "settings": {}
@@ -374,7 +382,7 @@
           "type": "collapsible_text",
           "settings": {
             "title": "Comment ça marche ?",
-            "content": "<p>Nourrissez votre peau, révélez votre éclat : une déclaration d’amour aux femmes qui embrassent la beauté à chaque âge.</p><p>Une huile corporelle luxueuse qui vous fera vous sentir comme une reine. Formulée à partir de <strong>7 huiles naturelles pressées à froid</strong>, avec un parfum raffiné. Cette huile rend votre peau <strong>plus rebondie, éclatante et ferme</strong>, tout en offrant une <strong>hydratation profonde et nourrissante</strong>.</p><p>Les meilleurs ingrédients. Purs, non raffinés et issus de sources éthiques.</p><ul><li><br/><strong>Huile d’Amande Douce</strong> – lisse et hydrate intensément<br/></li><li><br/><strong>Huile d’Onagre</strong> – raffermit et améliore l’élasticité<br/></li><li><br/><strong>Huile de Rose Musquée</strong> – régénère et repulpe la peau<br/></li><li><br/><strong>Vitamine E</strong> – protège la peau des agressions extérieures<br/></li><li><br/><strong>Géranium</strong> – raffermit et revitalise<br/></li><li><br/><strong>Lavande</strong> – apaise les inflammations et favorise la réparation<br/></li><li><br/><strong>Patchouli</strong> – stimule la production naturelle de collagène et lisse la peau<br/></li></ul><p>Révélez une peau naturellement ferme et éclatante grâce à notre puissante <strong>Magic Body Oil</strong>, conçue pour sublimer votre vraie beauté. C’est votre corps.</p>"
+            "content": "<p>Nourrissez votre peau, révélez votre éclat : une déclaration d’amour aux femmes qui embrassent la beauté à chaque âge.</p><p>Une huile corporelle luxueuse qui vous fera vous sentir comme une reine. Formulée à partir de <strong>7 huiles naturelles pressées à froid</strong>, avec un parfum raffiné. Cette huile rend votre peau <strong>plus rebondie, éclatante et ferme</strong>, tout en offrant une <strong>hydratation profonde et nourrissante</strong>.</p><p>Les meilleurs ingrédients. Purs, non raffinés et issus de sources éthiques.</p><ul><li><strong>Huile d’Amande Douce</strong> – lisse et hydrate intensément<br/></li><li><strong>Huile d’Onagre</strong> – raffermit et améliore l’élasticité<br/></li><li><strong>Huile de Rose Musquée</strong> – régénère et repulpe la peau<br/></li><li><strong>Vitamine E</strong> – protège la peau des agressions extérieures<br/></li><li><strong>Géranium</strong> – raffermit et revitalise<br/></li><li><strong>Lavande</strong> – apaise les inflammations et favorise la réparation<br/></li><li><strong>Patchouli</strong> – stimule la production naturelle de collagène et lisse la peau<br/></li></ul><p>Révélez une peau naturellement ferme et éclatante grâce à notre puissante <strong>Magic Body Oil</strong>, conçue pour sublimer votre vraie beauté. C’est votre corps.</p>"
           }
         },
         "collapsible_text_PD3MQw": {
@@ -402,6 +410,7 @@
       "block_order": [
         "liquid_pt8Mpf",
         "title_8mhHqa",
+        "image_F8g3qR",
         "badges_TzmY8m",
         "liquid_VXiAQc",
         "liquid_wCt6KG",
@@ -430,6 +439,55 @@
         "input_background": "rgba(0,0,0,0)",
         "input_text_color": ""
       }
+    },
+    "1778339350661d6e27": {
+      "type": "_blocks",
+      "blocks": {
+        "ai_gen_block_3398142_rfnzx9": {
+          "type": "ai_gen_block_3398142",
+          "settings": {
+            "expert_image": "shopify://shop_images/Ellipse_238_1.png",
+            "image_size": 100,
+            "image_border_width": 4,
+            "badge_text": "Approuvé par des experts beauté",
+            "badge_background": "#f8f6f3",
+            "badge_text_color": "#8b7355",
+            "badge_icon_color": "#d4af37",
+            "badge_font_size": 16,
+            "badge_border_radius": 0,
+            "badge_spacing": 10,
+            "quote_text": "Cette huile corporelle offre une hydratation exceptionnelle tout en laissant la peau lisse, éclatante et jamais grasse, exactement ce que recherchent les clientes.”",
+            "quote_font": "open_sans_n4",
+            "quote_font_size": 16,
+            "quote_color": "#5a5a5a",
+            "quote_spacing": 20,
+            "expert_name": "Dr. Lila Hawthorne, MD",
+            "name_font": "open_sans_n4",
+            "name_font_size": 16,
+            "name_color": "#2a2a2a",
+            "name_spacing": 8,
+            "expert_role": "DERMATOLOGUE CERTIFIÉE",
+            "role_font_size": 16,
+            "role_color": "#999999",
+            "card_background": "#faf8f5",
+            "card_border_radius": 10,
+            "card_padding_top": 80,
+            "card_padding_horizontal": 20,
+            "card_padding_bottom": 20,
+            "shadow_opacity": 0.1,
+            "shadow_horizontal": 0,
+            "shadow_vertical": 8,
+            "shadow_blur": 25,
+            "desktop_width_percent": 100,
+            "section_padding": 10
+          },
+          "blocks": {}
+        }
+      },
+      "block_order": [
+        "ai_gen_block_3398142_rfnzx9"
+      ],
+      "settings": {}
     },
     "rich_text_dRpCHe": {
       "type": "rich-text",
@@ -625,6 +683,7 @@
     "rich_text_FFKPHY",
     "slideshow_wEGCiB",
     "featured_product_WTWXk8",
+    "1778339350661d6e27",
     "rich_text_dRpCHe",
     "images_with_text_scrolling_A6n7wh",
     "faq_J9hEAg",
