@@ -309,9 +309,7 @@
         "image_qqYz8H",
         "image_Re6jqY"
       ],
-      "custom_css": [
-        "[data-slideshow-slide] {margin-bottom: 10px;}"
-      ],
+      "custom_css": [],
       "name": "Slideshow",
       "settings": {
         "full_width": true,
