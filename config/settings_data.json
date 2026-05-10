@@ -155,5 +155,8 @@
       "checkout_accent_color": "#f0c417",
       "checkout_button_color": "#1a1a1a"
     }
+  },
+  "platform_customizations": {
+    "custom_css": []
   }
 }
