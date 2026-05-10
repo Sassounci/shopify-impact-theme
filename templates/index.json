@@ -322,14 +322,14 @@
         "background_gradient": ""
       }
     },
-    "custom_html_QVp6QJ": {
-      "type": "custom-html",
-      "name": "Custom HTML",
+    "custom_liquid_VhXPBH": {
+      "type": "custom-liquid",
+      "name": "Custom Liquid",
       "settings": {
         "full_width": true,
         "remove_vertical_spacing": false,
         "remove_horizontal_spacing": false,
-        "html": "",
+        "liquid": "<div style=\"height: 1px;\"></div>",
         "background": "",
         "background_gradient": "",
         "text_color": ""
@@ -695,7 +695,7 @@
     "17783169356b18380c",
     "rich_text_FFKPHY",
     "slideshow_wEGCiB",
-    "custom_html_QVp6QJ",
+    "custom_liquid_VhXPBH",
     "featured_product_WTWXk8",
     "1778339350661d6e27",
     "rich_text_dRpCHe",
