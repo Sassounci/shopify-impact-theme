@@ -360,6 +360,12 @@
             "max_width": 500
           }
         },
+        "rapi_rapi_bundle_bEJYNG": {
+          "type": "shopify://apps/rapi/blocks/rapi-bundle/99617c17-a32b-4e70-a883-7a155610d032",
+          "settings": {
+            "product": "{{section.settings.product}}"
+          }
+        },
         "badges_TzmY8m": {
           "type": "badges",
           "settings": {}
@@ -426,6 +432,7 @@
         "liquid_pt8Mpf",
         "title_8mhHqa",
         "image_F8g3qR",
+        "rapi_rapi_bundle_bEJYNG",
         "badges_TzmY8m",
         "liquid_VXiAQc",
         "liquid_wCt6KG",
