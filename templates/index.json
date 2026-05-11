@@ -578,6 +578,63 @@
         "heading_gradient": ""
       }
     },
+    "1778529194f12a1542": {
+      "type": "_blocks",
+      "blocks": {
+        "ai_gen_block_dc6c112_YPqVKA": {
+          "type": "ai_gen_block_dc6c112",
+          "settings": {
+            "title_font": "poppins_n7",
+            "text_font": "open_sans_n4",
+            "badge_text": "",
+            "badge_color": "#8b7355",
+            "badge_background": "#f0ebe5",
+            "title": "Nos Ingrédients Naturels",
+            "title_color": "#2c2c2c",
+            "subtitle": "Une sélection rigoureuse d'actifs naturels pour une peau éclatante et saine",
+            "subtitle_color": "#6b6b6b",
+            "background_color": "#f5f5f0",
+            "card_background": "#ffffff",
+            "card_text_color": "#2c2c2c",
+            "check_background": "#e8f5e9",
+            "check_color": "#4caf50",
+            "ingredient_1_enabled": true,
+            "ingredient_1_image": "shopify://shop_images/food-1.png",
+            "ingredient_1_name": "Huile d’Amande Douce",
+            "ingredient_1_benefit": "✓ Lisse et hydrate intensément la peau",
+            "ingredient_2_enabled": true,
+            "ingredient_2_image": "shopify://shop_images/food-4.png",
+            "ingredient_2_name": "Onagre",
+            "ingredient_2_benefit": "✓ Raffermit et améliore l’élasticité de la peau",
+            "ingredient_3_enabled": true,
+            "ingredient_3_image": "shopify://shop_images/food-3.png",
+            "ingredient_3_name": "Rose Musquée",
+            "ingredient_3_benefit": "✓ Régénère et repulpe la peau",
+            "ingredient_4_enabled": true,
+            "ingredient_4_image": "shopify://shop_images/food-2.png",
+            "ingredient_4_name": "Vitamine E",
+            "ingredient_4_benefit": "✓ Protège la peau des agressions extérieures",
+            "ingredient_5_enabled": true,
+            "ingredient_5_image": "shopify://shop_images/food-7.png",
+            "ingredient_5_name": "Géranium",
+            "ingredient_5_benefit": "✓ Raffermit et revitalise la peau",
+            "ingredient_6_enabled": true,
+            "ingredient_6_image": "shopify://shop_images/food-6.png",
+            "ingredient_6_name": "Lavande",
+            "ingredient_6_benefit": "✓ Apaise les inflammations et favorise la réparation cutanée",
+            "ingredient_7_enabled": true,
+            "ingredient_7_image": "shopify://shop_images/food-5.png",
+            "ingredient_7_name": "Patchouli",
+            "ingredient_7_benefit": "✓ Stimule naturellement la production de collagène et lisse la peau"
+          },
+          "blocks": {}
+        }
+      },
+      "block_order": [
+        "ai_gen_block_dc6c112_YPqVKA"
+      ],
+      "settings": {}
+    },
     "faq_J9hEAg": {
       "type": "faq",
       "blocks": {
@@ -697,6 +754,7 @@
     "1778339350661d6e27",
     "rich_text_dRpCHe",
     "images_with_text_scrolling_A6n7wh",
+    "1778529194f12a1542",
     "faq_J9hEAg",
     "contact_WrCYkM"
   ]
