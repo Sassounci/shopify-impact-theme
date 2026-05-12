@@ -360,16 +360,16 @@
             "max_width": 500
           }
         },
-        "rapi_rapi_bundle_xtyLpf": {
-          "type": "shopify://apps/rapi/blocks/rapi-bundle/99617c17-a32b-4e70-a883-7a155610d032",
-          "settings": {
-            "product": "huile-magique-raffermissante-sora®"
-          }
-        },
         "liquid_VXiAQc": {
           "type": "liquid",
           "settings": {
             "liquid": ""
+          }
+        },
+        "rapi_rapi_bundle_ciCLhX": {
+          "type": "shopify://apps/rapi/blocks/rapi-bundle/99617c17-a32b-4e70-a883-7a155610d032",
+          "settings": {
+            "product": "{{section.settings.product}}"
           }
         },
         "buy_buttons_L4DpzM": {
@@ -422,8 +422,8 @@
         "liquid_pt8Mpf",
         "title_8mhHqa",
         "image_F8g3qR",
-        "rapi_rapi_bundle_xtyLpf",
         "liquid_VXiAQc",
+        "rapi_rapi_bundle_ciCLhX",
         "buy_buttons_L4DpzM",
         "liquid_VGMmCz",
         "collapsible_text_zxRPw8",
