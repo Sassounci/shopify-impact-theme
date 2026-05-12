@@ -504,7 +504,18 @@
         "optional_first_name_label": "Prénom",
         "last_name_label": "Nom ",
         "company_label": "Entreprise",
-        "storefront_link": "Site marchant"
+        "storefront_link": "Site marchant",
+        "optional_company_label": "Entreprise",
+        "address1_label": "Adresse",
+        "address2_label": "Appartement, suite, ect...",
+        "optional_address2_label": "Appartement, suite, ect...",
+        "city_label": "Ville",
+        "country_label": "Pays ",
+        "country_code": "Code pays",
+        "province_label": "Département",
+        "province_placeholder": "Département",
+        "county_label": "Pays",
+        "county_placeholder": "Pays"
       }
     }
   }
