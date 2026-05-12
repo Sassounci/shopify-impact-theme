@@ -360,10 +360,10 @@
             "max_width": 500
           }
         },
-        "rapi_rapi_bundle_bEJYNG": {
+        "rapi_rapi_bundle_xtyLpf": {
           "type": "shopify://apps/rapi/blocks/rapi-bundle/99617c17-a32b-4e70-a883-7a155610d032",
           "settings": {
-            "product": "{{section.settings.product}}"
+            "product": "guide-des-21-premiers-jours-avec-sora"
           }
         },
         "liquid_VXiAQc": {
@@ -422,7 +422,7 @@
         "liquid_pt8Mpf",
         "title_8mhHqa",
         "image_F8g3qR",
-        "rapi_rapi_bundle_bEJYNG",
+        "rapi_rapi_bundle_xtyLpf",
         "liquid_VXiAQc",
         "buy_buttons_L4DpzM",
         "liquid_VGMmCz",
