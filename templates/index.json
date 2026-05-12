@@ -372,17 +372,6 @@
             "product": "{{section.settings.product}}"
           }
         },
-        "buy_buttons_xcaktF": {
-          "type": "buy_buttons",
-          "settings": {
-            "show_payment_button": true,
-            "show_gift_card_recipient": true,
-            "atc_button_background": "rgba(0,0,0,0)",
-            "atc_button_text_color": "rgba(0,0,0,0)",
-            "payment_button_background": "rgba(0,0,0,0)",
-            "payment_button_text_color": "rgba(0,0,0,0)"
-          }
-        },
         "liquid_VGMmCz": {
           "type": "liquid",
           "settings": {
@@ -424,7 +413,6 @@
         "image_F8g3qR",
         "liquid_VXiAQc",
         "rapi_rapi_bundle_ciCLhX",
-        "buy_buttons_xcaktF",
         "liquid_VGMmCz",
         "collapsible_text_zxRPw8",
         "collapsible_text_PD3MQw",
