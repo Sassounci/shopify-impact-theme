@@ -516,6 +516,9 @@
         "province_placeholder": "Département",
         "county_label": "Pays",
         "county_placeholder": "Pays"
+      },
+      "order_summary": {
+        "title": "Récapitulatif"
       }
     }
   }
