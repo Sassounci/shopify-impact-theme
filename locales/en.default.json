@@ -526,7 +526,8 @@
         },
         "enter_shipping_address": "GRATUITE",
         "free_shipping_discount_label": "Livraison gratuite",
-        "shipping_label": "Livraison"
+        "shipping_label": "Livraison",
+        "total_savings": "Vous économisez"
       },
       "alternative_payment_method_banner": {
         "express_checkout": "Paiements rapide"
@@ -542,7 +543,8 @@
   },
   "customer_accounts": {
     "order_details": {
-      "subtotal": "Total"
+      "subtotal": "Total",
+      "total_savings": "Vous économisez"
     }
   }
 }
