@@ -523,7 +523,10 @@
         "subtotal_label_with_quantity": {
           "one": "Total",
           "other": "Total"
-        }
+        },
+        "enter_shipping_address": "GRATUITE",
+        "free_shipping_discount_label": "Livraison gratuite",
+        "shipping_label": "Livraison"
       },
       "alternative_payment_method_banner": {
         "express_checkout": "Paiements rapide"
