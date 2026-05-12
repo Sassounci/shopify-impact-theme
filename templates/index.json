@@ -375,7 +375,7 @@
         "buy_buttons_L4DpzM": {
           "type": "buy_buttons",
           "settings": {
-            "show_payment_button": false,
+            "show_payment_button": true,
             "show_gift_card_recipient": false,
             "atc_button_background": "#fdba11",
             "atc_button_text_color": "",
