@@ -538,6 +538,9 @@
       },
       "marketing": {
         "accept_marketing_checkbox_label": "Se rappeler de moi"
+      },
+      "shipping": {
+        "delivery_title": "Livraison"
       }
     }
   },
