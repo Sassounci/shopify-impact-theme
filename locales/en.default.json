@@ -469,5 +469,23 @@
       "one": "1 result for \"{{ terms }}\"",
       "other": "{{ count }} results for \"{{ terms }}\""
     }
+  },
+  "shopify": {
+    "checkout": {
+      "general": {
+        "error_page_title": "Erreur",
+        "skip_to_content": "Passer le contenu",
+        "continue_button_label": "Continuer",
+        "pay_now_button_label": "Payer maintenant",
+        "finalize_order_accessibility_label": "Finaliser la commande",
+        "cart": "Panier",
+        "close_modal_label": "Fermer",
+        "close_notice_label": "Fermer",
+        "continue_to_shipping_method": "Continuer le shopping",
+        "continue_to_payment_method": "Continuer a paiement",
+        "back_to_cart": "Retour au panier",
+        "remove_chip": "Enlever"
+      }
+    }
   }
 }
