@@ -518,7 +518,8 @@
         "county_placeholder": "Pays"
       },
       "order_summary": {
-        "title": "Récapitulatif"
+        "title": "Récapitulatif",
+        "subtotal_label": "Total"
       },
       "alternative_payment_method_banner": {
         "express_checkout": "Paiements rapide"
@@ -530,6 +531,11 @@
       "marketing": {
         "accept_marketing_checkbox_label": "Se rappeler de moi"
       }
+    }
+  },
+  "customer_accounts": {
+    "order_details": {
+      "subtotal": "Total"
     }
   }
 }
