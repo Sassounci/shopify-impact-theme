@@ -519,7 +519,11 @@
       },
       "order_summary": {
         "title": "Récapitulatif",
-        "subtotal_label": "Total"
+        "subtotal_label": "Total",
+        "subtotal_label_with_quantity": {
+          "one": "Total",
+          "other": "Total"
+        }
       },
       "alternative_payment_method_banner": {
         "express_checkout": "Paiements rapide"
