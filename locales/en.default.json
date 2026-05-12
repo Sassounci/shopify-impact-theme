@@ -519,6 +519,9 @@
       },
       "order_summary": {
         "title": "Récapitulatif"
+      },
+      "alternative_payment_method_banner": {
+        "express_checkout": "Paiements rapide"
       }
     }
   }
