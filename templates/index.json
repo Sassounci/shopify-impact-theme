@@ -372,16 +372,15 @@
             "product": "{{section.settings.product}}"
           }
         },
-        "button_t6xEbY": {
-          "type": "button",
+        "buy_buttons_xcaktF": {
+          "type": "buy_buttons",
           "settings": {
-            "link": "/checkout",
-            "text": "ACHETER MAINTENANT",
-            "size": "xl",
-            "style": "fill",
-            "stretch": true,
-            "background": "#ffa825",
-            "text_color": ""
+            "show_payment_button": true,
+            "show_gift_card_recipient": true,
+            "atc_button_background": "rgba(0,0,0,0)",
+            "atc_button_text_color": "rgba(0,0,0,0)",
+            "payment_button_background": "rgba(0,0,0,0)",
+            "payment_button_text_color": "rgba(0,0,0,0)"
           }
         },
         "liquid_VGMmCz": {
@@ -425,7 +424,7 @@
         "image_F8g3qR",
         "liquid_VXiAQc",
         "rapi_rapi_bundle_ciCLhX",
-        "button_t6xEbY",
+        "buy_buttons_xcaktF",
         "liquid_VGMmCz",
         "collapsible_text_zxRPw8",
         "collapsible_text_PD3MQw",
