@@ -485,6 +485,26 @@
         "continue_to_payment_method": "Continuer a paiement",
         "back_to_cart": "Retour au panier",
         "remove_chip": "Enlever"
+      },
+      "contact": {
+        "title": "Information",
+        "address_title": "Adresse",
+        "shipping_used_as_billing_notice": "Elle peut aussi être utilisé comme adresse de facturation",
+        "delivery_option_title": "Méthode de livraison",
+        "contact_method_title": "Contact",
+        "email_label": "Email",
+        "email_rollup_accessibility_label": "Options d'email",
+        "email_placeholder": "Email",
+        "email_or_phone_label": "Email ou téléphone mobile",
+        "email_or_phone_placeholder": "Email ou téléphone mobile ",
+        "stored_addresses_label": "Enregistrer l'adresse",
+        "available_addresses_label": "Adresses non disponibles",
+        "new_address_label": "Utiliser une nouvelle adresse",
+        "first_name_label": "Prénom",
+        "optional_first_name_label": "Prénom",
+        "last_name_label": "Nom ",
+        "company_label": "Entreprise",
+        "storefront_link": "Site marchant"
       }
     }
   }
