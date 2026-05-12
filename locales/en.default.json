@@ -540,7 +540,8 @@
         "accept_marketing_checkbox_label": "Se rappeler de moi"
       },
       "shipping": {
-        "delivery_title": "Livraison"
+        "delivery_title": "Livraison",
+        "shipping_method_title": "Méthode de livraison"
       }
     }
   },
