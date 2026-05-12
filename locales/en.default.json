@@ -522,6 +522,10 @@
       },
       "alternative_payment_method_banner": {
         "express_checkout": "Paiements rapide"
+      },
+      "customer_account": {
+        "sign_in_link_label": "S'inscrire",
+        "sign_out_link_label": "Se déconnecter"
       }
     }
   }
