@@ -85,6 +85,32 @@
         "logo_item_border": ""
       }
     },
+    "rich_text_R8xrmz": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_qwr7Uz": {
+          "type": "heading",
+          "settings": {
+            "text": "Pourquoi choisir SORA ?",
+            "heading_tag": "h4",
+            "text_color": "",
+            "gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_qwr7Uz"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "slideshow_M6NLmc": {
       "type": "slideshow",
       "blocks": {
@@ -779,6 +805,7 @@
   "order": [
     "image_with_text_overlay_BBEDmF",
     "logo_list_UErnmU",
+    "rich_text_R8xrmz",
     "slideshow_M6NLmc",
     "17783169356b18380c",
     "multi_column_GmR6Ar",
