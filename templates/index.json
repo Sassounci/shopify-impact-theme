@@ -623,12 +623,12 @@
       "settings": {
         "full_width": true,
         "remove_vertical_spacing": false,
-        "remove_horizontal_spacing": false,
+        "remove_horizontal_spacing": true,
         "background": "",
         "background_gradient": "",
         "text_color": "",
         "enable_review_integration": true,
-        "review_header_gradient": "linear-gradient(135deg, #FFC266 0%, #FFA31A 100%)",
+        "review_header_gradient": "linear-gradient(135deg, rgba(255, 194, 102, 1), rgba(255, 163, 26, 1) 100%)",
         "review_header_text_color": "#000000",
         "review_button_background": "#000000",
         "review_button_text_color": "#ffffff"
@@ -719,6 +719,41 @@
         "accordion_text_color": ""
       }
     },
+    "media_with_text_LahAeB": {
+      "type": "media-with-text",
+      "blocks": {
+        "image_3pNVPJ": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/final.jpg",
+            "media_width": 50,
+            "media_position": "start",
+            "text_position": "place-self-center text-center",
+            "icon": "none",
+            "icon_width": 48,
+            "subheading": "",
+            "title": "La confiance n’a pas d’âge",
+            "content": "<p>Votre peau raconte votre histoire.</p><p>Il n’est jamais trop tard pour recommencer à l’aimer</p>",
+            "link_text": "",
+            "link_url": "",
+            "background": "#b8a060",
+            "background_gradient": "",
+            "text_color": "#ffffff",
+            "text_gradient": "",
+            "button_background": "",
+            "button_text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_3pNVPJ"
+      ],
+      "name": "Media with text",
+      "settings": {
+        "full_width": false,
+        "spacing": "small"
+      }
+    },
     "contact_WrCYkM": {
       "type": "contact",
       "name": "Contact form",
@@ -754,6 +789,7 @@
     "1778529194f12a1542",
     "17785337522ccecb8c",
     "faq_J9hEAg",
+    "media_with_text_LahAeB",
     "contact_WrCYkM"
   ]
 }
