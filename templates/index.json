@@ -17,8 +17,8 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
-        "image": "shopify://shop_images/Template_Shop_2.png",
-        "mobile_image": "shopify://shop_images/Le_serum_qui_repare_vos_cils_detruits_7.png",
+        "image": "shopify://shop_images/Template_Shop.png",
+        "mobile_image": "shopify://shop_images/Le_serum_qui_repare_vos_cils_detruits.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
@@ -72,7 +72,7 @@
       "settings": {
         "full_width": true,
         "stack_mobile": false,
-        "title": "vu sur :",
+        "title": "VU DANS LES MÉDIAS :",
         "content": "",
         "text_alignment": "center",
         "items_per_row": 5,
@@ -91,8 +91,8 @@
         "image_LbEWEe": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Section_Benefice.png",
-            "mobile_image": "shopify://shop_images/Section_Benefices_MOBILE_7.png",
+            "image": "shopify://shop_images/Copie_de_Template_Section_benefice_1.png",
+            "mobile_image": "shopify://shop_images/Copie_de_Template_Section_benefice_1.png",
             "content_max_width": 780,
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
@@ -135,7 +135,7 @@
           "settings": {
             "show_trust_line": false,
             "trust_line_text": "",
-            "heading": "Elles en parlent le mieux",
+            "heading": "Des femmes qui recommencent enfin à se montrer",
             "subtitle": "",
             "heading_font": "poppins_n7",
             "heading_size_mobile": 24,
@@ -211,127 +211,77 @@
       ],
       "settings": {}
     },
-    "rich_text_FFKPHY": {
-      "type": "rich-text",
+    "multi_column_GmR6Ar": {
+      "type": "multi-column",
       "blocks": {
-        "heading_AxF9NL": {
-          "type": "heading",
+        "item_RdG8TG": {
+          "type": "item",
           "settings": {
-            "text": "Avant / Après",
-            "heading_tag": "h2",
-            "text_color": "",
-            "gradient": ""
+            "image": "shopify://shop_images/1_6aabcdf4-b847-4fc8-8059-9b3d7cdf3483.png",
+            "column_size": "3",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_94FE8G": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/2_47d5b876-31f3-475f-92ec-1ca6e99e712f.png",
+            "column_size": "3",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_wnBqEj": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/4_4f9be011-5ddf-48e8-ab5e-e99d771269dc.png",
+            "column_size": "3",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_thTy9r": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/3_b9759753-4899-4ee9-9463-4aab867e8326.png",
+            "column_size": "3",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
           }
         }
       },
       "block_order": [
-        "heading_AxF9NL"
+        "item_RdG8TG",
+        "item_94FE8G",
+        "item_wnBqEj",
+        "item_thTy9r"
       ],
-      "name": "Rich text",
+      "name": "Multi-column",
       "settings": {
         "full_width": true,
-        "content_width": "small",
-        "text_position": "center",
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
-      }
-    },
-    "slideshow_wEGCiB": {
-      "type": "slideshow",
-      "blocks": {
-        "image_AGnWyz": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/Marie.png",
-            "content_max_width": 780,
-            "mobile_text_position": "place-self-center text-center",
-            "desktop_text_position": "sm:place-self-center sm:text-center",
-            "subheading": "",
-            "title": "",
-            "heading_tag": "h0",
-            "button_text": "",
-            "button_link": "",
-            "text_color": "#ffffff",
-            "button_background": "#ffffff",
-            "button_text_color": "#000000",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0,
-            "background": "",
-            "background_gradient": ""
-          }
-        },
-        "image_qqYz8H": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/Brigitte.png",
-            "content_max_width": 780,
-            "mobile_text_position": "place-self-center text-center",
-            "desktop_text_position": "sm:place-self-center sm:text-center",
-            "subheading": "",
-            "title": "",
-            "heading_tag": "h0",
-            "button_text": "",
-            "button_link": "",
-            "text_color": "#ffffff",
-            "button_background": "#ffffff",
-            "button_text_color": "#000000",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0,
-            "background": "",
-            "background_gradient": ""
-          }
-        },
-        "image_Re6jqY": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/Sandrine.png",
-            "content_max_width": 780,
-            "mobile_text_position": "place-self-center text-center",
-            "desktop_text_position": "sm:place-self-center sm:text-center",
-            "subheading": "",
-            "title": "",
-            "heading_tag": "h0",
-            "button_text": "",
-            "button_link": "",
-            "text_color": "#ffffff",
-            "button_background": "#ffffff",
-            "button_text_color": "#000000",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0,
-            "background": "",
-            "background_gradient": ""
-          }
-        }
-      },
-      "block_order": [
-        "image_AGnWyz",
-        "image_qqYz8H",
-        "image_Re6jqY"
-      ],
-      "custom_css": [],
-      "name": "Slideshow",
-      "settings": {
-        "full_width": true,
-        "allow_transparent_header": true,
-        "image_size": "auto",
-        "controls_type": "numbers",
-        "transition_type": "fade",
-        "autoplay": false,
-        "cycle_speed": 6,
-        "background": "#f2f2f2",
-        "background_gradient": ""
-      }
-    },
-    "custom_liquid_VhXPBH": {
-      "type": "custom-liquid",
-      "disabled": true,
-      "name": "Custom Liquid",
-      "settings": {
-        "full_width": true,
-        "remove_vertical_spacing": false,
-        "remove_horizontal_spacing": false,
-        "liquid": "<style>\n.slideshow {\n  margin-bottom: 10px;\n}\n\n.slideshow__slide {\n  margin-bottom: 10px;\n}\n\n.slideshow-slide {\n  margin-bottom: 10px;\n}\n\n.slideshow img {\n  margin-bottom: 10px;\n}\n</style>",
+        "stack_on_mobile": false,
+        "gap": "medium",
+        "text_alignment": "center",
+        "subheading": "",
+        "title": "Après des années à cacher leurs bras, leur ventre ou leurs jambes.",
+        "content": "",
         "background": "",
         "background_gradient": "",
         "text_color": ""
@@ -375,7 +325,7 @@
         "liquid_rm3dVd": {
           "type": "liquid",
           "settings": {
-            "liquid": "<style>\n  .blink {\n    animation: blink-animation 1.5s steps(5, start) infinite;\n    color: red;\n    display: inline-block; /* Display as inline-block */\n    vertical-align: middle; /* Align vertically to middle */\n    font-size: 10px; /* Set font size */\n  }\n\n  @keyframes blink-animation {\n    to {\n      visibility: hidden;\n    }\n  }\n\n  .red-div {\n    /* background-color: #ffcccc; */ /* Background removed */\n    padding: 2px 10px; /* 6px vertical, 10px horizontal */\n    border-radius: 8px; /* Rounded corners */\n    display: inline-block; /* Display as inline-block */\n    text-align: center; /* Center align the content */\n    margin: 0 auto; /* Horizontally center the red-div */\n  }\n\n  .text {\n    display: inline-block; /* Display as inline-block */\n    vertical-align: middle; /* Align vertically to middle */\n    margin-left: 10px; /* Add some space between the dot and the text */\n    color: #AD0000; /* Text color */\n    font-weight: 500; /* Medium font weight */\n    font-size: 12px; /* Set font size */\n    text-align: justify; /* Justify the text to the center */\n  }\n</style>\n\n<div class=\"red-div\">\n  <div class=\"blink\">&#9679;</div>\n  <div class=\"text\">ATTENTION STOCK FAIBLE </div>\n</div>"
+            "liquid": "<style>\n  .blink {\n    animation: blink-animation 1.5s steps(5, start) infinite;\n    color: red;\n    display: inline-block; /* Display as inline-block */\n    vertical-align: middle; /* Align vertically to middle */\n    font-size: 10px; /* Set font size */\n  }\n\n  @keyframes blink-animation {\n    to {\n      visibility: hidden;\n    }\n  }\n\n  .red-div {\n    /* background-color: #ffcccc; */ /* Background removed */\n    padding: 2px 10px; /* 6px vertical, 10px horizontal */\n    border-radius: 8px; /* Rounded corners */\n    display: inline-block; /* Display as inline-block */\n    text-align: center; /* Center align the content */\n    margin: 0 auto; /* Horizontally center the red-div */\n  }\n\n  .text {\n    display: inline-block; /* Display as inline-block */\n    vertical-align: middle; /* Align vertically to middle */\n    margin-left: 10px; /* Add some space between the dot and the text */\n    color: #AD0000; /* Text color */\n    font-weight: 500; /* Medium font weight */\n    font-size: 12px; /* Set font size */\n    text-align: justify; /* Justify the text to the center */\n  }\n</style>\n\n<div class=\"red-div\">\n  <div class=\"blink\">&#9679;</div>\n  <div class=\"text\">ATTENTION STOCK FAIBLE : 3 </div>\n</div>"
           }
         },
         "buy_buttons_pNyf6M": {
@@ -796,9 +746,7 @@
     "logo_list_UErnmU",
     "slideshow_M6NLmc",
     "17783169356b18380c",
-    "rich_text_FFKPHY",
-    "slideshow_wEGCiB",
-    "custom_liquid_VhXPBH",
+    "multi_column_GmR6Ar",
     "featured_product_WTWXk8",
     "1778339350661d6e27",
     "rich_text_dRpCHe",
