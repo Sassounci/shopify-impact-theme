@@ -18,7 +18,7 @@
         "enable_parallax": false,
         "image_size": "auto",
         "image": "shopify://shop_images/Template_Shop.png",
-        "mobile_image": "shopify://shop_images/Le_serum_qui_repare_vos_cils_detruits.png",
+        "mobile_image": "shopify://shop_images/Le_serum_qui_repare_vos_cils_detruits_1.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
@@ -780,6 +780,41 @@
         "spacing": "small"
       }
     },
+    "media_with_text_CEwLJC": {
+      "type": "media-with-text",
+      "blocks": {
+        "image_XKGBP7": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/ChatGPT_Image_15_mai_2026_20_35_43.png",
+            "media_width": 50,
+            "media_position": "start",
+            "text_position": "place-self-center text-center",
+            "icon": "none",
+            "icon_width": 48,
+            "subheading": "",
+            "title": "",
+            "content": "<h4>Essayez l'huile SORA en toute confiance avec notre garantie de remboursement de 60 jours !</h4><p>Les spécialistes de la peau, les dermatologues et nos clients en témoignent : L'huile magique SORA offre des résultats visibles !<br/>Convaincus de son efficacité, nous vous proposons une garantie satisfait ou remboursé pendant 60 jours.<br/></p><p>Si vous n’obtenez pas les résultats escomptés nous vous remboursons intégralement.</p>",
+            "link_text": "",
+            "link_url": "",
+            "background": "#000000",
+            "background_gradient": "",
+            "text_color": "#ffffff",
+            "text_gradient": "",
+            "button_background": "",
+            "button_text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_XKGBP7"
+      ],
+      "name": "Media with text",
+      "settings": {
+        "full_width": false,
+        "spacing": "small"
+      }
+    },
     "contact_WrCYkM": {
       "type": "contact",
       "name": "Contact form",
@@ -817,6 +852,7 @@
     "17785337522ccecb8c",
     "faq_J9hEAg",
     "media_with_text_LahAeB",
+    "media_with_text_CEwLJC",
     "contact_WrCYkM"
   ]
 }
