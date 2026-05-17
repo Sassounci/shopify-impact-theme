@@ -210,23 +210,20 @@
     },
     "gp_section_619903887897264987": {
       "settings": {
-        "checksum": "c7b5e5009fff0c1f6751c2499c369d6cb3b029381151fc58c326ac39c890c0db_1_1_1_0__1",
-        "ggCB4uYFONT_childItem_0": "<p>Peau visiblement plus souple</p>",
-        "ggCB4uYFONT_childItem_1": "<p>Absorption rapide</p>",
-        "ggCB4uYFONT_childItem_2": "<p>Texture non grasse</p>",
+        "checksum": "ae8d96d2e1a2e244808091d71cbea20a89b8fb30224670a1657e5d2c799c7c41_1_1_1_0__1",
+        "ggCB4uYFONT_childItem_0": "<p>Expédié en 48h</p>",
+        "ggCB4uYFONT_childItem_1": "<p>Paiement sécurisé</p>",
+        "ggCB4uYFONT_childItem_2": "<p>Garantie 100% satisfait ou remboursé</p>",
         "ggIciE5fKw7_text": "<p>Plus de 15 000 femmes convaincues</p>",
         "ggN1EnPqUb3_text": "<p>Pensée pour les peaux matures, relâchées et froissées ✨</p>",
-        "ggT1UFXU-L2_text": "<p>I absolutely love it!</p>",
-        "ggXPRbJfTus_text": "<p>“I started taking GemFlex Collagen every morning and within a few weeks I noticed my skin looking smoother and more hydrated than before. My hair also feels stronger and my nails don’t break as easily. It’s such an easy addition to my daily routine and I genuinely feel more confident about my skin.”</p>",
+        "ggUmb1R-I9d_srcSet_desktop_src": "https://cdn.shopify.com/s/files/1/2005/9307/files/image_demo.jpg",
+        "ggUmb1R-I9d_srcSet_mobile_src": "https://cdn.shopify.com/s/files/1/0988/0413/8328/files/Ajouter_un_sous-titre_2.jpg?v=1778340841",
         "ggZGa1QVcXR_errorMessage": "Cannot add product to cart",
         "ggZGa1QVcXR_label": "Je veux retrouver confiance",
         "ggZGa1QVcXR_outOfStockLabel": "Out of stock",
         "ggZGa1QVcXR_successMessage": "Add product to cart successfully",
         "ggZGa1QVcXR_unavailableLabel": "Unavailable",
         "ggZGa1QVcXR_variantSelectionRequiredMessage": "Please select a variant to add product to cart",
-        "ggbMS1xhwD8_srcSet_desktop_src": "https://cdn.shopify.com/s/files/1/0946/3011/7697/files/nh_3.png",
-        "ggnFEjzz7sO_text": "<p>Olivia Carter</p>",
-        "gguvJDwWxQs_text": "<p>Verified Buyer</p>",
         "section_preload": "true"
       },
       "type": "gp-section-619903887897264987"
@@ -290,10 +287,22 @@
         "ggz0-1Gye9r_text": "<p>Verified Expert</p>"
       },
       "type": "gp-section-619903888736125525"
+    },
+    "gp_section_619906306685272661": {
+      "settings": {
+        "checksum": "ffd7f27c2af2e5d7785577423c3446e6f2e7f8090bb47752137ae18fee84034b_1_1_1_0__1",
+        "ggT1UFXU-L2_text": "<p>I absolutely love it!</p>",
+        "ggXPRbJfTus_text": "<p>“I started taking GemFlex Collagen every morning and within a few weeks I noticed my skin looking smoother and more hydrated than before. My hair also feels stronger and my nails don’t break as easily. It’s such an easy addition to my daily routine and I genuinely feel more confident about my skin.”</p>",
+        "ggbMS1xhwD8_srcSet_desktop_src": "https://cdn.shopify.com/s/files/1/0946/3011/7697/files/nh_3.png",
+        "ggnFEjzz7sO_text": "<p>Olivia Carter</p>",
+        "gguvJDwWxQs_text": "<p>Verified Buyer</p>"
+      },
+      "type": "gp-section-619906306685272661"
     }
   },
   "order": [
     "gp_section_619903887897264987",
+    "gp_section_619906306685272661",
     "gp_section_619903887595275057",
     "gp_section_619903884961252187",
     "gp_section_619903884139168469",
