@@ -25,7 +25,7 @@
     },
     "gp_section_620027659392385994": {
       "settings": {
-        "checksum": "6bfa3c339c5c684ea4c8da7e14349614d0e088c8e1607f1074a62b99e416ec86_1_1_1_0__1",
+        "checksum": "02686bdf1ea3d9df6b01274b3b1dc4923eeee83e6944e70b30c99934579177fa_1_1_1_0__1",
         "gg3eZa_cD2h_srcSet_desktop_src": "https://cdn.shopify.com/s/files/1/2005/9307/files/gempages_432750572815254551-18635748-8903-4856-abf3-9296e066d3eb.png?v=1717581734",
         "gg48K8rMNQ__text": "<p>La promotion se termine à minuit | Stock Faible</p>",
         "gg6zqCCtnzx_text": "<p>\"Je cachais mes bras depuis des années. Après quelques semaines, ma peau semblait plus souple et lumineuse. Aujourd'hui, je porte enfin des robes sans manches sans complexe.\"&nbsp;</p>",
@@ -82,7 +82,7 @@
     },
     "gp_section_620043869890806730": {
       "settings": {
-        "checksum": "3d4104ff9f4a4c78f1d8f4e1db8743218b79c5304e8d19b39b901bd50aa2eef1_1_1_1_0__1",
+        "checksum": "2e364b9acb8f8d76d39c128d2065c08329e82704463e371e69198287956ab10c_1_1_1_0__1",
         "gg7Y37BWyzw_srcSet_desktop_src": "https://cdn.shopify.com/s/files/1/0988/0413/8328/files/Isabelle.png?v=1777981010",
         "gg7Y37BWyzw_srcSet_mobile_src": "https://cdn.shopify.com/s/files/1/0988/0413/8328/files/Isabelle.png?v=1777981010",
         "gg8Ci8_o4cE_text": "Pourquoi des milliers de femmes ne peuvent plus s’en passer",
@@ -155,10 +155,26 @@
         "ggza6P-XhP9_srcSet_desktop_src": "https://cdn.shopify.com/s/files/1/2005/9307/files/432750572815254551-86e3c9c3-3d38-47ca-8a24-ccf9e66a76bf.svg"
       },
       "type": "gp-section-620069284554474143"
+    },
+    "gp_section_620072631592288867": {
+      "settings": {
+        "checksum": "dece273926dc4cad5f372a7e97796723879f22fd5a357306ee72b3202a96680f_1_1_1_0__1",
+        "gg-erPDDV7v_text": "Avant/Après",
+        "gg0Uk-5sJCB_srcSet_desktop_src": "https://cdn.shopify.com/s/files/1/2005/9307/files/image_demo.jpg",
+        "gg0Uk-5sJCB_srcSet_mobile_src": "https://cdn.shopify.com/s/files/1/0988/0413/8328/files/2_47d5b876-31f3-475f-92ec-1ca6e99e712f.png?v=1778796060",
+        "gg8eog0rEDL_srcSet_desktop_src": "https://cdn.shopify.com/s/files/1/2005/9307/files/image_demo.jpg",
+        "gg8eog0rEDL_srcSet_mobile_src": "https://cdn.shopify.com/s/files/1/0988/0413/8328/files/4_4f9be011-5ddf-48e8-ab5e-e99d771269dc.png?v=1778796060",
+        "ggAOCH8LTrs_srcSet_desktop_src": "https://cdn.shopify.com/s/files/1/2005/9307/files/image_demo.jpg",
+        "ggAOCH8LTrs_srcSet_mobile_src": "https://cdn.shopify.com/s/files/1/0988/0413/8328/files/1_6aabcdf4-b847-4fc8-8059-9b3d7cdf3483.png?v=1778796060",
+        "ggCLzEqAZac_srcSet_desktop_src": "https://cdn.shopify.com/s/files/1/2005/9307/files/image_demo.jpg",
+        "ggCLzEqAZac_srcSet_mobile_src": "https://cdn.shopify.com/s/files/1/0988/0413/8328/files/3_b9759753-4899-4ee9-9463-4aab867e8326.png?v=1778796060"
+      },
+      "type": "gp-section-620072631592288867"
     }
   },
   "order": [
     "gp_section_620027659392385994",
+    "gp_section_620072631592288867",
     "gp_section_620041343325963239",
     "gp_section_620027658268312223",
     "gp_section_620043869890806730",
