@@ -159,18 +159,6 @@
       },
       "type": "gp-section-620063745539834467"
     },
-    "gp_section_620069284554474143": {
-      "settings": {
-        "checksum": "f0bdc23b9e59558670bf7f5f5e254aa6950bf439c21207534bd697fdb1688b42_1_1_1_0__1",
-        "ggO9GkL3HYK_srcSet_desktop_src": "https://cdn.shopify.com/s/files/1/2005/9307/files/432750572815254551-55e4a0fd-8097-43be-86e3-ee3bab9028b0.svg",
-        "ggVyGXlJnGZ_text": "<p>SAV Disponible 7j/7j</p>",
-        "ggc4T39ig7G_srcSet_desktop_src": "https://cdn.shopify.com/s/files/1/2005/9307/files/432750572815254551-e5125dd1-a438-4f9e-8a8c-69bc47f9cb73.svg",
-        "ggimqMOfBZo_text": "<p>100% Satisfait ou Remboursé</p>",
-        "ggoSHnwZAdA_text": "<p>Livraison Gratuite</p>",
-        "ggza6P-XhP9_srcSet_desktop_src": "https://cdn.shopify.com/s/files/1/2005/9307/files/432750572815254551-86e3c9c3-3d38-47ca-8a24-ccf9e66a76bf.svg"
-      },
-      "type": "gp-section-620069284554474143"
-    },
     "gp_section_620072631592288867": {
       "settings": {
         "checksum": "99e1f2f11bed9a6b863db243cdce17a29d3a17e65deb31a6ab14a581f3da3600_1_1_1_0__1",
@@ -213,7 +201,6 @@
     "gp_section_620062560950944743",
     "gp_section_620049488681108127",
     "gp_section_620063745539834467",
-    "gp_section_620163007099438055",
-    "gp_section_620069284554474143"
+    "gp_section_620163007099438055"
   ]
 }
