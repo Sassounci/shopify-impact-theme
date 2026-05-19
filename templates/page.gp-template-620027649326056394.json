@@ -185,6 +185,23 @@
         "ggCLzEqAZac_srcSet_mobile_src": "https://cdn.shopify.com/s/files/1/0988/0413/8328/files/3_b9759753-4899-4ee9-9463-4aab867e8326.png?v=1778796060"
       },
       "type": "gp-section-620072631592288867"
+    },
+    "gp_section_620163007099438055": {
+      "settings": {
+        "checksum": "631ffe0d15f9c8bf3b7f6d96d26b39303103547111c825c2515003e89558eb60_1_1_1_0__1",
+        "gg1h7fKWhos_placeholder": "Nom",
+        "gg6nksbZA9b_label": "Envoyer",
+        "gg81VzPq0Ye_text": "<strong>Une question ?</strong>",
+        "ggONJVlRuHl_placeholder": "Entrez votre message",
+        "ggSc57SikrD_text": "<p>Notre équipe vous réponds sous 24h.</p><p>&nbsp;</p><p>Horaires : Lun à Ven : 9h - 17h et Sam et Dim : 14h - 16h</p>",
+        "ggV9zh6nclV_text": "<p>MESSAGE</p>",
+        "gg_3GT0rrQI_errorMessage": "Can’t send email. Please try again later.",
+        "gg_3GT0rrQI_successMessage": "Thanks for contacting us. We'll get back to you as soon as possible.",
+        "ggdT6OhbX7N_placeholder": "Entrez votre mail",
+        "gggpM4ouLi8_text": "<p>Email</p>",
+        "ggpyBZxWKVK_text": "<p>Nom</p>"
+      },
+      "type": "gp-section-620163007099438055"
     }
   },
   "order": [
@@ -196,6 +213,7 @@
     "gp_section_620062560950944743",
     "gp_section_620049488681108127",
     "gp_section_620063745539834467",
+    "gp_section_620163007099438055",
     "gp_section_620069284554474143"
   ]
 }
