@@ -64,8 +64,8 @@
       "settings": {
         "enable_sticky": false,
         "hide_on_scroll": true,
-        "logo": "shopify://shop_images/LOGO_3.png",
-        "logo_max_width": 120,
+        "logo": "shopify://shop_images/Logo_AuRyde.com_1.png",
+        "logo_max_width": 100,
         "logo_mobile_max_width": 100,
         "menu": "main-menu",
         "sidebar_menu": "",
