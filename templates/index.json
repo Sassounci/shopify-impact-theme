@@ -190,6 +190,53 @@
         "overlay_opacity": 30
       }
     },
+    "1780332775e112adf1": {
+      "type": "_blocks",
+      "blocks": {
+        "ai_gen_block_c411a0d_NYL6Ny": {
+          "type": "ai_gen_block_c411a0d",
+          "settings": {
+            "section_title": "CE QU'ILS ONT RESSENTI",
+            "title_font": "poppins_n4",
+            "title_size": 32,
+            "title_spacing": 20,
+            "text_font": "open_sans_n4",
+            "section_background": "#FAFAFA",
+            "title_color": "#1a1a1a",
+            "text_color": "#1a1a1a",
+            "image_border_radius": 16,
+            "section_padding_top": 60,
+            "section_padding_bottom": 60,
+            "verified_text": "Avis vérifié ✓",
+            "testimonial_1_enabled": true,
+            "testimonial_1_image": "shopify://shop_images/Screenshot_2026-02-02_at_19.26.00.png",
+            "testimonial_1_name": "Nicolas B. - BMW R1250GS · Grand touriseur",
+            "testimonial_1_text": "J'avais peur de me sentir isolé de la route. C'est exactement le contraire. J'entends mieux l'intercom qu'avant. Le vent est parti, le reste est là. Fini les oreilles qui sifflent le soir après 500 km dans les Alpes.",
+            "testimonial_2_enabled": true,
+            "testimonial_2_image": "shopify://shop_images/Screenshot_2026-02-02_at_19.27.39.png",
+            "testimonial_2_name": "Thomas M. - Kawasaki Z900 · Trajet quotidien A75",
+            "testimonial_2_text": "Au bout d'une heure j'avais oublié qu'ils étaient là. À l'arrivée, j'étais encore dispos — première fois sur un trajet de 3h. Ma femme m'a dit que je semblais moins tendu. Elle a commandé une paire pour son casque.",
+            "testimonial_3_enabled": true,
+            "testimonial_3_name": "Sophie L. - Honda CB650R · Week-end moto",
+            "testimonial_3_text": "J'avais essayé des bouchons classiques mais tombaient ou faisaient mal. 4 tailles incluses — j'ai trouvé la bonne taille, ils tiennent toute la journée. Le lendemain : aucun sifflement. Aucun. Première fois depuis des années.",
+            "testimonial_4_enabled": true,
+            "testimonial_4_name": "Fati M.",
+            "testimonial_4_text": "J'avais souvent des boutons et des taches qui restaient longtemps sur ma peau. Après quelques semaines d'utilisation, ma peau est devenue plus nette et les taches ont commencé à diminuer.",
+            "testimonial_5_enabled": false,
+            "testimonial_5_name": "",
+            "testimonial_5_text": "",
+            "testimonial_6_enabled": false,
+            "testimonial_6_name": "",
+            "testimonial_6_text": ""
+          },
+          "blocks": {}
+        }
+      },
+      "block_order": [
+        "ai_gen_block_c411a0d_NYL6Ny"
+      ],
+      "settings": {}
+    },
     "contact_WrCYkM": {
       "type": "contact",
       "name": "Contact form",
@@ -218,6 +265,7 @@
     "rich_text_W4fRim",
     "slideshow_E6ceft",
     "video_A8bMhL",
+    "1780332775e112adf1",
     "contact_WrCYkM"
   ]
 }
