@@ -243,10 +243,6 @@
     "featured_product_6PnjbV": {
       "type": "featured-product",
       "blocks": {
-        "vendor_nnt7FP": {
-          "type": "vendor",
-          "settings": {}
-        },
         "title_VyCRpG": {
           "type": "title",
           "settings": {
@@ -310,7 +306,6 @@
         }
       },
       "block_order": [
-        "vendor_nnt7FP",
         "title_VyCRpG",
         "badges_wUd9x4",
         "price_8W94WW",
