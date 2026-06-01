@@ -201,7 +201,7 @@
             "title_size": 32,
             "title_spacing": 20,
             "text_font": "open_sans_n4",
-            "section_background": "#fafafa",
+            "section_background": "rgba(0,0,0,0)",
             "title_color": "#1a1a1a",
             "text_color": "#1a1a1a",
             "image_border_radius": 16,
