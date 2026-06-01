@@ -24,7 +24,7 @@
         "message_E6kgcy": {
           "type": "message",
           "settings": {
-            "text": "2 ACHETÉS + 1 OFFERT aujourd'hui seulement",
+            "text": "1 ACHETÉ + 1 OFFERT aujourd'hui seulement",
             "url": ""
           }
         },
@@ -64,7 +64,6 @@
       "settings": {
         "enable_sticky": false,
         "hide_on_scroll": true,
-        "logo": "shopify://shop_images/Logo_AuRyde.com_1.png",
         "logo_max_width": 100,
         "logo_mobile_max_width": 100,
         "menu": "main-menu",
