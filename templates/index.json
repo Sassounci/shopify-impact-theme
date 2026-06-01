@@ -240,6 +240,107 @@
       ],
       "settings": {}
     },
+    "featured_product_db9bpV": {
+      "type": "featured-product",
+      "blocks": {
+        "vendor_cVrQ4L": {
+          "type": "vendor",
+          "settings": {}
+        },
+        "title_FWeQtN": {
+          "type": "title",
+          "settings": {
+            "heading_tag": "h2"
+          }
+        },
+        "badges_hb7zUb": {
+          "type": "badges",
+          "settings": {}
+        },
+        "price_fcH9hW": {
+          "type": "price",
+          "settings": {
+            "show_taxes_notice": false
+          }
+        },
+        "rating_EByHfM": {
+          "type": "rating",
+          "settings": {
+            "show_empty": false
+          }
+        },
+        "separator_BywxHU": {
+          "type": "separator",
+          "settings": {}
+        },
+        "description_bxPjjr": {
+          "type": "description",
+          "settings": {
+            "collapse_content": false
+          }
+        },
+        "variant_picker_MbNpf4": {
+          "type": "variant_picker",
+          "settings": {
+            "hide_sold_out_variants": false,
+            "stack_blocks": true,
+            "selector_mode": "block",
+            "color_mode": "color",
+            "size_chart_page": ""
+          }
+        },
+        "quantity_selector_djzP7V": {
+          "type": "quantity_selector",
+          "settings": {}
+        },
+        "buy_buttons_RqMUbq": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_payment_button": true,
+            "show_gift_card_recipient": true,
+            "atc_button_background": "",
+            "atc_button_text_color": "",
+            "payment_button_background": "",
+            "payment_button_text_color": ""
+          }
+        },
+        "pickup_availability_7YVcVE": {
+          "type": "pickup_availability",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "vendor_cVrQ4L",
+        "title_FWeQtN",
+        "badges_hb7zUb",
+        "price_fcH9hW",
+        "rating_EByHfM",
+        "separator_BywxHU",
+        "description_bxPjjr",
+        "variant_picker_MbNpf4",
+        "quantity_selector_djzP7V",
+        "buy_buttons_RqMUbq",
+        "pickup_availability_7YVcVE"
+      ],
+      "name": "Featured product",
+      "settings": {
+        "full_width": true,
+        "product": "bouchons-anti-bruits-freshride™",
+        "desktop_media_width": 55,
+        "desktop_media_layout": "carousel_thumbnails_left",
+        "mobile_media_size": "expanded",
+        "mobile_carousel_control": "floating_dots",
+        "enable_video_autoplay": true,
+        "enable_video_looping": false,
+        "enable_image_zoom": true,
+        "max_image_zoom_level": 3,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "input_background": "rgba(0,0,0,0)",
+        "input_text_color": ""
+      }
+    },
     "featured_product_6PnjbV": {
       "type": "featured-product",
       "blocks": {
@@ -365,6 +466,7 @@
     "slideshow_E6ceft",
     "video_A8bMhL",
     "1780332775e112adf1",
+    "featured_product_db9bpV",
     "featured_product_6PnjbV",
     "contact_WrCYkM"
   ]
