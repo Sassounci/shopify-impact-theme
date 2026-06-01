@@ -46,7 +46,7 @@
         "transition_type": "fade_with_text",
         "autoplay": false,
         "cycle_speed": 6,
-        "background": "#F2F2F2",
+        "background": "#f2f2f2",
         "background_gradient": ""
       }
     },
@@ -154,7 +154,7 @@
         "transition_type": "fade_with_text",
         "autoplay": false,
         "cycle_speed": 6,
-        "background": "#F2F2F2",
+        "background": "#f2f2f2",
         "background_gradient": ""
       }
     },
@@ -201,7 +201,7 @@
             "title_size": 32,
             "title_spacing": 20,
             "text_font": "open_sans_n4",
-            "section_background": "#FAFAFA",
+            "section_background": "#fafafa",
             "title_color": "#1a1a1a",
             "text_color": "#1a1a1a",
             "image_border_radius": 16,
@@ -240,46 +240,46 @@
       ],
       "settings": {}
     },
-    "featured_product_db9bpV": {
+    "featured_product_PtaY4U": {
       "type": "featured-product",
       "blocks": {
-        "vendor_cVrQ4L": {
+        "vendor_ixzebg": {
           "type": "vendor",
           "settings": {}
         },
-        "title_FWeQtN": {
+        "title_fqYw7D": {
           "type": "title",
           "settings": {
             "heading_tag": "h2"
           }
         },
-        "badges_hb7zUb": {
+        "badges_WyqMGB": {
           "type": "badges",
           "settings": {}
         },
-        "price_fcH9hW": {
+        "price_mTXThE": {
           "type": "price",
           "settings": {
             "show_taxes_notice": false
           }
         },
-        "rating_EByHfM": {
+        "rating_z9nM4P": {
           "type": "rating",
           "settings": {
             "show_empty": false
           }
         },
-        "separator_BywxHU": {
+        "separator_RXUpfb": {
           "type": "separator",
           "settings": {}
         },
-        "description_bxPjjr": {
+        "description_LDwx4H": {
           "type": "description",
           "settings": {
             "collapse_content": false
           }
         },
-        "variant_picker_MbNpf4": {
+        "variant_picker_CXMpPM": {
           "type": "variant_picker",
           "settings": {
             "hide_sold_out_variants": false,
@@ -289,11 +289,11 @@
             "size_chart_page": ""
           }
         },
-        "quantity_selector_djzP7V": {
+        "quantity_selector_YdTCJd": {
           "type": "quantity_selector",
           "settings": {}
         },
-        "buy_buttons_RqMUbq": {
+        "buy_buttons_GYFYqF": {
           "type": "buy_buttons",
           "settings": {
             "show_payment_button": true,
@@ -304,119 +304,23 @@
             "payment_button_text_color": ""
           }
         },
-        "pickup_availability_7YVcVE": {
+        "pickup_availability_HhC6TV": {
           "type": "pickup_availability",
           "settings": {}
         }
       },
       "block_order": [
-        "vendor_cVrQ4L",
-        "title_FWeQtN",
-        "badges_hb7zUb",
-        "price_fcH9hW",
-        "rating_EByHfM",
-        "separator_BywxHU",
-        "description_bxPjjr",
-        "variant_picker_MbNpf4",
-        "quantity_selector_djzP7V",
-        "buy_buttons_RqMUbq",
-        "pickup_availability_7YVcVE"
-      ],
-      "name": "Featured product",
-      "settings": {
-        "full_width": true,
-        "product": "bouchons-anti-bruits-freshride™",
-        "desktop_media_width": 55,
-        "desktop_media_layout": "carousel_thumbnails_left",
-        "mobile_media_size": "expanded",
-        "mobile_carousel_control": "floating_dots",
-        "enable_video_autoplay": true,
-        "enable_video_looping": false,
-        "enable_image_zoom": true,
-        "max_image_zoom_level": 3,
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "input_background": "rgba(0,0,0,0)",
-        "input_text_color": ""
-      }
-    },
-    "featured_product_6PnjbV": {
-      "type": "featured-product",
-      "blocks": {
-        "title_VyCRpG": {
-          "type": "title",
-          "settings": {
-            "heading_tag": "h2"
-          }
-        },
-        "badges_wUd9x4": {
-          "type": "badges",
-          "settings": {}
-        },
-        "price_8W94WW": {
-          "type": "price",
-          "settings": {
-            "show_taxes_notice": false
-          }
-        },
-        "rating_CmmARn": {
-          "type": "rating",
-          "settings": {
-            "show_empty": false
-          }
-        },
-        "separator_xqGtyM": {
-          "type": "separator",
-          "settings": {}
-        },
-        "description_jDEqTK": {
-          "type": "description",
-          "settings": {
-            "collapse_content": false
-          }
-        },
-        "variant_picker_4PaEqY": {
-          "type": "variant_picker",
-          "settings": {
-            "hide_sold_out_variants": false,
-            "stack_blocks": true,
-            "selector_mode": "block",
-            "color_mode": "color",
-            "size_chart_page": ""
-          }
-        },
-        "quantity_selector_jaLjYg": {
-          "type": "quantity_selector",
-          "settings": {}
-        },
-        "buy_buttons_GdRWHY": {
-          "type": "buy_buttons",
-          "settings": {
-            "show_payment_button": true,
-            "show_gift_card_recipient": true,
-            "atc_button_background": "",
-            "atc_button_text_color": "",
-            "payment_button_background": "",
-            "payment_button_text_color": ""
-          }
-        },
-        "pickup_availability_iMh4e8": {
-          "type": "pickup_availability",
-          "settings": {}
-        }
-      },
-      "block_order": [
-        "title_VyCRpG",
-        "badges_wUd9x4",
-        "price_8W94WW",
-        "rating_CmmARn",
-        "separator_xqGtyM",
-        "description_jDEqTK",
-        "variant_picker_4PaEqY",
-        "quantity_selector_jaLjYg",
-        "buy_buttons_GdRWHY",
-        "pickup_availability_iMh4e8"
+        "vendor_ixzebg",
+        "title_fqYw7D",
+        "badges_WyqMGB",
+        "price_mTXThE",
+        "rating_z9nM4P",
+        "separator_RXUpfb",
+        "description_LDwx4H",
+        "variant_picker_CXMpPM",
+        "quantity_selector_YdTCJd",
+        "buy_buttons_GYFYqF",
+        "pickup_availability_HhC6TV"
       ],
       "name": "Featured product",
       "settings": {
@@ -466,8 +370,7 @@
     "slideshow_E6ceft",
     "video_A8bMhL",
     "1780332775e112adf1",
-    "featured_product_db9bpV",
-    "featured_product_6PnjbV",
+    "featured_product_PtaY4U",
     "contact_WrCYkM"
   ]
 }
