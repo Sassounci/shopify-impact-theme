@@ -243,84 +243,36 @@
     "featured_product_PtaY4U": {
       "type": "featured-product",
       "blocks": {
-        "vendor_ixzebg": {
-          "type": "vendor",
-          "settings": {}
+        "liquid_wdVhEM": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n    <meta charset=\"UTF-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <title>Rating Widget</title>\n    <style>\n        body.unique-body-123 {\n            font-family: Open sans, Open sans;\n        }\n\n        .rating-widget-123 {\n            display: flex;\n            align-items: center;\n        }\n\n        .profile-images-123 {\n            display: flex;\n            align-items: center;\n            margin-right: 20px; /* Resimlerden uzaklaştırmak için artırıldı */\n        }\n\n        .profile-images-123 img {\n            width: 30px;\n            height: 30px;\n            border-radius: 50%;\n            margin-right: -10px;\n            border: 2px solid white;\n        }\n\n        .rating-123 {\n            display: flex;\n            align-items: center;\n        }\n\n        .rating-text-123 {\n            font-size: 16px; /* Font boyutu küçültüldü */\n        }\n\n        .highlight-123 {\n            color: #e87010; /* Tomato color for highlights */\n            font-weight: bold;\n        }\n    </style>\n</head>\n<body class=\"unique-body-123\">\n\n    <div class=\"rating-widget-123\">\n        <div class=\"profile-images-123\">\n            <img src=\"https://randomuser.me/api/portraits/men/1.jpg\" alt=\"Profile 1\">\n            <img src=\"https://randomuser.me/api/portraits/women/1.jpg\" alt=\"Profile 2\">\n            <img src=\"https://randomuser.me/api/portraits/men/2.jpg\" alt=\"Profile 3\">\n        </div>\n        <div class=\"rating-123\">\n            <span class=\"rating-text-123\">Noté <span class=\"highlight-123\">4.8/5</span> par <span class=\"highlight-123\">+2 000 Motards</span></span>\n        </div>\n    </div>\n\n</body>\n</html>"
+          }
         },
         "title_fqYw7D": {
           "type": "title",
           "settings": {
-            "heading_tag": "h2"
+            "heading_tag": "h3"
           }
         },
-        "badges_WyqMGB": {
-          "type": "badges",
-          "settings": {}
-        },
-        "price_mTXThE": {
-          "type": "price",
+        "liquid_eexxF4": {
+          "type": "liquid",
           "settings": {
-            "show_taxes_notice": false
+            "liquid": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n    <meta charset=\"UTF-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <link rel=\"stylesheet\" href=\"https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap\">\n    <style>\n        .unique-sale-badge-XyZ123 {\n            display: inline-flex;\n            align-items: center;\n            font-family: 'Roboto', sans-serif;\n            font-size: 14px;\n            color: #ff9900; /* Orange color */\n        }\n\n        .unique-highlight-AbC456 {\n            background-color: #ffe6cc; /* Light orange background */\n            padding: 2px 5px;\n            border-radius: 3px;\n            font-weight: bold;\n            color: #ff9900; /* Orange text color */\n            display: inline-flex;\n            align-items: center;\n        }\n\n        .unique-highlight-AbC456 .unique-special-DeF789 {\n            margin-left: 3px; /* Space between text */\n        }\n\n        .unique-separator-GhI012 {\n            margin: 0 10px; /* Space around the separator */\n        }\n\n        .unique-extra-JkL345 {\n            display: inline-flex;\n            align-items: center;\n            color: #ff9900; /* Orange color */\n            font-weight: bold;\n            animation: unique-blink-MnO678 1s infinite; /* Blinking animation */\n        }\n\n        @keyframes unique-blink-MnO678 {\n            0%, 100% {\n                opacity: 1;\n            }\n            50% {\n                opacity: 0.5;\n            }\n        }\n    </style>\n    <title>Special Sale</title>\n</head>\n<body class=\"unique-body-PqR910\">\n    <div class=\"unique-sale-badge-XyZ123\">\n        <div class=\"unique-highlight-AbC456\">\n            <span class=\"unique-special-DeF789\">PROMO</span>\n        </div>\n        <div class=\"unique-separator-GhI012\">|</div>\n        <div class=\"unique-extra-JkL345\">\n            <span>Offre Spéciale, Stock limité!</span>\n        </div>\n    </div>\n</body>\n</html>"
           }
         },
-        "rating_z9nM4P": {
-          "type": "rating",
+        "rapi_rapi_bundle_npXhKX": {
+          "type": "shopify://apps/rapi/blocks/rapi-bundle/99617c17-a32b-4e70-a883-7a155610d032",
           "settings": {
-            "show_empty": false
+            "product": "{{section.settings.product}}"
           }
-        },
-        "separator_RXUpfb": {
-          "type": "separator",
-          "settings": {}
-        },
-        "description_LDwx4H": {
-          "type": "description",
-          "settings": {
-            "collapse_content": false
-          }
-        },
-        "variant_picker_CXMpPM": {
-          "type": "variant_picker",
-          "settings": {
-            "hide_sold_out_variants": false,
-            "stack_blocks": true,
-            "selector_mode": "block",
-            "color_mode": "color",
-            "size_chart_page": ""
-          }
-        },
-        "quantity_selector_YdTCJd": {
-          "type": "quantity_selector",
-          "settings": {}
-        },
-        "buy_buttons_GYFYqF": {
-          "type": "buy_buttons",
-          "settings": {
-            "show_payment_button": true,
-            "show_gift_card_recipient": true,
-            "atc_button_background": "",
-            "atc_button_text_color": "",
-            "payment_button_background": "",
-            "payment_button_text_color": ""
-          }
-        },
-        "pickup_availability_HhC6TV": {
-          "type": "pickup_availability",
-          "settings": {}
         }
       },
       "block_order": [
-        "vendor_ixzebg",
+        "liquid_wdVhEM",
         "title_fqYw7D",
-        "badges_WyqMGB",
-        "price_mTXThE",
-        "rating_z9nM4P",
-        "separator_RXUpfb",
-        "description_LDwx4H",
-        "variant_picker_CXMpPM",
-        "quantity_selector_YdTCJd",
-        "buy_buttons_GYFYqF",
-        "pickup_availability_HhC6TV"
+        "liquid_eexxF4",
+        "rapi_rapi_bundle_npXhKX"
       ],
       "name": "Featured product",
       "settings": {
