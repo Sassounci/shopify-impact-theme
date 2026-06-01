@@ -9,13 +9,13 @@
  */
 {
   "sections": {
-    "slideshow_ptfbGQ": {
+    "slideshow_MQWERt": {
       "type": "slideshow",
       "blocks": {
-        "image_rH3cdB": {
+        "image_yfnhEM": {
           "type": "image",
           "settings": {
-            "mobile_image": "shopify://shop_images/Hero_section_Auryde.png",
+            "image": "shopify://shop_images/Hero_section_Auryde.png",
             "content_max_width": 780,
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
@@ -35,7 +35,7 @@
         }
       },
       "block_order": [
-        "image_rH3cdB"
+        "image_yfnhEM"
       ],
       "name": "Slideshow",
       "settings": {
@@ -46,7 +46,7 @@
         "transition_type": "fade_with_text",
         "autoplay": false,
         "cycle_speed": 6,
-        "background": "#f2f2f2",
+        "background": "#F2F2F2",
         "background_gradient": ""
       }
     },
@@ -73,7 +73,7 @@
     }
   },
   "order": [
-    "slideshow_ptfbGQ",
+    "slideshow_MQWERt",
     "contact_WrCYkM"
   ]
 }
