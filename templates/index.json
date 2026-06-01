@@ -158,6 +158,38 @@
         "background_gradient": ""
       }
     },
+    "video_A8bMhL": {
+      "type": "video",
+      "blocks": {
+        "play_Nrxj3N": {
+          "type": "play",
+          "settings": {}
+        },
+        "heading_jtjRdn": {
+          "type": "heading",
+          "settings": {
+            "text": "Ecoutez le avant après",
+            "heading_tag": "h3"
+          }
+        }
+      },
+      "block_order": [
+        "play_Nrxj3N",
+        "heading_jtjRdn"
+      ],
+      "name": "Video",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "autoplay": false,
+        "video_size": "auto",
+        "video": "shopify://files/videos/❌ Sans bouchon AuRyde.mp4",
+        "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 30
+      }
+    },
     "contact_WrCYkM": {
       "type": "contact",
       "name": "Contact form",
@@ -185,6 +217,7 @@
     "logo_list_fW8wkX",
     "rich_text_W4fRim",
     "slideshow_E6ceft",
+    "video_A8bMhL",
     "contact_WrCYkM"
   ]
 }
