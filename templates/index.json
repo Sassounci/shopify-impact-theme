@@ -504,6 +504,98 @@
         "heading_gradient": ""
       }
     },
+    "image_link_blocks_mnLpFm": {
+      "type": "image-link-blocks",
+      "blocks": {
+        "item_pkyeMD": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/3b5068ed61820f57ebd022e2446b7ac0.jpg",
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "item_W6iFTR": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/75197758229af42cc3a3ad7d7bb01768.jpg",
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "item_8aRCKy": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/df2e2b00dffdf7c6fc4e05afbb316cb1.jpg",
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "item_QHBWCJ": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/9d218a0c8cc70711d5ddeaacf713128e.jpg",
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "item_fnKFpJ": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/4a0b69f9c99d793fcd6c5d02d8de84af.jpg",
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "item_pkyeMD",
+        "item_W6iFTR",
+        "item_8aRCKy",
+        "item_QHBWCJ",
+        "item_fnKFpJ"
+      ],
+      "name": "Image link blocks",
+      "settings": {
+        "full_width": false,
+        "block_size": "medium",
+        "subheading": "",
+        "title": "Rejoignez les motards qui ont changé leur quotidien",
+        "content": "",
+        "link_url": "",
+        "link_text": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": ""
+      }
+    },
     "contact_WrCYkM": {
       "type": "contact",
       "name": "Contact form",
@@ -537,6 +629,7 @@
     "multi_column_WKkn3Y",
     "featured_product_PtaY4U",
     "tabs_JUEBCy",
+    "image_link_blocks_mnLpFm",
     "contact_WrCYkM"
   ]
 }
