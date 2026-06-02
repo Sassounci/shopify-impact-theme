@@ -270,55 +270,109 @@
         "overlay_opacity": 30
       }
     },
-    "1780332775e112adf1": {
-      "type": "_blocks",
+    "multi_column_WKkn3Y": {
+      "type": "multi-column",
       "blocks": {
-        "ai_gen_block_c411a0d_NYL6Ny": {
-          "type": "ai_gen_block_c411a0d",
+        "item_eF9mgK": {
+          "type": "item",
           "settings": {
-            "section_title": "CE QU'ILS ONT RESSENTI",
-            "title_font": "poppins_n4",
-            "title_size": 32,
-            "title_spacing": 20,
-            "text_font": "open_sans_n4",
-            "section_background": "rgba(0,0,0,0)",
-            "title_color": "#1a1a1a",
-            "text_color": "#1a1a1a",
-            "image_border_radius": 16,
-            "section_padding_top": 60,
-            "section_padding_bottom": 60,
-            "verified_text": "Avis vérifié ✓",
-            "testimonial_1_enabled": true,
-            "testimonial_1_image": "shopify://shop_images/Screenshot_2026-02-02_at_19.26.00.png",
-            "testimonial_1_name": "Nicolas B. - BMW R1250GS · Grand touriseur",
-            "testimonial_1_text": "J'avais peur de me sentir isolé de la route. C'est exactement le contraire. J'entends mieux l'intercom qu'avant. Le vent est parti, le reste est là. Fini les oreilles qui sifflent le soir après 500 km dans les Alpes.",
-            "testimonial_2_enabled": true,
-            "testimonial_2_image": "shopify://shop_images/Screenshot_2026-02-02_at_19.27.39.png",
-            "testimonial_2_name": "Thomas M. - Kawasaki Z900 · Trajet quotidien A75",
-            "testimonial_2_text": "Au bout d'une heure j'avais oublié qu'ils étaient là. À l'arrivée, j'étais encore dispos — première fois sur un trajet de 3h. Ma femme m'a dit que je semblais moins tendu. Elle a commandé une paire pour son casque.",
-            "testimonial_3_enabled": true,
-            "testimonial_3_image": "shopify://shop_images/Screenshot_2026-02-02_at_19.27.04.png",
-            "testimonial_3_name": "Sophie L. - Honda CB650R · Week-end moto",
-            "testimonial_3_text": "J'avais essayé des bouchons classiques mais tombaient ou faisaient mal. 4 tailles incluses — j'ai trouvé la bonne taille, ils tiennent toute la journée. Le lendemain : aucun sifflement. Aucun. Première fois depuis des années.",
-            "testimonial_4_enabled": true,
-            "testimonial_4_name": "Mathieu L. - Honda Hornet 750 · Grenoble-Lyon quotidien",
-            "testimonial_4_text": "Je fais Grenoble-Lyon tous les jours depuis 3 ans. J'arrivais au bureau la tête lourde et les oreilles qui sonnaient. Ça fait 2 mois que j'utilise AuRyde — c'est le jour et la nuit. Concentré, pas vidé. L'intercom avec mon passager est clairement mieux — on n'a plus besoin de répéter.",
-            "testimonial_5_enabled": false,
-            "testimonial_5_image": "shopify://shop_images/Screenshot_2026-02-02_at_19.26.27.png",
-            "testimonial_5_name": "Christophe D. - BMW R1250RT · 35 000 km/an",
-            "testimonial_5_text": "J'avais essayé les bouchons en mousse, Alpine, Earsonics. Les mousses tombaient. Alpine me faisaient mal au bout d'1h. Là, 8h consécutives sur un Paris-Barcelone — pas une douleur. J'entendais mon GPS sans lever le volume. 5 étoiles sans hésiter.",
-            "testimonial_6_enabled": false,
-            "testimonial_6_image": "shopify://shop_images/Screenshot_2026-02-02_at_19.26.56.png",
-            "testimonial_6_name": "Éléonore F. - Kawasaki Versys · Grande randonneuse",
-            "testimonial_6_text": "Comme beaucoup j'avais peur de ne plus entendre les voitures. En réalité j'entends mieux les sons importants parce que le vent ne couvre plus tout. Mon mari pareil. On a pris 2 paires avec l'offre 1+1. On ne s'en passe plus sur nos weekends."
-          },
-          "blocks": {}
+            "image": "shopify://shop_images/1f7d2b536ae8c280db8761f3929ba5cf.jpg",
+            "column_size": "3",
+            "title": "Julien, MT-07",
+            "heading_tag": "h5",
+            "content": "<p>\"Je pensais que c'était normal d'être fatigué après une grosse sortie. Depuis Auryde, je termine mes balades beaucoup plus en forme.\"</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_VTUkig": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Screenshot_2026-02-02_at_19.26.00.png",
+            "column_size": "3",
+            "title": "Nicolas B, BMW R1250GS · Grand touriseur",
+            "heading_tag": "h5",
+            "content": "<p>\"J'avais peur de me sentir isolé de la route. C'est exactement le contraire. J'entends mieux l'intercom qu'avant. Le vent est parti, le reste est là. Fini les oreilles qui sifflent le soir après 500 km dans les Alpes.\"</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_LttHgT": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Screenshot_2026-02-02_at_19.27.39.png",
+            "column_size": "3",
+            "title": "Thomas M, Kawasaki Z900 · Trajet quotidien A75",
+            "heading_tag": "h5",
+            "content": "<p>\"Au bout d'une heure j'avais oublié qu'ils étaient là. À l'arrivée, j'étais encore dispos — première fois sur un trajet de 3h. Ma femme m'a dit que je semblais moins tendu. Elle a commandé une paire pour son casque.\"</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_6TGPcG": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Screenshot_2026-02-02_at_19.27.04.png",
+            "column_size": "3",
+            "title": "Sophie L, Honda CB650R · Week-end moto",
+            "heading_tag": "h5",
+            "content": "<p>\"J'avais essayé des bouchons classiques mais tombaient ou faisaient mal. 4 tailles incluses — j'ai trouvé la bonne taille, ils tiennent toute la journée. Le lendemain : aucun sifflement. Aucun. Première fois depuis des années.\"</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_LGme6n": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Screenshot_2026-02-02_at_19.27.20.png",
+            "column_size": "3",
+            "title": "Mathieu L, Hornet 750",
+            "heading_tag": "h5",
+            "content": "<p>Je fais Grenoble-Lyon tous les jours depuis 3 ans. J'arrivais au bureau la tête lourde et les oreilles qui sonnaient. Ça fait 2 mois que j'utilise AuRyde — c'est le jour et la nuit.Concentré, pas vidé. L'intercom avec mon passager est clairement mieux — on n'a plus besoin de répéter.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_wJWd3K": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/a42a4967d631aab92553b67d0e9b5bda.jpg",
+            "column_size": "3",
+            "title": "Nicolas, Tracer 700",
+            "heading_tag": "h5",
+            "content": "<p>\"J'entends mieux mon intercom qu'avant. Le vent ne couvre plus tout.\"</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
         }
       },
       "block_order": [
-        "ai_gen_block_c411a0d_NYL6Ny"
+        "item_eF9mgK",
+        "item_VTUkig",
+        "item_LttHgT",
+        "item_6TGPcG",
+        "item_LGme6n",
+        "item_wJWd3K"
       ],
-      "settings": {}
+      "name": "Multi-column",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "gap": "large",
+        "text_alignment": "center",
+        "subheading": "",
+        "title": "CE QUE DISENT LES MOTARDS",
+        "content": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
     },
     "featured_product_PtaY4U": {
       "type": "featured-product",
@@ -403,6 +457,53 @@
         "input_text_color": ""
       }
     },
+    "tabs_JUEBCy": {
+      "type": "tabs",
+      "blocks": {
+        "tab_6QT76L": {
+          "type": "tab",
+          "settings": {
+            "title": "Comment les utiliser ?",
+            "content": "<p>Insérez Auryde avant votre départ</p><p>Roulez normalement</p><p>Profitez d'un trajet plus calme et moins fatigant</p>",
+            "page": ""
+          }
+        },
+        "tab_zAHQjy": {
+          "type": "tab",
+          "settings": {
+            "title": "90J Satisfait ou Remboursé",
+            "content": "<p>Essayez la dernière nouveauté technologique Auryde sans risque <strong>pendant 90 jours.</strong>Si vous n'êtes pas satisfait vous avez la possibilité de demander un <strong>remboursement intégral.</strong></p>",
+            "page": ""
+          }
+        },
+        "tab_UGYqGp": {
+          "type": "tab",
+          "settings": {
+            "title": "Service Client 7J/7",
+            "content": "<p>Notre service client est à votre écoute 7J/7.<br/>Vous pouvez nous contacter par en utilisant l'onglet \"Contact\" de notre boutique ou par email à l'adresse contact@auryde.com</p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "tab_6QT76L",
+        "tab_zAHQjy",
+        "tab_UGYqGp"
+      ],
+      "name": "Tabs",
+      "settings": {
+        "full_width": true,
+        "content_size": "medium",
+        "subheading": "",
+        "title": "",
+        "first_tab_open": false,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": ""
+      }
+    },
     "contact_WrCYkM": {
       "type": "contact",
       "name": "Contact form",
@@ -433,8 +534,9 @@
     "rich_text_LkL8pG",
     "rich_text_rM9Cjh",
     "video_A8bMhL",
-    "1780332775e112adf1",
+    "multi_column_WKkn3Y",
     "featured_product_PtaY4U",
+    "tabs_JUEBCy",
     "contact_WrCYkM"
   ]
 }
