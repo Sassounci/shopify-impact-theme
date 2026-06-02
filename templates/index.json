@@ -158,6 +158,86 @@
         "background_gradient": ""
       }
     },
+    "rich_text_LkL8pG": {
+      "type": "rich-text",
+      "blocks": {
+        "subheading_jrTJj8": {
+          "type": "subheading",
+          "settings": {
+            "text": ""
+          }
+        },
+        "heading_G63RLK": {
+          "type": "heading",
+          "settings": {
+            "text": "LE PROBLÈME N'EST PAS VOTRE MOTO",
+            "heading_tag": "h4",
+            "text_color": "",
+            "gradient": ""
+          }
+        },
+        "richtext_PwCniX": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>À partir d'une certaine vitesse, le principal ennemi de votre audition n'est pas le moteur.</p><p>C'est le vent.</p><p>Ce bruit constant frappe vos oreilles pendant tout le trajet.</p><p>Résultat :</p><p>• Fatigue mentale</p><p>• Difficultés de concentration</p><p>• Bourdonnements après la sortie</p><p>• Impression d'être vidé en rentrant</p><p>Vous aimez toujours rouler.</p><p>Mais vous aimez beaucoup moins ce que vous ressentez après.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "subheading_jrTJj8",
+        "heading_G63RLK",
+        "richtext_PwCniX"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "rich_text_rM9Cjh": {
+      "type": "rich-text",
+      "blocks": {
+        "subheading_PgrNRC": {
+          "type": "subheading",
+          "settings": {
+            "text": ""
+          }
+        },
+        "heading_EdqQ6z": {
+          "type": "heading",
+          "settings": {
+            "text": "IMAGINEZ VOTRE PROCHAINE SORTIE",
+            "heading_tag": "h4",
+            "text_color": "",
+            "gradient": ""
+          }
+        },
+        "richtext_eXBDWr": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>4 heures de route.</p><p>Des virages.</p><p>Du paysage.</p><p>Des amis.</p><p>Vous retirez votre casque.</p><p>Pas de tête lourde.</p><p>Pas de bourdonnement.</p><p>Pas cette sensation d'épuisement qui vous gâche le reste de la journée.</p><p>Juste le plaisir d'avoir roulé.</p><p>Comme au premier jour.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "subheading_PgrNRC",
+        "heading_EdqQ6z",
+        "richtext_eXBDWr"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "video_A8bMhL": {
       "type": "video",
       "blocks": {
@@ -350,6 +430,8 @@
     "logo_list_fW8wkX",
     "rich_text_W4fRim",
     "slideshow_E6ceft",
+    "rich_text_LkL8pG",
+    "rich_text_rM9Cjh",
     "video_A8bMhL",
     "1780332775e112adf1",
     "featured_product_PtaY4U",
