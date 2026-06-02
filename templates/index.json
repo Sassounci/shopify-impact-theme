@@ -464,7 +464,7 @@
           "type": "tab",
           "settings": {
             "title": "Comment les utiliser ?",
-            "content": "<p>Insérez Auryde avant votre départ</p><p>Roulez normalement</p><p>Profitez d'un trajet plus calme et moins fatigant</p>",
+            "content": "<p>1. Insérez Auryde avant votre départ</p><p>2. Roulez normalement</p><p>3. Profitez d'un trajet plus calme et moins fatigant</p>",
             "page": ""
           }
         },
