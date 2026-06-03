@@ -15,7 +15,8 @@
         "image_yfnhEM": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Hero_section_Auryde.png",
+            "image": "shopify://shop_images/hero_section_desktop_2.png",
+            "mobile_image": "shopify://shop_images/hero_mobile_final.png",
             "content_max_width": 780,
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
@@ -124,6 +125,7 @@
           "type": "image",
           "settings": {
             "image": "shopify://shop_images/Section_Benefices_MOBILE_2.png",
+            "mobile_image": "shopify://shop_images/Section_Benefices_MOBILE_8.png",
             "content_max_width": 780,
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
