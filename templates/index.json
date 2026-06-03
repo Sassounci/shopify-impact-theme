@@ -393,8 +393,17 @@
         },
         "liquid_eexxF4": {
           "type": "liquid",
+          "disabled": true,
           "settings": {
             "liquid": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n    <meta charset=\"UTF-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <link rel=\"stylesheet\" href=\"https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap\">\n    <style>\n        .unique-sale-badge-XyZ123 {\n            display: inline-flex;\n            align-items: center;\n            font-family: 'Roboto', sans-serif;\n            font-size: 14px;\n            color: #ff9900; /* Orange color */\n        }\n\n        .unique-highlight-AbC456 {\n            background-color: #ffe6cc; /* Light orange background */\n            padding: 2px 5px;\n            border-radius: 3px;\n            font-weight: bold;\n            color: #ff9900; /* Orange text color */\n            display: inline-flex;\n            align-items: center;\n        }\n\n        .unique-highlight-AbC456 .unique-special-DeF789 {\n            margin-left: 3px; /* Space between text */\n        }\n\n        .unique-separator-GhI012 {\n            margin: 0 10px; /* Space around the separator */\n        }\n\n        .unique-extra-JkL345 {\n            display: inline-flex;\n            align-items: center;\n            color: #ff9900; /* Orange color */\n            font-weight: bold;\n            animation: unique-blink-MnO678 1s infinite; /* Blinking animation */\n        }\n\n        @keyframes unique-blink-MnO678 {\n            0%, 100% {\n                opacity: 1;\n            }\n            50% {\n                opacity: 0.5;\n            }\n        }\n    </style>\n    <title>Special Sale</title>\n</head>\n<body class=\"unique-body-PqR910\">\n    <div class=\"unique-sale-badge-XyZ123\">\n        <div class=\"unique-highlight-AbC456\">\n            <span class=\"unique-special-DeF789\">PROMO</span>\n        </div>\n        <div class=\"unique-separator-GhI012\">|</div>\n        <div class=\"unique-extra-JkL345\">\n            <span>Offre Spéciale, Stock limité!</span>\n        </div>\n    </div>\n</body>\n</html>"
+          }
+        },
+        "image_9KzkTh": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/ChatGPT_Image_3_juin_2026_08_31_35.png",
+            "alignment": "start",
+            "max_width": 500
           }
         },
         "rapi_rapi_bundle_npXhKX": {
@@ -437,6 +446,7 @@
         "liquid_wdVhEM",
         "title_fqYw7D",
         "liquid_eexxF4",
+        "image_9KzkTh",
         "rapi_rapi_bundle_npXhKX",
         "liquid_i4bxpE",
         "buy_buttons_TWK6bb",
