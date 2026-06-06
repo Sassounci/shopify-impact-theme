@@ -14,12 +14,12 @@
         "checksum": "9923e6b9f9a562e712affc8de5ba13dda7c9ca0095f4dcd26f16de9e7e4722d2_1_1_1_0__1",
         "gg6ttt0cHHT_srcSet_desktop_src": "https://cdn.shopify.com/s/files/1/0988/0413/8328/files/ChatGPT_Image_5_juin_2026_17_35_13.png",
         "gg94jZ05GUj_text": "Le vrai problème, c’est le vent",
-        "ggBZoP8CAFr_text": "<p>À partir de 80 km/h, le bruit du vent devient lourd.</p><p>&nbsp;</p><p>Il fatigue la tête.<br>Il fait siffler les oreilles.<br>Il casse le plaisir de rouler.</p><p>Auryde™ réduit ce bruit sans vous isoler de la route.</p>",
-        "ggKaQ9Vh2Xk_text": "<p>Les bouchons classiques peuvent faire mal.</p><p>&nbsp;</p><p>Auryde™ est discret, souple et pensé pour rester en place sous le casque.</p><p>&nbsp;</p><p>Vous le mettez.<br>Vous roulez.<br>Vous l’oubliez.</p>",
+        "ggBZoP8CAFr_text": "<p>À partir de 80 km/h, le bruit du vent devient lourd.</p><p> </p><p>Il fatigue la tête.<br>Il fait siffler les oreilles.<br>Il casse le plaisir de rouler.</p><p>Auryde™ réduit ce bruit sans vous isoler de la route.</p>",
+        "ggKaQ9Vh2Xk_text": "<p>Les bouchons classiques peuvent faire mal.</p><p> </p><p>Auryde™ est discret, souple et pensé pour rester en place sous le casque.</p><p> </p><p>Vous le mettez.<br>Vous roulez.<br>Vous l’oubliez.</p>",
         "ggKwNfyl0Zk_srcSet_desktop_src": "https://cdn.shopify.com/s/files/1/0988/0413/8328/files/ChatGPT_Image_5_juin_2026_17_33_20.png",
         "ggL1i2LNUM1_text": "Confortable sous le casque",
         "ggM9-62E29R_srcSet_desktop_src": "https://cdn.shopify.com/s/files/1/0988/0413/8328/files/gempages_519052065381549017-3d31114f-3447-4858-812b-08b8b0ab3dd8.gif?v=1780378469",
-        "ggN8Z0Oad9D_text": "<p>Le but n’est pas de tout bloquer.</p><p>Le but, c’est de réduire le bruit du vent.</p><p>&nbsp;</p><p>Vous gardez les sons importants :<br>circulation, moteur, GPS, intercom.</p><p>&nbsp;</p><p>Vous roulez plus calme.<br>Mais toujours connecté à la route.</p>",
+        "ggN8Z0Oad9D_text": "<p>Le but n’est pas de tout bloquer.</p><p>Le but, c’est de réduire le bruit du vent.</p><p> </p><p>Vous gardez les sons importants :<br>circulation, moteur, GPS, intercom.</p><p> </p><p>Vous roulez plus calme.<br>Mais toujours connecté à la route.</p>",
         "ggpaSTYY6l-_text": "Vous entendez encore ce qui compte"
       },
       "type": "gp-section-622673033131197208"
@@ -46,7 +46,7 @@
         "gg18XtWM65B_text": "<p>FAQ</p>",
         "gg2rmIEa67h_text": "<p>For eye tracking to work accurately, your headset needs to be correctly positioned on your head and in front of your eyes. Please see detailed instructions for positioning the headset and using eye tracking.</p>",
         "gg4WumM5cKO_text": "<p>For eye tracking to work accurately, your headset needs to be correctly positioned on your head and in front of your eyes. Please see detailed instructions for positioning the headset and using eye tracking.</p>",
-        "ggC8U51JWoM_text": "<p>Votre question :&nbsp;</p>",
+        "ggC8U51JWoM_text": "<p>Votre question : </p>",
         "ggCenSAUZM8_text": "<p>For eye tracking to work accurately, your headset needs to be correctly positioned on your head and in front of your eyes. Please see detailed instructions for positioning the headset and using eye tracking.</p>",
         "ggDfoCVOIo7_text": "<p>Non. Auryde™ est conçu pour rester discret et confortable sous le casque.</p>",
         "ggFJoT5JZIk_text": "<p>Oui. Les bouchons sont réutilisables et lavables.</p>",
@@ -113,6 +113,17 @@
       "type": "gp-section-622673033600959117"
     },
     "gp_section_622769664090440696": {
+      "block_order": [
+        "rapi_rapi_bundle_JjtdBD"
+      ],
+      "blocks": {
+        "rapi_rapi_bundle_JjtdBD": {
+          "type": "shopify://apps/rapi/blocks/rapi-bundle/99617c17-a32b-4e70-a883-7a155610d032",
+          "settings": {
+            "product": ""
+          }
+        }
+      },
       "settings": {
         "checksum": "1bc1dd2a3dc1453323cf867c431504f24f9f8f95e8945d8625552af3c4165ed5_1_1_1_0__1",
         "gg4X7FdrHHe_text": "<p>Bouchons moto conçus pour réduire le bruit du vent <strong>sans vous couper de la route</strong></p>",
@@ -125,8 +136,8 @@
         "ggJ_2haEGfC_childItem_0": "<p>Expédié en 48h</p>",
         "ggJ_2haEGfC_childItem_1": "<p>Paiements sécurisés</p>",
         "ggJ_2haEGfC_childItem_2": "<p>Garantie 100% satisfait ou remboursé</p>",
-        "ggOGOY_D72y_text": "<p>Réduction du bruit : jusqu’à 27 dB</p><p>&nbsp;</p><p>4 tailles d’embouts incluses</p><p>&nbsp;</p><p>Étui de transport inclus</p><p>&nbsp;</p><p>Réutilisables et lavables</p><p>&nbsp;</p><p>Compatibles casque intégral, jet et modulable</p><p>&nbsp;</p><p>Convient aux trajets route, autoroute et touring</p>",
-        "ggQLt-8DKx-_text": "<p><strong>Fini le bruit du vent qui vous vide la tête.</strong></p><p><br>&nbsp;</p><p>Auryde™ réduit le bruit agressif du vent sous votre casque, sans vous couper de la route.</p><p>Vous entendez encore ce qui compte : circulation, moteur, intercom.</p><p>Idéal pour les trajets quotidiens, les sorties week-end et les longues routes.</p>",
+        "ggOGOY_D72y_text": "<p>Réduction du bruit : jusqu’à 27 dB</p><p> </p><p>4 tailles d’embouts incluses</p><p> </p><p>Étui de transport inclus</p><p> </p><p>Réutilisables et lavables</p><p> </p><p>Compatibles casque intégral, jet et modulable</p><p> </p><p>Convient aux trajets route, autoroute et touring</p>",
+        "ggQLt-8DKx-_text": "<p><strong>Fini le bruit du vent qui vous vide la tête.</strong></p><p><br> </p><p>Auryde™ réduit le bruit agressif du vent sous votre casque, sans vous couper de la route.</p><p>Vous entendez encore ce qui compte : circulation, moteur, intercom.</p><p>Idéal pour les trajets quotidiens, les sorties week-end et les longues routes.</p>",
         "ggsIY-kFBeE_childItem_0": "<p>Description</p>",
         "ggsIY-kFBeE_childItem_1": "<p>Détails</p>",
         "ggsIY-kFBeE_childItem_2": "<p>Livraison / Retours</p>",
