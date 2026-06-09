@@ -266,7 +266,7 @@
           style="--w:100%;--w-tablet:100%;--w-mobile:100%;--pl:none;--pl-tablet:none;--pl-mobile:none;--pr:none;--pr-tablet:none;--pr-mobile:none"
         >
           
-    <gp-row gp-data='{"background":{"desktop":{"attachment":"scroll","color":"#FFFFFF","image":{"height":0,"src":"","width":0},"position":{"x":50,"y":50},"repeat":"no-repeat","size":"cover","type":"color"}},"uid":"gQGtzdYPNF"}' data-id="gQGtzdYPNF" id="gQGtzdYPNF" data-same-height-subgrid-container class="gQGtzdYPNF gp-relative gp-mx-auto gp-mb-0 gp-grid gp-max-w-full gp-transition-colors gp-duration-200 gp-ease-in-out [&_*]:gp-max-w-full gp-grid-rows-[1fr]" style="--bs:none;--bw:0px;--bc:transparent;--shadow:none;--d:grid;--d-mobile:grid;--d-tablet:grid;--op:100%;--pageType:GP_STATIC;--bblr:0px;--bbrr:0px;--btlr:0px;--btrr:0px;--pt:72px;--pl:15px;--pb:72px;--pr:15px;--pt-mobile:62px;--pb-mobile:62px;--cg:var(--g-s-2xl);--gtc:minmax(0, 12fr);--w:100%;--w-tablet:100%;--w-mobile:100%;--bgc:#FFFFFF;--bgi:url();--bgp:50% 50%;--bgs:cover;--bgr:no-repeat;--bga:scroll;--pc:start">
+    <gp-row gp-data='{"background":{"desktop":{"attachment":"scroll","color":"#FFFFFF","image":{"height":0,"src":"","width":0},"position":{"x":50,"y":50},"repeat":"no-repeat","size":"cover","type":"color"}},"uid":"gQGtzdYPNF"}' data-id="gQGtzdYPNF" id="gQGtzdYPNF" data-same-height-subgrid-container class="gQGtzdYPNF gp-relative gp-mx-auto gp-mb-0 gp-grid gp-max-w-full gp-transition-colors gp-duration-200 gp-ease-in-out [&_*]:gp-max-w-full gp-grid-rows-[1fr]" style="--bs:none;--bw:0px;--bc:transparent;--shadow:none;--d:grid;--d-mobile:grid;--d-tablet:grid;--op:100%;--pageType:GP_STATIC;--bblr:0px;--bbrr:0px;--btlr:0px;--btrr:0px;--pt:72px;--pl:15px;--pb:72px;--pr:15px;--pt-mobile:20px;--pb-mobile:20px;--cg:var(--g-s-2xl);--gtc:minmax(0, 12fr);--w:100%;--w-tablet:100%;--w-mobile:100%;--bgc:#FFFFFF;--bgi:url();--bgp:50% 50%;--bgs:cover;--bgr:no-repeat;--bga:scroll;--pc:start">
       
 
       <div
@@ -982,31 +982,6 @@
     <script {% if section.settings.section_preload == "false" %}class="gps-link" delay {% else %}src{% endif %}="https://assets.gemcommerce.com/assets-v2/gp-accordion-v7-5.js?v={{ shop.metafields.GEMPAGES.ASSETS_VERSION }}" defer="defer"></script>
     
   
-      </div><div gp-el-wrapper style="--d:block;--d-tablet:block;--d-mobile:block;--bs:none;--bw:1px 1px 1px 1px;--bc:var(--g-c-line-3, line-3);--bblr:0px;--bbrr:0px;--btlr:0px;--btrr:0px;--op:100%" class="gUOe-Ylnou ">
-      
-    <script defer strategy="lazyOnload" src="//loox.io/widget/loox.js?shop={{ request.host }}"></script>
-    <div
-      
-      style="--ta:left"
-    >
-      {% if 'reviews_widget' == "rating_widget"  %}
-        {% if 'false' == 'true' %}
-          {% if shop.metafields.loox["global_stats"]  %}
-            {% assign looxstats = shop.metafields.loox["global_stats"] | split: ',' %}
-            <a href="#looxReviews">
-              <div class="loox-rating" data-rating="{{ looxstats[0] }}" data-raters="{{ looxstats[1] }}"></div>
-            </a>
-          {% endif %}
-        {% else %}
-          <a href="#looxReviews">
-            <div id="looxReviews" data-product-id="{{ product.id }}"></div>
-          </a>
-        {% endif %}
-      {% else %}
-        <div id="looxReviews" data-product-id="{{ product.id }}"></div>
-      {% endif %}
-    </div>
-  
       </div>
     </div><div
       data-same-height-display-contents
@@ -1244,7 +1219,7 @@
 {% schema %}
   {
     
-    "name": "Section 5",
+    "name": "Section 6",
     "tag": "section",
     "class": "gps-622673033550627361 gps gpsil",
     "settings": [{"type":"paragraph","content":"Section design by GemPages. [Click here to start design](https://admin.shopify.com/store/shapiu-hp/apps/gempages-cro/app/shopify/edit?pageType=GP_STATIC&editorId=622672833146782488&sectionId=622673033550627361)"},{"type":"select","label":"Section Preload","id":"section_preload","options":[{"label":"On","value":"true"},{"label":"Off","value":"false"},{"label":"Off Lazy Script","value":"off_lazy_script"}],"default":"false"},{"type":"text","label":"Checksum","id":"checksum"},{"type":"html","id":"gg18XtWM65B_text","label":"gg18XtWM65B_text","default":"<p>FAQ</p>"},{"type":"html","id":"ggcCBP-gisg_text","label":"ggcCBP-gisg_text","default":"Questions fréquentes"},{"type":"html","id":"ggp_Rgnx_0I_childItem_0","label":"ggp_Rgnx_0I_childItem_0","default":"<p>Est-ce que je vais encore entendre la circulation ?</p>"},{"type":"html","id":"ggp_Rgnx_0I_childItem_1","label":"ggp_Rgnx_0I_childItem_1","default":"<p>Est-ce compatible avec mon intercom ?</p>"},{"type":"html","id":"ggp_Rgnx_0I_childItem_2","label":"ggp_Rgnx_0I_childItem_2","default":"<p>Est-ce que ça fait mal sous le casque ?</p>"},{"type":"html","id":"ggp_Rgnx_0I_childItem_3","label":"ggp_Rgnx_0I_childItem_3","default":"<p>Quelle taille choisir ?</p>"},{"type":"html","id":"ggp_Rgnx_0I_childItem_4","label":"ggp_Rgnx_0I_childItem_4","default":"<p>Quelle différence avec des bouchons mousse ?</p>"},{"type":"html","id":"ggp_Rgnx_0I_childItem_5","label":"ggp_Rgnx_0I_childItem_5","default":"<p>Est-ce lavable ?</p>"},{"type":"html","id":"ggp_Rgnx_0I_childItem_6","label":"ggp_Rgnx_0I_childItem_6","default":"<p>Combien de temps prend la livraison ?</p>"},{"type":"html","id":"ggmgIruHWmV_text","label":"ggmgIruHWmV_text","default":"<p>Oui. Auryde™ réduit surtout le bruit agressif du vent. Vous gardez les sons importants de la route.</p>"},{"type":"html","id":"ggRKgOEqers_text","label":"ggRKgOEqers_text","default":"<p>For eye tracking to work accurately, your headset needs to be correctly positioned on your head and in front of your eyes. Please see detailed instructions for positioning the headset and using eye tracking.</p>"},{"type":"html","id":"ggl1pdDVqxG_text","label":"ggl1pdDVqxG_text","default":"<p>Oui. Vous pouvez continuer à entendre votre intercom, votre GPS ou votre musique.</p>"},{"type":"html","id":"ggCenSAUZM8_text","label":"ggCenSAUZM8_text","default":"<p>For eye tracking to work accurately, your headset needs to be correctly positioned on your head and in front of your eyes. Please see detailed instructions for positioning the headset and using eye tracking.</p>"},{"type":"html","id":"ggDfoCVOIo7_text","label":"ggDfoCVOIo7_text","default":"<p>Non. Auryde™ est conçu pour rester discret et confortable sous le casque.</p>"},{"type":"html","id":"gg_7_X90MfY_text","label":"gg_7_X90MfY_text","default":"<p>For eye tracking to work accurately, your headset needs to be correctly positioned on your head and in front of your eyes. Please see detailed instructions for positioning the headset and using eye tracking.</p>"},{"type":"html","id":"ggK4_KbLllh_text","label":"ggK4_KbLllh_text","default":"<p>Chaque commande contient 4 tailles d’embouts. Vous testez et gardez celle qui vous convient.</p>"},{"type":"html","id":"ggPsXmScU5x_text","label":"ggPsXmScU5x_text","default":"<p>For eye tracking to work accurately, your headset needs to be correctly positioned on your head and in front of your eyes. Please see detailed instructions for positioning the headset and using eye tracking.</p>"},{"type":"html","id":"ggbniFAdpwr_text","label":"ggbniFAdpwr_text","default":"<p>Les bouchons mousse bloquent trop et isolent. Auryde™ réduit le vent sans vous couper complètement.</p>"},{"type":"html","id":"ggHc0_QnRuE_text","label":"ggHc0_QnRuE_text","default":"<p>For eye tracking to work accurately, your headset needs to be correctly positioned on your head and in front of your eyes. Please see detailed instructions for positioning the headset and using eye tracking.</p>"},{"type":"html","id":"ggFJoT5JZIk_text","label":"ggFJoT5JZIk_text","default":"<p>Oui. Les bouchons sont réutilisables et lavables.</p>"},{"type":"html","id":"gg4WumM5cKO_text","label":"gg4WumM5cKO_text","default":"<p>For eye tracking to work accurately, your headset needs to be correctly positioned on your head and in front of your eyes. Please see detailed instructions for positioning the headset and using eye tracking.</p>"},{"type":"html","id":"ggcccqMoX5N_text","label":"ggcccqMoX5N_text","default":"<p>Votre commande est expédiée sous 24/48h avec suivi.</p>"},{"type":"html","id":"gg2rmIEa67h_text","label":"gg2rmIEa67h_text","default":"<p>For eye tracking to work accurately, your headset needs to be correctly positioned on your head and in front of your eyes. Please see detailed instructions for positioning the headset and using eye tracking.</p>"},{"type":"html","id":"ggTAlzTZyak_text","label":"ggTAlzTZyak_text","default":"Une question ?"},{"type":"html","id":"ggXz-4ay2no_text","label":"ggXz-4ay2no_text","default":"<p>Notre équipe vous réponds sous 24h.</p><p>Horaires : Lun à Ven : 9h - 17h et Sam et Dim : 14h - 16h</p>"},{"type":"html","id":"ggizv1mLNKH_successMessage","label":"ggizv1mLNKH_successMessage","default":"Thanks for contacting us. We'll get back to you as soon as possible."},{"type":"html","id":"ggizv1mLNKH_errorMessage","label":"ggizv1mLNKH_errorMessage","default":"Can’t send email. Please try again later."},{"type":"html","id":"ggyqDsT6OOt_text","label":"ggyqDsT6OOt_text","default":"<p>Adresse mail :</p>"},{"type":"html","id":"gg_YCIFqO_x_placeholder","label":"gg_YCIFqO_x_placeholder","default":"votremail@gmail.com"},{"type":"html","id":"ggC8U51JWoM_text","label":"ggC8U51JWoM_text","default":"<p>Votre question :&nbsp;</p>"},{"type":"html","id":"ggXzYz87-YR_placeholder","label":"ggXzYz87-YR_placeholder","default":"Posez votre question ici..."},{"type":"html","id":"ggwr9YdpUuz_label","label":"ggwr9YdpUuz_label","default":"Envoyer"}],
