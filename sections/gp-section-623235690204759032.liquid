@@ -37,7 +37,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>SuperDeals Banner</title>
+    <title>OFFRE du printemps Banner</title>
     <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@700&family=Oswald:wght@700&display=swap" rel="stylesheet">
     <style>
         .unique-body-Abc123 {
@@ -97,7 +97,7 @@
             <span class="unique-deal-text-Abc123">SuperDeals</span>
         </div>
         <div class="unique-deal-timer-container-Abc123">
-            <span class="unique-deal-timer-Abc123" id="countdown">Ends: 9d : 18 : 22 : 13</span>
+            <span class="unique-deal-timer-Abc123" id="countdown">Fini dans: 9D : 18 : 22 : 13</span>
         </div>
     </div>
 
@@ -115,7 +115,7 @@
                 var minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
                 var seconds = Math.floor((distance % (1000 * 60)) / 1000);
 
-                document.getElementById("countdown").innerHTML = "Ends: " + days + "d : " + hours + " : " + minutes + " : " + seconds;
+                document.getElementById("countdown").innerHTML = "Ends: " + jours + "d : " + heures + " : " + minutes + " : " + secondes;
 
                 if (distance < 0) {
                     clearInterval(x);
