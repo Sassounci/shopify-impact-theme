@@ -140,19 +140,12 @@
         "checksum": "ce821da4b756119344c06082e037bc68441198edc0a492fcb992e5cac5f2374f_1_1_1_0__1"
       },
       "type": "gp-section-623227616572211745"
-    },
-    "gp_section_623235690204759032": {
-      "settings": {
-        "checksum": "1a7678cf8b51ff4ed479f867dc49b6aa7d394a8bb5d70fff0aa352be934b746e_1_1_1_0__1"
-      },
-      "type": "gp-section-623235690204759032"
     }
   },
   "order": [
     "gp_section_623227281212441592",
     "gp_section_622673033416409880",
     "gp_section_622673033600959117",
-    "gp_section_623235690204759032",
     "gp_section_622769664090440696",
     "gp_section_623227616572211745",
     "gp_section_622673033550627361"
