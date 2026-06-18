@@ -144,18 +144,6 @@
         "checksum": "ce821da4b756119344c06082e037bc68441198edc0a492fcb992e5cac5f2374f_1_1_1_0__1"
       },
       "type": "gp-section-623227616572211745"
-    },
-    "gp_section_624592647087981384": {
-      "settings": {
-        "checksum": "6e7e9a90ff6f1efa0cf152505ea4225d040feed4e1418491938436fa887f8cd0_1_1_1_0__1",
-        "gg3Qojmyh9f_errorMessage": "Cannot add product to cart",
-        "gg3Qojmyh9f_label": "ACHETER MAINTENANT",
-        "gg3Qojmyh9f_outOfStockLabel": "Out of stock",
-        "gg3Qojmyh9f_successMessage": "Add product to cart successfully",
-        "gg3Qojmyh9f_unavailableLabel": "Unavailable",
-        "gg3Qojmyh9f_variantSelectionRequiredMessage": "Please select a variant to add product to cart"
-      },
-      "type": "gp-section-624592647087981384"
     }
   },
   "order": [
@@ -164,7 +152,6 @@
     "gp_section_622673033416409880",
     "gp_section_622673033600959117",
     "gp_section_623227616572211745",
-    "gp_section_622673033550627361",
-    "gp_section_624592647087981384"
+    "gp_section_622673033550627361"
   ]
 }
